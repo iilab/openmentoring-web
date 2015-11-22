@@ -1,5 +1,3 @@
----
----
 You can control who can see various elements of your profile. This doesn&#x27;t happen in the main privacy settings but directly when editing your profile.
 
 For instance going to About &gt; Contact &amp; Basic Info you can see your date of birth:
@@ -14,3 +12,5 @@ Clicking on this icon will bring up a menu where you can change this setting:
 
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
 
+
+# 

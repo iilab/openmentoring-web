@@ -1,5 +1,3 @@
----
----
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
 (1) install Jitsi  
@@ -128,3 +126,5 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
+
+# 
