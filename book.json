@@ -1,0 +1,26 @@
+{
+    "gitbook": "2.4.x",
+    "plugins": [
+        "richquotes",
+        "edit-link",
+        "anchors",
+        "piwik",
+        "image-captions"
+    ],
+    "links": {
+        "sidebar": {
+            "Open Mentoring Homepage": "https://openmentoring.io",
+            "Download the app": "https://openmentoring.io/download"
+        }
+    },
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/iilab/openmentoring-content/edit/master/data/topics",
+            "label": "Edit This Page"
+        },
+        "piwik": {
+            "URL": "stats.iilab.org",
+            "siteId": 5
+        }
+    }
+}
