@@ -1,4 +1,7 @@
 
+## Learn
+
+
 Ask yourself: is it necessary to post the following information online?
 
  - birth dates
@@ -7,4 +10,3 @@ Ask yourself: is it necessary to post the following information online?
  - details of family members
  - sexual orientation
  - education and employment history
-# 
