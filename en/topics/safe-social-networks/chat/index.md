@@ -1,4 +1,22 @@
+# Protect Yourself And Your Data When Using Social Networking Sites
 
+## Introduction
+
+Here you can learn how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do! Continue reading to learn more.  
+
+***
+## Scenario
+
+Arun and Priya are human rights defenders in south Asia and communicate via Facevook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
+
+***
+## Learn
+
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. 
+
+To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).
+
+***
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
 (1) install Jitsi  
@@ -127,3 +145,18 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
+
+***
+## Test you social networking knowledge!
+
+
+***
+## Next
+
+
+ * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
+ * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
+ * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
+ * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
+ * [Do I trust everyone with whom I&#39;m connected?](safe-social-networks-establishing-trust)
+***

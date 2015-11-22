@@ -1,4 +1,6 @@
-# How to share Open Mentoring content with others?
+
+## How to share Open Mentoring content with others?
+
 
  * First you need to share the app.
  * Then you need to share content.

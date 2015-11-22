@@ -1,0 +1,17 @@
+sudo: required
+dist: trusty
+language: ruby
+install:
+  - source "$PWD/versions"
+  - rvm use "$RUBY_VERSION" --install --binary
+  - nvm install "$NODE_VERSION"
+  - npm install -g npm
+  - npm install -g gitbook-cli
+  - npm install -g npm-registry-client
+script:
+  - make 
+after_success:
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+env:
+  global:
+    - secure: BtZQJqs6pSUDF3OthSfMOZJcUsV2BJ/9O+dtsVUgUZWcSuEHbaOWrs8iw1E3MFawnF+v+JXGIm6jxfgWxz3QMZdT/mREjJS8R0+DmTMZLFMyZwZt9gzyIO+g9ubPyLSuHJgpej2WQSdaR+lotYErqCm1vj75M2URJbgq01LMg6ejpQAH5U+7xcNOUHSjiMRtHra9wLqCs7MmkE9BGWpivsHmBWBWH8D4YXJIyKxEDc8dXkF3JZm7rRbR7N8trteXnYuH+/MetXA866Wru++b5q6X0HYsc/gH1GJwfV6gIZLgbQAeYA8M0ebvMAVNkDJbRl/hxj5WnSPhV6SxlrhCjDtPTVAUPXoEC0T6r3vDcLPAf0wXWSCxi5oEn2yKtojBeqPJtuCLUXBqXDjccHfbtK0YKHCvKVwIakJUucSGSQZyGiStNrAUWkkMu+jRYXinN494TlOeqYQ4ghObzYz5Xow0NVYR32DEVJyIMJ99XiudVF/5S9MALz3L1ODAerzSvtFXiRL7sj/DJxkXEAFEFtgtAr6z3OoN1SB+FJ2/+7rws6uzQxMpJHPQ/uqbCkJG7+H/cTYyxHbocWbY0OmrkC0C0gXXpe7igc4Tp3wqJJUuWY/3c49TIE5zE2UckJuDQvPKek7O9vOtMjyv3DWC2oqkdN0MDsziMrKRFVdXR9g=
