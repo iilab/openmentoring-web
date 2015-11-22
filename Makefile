@@ -24,7 +24,7 @@ validate: build install-python
 
 install:
 	rev=$(git rev-parse --short HEAD)
-  cd _site
+  cd _book
   git init
   git config user.name "Jun Matsushita"
   git config user.email "jun@iilab.org"

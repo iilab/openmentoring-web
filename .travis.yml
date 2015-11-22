@@ -9,7 +9,6 @@ install:
   - npm install -g npm
   - npm install -g gitbook-cli
 script:
-  - make install
-  - make build
+  - make 
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make deploy
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
