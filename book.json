@@ -15,7 +15,7 @@
     },
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/iilab/openmentoring-content/edit/master",
+            "base": "https://github.com/iilab/openmentoring-content/edit/master/data/topics",
             "label": "Edit This Page"
         },
         "piwik": {
