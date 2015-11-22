@@ -10,9 +10,10 @@ help:
 
 prepare:
 	@echo "--> Installing GitBook plugins..."
+	@npm install
 	@gitbook install .
-	@virtualenv python_modules
 	@bundle install
+	@virtualenv python_modules
 
 build: prepare
 	@gitbook build .
