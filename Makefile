@@ -12,13 +12,15 @@ prepare:
 	@echo "--> Installing GitBook plugins..."
 	@gitbook install .
 	@bundle install
+	#@virtualenv python_modules
 
 build: prepare
 	@gitbook build .
 
 validate: build
-	@pip install html5validator
-	@html5validator --root _book/ --ignore "gitbook/plugins"
+	#@python_modules/bin/pip install --upgrade pip
+	#@python_modules/bin/pip install html5validator
+	#@python_modules/bin/html5validator --root _book/ --ignore "gitbook/plugins"
 	@bundle exec htmlproof ./_book --only-4xx --check-favicon --check-html
 
 install:
