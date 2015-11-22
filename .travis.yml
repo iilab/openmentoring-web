@@ -8,6 +8,7 @@ install:
   - nvm install "$NODE_VERSION"
   - npm install -g npm
   - npm install -g gitbook-cli
+  - npm install -g npm-registry-client
 script:
   - make 
 after_success:
