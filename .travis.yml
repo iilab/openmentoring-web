@@ -2,16 +2,17 @@ sudo: required
 dist: trusty
 language: ruby
 install:
-  - source "$PWD/versions"
-  - rvm use "$RUBY_VERSION" --install --binary
-  - nvm install "$NODE_VERSION"
-  - npm install -g npm
-  - npm install -g gitbook-cli
-  - npm install -g npm-registry-client
+- source "$PWD/versions"
+- rvm use "$RUBY_VERSION" --install --binary
+- nvm install "$NODE_VERSION"
+- npm install -g npm
+- npm install -g gitbook-cli
+- npm install -g npm-registry-client
 script:
-  - make 
+- make
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make
+  install
 env:
   global:
-    - secure: BtZQJqs6pSUDF3OthSfMOZJcUsV2BJ/9O+dtsVUgUZWcSuEHbaOWrs8iw1E3MFawnF+v+JXGIm6jxfgWxz3QMZdT/mREjJS8R0+DmTMZLFMyZwZt9gzyIO+g9ubPyLSuHJgpej2WQSdaR+lotYErqCm1vj75M2URJbgq01LMg6ejpQAH5U+7xcNOUHSjiMRtHra9wLqCs7MmkE9BGWpivsHmBWBWH8D4YXJIyKxEDc8dXkF3JZm7rRbR7N8trteXnYuH+/MetXA866Wru++b5q6X0HYsc/gH1GJwfV6gIZLgbQAeYA8M0ebvMAVNkDJbRl/hxj5WnSPhV6SxlrhCjDtPTVAUPXoEC0T6r3vDcLPAf0wXWSCxi5oEn2yKtojBeqPJtuCLUXBqXDjccHfbtK0YKHCvKVwIakJUucSGSQZyGiStNrAUWkkMu+jRYXinN494TlOeqYQ4ghObzYz5Xow0NVYR32DEVJyIMJ99XiudVF/5S9MALz3L1ODAerzSvtFXiRL7sj/DJxkXEAFEFtgtAr6z3OoN1SB+FJ2/+7rws6uzQxMpJHPQ/uqbCkJG7+H/cTYyxHbocWbY0OmrkC0C0gXXpe7igc4Tp3wqJJUuWY/3c49TIE5zE2UckJuDQvPKek7O9vOtMjyv3DWC2oqkdN0MDsziMrKRFVdXR9g=
+  - secure: CohvEYFET5ZDkvAeV0XCOWtKcjXgRU8FeVwZx1uMu4T99pdrtt2xs9BfkUOouSdQACUAuVy0U/PDJjJ/L3PZowio40vI5E1tfsXyZIL3nOADcdEBKZEEAbR9liA4G7NJ8AEsh/CkM0Kkbx+jfw6hPm7d+xJqPIYfA700F5NWb5dZNpQagsHwhP0ok1sGv/2sYGSdWCoQg+UF50/941lvi6ogrdz6v1Pxa7+ZBwgRls86SnYCB5BC+zdSEv897rJvLPLG6IMABXV+XZvFo4M0JfQFiCfOZU+dnyd2Nxt7+ESQIk7GYKrkk5LYmebATbeE9/EVlptbEmsbilNh45yARbxhawGR1/PTQqx6SVJ/N6tVi9DQU58N1x4hA8kdAutcmToprRwcX9t434veVCd5LLH0M8q4di2dQLYrrujUuCufGzDYsPsVgEq3bI8nn9qJIM8PiQm6IFyyj2VhG50PE6yQJzf21YBIhFFNnpSaSV0qRooxuz/YGJI4jbE54bpeQ/Bii6M/JTbmhtbzuaogbpo54x1edloZvRh+qEGt2jSqOfliZK7IR9bwx4RpAFB4qx/+Wl11jUo21j995vu34AVohWjCRB8MnZI+ossPNpx7XrHSu1HcjeAOYglPeMDtfMxGc2KX1QU8owbwWWeraDt7XyPeDfx4FXSv/qpSk9g=
