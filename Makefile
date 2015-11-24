@@ -10,7 +10,9 @@ help:
 
 prepare:
 	@echo "--> Installing GitBook plugins..."
-	@gitbook install .
+	@cd citizen && gitbook install .
+	@cd journo && gitbook install .
+	@cd hrd && gitbook install .
 	#@bundle install
 	#@virtualenv python_modules
 

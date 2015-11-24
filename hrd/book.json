@@ -1,0 +1,36 @@
+{
+    "gitbook": "2.4.x",
+    "plugins": [
+        "richquotes",
+        "edit-link",
+        "anchors",
+        "piwik",
+        "image-captions",
+        "versions"
+    ],
+    "links": {
+        "sidebar": {
+            "Open Mentoring Homepage": "https://openmentoring.io",
+            "Download the app": "https://openmentoring.io/download"
+        }
+    },
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/iilab/openmentoring-content/edit/master/data/topics",
+            "label": "Edit This Page"
+        },
+        "piwik": {
+            "URL": "stats.iilab.org",
+            "siteId": 5
+        },
+        "versions": {
+          "gitbookConfigURL": "https://raw.githubusercontent.com/iilab/openmentoring-curation/master/web/src/book.json",
+          "options": [
+            { "value": "https://openmentoring.io/", "text": "Citizen's Guide", "selected": true },
+            { "value": "https://openmentoring.io/journo/", "text": "Journalist's Guide" },
+            { "value": "https://openmentoring.io/hrd/", "text": "Human Rights Defender's Guide" }
+          ] 
+        }
+
+    }
+}
