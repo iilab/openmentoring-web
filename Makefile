@@ -30,7 +30,7 @@ validate: build
 
 install:
 	@cd _book; \
-	@git init; \
+	git init; \
 	git config user.name "Travis CI"; \
 	git config user.email "ci@iilab.org"; \
 	git remote add upstream "https://${GH_TOKEN}@github.com/iilab/openmentoring-web.git"; \
