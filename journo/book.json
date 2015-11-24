@@ -10,8 +10,8 @@
     ],
     "links": {
         "sidebar": {
-            "Open Mentoring Homepage": "https://openmentoring.io",
-            "Download the app": "https://openmentoring.io/download"
+            "Open Mentoring Homepage": "http://openmentoring.io",
+            "Download the app": "http://openmentoring.io/download"
         }
     },
     "pluginsConfig": {
@@ -26,9 +26,9 @@
         "versions": {
           "gitbookConfigURL": "https://raw.githubusercontent.com/iilab/openmentoring-curation/master/web/src/book.json",
           "options": [
-            { "value": "https://openmentoring.io/", "text": "Citizen's Guide", "selected": true },
-            { "value": "https://openmentoring.io/journo/", "text": "Journalist's Guide" },
-            { "value": "https://openmentoring.io/hrd/", "text": "Human Rights Defender's Guide" }
+            { "value": "http://openmentoring.io/", "text": "Citizen's Guide", "selected": true },
+            { "value": "http://openmentoring.io/journo/", "text": "Journalist's Guide" },
+            { "value": "http://openmentoring.io/hrd/", "text": "Human Rights Defender's Guide" }
           ] 
         }
 
