@@ -20,7 +20,7 @@ build: prepare
 	@cd citizen && gitbook build .
 	@cd journo && gitbook build .
 	@cd hrd && gitbook build .
-	mv citizen/_book . && mv journo/_book _book/journo && mv hrd/_book _book/hrd;
+	@mv citizen/_book . && mv journo/_book _book/journo && mv hrd/_book _book/hrd;
 
 validate: build
 	#@python_modules/bin/pip install --upgrade pip
@@ -29,8 +29,8 @@ validate: build
 	#@bundle exec htmlproof ./_book --only-4xx --check-favicon --check-html
 
 install:
-	cd _book; \
-	git init; \
+	@cd _book; \
+	@git init; \
 	git config user.name "Travis CI"; \
 	git config user.email "ci@iilab.org"; \
 	git remote add upstream "https://${GH_TOKEN}@github.com/iilab/openmentoring-web.git"; \
