@@ -5,7 +5,8 @@
         "edit-link",
         "anchors",
         "piwik",
-        "image-captions"
+        "image-captions",
+        "versions"
     ],
     "links": {
         "sidebar": {
@@ -21,6 +22,15 @@
         "piwik": {
             "URL": "stats.iilab.org",
             "siteId": 5
+        },
+        "versions": {
+          "gitbookConfigURL": "https://raw.githubusercontent.com/iilab/openmentoring-curation/master/web/src/book.json",
+          "options": [
+            { "value": "https://openmentoring.io/", "text": "Citizen's Guide", "selected": true },
+            { "value": "https://openmentoring.io/journo/", "text": "Journalist's Guide" },
+            { "value": "https://openmentoring.io/hrd/", "text": "Human Rights Defender's Guide" }
+          ] 
         }
+
     }
 }
