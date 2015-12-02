@@ -1,4 +1,4 @@
-# Open Mentoring Journalists
+# Open Mentoring Citizens
 
 A platform to help mentors access and share practical reusable information and educational content
 

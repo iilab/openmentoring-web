@@ -7,7 +7,7 @@
   * How to control access to posted content?
   * [How to control access to friends & contacts?](topics/safe-social-networks/access-friends-contacts/index.md)
   * [How to chat securily?](topics/safe-social-networks/chat/index.md)
-  * [Who controls and owns the information I put into a social networking site?](topics/safe-social-networks/chat/index.md)
+  * [Who controls and owns the information I put into a social networking site?](topics/safe-social-networks/who-controls/index.md)
   * [What information about me are my contacts passing on to other people?](topics/safe-social-networks/chat/index.md)
   * [Will my contacts mind if I share information about them with other people?](topics/safe-social-networks/chat/index.md)
   * [Do I trust everyone with whom I'm connected?](topics/safe-social-networks/chat/index.md)
