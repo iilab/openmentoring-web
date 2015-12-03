@@ -20,6 +20,8 @@ Ask yourself: is it necessary to post the following information online?
  - sexual orientation
  - education and employment history
 ***
+## How-to
+
 You can control who can see various elements of your profile. This doesn&#39;t happen in the main privacy settings but directly when editing your profile.
 
 For instance going to About &gt; Contact &amp; Basic Info you can see your date of birth:
