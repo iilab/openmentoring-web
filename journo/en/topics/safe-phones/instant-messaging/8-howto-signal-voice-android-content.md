@@ -1,4 +1,6 @@
 
+## How-to
+
 Make a call
 
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.

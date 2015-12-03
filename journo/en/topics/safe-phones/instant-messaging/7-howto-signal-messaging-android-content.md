@@ -1,4 +1,6 @@
 
+## How-to
+
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
