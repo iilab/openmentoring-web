@@ -52,8 +52,8 @@
   * [Computers](topics/understand-how-it-works/computers/index.md)
   * [Getting Started](topics/understand-how-it-works/getting-started/index.md)
   * [Internet](topics/understand-how-it-works/internet/index.md)
-  * [Phones](topics/understand-how-it-works/phones/index.md)
   * [Smart Phones](topics/understand-how-it-works/smartphones/index.md)
+  * [Phones](topics/understand-how-it-works/phones/index.md)
   
 * [Understanding Operational Security](topics/understand-opsec/index.md)
   * [Unit Title](topics/understand-opsec/getting-started/index.md)

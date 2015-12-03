@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T19:09:06.173Z",
+  "updatedAt": "2015-12-03T19:09:30.563Z",
   "items": [
     {
       "slug": "_topic",
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-how-it-works_phones",
+      "slug": "understand-how-it-works_smartphones",
       "type": "unit",
-      "title": "Phones",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-how-it-works_smartphones",
+      "slug": "understand-how-it-works_phones",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
