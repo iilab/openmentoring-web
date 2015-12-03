@@ -1,148 +1,621 @@
 {
-  "updatedAt": "2015-12-03T15:43:58.931Z",
+  "updatedAt": "2015-12-03T19:09:06.173Z",
   "items": [
     {
-      "slug": "establishing-trust",
+      "slug": "_topic",
       "type": "topic",
-      "title": "Establishing trust with your contacts",
+      "title": "Topic Title",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/establishing-trust.zip"
+      "downloadUrl": "https://openmentoring.io/dist/_topic.zip"
     }
   ,
     {
-      "slug": "open-mentoring-app",
+      "slug": "practice-emergencies",
       "type": "topic",
-      "title": "Using the Open Mentoring App.",
+      "title": "Dealing with Emergencies",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "protect:content", "protect:identity"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
     }
   ,
     {
-      "slug": "safe-phones",
+      "slug": "practice-planning",
+      "type": "topic",
+      "title": "Planning and Preparing",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-safe-phones",
       "type": "topic",
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo", "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-phones.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-phones.zip"
     }
   ,
     {
-      "slug": "safe-social-networks",
+      "slug": "practice-safe-social-networks",
       "type": "topic",
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
+    }
+  ,
+    {
+      "slug": "tool-open-mentoring",
+      "type": "topic",
+      "title": "Using the Open Mentoring App.",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "protect:content", "protect:identity"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-open-mentoring.zip"
+    }
+  ,
+    {
+      "slug": "tool-signal",
+      "type": "topic",
+      "title": "Using the Open Mentoring App.",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "protect:content", "protect:identity"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-signal.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec",
+      "type": "topic",
+      "title": "Understanding Digital Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works",
+      "type": "topic",
+      "title": "How does it work?",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-opsec",
+      "type": "topic",
+      "title": "Understanding Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-opsec.zip"
+    }
+  ,
+    {
+      "slug": "understand-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
     }
   ,
     
     {
-      "slug": "establishing-trust_social-networks",
+      "slug": "_topic_getting-started",
       "type": "unit",
-      "title": "Establishing trust with others on Social Networking platforms",
-      "parentTitle": "Establishing trust with your contacts",
+      "title": "Getting Started",
+      "parentTitle": "Topic Title",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/establishing-trust.zip"
+      "downloadUrl": "https://openmentoring.io/dist/_topic.zip"
     }
   ,
     {
-      "slug": "open-mentoring-app_how-to",
+      "slug": "practice-emergencies_account-hijacking",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App.",
+      "title": "Account Hijacking",
+      "parentTitle": "Dealing with Emergencies",
       "locale": "en",
-      "categories": ["platform:android","protect:content","protect:identity"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
     }
   ,
     {
-      "slug": "safe-phones_instant-messaging",
+      "slug": "practice-emergencies_after",
+      "type": "unit",
+      "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-emergencies_ddos",
+      "type": "unit",
+      "title": "DDOS Attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-emergencies_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-emergencies_malware",
+      "type": "unit",
+      "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-emergencies_seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-emergencies_seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-emergencies.zip"
+    }
+  ,
+    {
+      "slug": "practice-planning_assess-digital-risk",
+      "type": "unit",
+      "title": "Assessing Digital Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-planning_assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-planning_emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-planning_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-planning_threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/practice-planning.zip"
+    }
+  ,
+    {
+      "slug": "practice-safe-phones_instant-messaging",
       "type": "unit",
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo","platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-phones.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-phones.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_access-friends-contacts",
+      "slug": "practice-safe-social-networks_access-friends-contacts",
       "type": "unit",
       "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_access-personal-details",
+      "slug": "practice-safe-social-networks_access-personal-details",
       "type": "unit",
       "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_facebook-chat",
+      "slug": "practice-safe-social-networks_facebook-chat",
       "type": "unit",
       "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_getting-started",
+      "slug": "practice-safe-social-networks_getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_who-can-access",
+      "slug": "practice-safe-social-networks_who-can-access",
       "type": "unit",
       "title": "Who can access your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
     }
   ,
     {
-      "slug": "safe-social-networks_who-controls",
+      "slug": "practice-safe-social-networks_who-controls",
       "type": "unit",
       "title": "Who controls and owns your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/safe-social-networks.zip"
+      "downloadUrl": "https://openmentoring.io/dist/practice-safe-social-networks.zip"
+    }
+  ,
+    {
+      "slug": "tool-open-mentoring_getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": ["platform:android","protect:content","protect:identity"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-open-mentoring.zip"
+    }
+  ,
+    {
+      "slug": "tool-open-mentoring_sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": ["platform:android","protect:content","protect:identity"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-open-mentoring.zip"
+    }
+  ,
+    {
+      "slug": "tool-signal_getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-signal.zip"
+    }
+  ,
+    {
+      "slug": "tool-signal_messaging",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": ["platform:android","protect:content","protect:identity"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-signal.zip"
+    }
+  ,
+    {
+      "slug": "tool-signal_voice",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/tool-signal.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_encryption",
+      "type": "unit",
+      "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_metadata",
+      "type": "unit",
+      "title": "Metadata",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_passwords",
+      "type": "unit",
+      "title": "Passwords",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_protect-identity",
+      "type": "unit",
+      "title": "Protecting Identity",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_secure-communications",
+      "type": "unit",
+      "title": "Secure Communications",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-digisec_trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-digisec.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_computers",
+      "type": "unit",
+      "title": "Computers",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_internet",
+      "type": "unit",
+      "title": "Internet",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_phones",
+      "type": "unit",
+      "title": "Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_smartphones",
+      "type": "unit",
+      "title": "Smart Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-how-it-works.zip"
+    }
+  ,
+    {
+      "slug": "understand-opsec_getting-started",
+      "type": "unit",
+      "title": "Unit Title",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-opsec.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-colleagues",
+      "type": "unit",
+      "title": "Your colleagues",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-mission-hrd",
+      "type": "unit",
+      "title": "Your mission",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-sources-journo",
+      "type": "unit",
+      "title": "Your Sources",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-story-journo",
+      "type": "unit",
+      "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
     }
   ]  
 }

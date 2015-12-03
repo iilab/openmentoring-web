@@ -21,7 +21,6 @@ build: prepare
 	@cd journo && gitbook build .
 	@cd hrd && gitbook build .
 	@mv citizen/_book . && mv journo/_book _book/journo && mv hrd/_book _book/hrd;
-	@cp citizen/index.json _book/
 
 validate: build
 	#@python_modules/bin/pip install --upgrade pip
