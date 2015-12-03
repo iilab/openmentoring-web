@@ -21,6 +21,7 @@ build: prepare
 	@cd journo && gitbook build .
 	@cd hrd && gitbook build .
 	@mv citizen/_book . && mv journo/_book _book/journo && mv hrd/_book _book/hrd;
+	@cp citizen/index.json _book/
 
 validate: build
 	#@python_modules/bin/pip install --upgrade pip
@@ -36,7 +37,6 @@ install:
 	git remote add upstream "https://${GH_TOKEN}@github.com/iilab/openmentoring-web.git"; \
 	git fetch upstream && git reset upstream/gh-pages; \
 	echo "openmentoring.io" > CNAME; \
-	cp ../index.json .; \
 	touch .nojekyll; \
 	touch .; \
 	git add -A .; \
