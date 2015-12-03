@@ -149,10 +149,6 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 ***
-## Test you social networking knowledge!
-
-
-***
 ## Next
 
 
@@ -161,4 +157,8 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I&#39;m connected?](safe-social-networks-establishing-trust)
+***
+## Test you social networking knowledge!
+
+
 ***
