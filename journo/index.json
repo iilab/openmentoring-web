@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T11:53:12.423Z",
+  "updatedAt": "2015-12-03T12:12:38.747Z",
   "items": [
     {
       "slug": "establishing-trust",
@@ -21,6 +21,17 @@
       "categories": [ "platform:android", "protect:content", "protect:identity"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
+    }
+  ,
+    {
+      "slug": "safe-phones",
+      "type": "topic",
+      "title": "Safe Phones",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "platform:android", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/safe-phones.zip"
     }
   ,
     {
@@ -55,6 +66,17 @@
       "categories": ["platform:android","protect:content","protect:identity"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
+    }
+  ,
+    {
+      "slug": "safe-phones_instant-messaging",
+      "type": "unit",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo","platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/safe-phones.zip"
     }
   ,
     {

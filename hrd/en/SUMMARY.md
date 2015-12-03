@@ -6,6 +6,9 @@
 * [Using the Open Mentoring App.](topics/open-mentoring-app/index.md)
   * [How to share the Open Mentoring App](topics/open-mentoring-app/how-to/index.md)
   
+* [Safe Phones](topics/safe-phones/index.md)
+  * [Instant Messaging on Smart Phones](topics/safe-phones/instant-messaging/index.md)
+  
 * [Safe Social Networks](topics/safe-social-networks/index.md)
   * [Protect Yourself And Your Data When Using Social Networking Sites](topics/safe-social-networks/access-friends-contacts/index.md)
   * [How to control access to your personal details?](topics/safe-social-networks/access-personal-details/index.md)

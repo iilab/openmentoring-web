@@ -1,4 +1,4 @@
-# Getting started with Social Networks
+# Instant Messaging on Smart Phones
 
 ## Learn
 
