@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T10:13:13.139Z",
+  "updatedAt": "2015-12-03T11:53:11.606Z",
   "items": [
     {
       "slug": "establishing-trust",
@@ -58,9 +58,9 @@
     }
   ,
     {
-      "slug": "safe-social-networks_access-friends-contacts",
+      "slug": "safe-social-networks_access-personal-details",
       "type": "unit",
-      "title": "Protect Yourself And Your Data When Using Social Networking Sites",
+      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -69,9 +69,9 @@
     }
   ,
     {
-      "slug": "safe-social-networks_access-personal-details",
+      "slug": "safe-social-networks_access-friends-contacts",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "Protect Yourself And Your Data When Using Social Networking Sites",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
