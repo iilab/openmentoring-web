@@ -36,6 +36,7 @@ install:
 	git remote add upstream "https://${GH_TOKEN}@github.com/iilab/openmentoring-web.git"; \
 	git fetch upstream && git reset upstream/gh-pages; \
 	echo "openmentoring.io" > CNAME; \
+	cp ../index.json .; \
 	touch .nojekyll; \
 	touch .; \
 	git add -A .; \
