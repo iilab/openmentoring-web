@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T10:05:57.759Z",
+  "updatedAt": "2015-12-03T10:12:20.862Z",
   "items": [
     {
       "slug": "establishing-trust",
@@ -18,7 +18,7 @@
       "title": "Using the Open Mentoring App.",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "protect:content", "protect:identity", "protect:content, identity, linkability"],
+      "categories": [ "platform:android", "protect:content", "protect:identity"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
     }
@@ -52,7 +52,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
-      "categories": ["platform:android","protect:content","protect:identity","protect:content, identity, linkability"],
+      "categories": ["platform:android","protect:content","protect:identity"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "https://openmentoring.io/dist/open-mentoring-app.zip"
     }
