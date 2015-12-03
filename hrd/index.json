@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T12:13:01.312Z",
+  "updatedAt": "2015-12-03T12:37:51.666Z",
   "items": [
     {
       "slug": "establishing-trust",
@@ -82,7 +82,7 @@
     {
       "slug": "safe-social-networks_access-friends-contacts",
       "type": "unit",
-      "title": "Protect Yourself And Your Data When Using Social Networking Sites",
+      "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -104,7 +104,7 @@
     {
       "slug": "safe-social-networks_facebook-chat",
       "type": "unit",
-      "title": "Protect Yourself And Your Data When Using Social Networking Sites",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],

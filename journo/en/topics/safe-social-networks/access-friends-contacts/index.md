@@ -1,4 +1,4 @@
-# Protect Yourself And Your Data When Using Social Networking Sites
+# How to control access to friends &amp; contacts?
 
 ## Introduction
 
