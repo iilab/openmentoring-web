@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-03T19:09:27.843Z",
+  "updatedAt": "2015-12-04T14:08:55.168Z",
   "items": [
     {
       "slug": "_topic",
@@ -553,17 +553,6 @@
     }
   ,
     {
-      "slug": "understand-security_your-colleagues",
-      "type": "unit",
-      "title": "Your colleagues",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
-    }
-  ,
-    {
       "slug": "understand-security_your-mission-hrd",
       "type": "unit",
       "title": "Your mission",
@@ -611,6 +600,17 @@
       "slug": "understand-security_your-well-being",
       "type": "unit",
       "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "https://openmentoring.io/dist/understand-security.zip"
+    }
+  ,
+    {
+      "slug": "understand-security_your-colleagues",
+      "type": "unit",
+      "title": "Your colleagues",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

@@ -28,10 +28,7 @@ Learning text...
         &lt;answer&gt;No&lt;/answer&gt;
     &lt;/question&gt;
 &lt;/quiz&gt;
-***
-## Next
-
- * [A topic to study next](en/topics/_topic/_unit/index.md)
+*** * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
 ***

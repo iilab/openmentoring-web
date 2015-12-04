@@ -60,10 +60,10 @@
   
 * [Understand Security](topics/understand-security/index.md)
   * [Getting Started](topics/understand-security/getting-started/index.md)
-  * [Your colleagues](topics/understand-security/your-colleagues/index.md)
   * [Your mission](topics/understand-security/your-mission-hrd/index.md)
   * [Your Security](topics/understand-security/your-security/index.md)
   * [Your Sources](topics/understand-security/your-sources-journo/index.md)
   * [Your Story](topics/understand-security/your-story-journo/index.md)
   * [Your Well Being](topics/understand-security/your-well-being/index.md)
+  * [Your colleagues](topics/understand-security/your-colleagues/index.md)
   
