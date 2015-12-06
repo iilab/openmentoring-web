@@ -1,8 +1,5 @@
 # Summary
 
-* [Topic Title](topics/_topic/index.md)
-  * [Getting Started](topics/_topic/getting-started/index.md)
-  
 * [Dealing with Emergencies](topics/practice-emergencies/index.md)
   * [Account Hijacking](topics/practice-emergencies/account-hijacking/index.md)
   * [After an Emergency](topics/practice-emergencies/after/index.md)
@@ -23,12 +20,12 @@
   * [Instant Messaging on Smart Phones](topics/practice-safe-phones/instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-safe-social-networks/index.md)
+  * [How to control access to friends &amp; contacts?](topics/practice-safe-social-networks/access-friends-contacts/index.md)
   * [How to control access to your personal details?](topics/practice-safe-social-networks/access-personal-details/index.md)
   * [How to chat securely?](topics/practice-safe-social-networks/facebook-chat/index.md)
-  * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Getting started with Social Networks](topics/practice-safe-social-networks/getting-started/index.md)
+  * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-safe-social-networks/who-controls/index.md)
-  * [How to control access to friends &amp; contacts?](topics/practice-safe-social-networks/access-friends-contacts/index.md)
   
 * [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
   * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)

@@ -1,8 +1,5 @@
 # Summary
 
-* [Topic Title](topics/_topic/index.md)
-  * [Getting Started](topics/_topic/getting-started/index.md)
-  
 * [Dealing with Emergencies](topics/practice-emergencies/index.md)
   * [Account Hijacking](topics/practice-emergencies/account-hijacking/index.md)
   * [After an Emergency](topics/practice-emergencies/after/index.md)

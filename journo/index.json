@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2015-12-06T16:28:39.109Z",
+  "updatedAt": "2015-12-06T18:23:58.650Z",
   "items": [
-    {
-      "slug": "_topic",
-      "type": "topic",
-      "title": "Topic Title",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/_topic/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-emergencies",
       "type": "topic",
@@ -123,17 +112,6 @@
     }
   ,
     
-    {
-      "slug": "_topic_getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Topic Title",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/_topic/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-emergencies_account-hijacking",
       "type": "unit",

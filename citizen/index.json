@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2015-12-06T16:28:43.255Z",
+  "updatedAt": "2015-12-06T18:24:03.854Z",
   "items": [
-    {
-      "slug": "_topic",
-      "type": "topic",
-      "title": "Topic Title",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/_topic/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-emergencies",
       "type": "topic",
@@ -21,17 +10,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-planning",
-      "type": "topic",
-      "title": "Planning and Preparing",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
     }
   ,
     {
@@ -54,6 +32,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning",
+      "type": "topic",
+      "title": "Planning and Preparing",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
     }
   ,
     {
@@ -123,17 +112,6 @@
     }
   ,
     
-    {
-      "slug": "_topic_getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Topic Title",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/_topic/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-emergencies_account-hijacking",
       "type": "unit",
@@ -212,61 +190,6 @@
     }
   ,
     {
-      "slug": "practice-planning_assess-digital-risk",
-      "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-planning_assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-planning_emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-planning_getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-planning_threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-safe-phones_instant-messaging",
       "type": "unit",
       "title": "Instant Messaging on Smart Phones",
@@ -341,6 +264,61 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning_assess-digital-risk",
+      "type": "unit",
+      "title": "Assessing Digital Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning_assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning_emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning_threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
     }
   ,
     {

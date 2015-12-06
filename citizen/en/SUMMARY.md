@@ -1,8 +1,5 @@
 # Summary
 
-* [Topic Title](topics/_topic/index.md)
-  * [Getting Started](topics/_topic/getting-started/index.md)
-  
 * [Dealing with Emergencies](topics/practice-emergencies/index.md)
   * [Account Hijacking](topics/practice-emergencies/account-hijacking/index.md)
   * [After an Emergency](topics/practice-emergencies/after/index.md)
@@ -11,13 +8,6 @@
   * [Malware](topics/practice-emergencies/malware/index.md)
   * [Seeking Remote Help](topics/practice-emergencies/seeking-help/index.md)
   * [Devices Seized](topics/practice-emergencies/seized-devices/index.md)
-  
-* [Planning and Preparing](topics/practice-planning/index.md)
-  * [Assessing Digital Security Risks](topics/practice-planning/assess-digital-risk/index.md)
-  * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)
-  * [Preparing for emergencies with your contacts](topics/practice-planning/emergency-plan/index.md)
-  * [Getting Started](topics/practice-planning/getting-started/index.md)
-  * [Understanding Threats](topics/practice-planning/threats/index.md)
   
 * [Safe Phones](topics/practice-safe-phones/index.md)
   * [Instant Messaging on Smart Phones](topics/practice-safe-phones/instant-messaging/index.md)
@@ -29,6 +19,13 @@
   * [Getting started with Social Networks](topics/practice-safe-social-networks/getting-started/index.md)
   * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-safe-social-networks/who-controls/index.md)
+  
+* [Planning and Preparing](topics/practice-planning/index.md)
+  * [Assessing Digital Security Risks](topics/practice-planning/assess-digital-risk/index.md)
+  * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)
+  * [Preparing for emergencies with your contacts](topics/practice-planning/emergency-plan/index.md)
+  * [Getting Started](topics/practice-planning/getting-started/index.md)
+  * [Understanding Threats](topics/practice-planning/threats/index.md)
   
 * [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
   * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
