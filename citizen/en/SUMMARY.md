@@ -15,8 +15,8 @@
 * [Planning and Preparing](topics/practice-planning/index.md)
   * [Assessing Digital Security Risks](topics/practice-planning/assess-digital-risk/index.md)
   * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)
-  * [Preparing for emergencies with your contacts](topics/practice-planning/emergency-plan/index.md)
   * [Getting Started](topics/practice-planning/getting-started/index.md)
+  * [Preparing for emergencies with your contacts](topics/practice-planning/emergency-plan/index.md)
   * [Understanding Threats](topics/practice-planning/threats/index.md)
   
 * [Safe Phones](topics/practice-safe-phones/index.md)
