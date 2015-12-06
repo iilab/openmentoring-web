@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-06T19:20:30.554Z",
+  "updatedAt": "2015-12-06T19:42:40.493Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -57,17 +57,6 @@
     }
   ,
     {
-      "slug": "tool-signal",
-      "type": "topic",
-      "title": "Using the Open Mentoring App.",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-digisec",
       "type": "topic",
       "title": "Understanding Digital Security",
@@ -98,6 +87,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-signal",
+      "type": "topic",
+      "title": "Using the Open Mentoring App.",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
     }
   ,
     {
@@ -344,39 +344,6 @@
     }
   ,
     {
-      "slug": "tool-signal_getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using the Open Mentoring App.",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-signal_messaging",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App.",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-signal_voice",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App.",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-digisec_encryption",
       "type": "unit",
       "title": "Encryption",
@@ -517,6 +484,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-signal_getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-signal_voice",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-signal_messaging",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
     }
   ,
     {
