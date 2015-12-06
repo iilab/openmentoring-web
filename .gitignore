@@ -1,6 +1,0 @@
-content
-mobile/build
-web/build
-print/build
-**/node_modules
-**/_book

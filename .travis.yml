@@ -2,16 +2,16 @@ sudo: required
 dist: trusty
 language: ruby
 install:
-- source "$PWD/versions"
-- rvm use "$RUBY_VERSION" --install --binary
-- nvm install "$NODE_VERSION"
-- npm install -g npm
-- npm install -g metalsmith
+  - source "$PWD/versions"
+  - rvm use "$RUBY_VERSION" --install --binary
+  - nvm install "$NODE_VERSION"
+  - npm install -g npm
+  - npm install -g gitbook-cli
+  - npm install -g npm-registry-client
 script:
-- make
+  - make 
 after_success:
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make
-  install
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
 env:
   global:
-    secure: vkD3RecMLB5/y9lJmQLHw7G6uV3YWocgYY7eB5342sXB+HR13nJGS/nQGYk2ZmjG7m2ZYYkPK3DgJO7thcJowQKlUt2GGChzbQhzyTBLBQaajKRQqZnIhj07NZTIPmB5kHILnAOxtgs9wYKn/zYoEoYYCfWMd9sO6iVJcWaTwdZPDAsb/BPCJKWiGGCGbUPGUF0862YzIzfQ6p+RydIAcjv03HwLq6OfUdv747Zh61JZsXM5u/jMBb5IWN+O9AFjDzDLKFM/REzlSGztsP/6541ZMJhWNVgxIK3xafjY58txVT5V6cuzfl5JfbXZO4qX49eMDaE/p2ZdkQuJSyi7GclqZwwPcRr+hEpK1hiIfooedjV919CU5rGZPmiW1EaDeq/TtoKfREEG3e90ZVrZvcZukBc3vHM3veP32eji8pedDaRx6vI+4JEGy24aBBKN8+JMKkX5bVnXY9kNxS4/CwWuVtKZ0DpeBc1MBPF9SbuVSgjuNDArW9/mjz1vJa6tKRfT62seVER3s9ZNM0Md62YDE6E2xiBJS3bUkmbizNdNHelNmKMHiPpAgfG2Zlmy2f9UEVI4iJkRovs10ietLGpoSjMCcwdCP4hVUs/VKZrUKaU1wbJDeY1Lho1TVAcXN1mhNIwehjpK+xUBSJX8GH/pV5BQja2gfp0c9S8fYj8=
+  - secure: EJjXVLe6KylrqBx4CcMePxW9hlW5zAN5N2Q3gvb2K7wmFmli4RP4QpH58OxZoUZ+VvibpdMzdCDNtM54NFSfklgYgYJnPruRlOwttFlAAaRPWo4cnOhcagbYaKjdK2Io89uMq15LCh6l5ikQpSu370/ogul7W3dvEzzmHmT6kOziHDvDsguv6qbfF2phvvYDFKOxowfKoSXoLb0WJELNswsXWmrWLCOJ6O7JHy9kTPoeZnjQvnmkrH3n1k+pGt+PLG/jq0OCK/6I7vCgSmv0/bft4MR9rBFIeMVRR4B13jLJ6G87D745dZ4KLkm3lfYxdIYSBDhQO6gBIQmA5wBnsj2Q0u49zFAIO4RGONg+9jervIAEF/3F0CFznXwTZ6/ye0ER0v+6t+J7tQbYtVbw+3xWE+szMriyUagGyFAXXkenvu0veuR+eWCmFBivFeiI4OpNWPbXkbK6OxxlIK+RpVo9CtE6mt2X5caqeLzTsoOSA5cxgCemqFX65DpbdbqBdPg6XBpDD5o3WD1GxlS2KilsSbQtOAyWbu1VbbGxD1PpirwUVxeCQ1kt88NJ5bPh0sTPvtMw0m3OMxWSuRksW8x+ZyAXB5cZ58bikH7f+iskKVxIHblfpfO2jBGR8kudmNIXrwIyJd+YyX07F2ZwpiJ+X/6AfwjIXojkbhEFOI0=
