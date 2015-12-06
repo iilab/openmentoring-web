@@ -27,14 +27,14 @@
   * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-safe-social-networks/who-controls/index.md)
   
+* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
+  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
+  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
+  
 * [Using the Open Mentoring App.](topics/tool-signal/index.md)
   * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
-  
-* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
-  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
-  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
   
 * [Understanding Digital Security](topics/understand-digisec/index.md)
   * [Encryption](topics/understand-digisec/encryption/index.md)
@@ -45,15 +45,15 @@
   * [Secure Communications](topics/understand-digisec/secure-communications/index.md)
   * [Establishing Trust](topics/understand-digisec/trust/index.md)
   
+* [Understanding Operational Security](topics/understand-opsec/index.md)
+  * [Unit Title](topics/understand-opsec/getting-started/index.md)
+  
 * [How does it work?](topics/understand-how-it-works/index.md)
   * [Computers](topics/understand-how-it-works/computers/index.md)
   * [Getting Started](topics/understand-how-it-works/getting-started/index.md)
   * [Internet](topics/understand-how-it-works/internet/index.md)
-  * [Phones](topics/understand-how-it-works/phones/index.md)
   * [Smart Phones](topics/understand-how-it-works/smartphones/index.md)
-  
-* [Understanding Operational Security](topics/understand-opsec/index.md)
-  * [Unit Title](topics/understand-opsec/getting-started/index.md)
+  * [Phones](topics/understand-how-it-works/phones/index.md)
   
 * [Understand Security](topics/understand-security/index.md)
   * [Getting Started](topics/understand-security/getting-started/index.md)

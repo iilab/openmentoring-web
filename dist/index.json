@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-06T20:56:26.343Z",
+  "updatedAt": "2015-12-06T21:20:15.905Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -29,9 +29,20 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones.zip"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks",
+      "type": "topic",
+      "title": "Safe Social Networks",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks.zip"
     }
   ,
     {
@@ -40,7 +51,7 @@
       "title": "Using the Open Mentoring App.",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-open-mentoring.zip"
     }
@@ -51,7 +62,7 @@
       "title": "Using the Open Mentoring App.",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-signal.zip"
     }
@@ -65,17 +76,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec.zip"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks",
-      "type": "topic",
-      "title": "Safe Social Networks",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks.zip"
     }
   ,
     {
@@ -250,9 +250,75 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_access-friends-contacts",
+      "type": "unit",
+      "title": "How to control access to friends &amp; contacts?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_access-personal-details",
+      "type": "unit",
+      "title": "How to control access to your personal details?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_facebook-chat",
+      "type": "unit",
+      "title": "How to chat securely?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_who-can-access",
+      "type": "unit",
+      "title": "Who can access your information on Social Networking platforms?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_who-controls",
+      "type": "unit",
+      "title": "Who controls and owns your information on Social Networking platforms?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -261,7 +327,7 @@
       "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-open-mentoring/index.json.gz"
     }
@@ -272,7 +338,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-open-mentoring/index.json.gz"
     }
@@ -294,7 +360,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
     }
@@ -305,7 +371,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
     }
@@ -385,72 +451,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_access-friends-contacts",
-      "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_access-personal-details",
-      "type": "unit",
-      "title": "How to control access to your personal details?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_facebook-chat",
-      "type": "unit",
-      "title": "How to chat securely?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_who-can-access",
-      "type": "unit",
-      "title": "Who can access your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_who-controls",
-      "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
     }
   ,
     {
