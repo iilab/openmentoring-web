@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-06T16:26:43.430Z",
+  "updatedAt": "2015-12-06T16:27:55.375Z",
   "title": "Planning and Preparing",
   "slug": "practice-planning",
   "units": [
@@ -26,9 +26,9 @@
     }
   ,
     {
-      "slug": "practice-planning_getting-started",
+      "slug": "practice-planning_emergency-plan",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -37,9 +37,9 @@
     }
   ,
     {
-      "slug": "practice-planning_emergency-plan",
+      "slug": "practice-planning_getting-started",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Getting Started",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],

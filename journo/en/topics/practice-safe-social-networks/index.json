@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-06T16:26:39.986Z",
+  "updatedAt": "2015-12-06T16:27:51.644Z",
   "title": "Safe Social Networks",
   "slug": "practice-safe-social-networks",
   "units": [
@@ -18,6 +18,17 @@
       "slug": "practice-safe-social-networks_access-personal-details",
       "type": "unit",
       "title": "How to control access to your personal details?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_facebook-chat",
+      "type": "unit",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -51,17 +62,6 @@
       "slug": "practice-safe-social-networks_who-controls",
       "type": "unit",
       "title": "Who controls and owns your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "cards": []
-    }
-  ,
-    {
-      "slug": "practice-safe-social-networks_facebook-chat",
-      "type": "unit",
-      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
