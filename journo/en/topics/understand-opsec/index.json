@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2015-12-06T13:13:14.848Z",
+  "title": "Understanding Operational Security",
+  "slug": "understand-opsec",
+  "units": [
+    {
+      "slug": "understand-opsec_getting-started",
+      "type": "unit",
+      "title": "Unit Title",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ]  
+}

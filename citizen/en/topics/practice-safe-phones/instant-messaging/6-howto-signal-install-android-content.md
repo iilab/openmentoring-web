@@ -1,6 +1,4 @@
-
 ## How-to
-
 This how to will go through the following steps 
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
@@ -32,7 +30,7 @@ Step 1: Begin the registration process by entering your phone number including c
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
-Figure 3 &amp; 4: Registration screen and confirming number
+Figure 3 & 4: Registration screen and confirming number
 
 Step 2: Signal will send you an SMS message to confirm registration.
 
@@ -41,7 +39,7 @@ Note: If for some reason you do not receive the SMS you will be given the option
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
-Figure 5 &amp; 6: Registration completing and Voice verification screens
+Figure 5 & 6: Registration completing and Voice verification screens
 
 ## (3) Configuring Signal
  - Importing Messages
@@ -79,7 +77,7 @@ Step 3: When prompted enter a passphrase that will be used to protect the messag
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
-Figure 9 &amp; 10: passphrase options and setting a password
+Figure 9 & 10: passphrase options and setting a password
 
 Step 4: Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
 

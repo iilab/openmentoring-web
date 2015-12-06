@@ -1,4 +1,2 @@
-
 ## Scenario
-
 Scenario text...

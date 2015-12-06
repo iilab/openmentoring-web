@@ -1,6 +1,4 @@
-
 ## Introduction
-
 Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
 
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
