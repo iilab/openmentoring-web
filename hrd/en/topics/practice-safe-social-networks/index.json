@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2015-12-06T16:27:53.517Z",
+  "updatedAt": "2015-12-06T16:28:41.223Z",
   "title": "Safe Social Networks",
   "slug": "practice-safe-social-networks",
   "units": [
-    {
-      "slug": "practice-safe-social-networks_access-friends-contacts",
-      "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "cards": []
-    }
-  ,
     {
       "slug": "practice-safe-social-networks_access-personal-details",
       "type": "unit",
@@ -37,17 +26,6 @@
     }
   ,
     {
-      "slug": "practice-safe-social-networks_getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "cards": []
-    }
-  ,
-    {
       "slug": "practice-safe-social-networks_who-can-access",
       "type": "unit",
       "title": "Who can access your information on Social Networking platforms?",
@@ -59,9 +37,31 @@
     }
   ,
     {
+      "slug": "practice-safe-social-networks_getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
       "slug": "practice-safe-social-networks_who-controls",
       "type": "unit",
       "title": "Who controls and owns your information on Social Networking platforms?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "practice-safe-social-networks_access-friends-contacts",
+      "type": "unit",
+      "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
