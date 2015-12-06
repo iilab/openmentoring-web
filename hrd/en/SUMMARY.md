@@ -31,6 +31,11 @@
   * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
   * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
   
+* [Using the Open Mentoring App.](topics/tool-signal/index.md)
+  * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
+  * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
+  * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
+  
 * [Understanding Digital Security](topics/understand-digisec/index.md)
   * [Encryption](topics/understand-digisec/encryption/index.md)
   * [Getting Started](topics/understand-digisec/getting-started/index.md)
@@ -49,11 +54,6 @@
   
 * [Understanding Operational Security](topics/understand-opsec/index.md)
   * [Unit Title](topics/understand-opsec/getting-started/index.md)
-  
-* [Using the Open Mentoring App.](topics/tool-signal/index.md)
-  * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
-  * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
-  * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   
 * [Understand Security](topics/understand-security/index.md)
   * [Getting Started](topics/understand-security/getting-started/index.md)
