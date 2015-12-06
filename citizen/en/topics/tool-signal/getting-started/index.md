@@ -13,6 +13,7 @@
 <li>How-to Booklet chapter 11. How to use smartphones as securely as possible</li>
 </ul>
 
+***
 ***<p>This how to will go through the following steps </p>
 <ul>
 <li><strong>(1) How to Install Signal</strong></li>

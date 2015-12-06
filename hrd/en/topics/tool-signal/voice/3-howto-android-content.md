@@ -8,7 +8,7 @@ When your contact answers you'll see two words.
 Say one word to your friend and ask them to say the other word. 
 This makes sure you are both who you say you are.
 
-![10s.png]({{site.baseurl}}/media/10s.png)
+![10s.png](10s.png)
 
 Take a call
 
@@ -18,6 +18,6 @@ When you answer you'll see two words.
 Say one word to your friend and ask them to say the other world. 
 This makes sure you are both who you say you are.
 
-![11s.png]({{site.baseurl}}/media/11s.png)
+![11s.png](11s.png)
 
 
