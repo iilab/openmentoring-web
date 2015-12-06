@@ -6,15 +6,6 @@
 ***<p>When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. </p>
 <p>To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).</p>
 
-***
-***<ul>
-<li><a href="safe-social-networks-who-can-access">Who can access the information I am putting online?</a></li>
-<li><a href="safe-social-networks-who-controls">Who controls and owns the information I put into a social networking site?</a></li>
-<li><a href="safe-social-networks-what-is-shared">What information about me are my contacts passing on to other people?</a></li>
-<li><a href="safe-social-networks-consent">Will my contacts mind if I share information about them with other people?</a></li>
-<li><a href="safe-social-networks-establishing-trust">Do I trust everyone with whom I&#39;m connected?</a></li>
-</ul>
-
 ***<p>To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: </p>
 <p>(1) install Jitsi<br>(2) add your Facebook account on Jitsi
 (3) encrypt your Facebook instant messages
@@ -81,5 +72,14 @@ Facebook has two settings that you might need to change before Jitsi can connect
 <p><strong>Step 5:</strong> You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:</p>
 <p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png</a></p>
 <p>Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.</p>
+
+***
+***<ul>
+<li><a href="safe-social-networks-who-can-access">Who can access the information I am putting online?</a></li>
+<li><a href="safe-social-networks-who-controls">Who controls and owns the information I put into a social networking site?</a></li>
+<li><a href="safe-social-networks-what-is-shared">What information about me are my contacts passing on to other people?</a></li>
+<li><a href="safe-social-networks-consent">Will my contacts mind if I share information about them with other people?</a></li>
+<li><a href="safe-social-networks-establishing-trust">Do I trust everyone with whom I&#39;m connected?</a></li>
+</ul>
 
 ***
