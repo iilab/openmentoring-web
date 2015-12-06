@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-06T16:19:20.811Z",
+  "updatedAt": "2015-12-06T16:25:01.800Z",
   "items": [
     {
       "slug": "_topic",
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-safe-social-networks_getting-started",
+      "slug": "practice-safe-social-networks_who-can-access",
       "type": "unit",
-      "title": "Getting started with Social Networks",
+      "title": "Who can access your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -322,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-safe-social-networks_who-can-access",
+      "slug": "practice-safe-social-networks_getting-started",
       "type": "unit",
-      "title": "Who can access your information on Social Networking platforms?",
+      "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
