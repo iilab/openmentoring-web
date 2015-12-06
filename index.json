@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2015-12-06T18:55:13.204Z",
+  "updatedAt": "2015-12-06T19:06:46.638Z",
   "items": [
+    {
+      "slug": "_topic",
+      "type": "topic",
+      "title": "Topic Title",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/_topic.zip"
+    }
+  ,
     {
       "slug": "practice-emergencies",
       "type": "topic",
@@ -9,7 +20,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-emergencies/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-emergencies.zip"
     }
   ,
     {
@@ -20,7 +31,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning.zip"
     }
   ,
     {
@@ -31,7 +42,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones.zip"
     }
   ,
     {
@@ -42,7 +53,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-social-networks.zip"
     }
   ,
     {
@@ -53,7 +64,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-open-mentoring/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-open-mentoring.zip"
     }
   ,
     {
@@ -64,7 +75,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal.zip"
     }
   ,
     {
@@ -75,7 +86,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec.zip"
     }
   ,
     {
@@ -86,7 +97,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works.zip"
     }
   ,
     {
@@ -97,7 +108,7 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec.zip"
     }
   ,
     {
@@ -108,10 +119,21 @@
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-security/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-security.zip"
     }
   ,
     
+    {
+      "slug": "_topic_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Topic Title",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/_topic/index.json.gz"
+    }
+  ,
     {
       "slug": "practice-emergencies_account-hijacking",
       "type": "unit",
