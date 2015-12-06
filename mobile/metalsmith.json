@@ -1,0 +1,89 @@
+{
+  "source": "content",
+  "destination": "mobile/build",
+  "clean": false,
+  "plugins": {
+    "metalsmith-env": {},
+    "metalsmith-ignore": [
+      ".git/**",
+      ".gitignore",
+      ".travis.yml",
+      "_config.yml",
+      "INTENTIONS.md",
+      "MODEL.md",
+      "LICENSE",
+      "Makefile",
+      "README.md"
+    ],
+    "metalsmith-build-date": {},
+    "metalsmith-paths": {
+      "property": "paths"
+    },
+    "metalsmith-generate": [
+      { "path": "index.json", "metadata": { "layout": "index.json" } }
+    ],
+    "metalsmith-collections": {
+      "cards": {
+        "pattern": ":lang/topics/:topic/:unit/*-*.md"
+      },
+      "units": {
+        "pattern": ":lang/topics/:topic/:unit/index.md"
+      },
+      "topics": {
+        "pattern": ":lang/topics/:topic/index.md"
+      }
+    },
+    "metalsmith-copy": {
+      "pattern": "*/topics/*/*/index.md",
+      "extension": ".json"
+    },
+    "metalsmith-filemetadata": [
+      {"pattern": "*/topics/*/*/*-intro*.md", "preserve": "true", "metadata": {"container": "stack", "type": "card", "sub-type": "intro", "title": "Introduction"}},
+      {"pattern": "*/topics/*/*/*-scenario*.md", "preserve": "true", "metadata": {"container": "stack", "type": "card", "sub-type": "scenario", "title": "Scenario"}},
+      {"pattern": "*/topics/*/*/*-learn.md*", "preserve": "true", "metadata": {"container": "stack", "type": "card", "sub-type": "learn", "title": "Learn"}},
+      {"pattern": "*/topics/*/*/*-test*.md", "preserve": "true", "metadata": {"container": "stack", "type": "activity", "sub-type": "test", "title": "Test"}},
+      {"pattern": "*/topics/*/*/*-activity*.md", "preserve": "true", "metadata": {"container": "stack", "type": "activity", "sub-type": "activity", "title": "Activity"}},
+      {"pattern": "*/topics/*/*/*-share*.md", "preserve": "true", "metadata": {"container": "stack", "type": "activity", "sub-type": "share", "title": "Share"}},
+      {"pattern": "*/topics/*/*/*-howto*.md", "preserve": "true", "metadata": {"container": "stack", "type": "howto", "sub-type": "howto", "title": "How-to"}},
+      {"pattern": "*/topics/*/*/*-next*.md", "preserve": "true", "metadata": {"container": "stack", "type": "card", "sub-type": "next", "title": "Next"}},
+      {"pattern": "*/topics/*/*/index.md", "preserve": "true", "metadata": {"layout": "unit.md", "container": "unit", "type": "index"}},
+      {"pattern": "*/topics/*/index.md", "preserve": "true", "metadata": {"layout": "topic.md", "container": "topic", "type": "index"}},
+      {"pattern": "*/topics/*/*/index.json", "preserve": "true", "metadata": {"layout": "unit.json"}},
+      {"pattern": "*/topics/*/*/*-*.md", "metadata": {"layout": "card.md", "profile": [ ""] }},
+      {"pattern": "*/topics/*/*/*-*-hrd.md", "metadata": {"profile": [ "hrd" ] }},
+      {"pattern": "*/topics/*/*/*-*-journo.md", "metadata": {"profile": [ "journo" ] }},
+      {"pattern": "*/topics/*/*/*-*-content*.md", "metadata": {"array": "true", "protect": [ "content" ] }},
+      {"pattern": "*/topics/*/*/*-*-identity*.md", "metadata": {"array": "true", "protect": [ "identity" ] }},
+      {"pattern": "*/topics/*/*/*-*-targeting*.md", "metadata": {"array": "true", "protect": [ "targeting" ] }},
+      {"pattern": "*/topics/*/*/*-*-android*.md", "metadata": {"array": "true", "platform": [ "android" ] }},
+      {"pattern": "*/topics/*/*/*-*-windows*.md", "metadata": {"array": "true", "platform": [ "windows" ] }}
+    ],
+    "metalsmith-markdown": {
+      "pattern": "*/topics/*/*/*-*.md",
+      "delete_files": false
+    },
+    "metalsmith-many-more": {
+      "pattern": "*/topics/*/*/*-*.html",
+      "key": "cards",
+      "trim": true,
+      "json": true
+    },
+    "metalsmith-collection-metadata": [
+      {"action": "merge", "source": [ "topics", "units", "cards" ], "target": "tree", "ignore": [ "stats", "previous", "next", "mode", "collection" ]},
+      {"action": "up", "source": "tree", "fields": [ "protect", "profile", "platform"], "ignore": [ "contents", "stats", "previous", "next", "mode", "collection" ]}
+    ],
+    "metalsmith-layouts": {
+      "engine": "nunjucks",
+      "default": "default.md",
+      "directory": "mobile/layouts"       
+    },
+    "metalsmith-remove": [
+      {"pattern": "*/topics/_*/**"},
+      {"pattern": "*/topics/*/*/*-*.md"},
+      {"pattern": "*/topics/*/*/*-*.html"},
+      {"pattern": "*/topics/*/*/*.md"},
+      {"pattern": "*/topics/*/*.md"}
+    ],
+    "metalsmith-debug": true
+  }
+}

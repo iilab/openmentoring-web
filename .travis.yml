@@ -1,0 +1,17 @@
+sudo: required
+dist: trusty
+language: ruby
+install:
+- source "$PWD/versions"
+- rvm use "$RUBY_VERSION" --install --binary
+- nvm install "$NODE_VERSION"
+- npm install -g npm
+- npm install -g metalsmith
+script:
+- make
+after_success:
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make
+  install
+env:
+  global:
+    secure: vkD3RecMLB5/y9lJmQLHw7G6uV3YWocgYY7eB5342sXB+HR13nJGS/nQGYk2ZmjG7m2ZYYkPK3DgJO7thcJowQKlUt2GGChzbQhzyTBLBQaajKRQqZnIhj07NZTIPmB5kHILnAOxtgs9wYKn/zYoEoYYCfWMd9sO6iVJcWaTwdZPDAsb/BPCJKWiGGCGbUPGUF0862YzIzfQ6p+RydIAcjv03HwLq6OfUdv747Zh61JZsXM5u/jMBb5IWN+O9AFjDzDLKFM/REzlSGztsP/6541ZMJhWNVgxIK3xafjY58txVT5V6cuzfl5JfbXZO4qX49eMDaE/p2ZdkQuJSyi7GclqZwwPcRr+hEpK1hiIfooedjV919CU5rGZPmiW1EaDeq/TtoKfREEG3e90ZVrZvcZukBc3vHM3veP32eji8pedDaRx6vI+4JEGy24aBBKN8+JMKkX5bVnXY9kNxS4/CwWuVtKZ0DpeBc1MBPF9SbuVSgjuNDArW9/mjz1vJa6tKRfT62seVER3s9ZNM0Md62YDE6E2xiBJS3bUkmbizNdNHelNmKMHiPpAgfG2Zlmy2f9UEVI4iJkRovs10ietLGpoSjMCcwdCP4hVUs/VKZrUKaU1wbJDeY1Lho1TVAcXN1mhNIwehjpK+xUBSJX8GH/pV5BQja2gfp0c9S8fYj8=

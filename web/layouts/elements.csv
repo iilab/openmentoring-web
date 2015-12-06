@@ -1,0 +1,9 @@
+{%- set col = cycler("ffffd9", "edf8b1", "c7e9b4", "7fcdbb", "41b6c4", "1d91c0", "225ea8", "0c2c84") -%}
+Label,Type,Description,Image
+{% for lang, l in collections.tree -%}
+{%- for topic, t in l -%}{% if t.topic %}{% set new = col.next() %}
+{% for unit, u in t -%}{% if u.unit %}
+{{t.title|safe}}: {{ u.title|safe }},{{t.title|safe}},,http://dummyimage.com/100.png/{{col.current}}&text=+
+{% endif %}{% endfor -%}
+{% endif %}{%- endfor -%}
+{%- endfor -%}
