@@ -1,6 +1,4 @@
-
 ## How to make calls?
-
 
  * Make a call
  * Take a call

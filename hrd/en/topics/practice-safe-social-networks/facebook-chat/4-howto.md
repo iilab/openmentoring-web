@@ -1,6 +1,4 @@
-
 ## How-to
-
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
 (1) install Jitsi  
@@ -14,17 +12,17 @@ You can install Jitsi through the following steps:
 
 **Step 1**: Download Jitsi through its [website](https://jitsi.org/Main/Download). 
 
-**Step 2**: Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *&quot;Run&quot;* to activate the Windows Installer screen, followed by the *&quot;Welcome to the Jitsi Setup Wizard&quot;* window.
+**Step 2**: Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *"Run"* to activate the Windows Installer screen, followed by the *"Welcome to the Jitsi Setup Wizard"* window.
 
-**Step 3**: Click on **&quot;Next&quot;** to activate the &quot;End User License Agreement&quot; window; **check** the &quot;I accept the terms in the License Agreement&quot; option to enable the *Next* button, and then click on **&quot;Next&quot;** to activate the &quot;Destination Folder&quot; window.
+**Step 3**: Click on **"Next"** to activate the "End User License Agreement" window; **check** the "I accept the terms in the License Agreement" option to enable the *Next* button, and then click on **"Next"** to activate the "Destination Folder" window.
 
-**Step 4**: Click on **&quot;Next&quot;** to activate the &quot;Additional Tasks&quot; window and accept the default settings as presented.
+**Step 4**: Click on **"Next"** to activate the "Additional Tasks" window and accept the default settings as presented.
 
 **Note:** Enabling the Auto-start when computer restarts or reboots option may slow down the overall function of your computer, especially if you already have multiple applications configured to run when your computer starts up.
 
-**Step 5**: Click on **&quot;Next&quot;** to activate the &quot;Ready to Install Jitsi&quot; window, and then click on **&quot;Install&quot;** to activate the &quot;Installing Jitsi&quot; window displaying the installation progress bar.
+**Step 5**: Click on **"Next"** to activate the "Ready to Install Jitsi" window, and then click on **"Install"** to activate the "Installing Jitsi" window displaying the installation progress bar.
 
-**Step 6**: Click on **&quot;Finish&quot;** to complete the installation process and automatically launch the &quot;Jitsi Sign in&quot; window as follows:
+**Step 6**: Click on **"Finish"** to complete the installation process and automatically launch the "Jitsi Sign in" window as follows:
 
 ![]({{site.baseurl}}/https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-07.png)
 
@@ -41,19 +39,19 @@ Facebook has two settings that you might need to change before Jitsi can connect
 
 Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page. Your username is also included in your Facebook email address (e.g. username@facebook.com). 
 
-You can get a new Facebook username by going to your Account Settings &gt; General section or by visiting https://www.facebook.com/username. To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process. For more details see Facebook’s explanation of usernames.
+You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username. To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process. For more details see Facebook’s explanation of usernames.
 
 **App Settings**
 
-Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat. Visit your Facebook Account Settings &gt; Apps section and check that the setting for “Apps you use” is turned “On”. 
+Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat. Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”. 
 
-**Note:** Turning Facebook’s &quot;application platform&quot; on opens up much of your Facebook data to third-party application developers. This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends. After turning on Facebook’s &quot;application platform&quot;, be sure to check the settings under &quot;Apps others use&quot;. This setting allows you to hide some personal information from applications used by your friends. Unfortunately, Facebook does not offer settings to hide all personal information. Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s &quot;application platform&quot; is turned &quot;on&quot;. It is up to you to determine whether this is an acceptable trade-off.
+**Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers. This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends. After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use". This setting allows you to hide some personal information from applications used by your friends. Unfortunately, Facebook does not offer settings to hide all personal information. Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s "application platform" is turned "on". It is up to you to determine whether this is an acceptable trade-off.
 
 Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
 
-**Step 1:** Select **File &gt; Add New Account...** in the main menu bar of Jitsi.
+**Step 1:** Select **File > Add New Account...** in the main menu bar of Jitsi.
 
-**Step 2:** In the &quot;Add New Account&quot; dialogue, *Network* menu choose Facebook, enter your username and password and Click **&quot;Add&quot;**.
+**Step 2:** In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
 
@@ -61,11 +59,11 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
 
 OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
 
-**Step 1:** Select **Tools &gt; Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
+**Step 1:** Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-35.png 
 
-**Step 2:** Click on the **&quot;Generate&quot;** button. As a result you will see the fingerprint of the key that has been generated:
+**Step 2:** Click on the **"Generate"** button. As a result you will see the fingerprint of the key that has been generated:
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-36.png 
 
@@ -73,7 +71,7 @@ One key is generated for each account. You only need to do this again if you add
 
 You are now ready to communicate:
 
-**Step 3:** Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact&#39;s name) to open a text chat window:
+**Step 3:** Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact's name) to open a text chat window:
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-37.png
 
@@ -102,7 +100,7 @@ Note that padlock no longer includes the orange triangle with the white exclamat
 
 Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to:
 
-**Step 1:** Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact&#39;s name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
+**Step 1:** Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png
 
@@ -116,11 +114,11 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png
 
 Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
 
-**Step 3:** Wait... Your and your contact&#39;s programs are establishing an encrypted connection, which may take a moment. If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don&#39;t succeed in establishing a connection, you still can chat but without encryption. You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
+**Step 3:** Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment. If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption. You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png
 
-**Step 4:** Observe the section under the letters zrtp and padlock with the message &quot;Compare with partner&quot; followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
+**Step 4:** Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
 

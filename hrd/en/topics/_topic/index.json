@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2015-12-06T13:13:16.625Z",
+  "title": "Topic Title",
+  "slug": "_topic",
+  "units": [
+    {
+      "slug": "_topic_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Topic Title",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ]  
+}

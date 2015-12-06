@@ -1,6 +1,4 @@
-
 ## Learn
-
 Downloading Signal:
  - Install Signal from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
  - Once installed click open to start the application

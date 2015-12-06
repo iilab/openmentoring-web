@@ -1,9 +1,7 @@
-
 ## How-to
+You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 
-You can control who can see various elements of your profile. This doesn&#39;t happen in the main privacy settings but directly when editing your profile.
-
-For instance going to About &gt; Contact &amp; Basic Info you can see your date of birth:
+For instance going to About > Contact & Basic Info you can see your date of birth:
 
 ![Screen Shot 2015-11-20 at 16.54.51.png](Screen Shot 2015-11-20 at 16.54.51.png)
 

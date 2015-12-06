@@ -1,0 +1,83 @@
+{
+  "updatedAt": "2015-12-06T13:13:14.848Z",
+  "title": "Understanding Digital Security",
+  "slug": "understand-digisec",
+  "units": [
+    {
+      "slug": "understand-digisec_encryption",
+      "type": "unit",
+      "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_metadata",
+      "type": "unit",
+      "title": "Metadata",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_passwords",
+      "type": "unit",
+      "title": "Passwords",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_protect-identity",
+      "type": "unit",
+      "title": "Protecting Identity",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_secure-communications",
+      "type": "unit",
+      "title": "Secure Communications",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ,
+    {
+      "slug": "understand-digisec_trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "cards": []
+    }
+  ]  
+}

@@ -1,6 +1,4 @@
-
 ## How-to
-
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -40,7 +38,7 @@ Note If you send a message to another Signal user and you are connected to the I
 
 
 ![3s.png]({{site.baseurl}}/media/3s.png)
-Figure 2 &amp; 3: Sent message / Alternative sending options
+Figure 2 & 3: Sent message / Alternative sending options
 
 ## _Things You Should Know_
 
@@ -82,7 +80,7 @@ Note: If at least one of the people you are messaging does not use Signal, the m
 
 
 ![8s.png]({{site.baseurl}}/media/8s.png)
-Figure 7 &amp; 8: Contact selection &amp; Group Creation
+Figure 7 & 8: Contact selection & Group Creation
 
 **Step 4:** Tap to complete the creation of the group and be brought back to the Signal main screen.
 
@@ -109,7 +107,7 @@ Signal allows you to send images, video and audio files to your contact.
 
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
-Figure 10 &amp; 11: File type selection / Image sent to contact
+Figure 10 & 11: File type selection / Image sent to contact
 
 ## [5] Identity Verification
 
@@ -141,22 +139,22 @@ The Following steps will need to be performed by both parties.
 
 **Step 4:** On both your phones tap on .
 
-**Step 5:** On your phone tap and your contact should tap . Your contact&#39;s phone will display a QR code and your phone will open Barcode Scanner.
+**Step 5:** On your phone tap and your contact should tap . Your contact's phone will display a QR code and your phone will open Barcode Scanner.
 
-**Step 6:** Use Barcode Scanner on your phone to scan your contact&#39;s QR code.
+**Step 6:** Use Barcode Scanner on your phone to scan your contact's QR code.
 
 ![14s.png]({{site.baseurl}}/media/14s.png)
 
 
 ![15s.png]({{site.baseurl}}/media/15s.png)
-Figure 13 &amp; 14: Your contact&#39;s QR code / Barcode scanner
+Figure 13 & 14: Your contact's QR code / Barcode scanner
 
 **Step 7:** Once the QR code has been successfully scanned Signal will check that the identity is valid.
 
 ![16s.png]({{site.baseurl}}/media/16s.png)
 Figure 15: Signal identity verified
 
-**Step 8:** Once you have verified your contact&#39;s Signal identity, they should repeat the above steps to verify yours.
+**Step 8:** Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
 
 ## [8] Export your messages
 Note: While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
@@ -169,13 +167,13 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 **Step 4:** Confirm that you want to export the unencrypted messages to the storage on your phone by tapping .
 
-**Step 5:** Signal will confirm the export has completed by displaying . You will find a file called Textsecure.xml on your phone&#39;s storage that contains your unencrypted messages.
+**Step 5:** Signal will confirm the export has completed by displaying . You will find a file called Textsecure.xml on your phone's storage that contains your unencrypted messages.
 
 ![17s.png]({{site.baseurl}}/media/17s.png)
 
 
 ![18s.png]({{site.baseurl}}/media/18s.png)
-Figure 16 &amp; 17: Signal Export and Export confirmation screens
+Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
