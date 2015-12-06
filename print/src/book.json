@@ -1,0 +1,19 @@
+{
+    "gitbook": "2.4.x",
+    "plugins": [
+        "richquotes",
+        "edit-link",
+        "anchors",
+        "piwik",
+        "image-captions"
+    ],
+    "links": {
+        "sidebar": {
+            "Open Mentoring Homepage": "https://openmentoring.io",
+            "Download the app": "https://openmentoring.io/download"
+        }
+    },
+    "pdf": {
+        "toc": false
+    }
+}
