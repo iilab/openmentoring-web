@@ -9,6 +9,11 @@
   * [Seeking Remote Help](topics/practice-emergencies/seeking-help/index.md)
   * [Devices Seized](topics/practice-emergencies/seized-devices/index.md)
   
+* [Topic Title](topics/practice-internet-anonymity/index.md)
+  * [Getting Started](topics/practice-internet-anonymity/getting-started/index.md)
+  * [Getting Started](topics/practice-internet-anonymity/leave-no-traces/index.md)
+  * [Getting Started](topics/practice-internet-anonymity/prevent-traffic-being-watched/index.md)
+  
 * [Planning and Preparing](topics/practice-planning/index.md)
   * [Assessing Digital Security Risks](topics/practice-planning/assess-digital-risk/index.md)
   * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)

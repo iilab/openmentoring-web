@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T11:46:36.436Z",
+  "updatedAt": "2015-12-09T16:15:24.860Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -24,19 +24,19 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "4-test",
       "title": "Test",
       "type": "activity",
       "category": [],
       "contents": "<quiz name=\"Gitbook Quiz\">\n    <question multiple>\n        <p>What is gitbook used for?</p>\n        <answer correct>To read books</answer>\n        <answer>To book hotel named git</answer>\n        <answer correct>To write and publish beautiful books</answer>\n        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>\n    </question>\n    <question>\n        <p>Is it quiz?</p>\n        <answer correct>Yes</answer>\n        <answer>No</answer>\n    </question>\n</quiz>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {
