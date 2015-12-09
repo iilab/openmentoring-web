@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-09T18:11:57.096Z",
+  "updatedAt": "2015-12-09T18:12:00.646Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -24,17 +24,6 @@
     }
   ,
     {
-      "slug": "practice-planning",
-      "type": "topic",
-      "title": "Planning and Preparing",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-safe-phones",
       "type": "topic",
       "title": "Safe Phones",
@@ -43,6 +32,17 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-planning",
+      "type": "topic",
+      "title": "Planning and Preparing",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
     }
   ,
     {
@@ -234,20 +234,20 @@
     }
   ,
     {
-      "slug": "practice-planning_assess-digital-risk",
+      "slug": "practice-safe-phones_instant-messaging",
       "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones/index.json.gz"
     }
   ,
     {
-      "slug": "practice-planning_assess-risk",
+      "slug": "practice-planning_assess-digital-risk",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Assessing Digital Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -289,14 +289,14 @@
     }
   ,
     {
-      "slug": "practice-safe-phones_instant-messaging",
+      "slug": "practice-planning_assess-risk",
       "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-safe-phones/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-planning/index.json.gz"
     }
   ,
     {

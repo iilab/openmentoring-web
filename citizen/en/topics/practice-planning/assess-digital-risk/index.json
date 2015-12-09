@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T18:12:01.924Z",
+  "updatedAt": "2015-12-09T18:12:06.075Z",
   "cards": [
     {
       "stack": "1-intro-hrm",
@@ -24,14 +24,6 @@
     }
   ,
     {
-      "stack": "2-scenario",
-      "title": "Scenario",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Scenario text...</p>"
-    }
-  ,
-    {
       "stack": "1-intro",
       "title": "Introduction",
       "type": "card",
@@ -45,6 +37,14 @@
       "type": "card",
       "category": [],
       "contents": "</p>\n<p>The idea of this section is to consider that same logic, as it applies to our digital activities, both as journalists and as private people.</p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Scenario text...</p>"
     }
   ,
     {
