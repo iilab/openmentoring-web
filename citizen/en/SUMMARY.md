@@ -41,15 +41,6 @@
   * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
   
-* [Understanding Digital Security](topics/understand-digisec/index.md)
-  * [Encryption](topics/understand-digisec/encryption/index.md)
-  * [Getting Started](topics/understand-digisec/getting-started/index.md)
-  * [Metadata](topics/understand-digisec/metadata/index.md)
-  * [Passwords](topics/understand-digisec/passwords/index.md)
-  * [Protecting Identity](topics/understand-digisec/protect-identity/index.md)
-  * [Secure Communications](topics/understand-digisec/secure-communications/index.md)
-  * [Establishing Trust](topics/understand-digisec/trust/index.md)
-  
 * [How does it work?](topics/understand-how-it-works/index.md)
   * [Computers](topics/understand-how-it-works/computers/index.md)
   * [Getting Started](topics/understand-how-it-works/getting-started/index.md)
@@ -59,6 +50,15 @@
   
 * [Understanding Operational Security](topics/understand-opsec/index.md)
   * [Unit Title](topics/understand-opsec/getting-started/index.md)
+  
+* [Understanding Digital Security](topics/understand-digisec/index.md)
+  * [Encryption](topics/understand-digisec/encryption/index.md)
+  * [Getting Started](topics/understand-digisec/getting-started/index.md)
+  * [Metadata](topics/understand-digisec/metadata/index.md)
+  * [Protecting Identity](topics/understand-digisec/protect-identity/index.md)
+  * [Secure Communications](topics/understand-digisec/secure-communications/index.md)
+  * [Establishing Trust](topics/understand-digisec/trust/index.md)
+  * [Passwords](topics/understand-digisec/passwords/index.md)
   
 * [Understand Security](topics/understand-security/index.md)
   * [Getting Started](topics/understand-security/getting-started/index.md)
