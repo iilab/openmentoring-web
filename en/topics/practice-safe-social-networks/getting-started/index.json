@@ -5,14 +5,22 @@
   "parentTitle": "Safe Social Networks",
   "locale": "en",
   "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
-  "updatedAt": "2015-12-06T21:20:23.624Z",
+  "updatedAt": "2015-12-09T11:46:41.463Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
       "title": "Introduction",
       "type": "card",
       "category": [ "profile:hrd"],
-      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.</p>"
+      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. </p>"
+    }
+  ,
+    {
+      "stack": "1-intro-hrd",
+      "title": "Introduction",
+      "type": "card",
+      "category": [ "profile:hrd"],
+      "contents": "<p>Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.</p>"
     }
   ,
     {
@@ -20,7 +28,15 @@
       "title": "Introduction",
       "type": "card",
       "category": [ "profile:journo"],
-      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.</p>"
+      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. </p>"
+    }
+  ,
+    {
+      "stack": "1-intro-journo",
+      "title": "Introduction",
+      "type": "card",
+      "category": [ "profile:journo"],
+      "contents": "<p>Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.</p>"
     }
   ,
     {
@@ -28,7 +44,15 @@
       "title": "Introduction",
       "type": "card",
       "category": [],
-      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves <strong>and</strong> about the people they work with.</p>"
+      "contents": "<p>If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. </p>"
+    }
+  ,
+    {
+      "stack": "1-intro",
+      "title": "Introduction",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves <strong>and</strong> about the people they work with.</p>"
     }
   ,
     {
@@ -36,7 +60,31 @@
       "title": "Scenario",
       "type": "card",
       "category": [ "profile:hrd"],
-      "contents": "<p>Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
+      "contents": "<p>Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-hrd",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:hrd"],
+      "contents": "<p>They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-hrd",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:hrd"],
+      "contents": "<p>They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-hrd",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:hrd"],
+      "contents": "<p>Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
     }
   ,
     {
@@ -44,7 +92,31 @@
       "title": "Scenario",
       "type": "card",
       "category": [ "profile:journo"],
-      "contents": "<p>Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
+      "contents": "<p>Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-journo",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:journo"],
+      "contents": "<p>They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-journo",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:journo"],
+      "contents": "<p>They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario-journo",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "profile:journo"],
+      "contents": "<p>Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
     }
   ,
     {
@@ -52,7 +124,31 @@
       "title": "Scenario",
       "type": "card",
       "category": [],
-      "contents": "<p>Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
+      "contents": "<p>Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.</p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? </p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Mansour and Magda plan how to share photos and videos of the march without revealing people&#39;s identities, because they worry that participants could face persecution.</p>"
     }
   ,
     {
