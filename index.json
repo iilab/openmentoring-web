@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-09T18:15:35.414Z",
+  "updatedAt": "2015-12-09T18:21:34.710Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -73,7 +73,7 @@
       "title": "Using the Open Mentoring App.",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-signal.zip"
     }
@@ -399,23 +399,23 @@
     }
   ,
     {
-      "slug": "tool-signal_messaging",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App.",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-signal_voice",
       "type": "unit",
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App.",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-signal_messaging",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App.",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-signal/index.json.gz"
     }
