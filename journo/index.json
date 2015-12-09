@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-09T17:31:33.194Z",
+  "updatedAt": "2015-12-09T17:36:46.994Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -79,17 +79,6 @@
     }
   ,
     {
-      "slug": "understand-digisec",
-      "type": "topic",
-      "title": "Understanding Digital Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-how-it-works",
       "type": "topic",
       "title": "How does it work?",
@@ -109,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec",
+      "type": "topic",
+      "title": "Understanding Digital Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
     }
   ,
     {
@@ -421,83 +421,6 @@
     }
   ,
     {
-      "slug": "understand-digisec_encryption",
-      "type": "unit",
-      "title": "Encryption",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_metadata",
-      "type": "unit",
-      "title": "Metadata",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_passwords",
-      "type": "unit",
-      "title": "Passwords",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_protect-identity",
-      "type": "unit",
-      "title": "Protecting Identity",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_secure-communications",
-      "type": "unit",
-      "title": "Secure Communications",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec_trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-how-it-works_computers",
       "type": "unit",
       "title": "Computers",
@@ -561,6 +484,83 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_encryption",
+      "type": "unit",
+      "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_metadata",
+      "type": "unit",
+      "title": "Metadata",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_passwords",
+      "type": "unit",
+      "title": "Passwords",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_protect-identity",
+      "type": "unit",
+      "title": "Protecting Identity",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_secure-communications",
+      "type": "unit",
+      "title": "Secure Communications",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
     }
   ,
     {
