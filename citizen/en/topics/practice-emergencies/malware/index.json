@@ -5,16 +5,8 @@
   "parentTitle": "Dealing with Emergencies",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T18:08:33.184Z",
+  "updatedAt": "2015-12-09T18:10:36.795Z",
   "cards": [
-    {
-      "stack": "1-intro",
-      "title": "Introduction",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Introduction text...</p>"
-    }
-  ,
     {
       "stack": "2-scenario",
       "title": "Scenario",
@@ -24,11 +16,11 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
+      "stack": "1-intro",
+      "title": "Introduction",
       "type": "card",
       "category": [],
-      "contents": "<p>Learning text...</p>"
+      "contents": "<p>Introduction text...</p>"
     }
   ,
     {
@@ -37,6 +29,14 @@
       "type": "activity",
       "category": [],
       "contents": "<quiz name=\"Gitbook Quiz\">\n    <question multiple>\n        <p>What is gitbook used for?</p>\n        <answer correct>To read books</answer>\n        <answer>To book hotel named git</answer>\n        <answer correct>To write and publish beautiful books</answer>\n        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>\n    </question>\n    <question>\n        <p>Is it quiz?</p>\n        <answer correct>Yes</answer>\n        <answer>No</answer>\n    </question>\n</quiz>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {
