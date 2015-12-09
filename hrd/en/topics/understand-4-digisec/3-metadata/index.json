@@ -1,0 +1,51 @@
+{
+  "slug": "understand-4-digisec_3-metadata",
+  "type": "unit",
+  "title": "Metadata",
+  "parentTitle": "Understanding Digital Security",
+  "locale": "en",
+  "categories": [],
+  "updatedAt": "2015-12-09T19:13:44.690Z",
+  "cards": [
+    {
+      "stack": "1-intro",
+      "title": "Introduction",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Introduction text...</p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Scenario text...</p>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
+    }
+  ,
+    {
+      "stack": "4-test",
+      "title": "Test",
+      "type": "activity",
+      "category": [],
+      "contents": "<quiz name=\"Gitbook Quiz\">\n    <question multiple>\n        <p>What is gitbook used for?</p>\n        <answer correct>To read books</answer>\n        <answer>To book hotel named git</answer>\n        <answer correct>To write and publish beautiful books</answer>\n        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>\n    </question>\n    <question>\n        <p>Is it quiz?</p>\n        <answer correct>Yes</answer>\n        <answer>No</answer>\n    </question>\n</quiz>"
+    }
+  ,
+    {
+      "stack": "5-next",
+      "title": "Next",
+      "type": "card",
+      "category": [],
+      "contents": "<ul>\n<li><a href=\"en/topics/_topic/_unit/index.md\">A topic to study next</a></li>\n<li><a href=\"en/topics/_topic/_unit/index.md\">Another topic</a></li>\n<li>...</li>\n</ul>"
+    }
+  ]
+}
+  
