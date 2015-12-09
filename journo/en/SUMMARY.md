@@ -14,15 +14,15 @@
   * [Getting Started](topics/practice-internet-anonymity/leave-no-traces/index.md)
   * [Getting Started](topics/practice-internet-anonymity/prevent-traffic-being-watched/index.md)
   
-* [Safe Phones](topics/practice-safe-phones/index.md)
-  * [Instant Messaging on Smart Phones](topics/practice-safe-phones/instant-messaging/index.md)
-  
 * [Planning and Preparing](topics/practice-planning/index.md)
   * [Assessing Digital Security Risks](topics/practice-planning/assess-digital-risk/index.md)
+  * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)
   * [Preparing for emergencies with your contacts](topics/practice-planning/emergency-plan/index.md)
   * [Getting Started](topics/practice-planning/getting-started/index.md)
   * [Understanding Threats](topics/practice-planning/threats/index.md)
-  * [Assessing Security Risks](topics/practice-planning/assess-risk/index.md)
+  
+* [Safe Phones](topics/practice-safe-phones/index.md)
+  * [Instant Messaging on Smart Phones](topics/practice-safe-phones/instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-safe-social-networks/index.md)
   * [How to control access to friends &amp; contacts?](topics/practice-safe-social-networks/access-friends-contacts/index.md)
