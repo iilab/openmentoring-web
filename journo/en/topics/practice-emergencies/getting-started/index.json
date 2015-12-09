@@ -5,7 +5,7 @@
   "parentTitle": "Dealing with Emergencies",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T11:46:36.436Z",
+  "updatedAt": "2015-12-09T16:15:24.860Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -16,19 +16,19 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "2-scenario",
       "title": "Scenario",
       "type": "card",
       "category": [],
       "contents": "<p>Scenario text...</p>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {
