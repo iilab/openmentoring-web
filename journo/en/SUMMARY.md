@@ -19,6 +19,10 @@
 * [Safe Phones](topics/practice-safe-phones/index.md)
   * [Instant Messaging on Smart Phones](topics/practice-safe-phones/instant-messaging/index.md)
   
+* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
+  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
+  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
+  
 * [Safe Social Networks](topics/practice-safe-social-networks/index.md)
   * [How to control access to friends &amp; contacts?](topics/practice-safe-social-networks/access-friends-contacts/index.md)
   * [How to control access to your personal details?](topics/practice-safe-social-networks/access-personal-details/index.md)
@@ -26,10 +30,6 @@
   * [Getting started with Social Networks](topics/practice-safe-social-networks/getting-started/index.md)
   * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-safe-social-networks/who-controls/index.md)
-  
-* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
-  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
-  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
   
 * [Using the Open Mentoring App.](topics/tool-signal/index.md)
   * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
@@ -45,15 +45,15 @@
   * [Secure Communications](topics/understand-digisec/secure-communications/index.md)
   * [Establishing Trust](topics/understand-digisec/trust/index.md)
   
-* [Understanding Operational Security](topics/understand-opsec/index.md)
-  * [Unit Title](topics/understand-opsec/getting-started/index.md)
-  
 * [How does it work?](topics/understand-how-it-works/index.md)
   * [Computers](topics/understand-how-it-works/computers/index.md)
   * [Getting Started](topics/understand-how-it-works/getting-started/index.md)
   * [Internet](topics/understand-how-it-works/internet/index.md)
-  * [Smart Phones](topics/understand-how-it-works/smartphones/index.md)
   * [Phones](topics/understand-how-it-works/phones/index.md)
+  * [Smart Phones](topics/understand-how-it-works/smartphones/index.md)
+  
+* [Understanding Operational Security](topics/understand-opsec/index.md)
+  * [Unit Title](topics/understand-opsec/getting-started/index.md)
   
 * [Understand Security](topics/understand-security/index.md)
   * [Getting Started](topics/understand-security/getting-started/index.md)

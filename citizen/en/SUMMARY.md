@@ -27,14 +27,14 @@
   * [Who can access your information on Social Networking platforms?](topics/practice-safe-social-networks/who-can-access/index.md)
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-safe-social-networks/who-controls/index.md)
   
+* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
+  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
+  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
+  
 * [Using the Open Mentoring App.](topics/tool-signal/index.md)
   * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
-  
-* [Using the Open Mentoring App.](topics/tool-open-mentoring/index.md)
-  * [Getting Started with the Open Mentoring App](topics/tool-open-mentoring/getting-started/index.md)
-  * [How to share the Open Mentoring App](topics/tool-open-mentoring/sharing/index.md)
   
 * [Understanding Digital Security](topics/understand-digisec/index.md)
   * [Encryption](topics/understand-digisec/encryption/index.md)
