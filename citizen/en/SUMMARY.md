@@ -53,8 +53,8 @@
 * [How does it work?](topics/understand-how-it-works/index.md)
   * [Computers](topics/understand-how-it-works/computers/index.md)
   * [Getting Started](topics/understand-how-it-works/getting-started/index.md)
-  * [Internet](topics/understand-how-it-works/internet/index.md)
   * [Phones](topics/understand-how-it-works/phones/index.md)
+  * [Internet](topics/understand-how-it-works/internet/index.md)
   * [Smart Phones](topics/understand-how-it-works/smartphones/index.md)
   
 * [Understanding Operational Security](topics/understand-opsec/index.md)

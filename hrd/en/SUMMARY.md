@@ -38,8 +38,8 @@
   
 * [Using the Open Mentoring App.](topics/tool-signal/index.md)
   * [Getting Started with Signal](topics/tool-signal/getting-started/index.md)
-  * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   * [How to share the Open Mentoring App](topics/tool-signal/voice/index.md)
+  * [How to share the Open Mentoring App](topics/tool-signal/messaging/index.md)
   
 * [Understanding Digital Security](topics/understand-digisec/index.md)
   * [Encryption](topics/understand-digisec/encryption/index.md)

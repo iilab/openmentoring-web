@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-09T18:21:42.826Z",
+  "updatedAt": "2015-12-09T18:27:52.293Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-how-it-works_internet",
+      "slug": "understand-how-it-works_phones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -531,9 +531,9 @@
     }
   ,
     {
-      "slug": "understand-how-it-works_phones",
+      "slug": "understand-how-it-works_internet",
       "type": "unit",
-      "title": "Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
