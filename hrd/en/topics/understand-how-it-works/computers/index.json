@@ -5,7 +5,7 @@
   "parentTitle": "How does it work?",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T18:10:34.299Z",
+  "updatedAt": "2015-12-09T18:12:03.431Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -16,19 +16,19 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "2-scenario",
       "title": "Scenario",
       "type": "card",
       "category": [],
       "contents": "<p>Scenario text...</p>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {
