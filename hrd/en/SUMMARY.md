@@ -1,14 +1,5 @@
 # Summary
 
-* [Dealing with Emergencies](topics/practice-emergencies/index.md)
-  * [Account Hijacking](topics/practice-emergencies/account-hijacking/index.md)
-  * [After an Emergency](topics/practice-emergencies/after/index.md)
-  * [DDOS Attack](topics/practice-emergencies/ddos/index.md)
-  * [Getting Started](topics/practice-emergencies/getting-started/index.md)
-  * [Malware](topics/practice-emergencies/malware/index.md)
-  * [Seeking Remote Help](topics/practice-emergencies/seeking-help/index.md)
-  * [Devices Seized](topics/practice-emergencies/seized-devices/index.md)
-  
 * [Topic Title](topics/practice-internet-anonymity/index.md)
   * [Getting Started](topics/practice-internet-anonymity/getting-started/index.md)
   * [Getting Started](topics/practice-internet-anonymity/leave-no-traces/index.md)
@@ -68,4 +59,13 @@
   * [Your Sources](topics/understand-security/your-sources-journo/index.md)
   * [Your Story](topics/understand-security/your-story-journo/index.md)
   * [Your Well Being](topics/understand-security/your-well-being/index.md)
+  
+* [Dealing with Emergencies](topics/practice-emergencies/index.md)
+  * [Account Hijacking](topics/practice-emergencies/account-hijacking/index.md)
+  * [After an Emergency](topics/practice-emergencies/after/index.md)
+  * [DDOS Attack](topics/practice-emergencies/ddos/index.md)
+  * [Malware](topics/practice-emergencies/malware/index.md)
+  * [Seeking Remote Help](topics/practice-emergencies/seeking-help/index.md)
+  * [Devices Seized](topics/practice-emergencies/seized-devices/index.md)
+  * [Getting Started](topics/practice-emergencies/getting-started/index.md)
   

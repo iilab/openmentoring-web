@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-09T17:36:46.994Z",
+  "updatedAt": "2015-12-09T17:47:04.499Z",
   "items": [
     {
       "slug": "practice-emergencies",
@@ -79,6 +79,17 @@
     }
   ,
     {
+      "slug": "understand-digisec",
+      "type": "topic",
+      "title": "Understanding Digital Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-how-it-works",
       "type": "topic",
       "title": "How does it work?",
@@ -98,17 +109,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-digisec",
-      "type": "topic",
-      "title": "Understanding Digital Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
     }
   ,
     {
@@ -421,75 +421,20 @@
     }
   ,
     {
-      "slug": "understand-how-it-works_computers",
-      "type": "unit",
-      "title": "Computers",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-how-it-works_getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-how-it-works_internet",
-      "type": "unit",
-      "title": "Internet",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-how-it-works_phones",
-      "type": "unit",
-      "title": "Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-how-it-works_smartphones",
-      "type": "unit",
-      "title": "Smart Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-opsec_getting-started",
-      "type": "unit",
-      "title": "Unit Title",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-digisec_encryption",
       "type": "unit",
       "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-digisec_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -553,14 +498,69 @@
     }
   ,
     {
-      "slug": "understand-digisec_getting-started",
+      "slug": "understand-how-it-works_computers",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Digital Security",
+      "title": "Computers",
+      "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-digisec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_internet",
+      "type": "unit",
+      "title": "Internet",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_phones",
+      "type": "unit",
+      "title": "Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-how-it-works_smartphones",
+      "type": "unit",
+      "title": "Smart Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-opsec_getting-started",
+      "type": "unit",
+      "title": "Unit Title",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-opsec/index.json.gz"
     }
   ,
     {
