@@ -5,7 +5,7 @@
   "parentTitle": "Understand Security",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-09T18:12:00.646Z",
+  "updatedAt": "2015-12-09T18:15:37.695Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -13,14 +13,6 @@
       "type": "card",
       "category": [],
       "contents": "<p>Introduction text...</p>"
-    }
-  ,
-    {
-      "stack": "2-scenario",
-      "title": "Scenario",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Scenario text...</p>"
     }
   ,
     {
@@ -37,6 +29,14 @@
       "type": "activity",
       "category": [],
       "contents": "<quiz name=\"Gitbook Quiz\">\n    <question multiple>\n        <p>What is gitbook used for?</p>\n        <answer correct>To read books</answer>\n        <answer>To book hotel named git</answer>\n        <answer correct>To write and publish beautiful books</answer>\n        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>\n    </question>\n    <question>\n        <p>Is it quiz?</p>\n        <answer correct>Yes</answer>\n        <answer>No</answer>\n    </question>\n</quiz>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Scenario text...</p>"
     }
   ,
     {
