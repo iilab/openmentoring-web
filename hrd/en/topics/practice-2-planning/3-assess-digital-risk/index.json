@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [ "profile:hrd"],
-  "updatedAt": "2015-12-10T15:51:44.885Z",
+  "updatedAt": "2015-12-10T15:55:08.960Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
@@ -180,7 +180,7 @@
       "title": "Next",
       "type": "card",
       "category": [],
-      "contents": "<ul>\n<li><a href=\"en/topics/_topic/_unit/index.md\">A topic to study next</a></li>\n<li><a href=\"en/topics/_topic/_unit/index.md\">Another topic</a></li>\n<li>...</li>\n</ul>"
+      "contents": "<ul>\n<li><a href=\"en/topics/_topic/_unit/index.md\">A topic to study next</a></li>\n<li><a href=\"en/topics/_topic/_unit/index.md\">Another topic</a></li>\n<li><a href=\"https://securityinabox.org/en/lgbti-africa/security-risk\" title=\"Security box reference\">Security box</a></li>\n</ul>"
     }
   ]
 }
