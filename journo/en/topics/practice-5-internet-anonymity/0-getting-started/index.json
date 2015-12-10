@@ -5,14 +5,14 @@
   "parentTitle": "Using the Internet Anonymously",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-10T14:43:40.402Z",
+  "updatedAt": "2015-12-10T15:37:31.546Z",
   "cards": [
     {
       "stack": "1-intro",
       "title": "Introduction",
       "type": "card",
       "category": [],
-      "contents": "<p>Introduction text...</p>"
+      "contents": "<p>Concerns about internet privacy are no longer just the domain of terrorists and hackers only but also for anyone who hates the idea third-parties snooping around. </p>\n<p>A compromised internet identity makes you a prime target for identity theft and government surveillance and it makes it easy anyone interested in knowing exactly what you are up to while browsing.    </p>\n<p>If you want to keep yourself safe in this digital age,there are a number of tools available to use. </p>"
     }
   ,
     {
@@ -20,7 +20,7 @@
       "title": "Scenario",
       "type": "card",
       "category": [],
-      "contents": "<p>Scenario text...</p>"
+      "contents": "<p>Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. </p>\n<p>The authorities in Uganda have not been able to shut down their website, because it is hosted in another country, but they have often tried to learn the identity of the blog&#39;s administrators from other journalists.</p>\n<p>Henry and Grace are concerned that the authorities may be able to monitor their updates and learn who they are.</p>\n<p>In addition,they want to prepare for when the government eventually filters their website,not only so that they can continue updating it, but also in order to provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.</p>"
     }
   ,
     {
