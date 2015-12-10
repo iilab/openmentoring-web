@@ -3,6 +3,8 @@
 
 ***<p>Scenario text...</p>
 
+***<p>Learning text...</p>
+
 ***<quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -22,7 +24,5 @@
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
 <li>...</li>
 </ul>
-
-***<p>Learning text...</p>
 
 ***
