@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [ "profile:hrd"],
-  "updatedAt": "2015-12-10T15:56:48.962Z",
+  "updatedAt": "2015-12-10T15:57:05.753Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
@@ -36,7 +36,7 @@
       "title": "Introduction",
       "type": "card",
       "category": [],
-      "contents": "<p>Perhaps without realising, we take decisions based on risk analyses every day: you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. The idea of this section is to consider that same logic, as it applies to our digital activities, both as Journalists and as private people.</p>"
+      "contents": "<p>Perhaps without realising, we take decisions based on risk analyses every day. <strong>For example:</strong> you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. The idea of this section is to consider that same logic, as it applies to our digital activities, both as Journalists and as private people.</p>"
     }
   ,
     {
