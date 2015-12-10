@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [ "profile:hrd"],
-  "updatedAt": "2015-12-10T15:49:50.306Z",
+  "updatedAt": "2015-12-10T15:51:41.931Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
@@ -156,7 +156,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<p>It might help you to plot them on a &#39;Risk Matrix&#39; such as this one:</p>\n<p>| Probability |     |          |                           |              |\n| Very high   |     |          | Confiscation of materials |              |\n| High        |     | Burglary |                           |              |\n| Medium      |     |          | Entrapment and Assault    | Imprisonment |\n| Low         |     |          |                           |              |\n| Impact      | Low | Medium   | High                      | Catastrophic |\n|             |     |          |                           |              |</p>"
+      "contents": "<table>\n<thead>\n<tr>\n<th>Probability</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Very high</td>\n<td></td>\n<td></td>\n<td>Confiscation of materials</td>\n<td></td>\n</tr>\n<tr>\n<td>High</td>\n<td></td>\n<td>Burglary</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Medium</td>\n<td></td>\n<td></td>\n<td>Entrapment and Assault</td>\n<td>Imprisonment</td>\n</tr>\n<tr>\n<td>Low</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Impact</td>\n<td>Low</td>\n<td>Medium</td>\n<td>High</td>\n<td>Catastrophic</td>\n</tr>\n</tbody>\n</table>"
     }
   ,
     {
