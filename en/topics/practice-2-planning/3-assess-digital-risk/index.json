@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [ "profile:hrd"],
-  "updatedAt": "2015-12-10T15:57:05.753Z",
+  "updatedAt": "2015-12-10T17:07:15.823Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
@@ -28,7 +28,7 @@
       "title": "Introduction",
       "type": "card",
       "category": [],
-      "contents": "<p>1-intro-hrm.md\nIn order to know what measures to take in order to be more secure, both digitally and in our day-to-day personal and professional activities, it&#39;s important to understand the nature of the risk we face, so that we can make the right decisions about how best to stay safe.</p>"
+      "contents": "<p>In order to know what measures to take in order to be more secure, both digitally and in our day-to-day personal and professional activities, it&#39;s important to understand the nature of the risk we face, so that we can make the right decisions about how best to stay safe.</p>"
     }
   ,
     {
@@ -52,7 +52,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<p>In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, &gt; <strong>who</strong> is behind them, and &gt; <strong>why</strong>.</p>\n<p>In order to &#39;map&#39; the <strong>actors</strong> relevant to our work and our well-being, we might consider dividing them into three categories:"
+      "contents": "<p>In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, <strong>who</strong> is behind them, and <strong>why</strong>.</p>\n<p>In order to &#39;map&#39; the <strong>actors</strong> relevant to our work and our well-being, we might consider dividing them into three categories:"
     }
   ,
     {
@@ -100,7 +100,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>ASSESSING RISK</strong>\n<strong>Risk refers</strong> to possible events, however uncertain, that result in harm.</p>\n</blockquote>\n<p>You can think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.</p>"
+      "contents": "<p><strong>ASSESSING RISK</strong>\n<strong>Risk refers</strong> to possible events, however uncertain, that result in harm.</p>\n<p>You can think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.</p>"
     }
   ,
     {
@@ -108,7 +108,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>Threats</strong> refer to a declaration or indication of an intention to inflict harm. \nThe higher the threats, the higher your risk.\nAn example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.</p>\n</blockquote>"
+      "contents": "<p><strong>Threats</strong> refer to a declaration or indication of an intention to inflict harm. \nThe higher the threats, the higher your risk.\nAn example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.</p>"
     }
   ,
     {
@@ -116,7 +116,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>Vulnerabilities</strong> refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like &#39;123456&#39;.</p>\n</blockquote>"
+      "contents": "<p><strong>Vulnerabilities</strong> refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk. An example of a vulnerability may be having a very short, simple and easy to break password, like &#39;123456&#39;.</p>"
     }
   ,
     {
@@ -124,7 +124,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>Capacities</strong> refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.\nIt&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.</p>\n</blockquote>"
+      "contents": "<p><strong>Capacities</strong> refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.\nIt&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.</p>"
     }
   ,
     {
@@ -132,7 +132,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong></p>\n</blockquote>\n<p>It may help for you to map them out on a matrix, like this:\n| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |\n|---------|------|-------------------------|--------------------|-----------------------------|\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |</p>"
+      "contents": "<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong></p>\n<p>It may help for you to map them out on a matrix, like this:\n| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |\n|---------|------|-------------------------|--------------------|-----------------------------|\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |</p>"
     }
   ,
     {
@@ -140,7 +140,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>An example for an Investigative Journalist might look like this:</strong>\n|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |\n|-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |\n| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |\n| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                                                                     |</p>\n</blockquote>\n<p>This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.</p>"
+      "contents": "<p><strong>An example for an Investigative Journalist might look like this:</strong>\n|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |\n|-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |\n| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |\n| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                                                                     |</p>\n<p>This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.</p>"
     }
   ,
     {
@@ -148,7 +148,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>THE RISK MATRIX: PROBABILITY AND IMPACT</strong>\nIt may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.</p>\n</blockquote>"
+      "contents": "<p><strong>THE RISK MATRIX: PROBABILITY AND IMPACT</strong>\nIt may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.</p>"
     }
   ,
     {
