@@ -5,7 +5,7 @@
   "parentTitle": "Understanding Operational Security",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-10T15:55:06.108Z",
+  "updatedAt": "2015-12-10T15:56:43.366Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -24,6 +24,14 @@
     }
   ,
     {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
+    }
+  ,
+    {
       "stack": "4-test",
       "title": "Test",
       "type": "activity",
@@ -37,14 +45,6 @@
       "type": "card",
       "category": [],
       "contents": "<ul>\n<li><a href=\"en/topics/_topic/_unit/index.md\">A topic to study next</a></li>\n<li><a href=\"en/topics/_topic/_unit/index.md\">Another topic</a></li>\n<li>...</li>\n</ul>"
-    }
-  ,
-    {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
     }
   ]
 }

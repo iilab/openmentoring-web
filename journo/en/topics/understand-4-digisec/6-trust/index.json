@@ -5,7 +5,7 @@
   "parentTitle": "Understanding Digital Security",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-10T15:55:06.108Z",
+  "updatedAt": "2015-12-10T15:56:43.366Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -16,19 +16,19 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "2-scenario",
       "title": "Scenario",
       "type": "card",
       "category": [],
       "contents": "<p>Scenario text...</p>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {
