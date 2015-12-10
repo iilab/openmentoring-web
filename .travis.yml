@@ -1,6 +1,9 @@
-sudo: required
+sudo: false
 dist: trusty
 language: ruby
+cache:
+  directories:
+    - node_modules
 install:
   - source "$PWD/versions"
   - rvm use "$RUBY_VERSION" --install --binary
@@ -10,7 +13,7 @@ install:
   - npm install -g npm-registry-client
 script:
   - make 
-after_success:
+after_script:
   - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
 env:
   global:
