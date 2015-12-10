@@ -1,0 +1,18 @@
+sudo: false
+dist: trusty
+language: node_js
+node_js:
+  - "4.1"
+cache:
+  directories:
+    - node_modules
+install:
+  - npm install -g gitbook-cli
+  - npm install -g npm-registry-client
+script:
+  - make
+after_script:
+  - test $TRAVIS_TEST_RESULT == "0" && test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+env:
+  global:
+  - secure: EJjXVLe6KylrqBx4CcMePxW9hlW5zAN5N2Q3gvb2K7wmFmli4RP4QpH58OxZoUZ+VvibpdMzdCDNtM54NFSfklgYgYJnPruRlOwttFlAAaRPWo4cnOhcagbYaKjdK2Io89uMq15LCh6l5ikQpSu370/ogul7W3dvEzzmHmT6kOziHDvDsguv6qbfF2phvvYDFKOxowfKoSXoLb0WJELNswsXWmrWLCOJ6O7JHy9kTPoeZnjQvnmkrH3n1k+pGt+PLG/jq0OCK/6I7vCgSmv0/bft4MR9rBFIeMVRR4B13jLJ6G87D745dZ4KLkm3lfYxdIYSBDhQO6gBIQmA5wBnsj2Q0u49zFAIO4RGONg+9jervIAEF/3F0CFznXwTZ6/ye0ER0v+6t+J7tQbYtVbw+3xWE+szMriyUagGyFAXXkenvu0veuR+eWCmFBivFeiI4OpNWPbXkbK6OxxlIK+RpVo9CtE6mt2X5caqeLzTsoOSA5cxgCemqFX65DpbdbqBdPg6XBpDD5o3WD1GxlS2KilsSbQtOAyWbu1VbbGxD1PpirwUVxeCQ1kt88NJ5bPh0sTPvtMw0m3OMxWSuRksW8x+ZyAXB5cZ58bikH7f+iskKVxIHblfpfO2jBGR8kudmNIXrwIyJd+YyX07F2ZwpiJ+X/6AfwjIXojkbhEFOI0=
