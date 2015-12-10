@@ -1,0 +1,51 @@
+{
+  "slug": "tool-1-open-mentoring_0-getting-started",
+  "type": "unit",
+  "title": "Getting Started with the Open Mentoring App",
+  "parentTitle": "Using the Open Mentoring App",
+  "locale": "en",
+  "categories": [ "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+  "updatedAt": "2015-12-10T17:14:11.490Z",
+  "cards": [
+    {
+      "stack": "1-intro",
+      "title": "Introduction",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Introduction text...</p>"
+    }
+  ,
+    {
+      "stack": "2-scenario",
+      "title": "Scenario",
+      "type": "card",
+      "category": [ "protect:content", "protect:identity"],
+      "contents": "<p>Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents. He needs to be careful to share the app and its content in ways that doesn&#39;t allow to link them together to protect Magda as a source.</p>"
+    }
+  ,
+    {
+      "stack": "3-howto-android-content",
+      "title": "How-to",
+      "type": "howto",
+      "category": [ "platform:android", "protect:content"],
+      "contents": "<p>First you need to share the app</p>\n<ul>\n<li>If you want to share this app as a link </li>\n<li>If you want to share the app with a QR code</li>\n</ul>\n<p>Then you need to share the content</p>\n<ul>\n<li>...</li>\n</ul>"
+    }
+  ,
+    {
+      "stack": "3-howto-android-identity",
+      "title": "How-to",
+      "type": "howto",
+      "category": [ "platform:android", "protect:identity"],
+      "contents": "<p>First you need to share the app</p>\n<ul>\n<li>If you want to share this app as a link </li>\n<li>If you want to share the app with a QR code</li>\n</ul>\n<p>Then you need to share the content</p>\n<ul>\n<li>...</li>\n</ul>"
+    }
+  ,
+    {
+      "stack": "3-howto-android",
+      "title": "How-to",
+      "type": "howto",
+      "category": [ "platform:android"],
+      "contents": "<p>First you need to share the app</p>\n<ul>\n<li>If you want to share this app as a link </li>\n<li>If you want to share the app with a QR code</li>\n</ul>\n<p>Then you need to share the content</p>\n<ul>\n<li>...</li>\n</ul>"
+    }
+  ]
+}
+  
