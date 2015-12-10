@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [ "profile:hrd"],
-  "updatedAt": "2015-12-10T15:47:22.548Z",
+  "updatedAt": "2015-12-10T15:48:42.097Z",
   "cards": [
     {
       "stack": "1-intro-hrd",
@@ -132,7 +132,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong></p>\n</blockquote>\n<p>It may help for you to map them out on a matrix, like this:<img src=\"{{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152002.png\" alt=\"Matrix1\"></p>"
+      "contents": "<blockquote>\n<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong></p>\n</blockquote>\n<p>It may help for you to map them out on a matrix, like this:\n| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |\n|---------|------|-------------------------|--------------------|-----------------------------|\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |\n|         |      |                         |                    |                             |</p>"
     }
   ,
     {
@@ -140,7 +140,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>An example for an Investigative Journalist might look like this:</strong>\n<img src=\"{{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210152645.png\" alt=\"Matrix-example\"></p>\n</blockquote>\n<p>This example is merely for demonstrative purposes and may have nothing in common with your own situation. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.</p>"
+      "contents": "<blockquote>\n<p><strong>An example for an Investigative Journalist might look like this:</strong>\n|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |\n|-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |\n| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |\n| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                                                                     |</p>\n</blockquote>\n<p>This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.</p>"
     }
   ,
     {
@@ -148,7 +148,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<blockquote>\n<p><strong>THE RISK MATRIX: PROBABILITY AND IMPACT</strong></p>\n</blockquote>\n<p>It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.</p>"
+      "contents": "<blockquote>\n<p><strong>THE RISK MATRIX: PROBABILITY AND IMPACT</strong>\nIt may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurance, and their impact should they occur.</p>\n</blockquote>"
     }
   ,
     {
@@ -156,7 +156,7 @@
       "title": "Learn",
       "type": "card",
       "category": [],
-      "contents": "<p>It might help you to plot them on a &#39;Risk Matrix&#39; such as this one:\n<img src=\"{{site.baseurl}}/en/topics/practice-planning/assess-digital-risk/DeepinScreenshot20151210153729.png\" alt=\"Risk-matrix1\"></p>"
+      "contents": "<p>It might help you to plot them on a &#39;Risk Matrix&#39; such as this one:</p>\n<p>| Probability |     |          |                           |              |\n| Very high   |     |          | Confiscation of materials |              |\n| High        |     | Burglary |                           |              |\n| Medium      |     |          | Entrapment and Assault    | Imprisonment |\n| Low         |     |          |                           |              |\n| Impact      | Low | Medium   | High                      | Catastrophic |\n|             |     |          |                           |              |</p>"
     }
   ,
     {
