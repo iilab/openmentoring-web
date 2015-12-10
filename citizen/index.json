@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-10T15:39:53.977Z",
+  "updatedAt": "2015-12-10T15:44:40.734Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -18,7 +18,7 @@
       "title": "Planning and Preparing",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
@@ -239,7 +239,7 @@
       "title": "Assessing Digital Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
