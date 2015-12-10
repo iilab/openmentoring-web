@@ -73,6 +73,7 @@ Facebook has two settings that you might need to change before Jitsi can connect
 <p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png</a></p>
 <p>Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.</p>
 
+***
 ***<ul>
 <li><a href="safe-social-networks-who-can-access">Who can access the information I am putting online?</a></li>
 <li><a href="safe-social-networks-who-controls">Who controls and owns the information I put into a social networking site?</a></li>
@@ -81,5 +82,4 @@ Facebook has two settings that you might need to change before Jitsi can connect
 <li><a href="safe-social-networks-establishing-trust">Do I trust everyone with whom I&#39;m connected?</a></li>
 </ul>
 
-***
 ***
