@@ -5,7 +5,7 @@
   "parentTitle": "Planning and Preparing",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-10T14:30:31.672Z",
+  "updatedAt": "2015-12-10T14:30:37.258Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -16,19 +16,19 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "2-scenario",
       "title": "Scenario",
       "type": "card",
       "category": [],
       "contents": "<p>Scenario text...</p>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ,
     {

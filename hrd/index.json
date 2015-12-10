@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-10T14:30:28.742Z",
+  "updatedAt": "2015-12-10T14:30:34.372Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -73,7 +73,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -135,17 +135,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Account Hijacking",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
       "title": "Seeking Remote Help",
@@ -157,9 +146,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Malware",
+      "title": "Account Hijacking",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -171,6 +160,17 @@
       "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
       "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_4-malware",
+      "type": "unit",
+      "title": "Malware",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -322,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_4-who-controls",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "Who controls and owns your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -410,23 +410,23 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }

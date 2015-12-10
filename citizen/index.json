@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-10T14:30:31.672Z",
+  "updatedAt": "2015-12-10T14:30:37.258Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -454,9 +454,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_2-phones",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Phones",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -465,9 +465,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_2-phones",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -487,9 +487,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Organisational Security",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -586,9 +586,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_2-organisational-security",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Organisational Security",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -641,9 +641,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
