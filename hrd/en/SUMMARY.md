@@ -33,21 +33,14 @@
   * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
+* [Using Signal](topics/tool-2-signal/index.md)
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-* [How does it work?](topics/understand-1-how-it-works/index.md)
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -65,10 +58,17 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
