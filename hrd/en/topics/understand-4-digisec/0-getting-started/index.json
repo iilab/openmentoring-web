@@ -5,7 +5,7 @@
   "parentTitle": "Understanding Digital Security",
   "locale": "en",
   "categories": [],
-  "updatedAt": "2015-12-10T17:13:31.766Z",
+  "updatedAt": "2015-12-10T18:05:51.974Z",
   "cards": [
     {
       "stack": "1-intro",
@@ -24,14 +24,6 @@
     }
   ,
     {
-      "stack": "3-learn",
-      "title": "Learn",
-      "type": "card",
-      "category": [],
-      "contents": "<p>Learning text...</p>"
-    }
-  ,
-    {
       "stack": "4-test",
       "title": "Test",
       "type": "activity",
@@ -45,6 +37,14 @@
       "type": "card",
       "category": [],
       "contents": "<ul>\n<li><a href=\"en/topics/_topic/_unit/index.md\">A topic to study next</a></li>\n<li><a href=\"en/topics/_topic/_unit/index.md\">Another topic</a></li>\n<li>...</li>\n</ul>"
+    }
+  ,
+    {
+      "stack": "3-learn",
+      "title": "Learn",
+      "type": "card",
+      "category": [],
+      "contents": "<p>Learning text...</p>"
     }
   ]
 }
