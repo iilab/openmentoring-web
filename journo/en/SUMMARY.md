@@ -37,11 +37,6 @@
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
@@ -62,6 +57,11 @@
   * [Unit Title](topics/understand-3-opsec/0-getting-started/index.md)
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
