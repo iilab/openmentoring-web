@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-11T10:10:26.884Z",
+  "updatedAt": "2015-12-11T10:17:57.843Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -377,9 +377,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
+      "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -388,9 +388,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_1-sharing",
+      "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
