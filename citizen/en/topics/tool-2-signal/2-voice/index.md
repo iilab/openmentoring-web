@@ -6,8 +6,6 @@
 </ul>
 <p><a href="resources/risk-assessment.md">Learn more about risk types and levels</a></p>
 
-***<p>Scenario text...</p>
-
 ***<p>Make a call</p>
 <p>Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.</p>
 <p>Call your contact. 
@@ -21,5 +19,7 @@ This makes sure you are both who you say you are.</p>
 Say one word to your friend and ask them to say the other world. 
 This makes sure you are both who you say you are.</p>
 <p><img src="11s.png" alt="11s.png"></p>
+
+***<p>Scenario text...</p>
 
 ***
