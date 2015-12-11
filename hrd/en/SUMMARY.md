@@ -16,13 +16,17 @@
   * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
+  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
@@ -40,14 +44,10 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)

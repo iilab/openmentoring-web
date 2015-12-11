@@ -1,9 +1,9 @@
 # How to leave less traces while browsing
 <p>Introduction text...</p>
 
-***<p>Learning text...</p>
-
 ***<p>Scenario text...</p>
+
+***<p>Learning text...</p>
 
 ***<quiz name="Gitbook Quiz">
     <question multiple>
