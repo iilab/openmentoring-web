@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-11T09:39:20.879Z",
+  "updatedAt": "2015-12-11T09:51:09.134Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -278,23 +278,23 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
       "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }

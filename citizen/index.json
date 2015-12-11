@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-11T09:39:25.530Z",
+  "updatedAt": "2015-12-11T09:51:13.472Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -146,9 +146,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Devices Seized",
+      "title": "Account Hijacking",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -157,9 +157,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_2-account-hijacked",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "Account Hijacking",
+      "title": "Devices Seized",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -179,9 +179,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_6-after",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "After an Emergency",
+      "title": "DDOS Attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -190,9 +190,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_6-after",
       "type": "unit",
-      "title": "DDOS Attack",
+      "title": "After an Emergency",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -278,6 +278,17 @@
     }
   ,
     {
+      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
       "title": "How to control access to friends &amp; contacts?",
@@ -317,17 +328,6 @@
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -630,9 +630,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -641,9 +641,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
