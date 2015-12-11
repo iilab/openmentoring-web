@@ -11,7 +11,8 @@
     "links": {
         "sidebar": {
             "Open Mentoring Homepage": "http://openmentoring.io",
-            "Download the app": "http://openmentoring.io/download"
+            "Download the app": "http://openmentoring.io/download",
+            "Report a bug":"https://github.com/iilab/openmentoring-mobile/issues"
         }
     },
     "pluginsConfig": {

@@ -13,14 +13,6 @@
 <li>education and employment history</li>
 </ul>
 
-***<p>You can control who can see various elements of your profile. This doesn&#39;t happen in the main privacy settings but directly when editing your profile.</p>
-<p>For instance going to About &gt; Contact &amp; Basic Info you can see your date of birth:</p>
-<p><img src="Screen Shot 2015-11-20 at 16.54.51.png" alt="Screen Shot 2015-11-20 at 16.54.51.png"></p>
-<p>If you place your mouse cursor over it, you will see an icon which can be a globe (public), a group (friends of friends), a lock (only me) or possibly other images.</p>
-<p><img src="Screen Shot 2015-11-20 at 16.54.57.png" alt="Screen Shot 2015-11-20 at 16.54.57.png"></p>
-<p>Clicking on this icon will bring up a menu where you can change this setting:</p>
-<p><img src="Screen Shot 2015-11-20 at 17.00.25.png" alt="Screen Shot 2015-11-20 at 17.00.25.png"></p>
-
 ***
 ***<ul>
 <li><a href="safe-social-networks-who-can-access">Who can access the information I am putting online?</a></li>
@@ -29,5 +21,13 @@
 <li><a href="safe-social-networks-consent">Will my contacts mind if I share information about them with other people?</a></li>
 <li><a href="safe-social-networks-establishing-trust">Do I trust everyone with whom I&#39;m connected?</a></li>
 </ul>
+
+***<p>You can control who can see various elements of your profile. This doesn&#39;t happen in the main privacy settings but directly when editing your profile.</p>
+<p>For instance going to About &gt; Contact &amp; Basic Info you can see your date of birth:</p>
+<p><img src="Screen Shot 2015-11-20 at 16.54.51.png" alt="Screen Shot 2015-11-20 at 16.54.51.png"></p>
+<p>If you place your mouse cursor over it, you will see an icon which can be a globe (public), a group (friends of friends), a lock (only me) or possibly other images.</p>
+<p><img src="Screen Shot 2015-11-20 at 16.54.57.png" alt="Screen Shot 2015-11-20 at 16.54.57.png"></p>
+<p>Clicking on this icon will bring up a menu where you can change this setting:</p>
+<p><img src="Screen Shot 2015-11-20 at 17.00.25.png" alt="Screen Shot 2015-11-20 at 17.00.25.png"></p>
 
 ***

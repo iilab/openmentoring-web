@@ -1,8 +1,5 @@
 # Assessing Digital Security Risks
-<p>Perhaps without realising, we take decisions based on risk analyses every day: you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. 
-The idea of this section is to consider that same logic, as it applies to our digital activities.</p>
-
-***<p>In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, <strong>who</strong> is behind them, and <strong>why</strong>.</p>
+<p>In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, <strong>who</strong> is behind them, and <strong>why</strong>.</p>
 <p>In order to &#39;map&#39; the <strong>actors</strong> relevant to our work and our well-being, we might consider dividing them into three categories:
 <!--more--></p>
 <ol>
@@ -121,6 +118,9 @@ It may be that you find there are a lot of threats to your work, and it can be d
         <answer>No</answer>
     </question>
 </quiz>
+***<p>Perhaps without realising, we take decisions based on risk analyses every day: you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. 
+The idea of this section is to consider that same logic, as it applies to our digital activities.</p>
+
 ***<ul>
 <li><a href="en/topics/_topic/_unit/index.md">A topic to study next</a></li>
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
