@@ -1,5 +1,11 @@
 # Getting Started
-<p>Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. </p>
+<p>In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor
+<!--more--></p>
+<p>Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
+<!--more--></p>
+<p>If you want to keep yourself safe in this digital age,you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.</p>
+
+***<p>Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. </p>
 <!--more-->
 <p>The authorities in Uganda have not been able to shut down their website, because it is hosted in another country, but they have often tried to learn the identity of the blog&#39;s administrators from other journalists.</p>
 <!--more-->
@@ -23,12 +29,6 @@
         <answer>No</answer>
     </question>
 </quiz>
-***<p>In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor
-<!--more--></p>
-<p>Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
-<!--more--></p>
-<p>If you want to keep yourself safe in this digital age,you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.</p>
-
 ***<ul>
 <li><a href="en/topics/_topic/_unit/index.md">A topic to study next</a></li>
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
