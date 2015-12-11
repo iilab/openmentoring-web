@@ -37,20 +37,76 @@ An example of a threat may be someone breaking into your email account and expos
 <p><strong>Capacities</strong> refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk. An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
 It&#39;s worth noting that capacities and vulnerabilities are often &quot;two sides of the same coin&quot;.</p>
 <!--more-->
-<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong></p>
-<p>It may help for you to map them out on a matrix, like this:
-| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
-|---------|------|-------------------------|--------------------|-----------------------------|
-|         |      |                         |                    |                             |
-|         |      |                         |                    |                             |
-|         |      |                         |                    |                             |</p>
+<p><strong>IDENTIFYING THREATS, CAPACITIES AND VULNERABILITIES</strong>
+It may help for you to map them out on a matrix, like this:</p>
+<table>
+<thead>
+<tr>
+<th>Threats</th>
+<th>Who?</th>
+<th>Digital Vulnerabilities</th>
+<th>Digital Capacities</th>
+<th>Digital Capacities Required</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <!--more-->
-<p><strong>An example for an Investigative Journalist might look like this:</strong>
-|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
-|-----------------------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
-| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |
-| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                                                                     |</p>
+<p><strong>An example for an Investigative Journalist might look like this:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Threats</th>
+<th>Who?</th>
+<th>Digital Vulnerabilities</th>
+<th>Digital Capacities</th>
+<th>Digital Capacities Required</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Office raid, confiscation, legal action</td>
+<td>Police, judiciary</td>
+<td>Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history</td>
+<td>Backups are regular and kept outside the office</td>
+<td>Hiding sensitive information Using Free Software Deleting information securely</td>
+</tr>
+<tr>
+<td>Digital Surveillance of network traffic</td>
+<td>Police/Government officials, untrusted IT administrator</td>
+<td>plain text or unencrypted communications</td>
+<td>Encryption of all communications</td>
+<td>Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files</td>
+</tr>
+<tr>
+<td>Burglary</td>
+<td>Local delinquents</td>
+<td>Old locks on the office doors, organisation smartphones are not kept in a safe place</td>
+<td>Smartphones have SIM lock and no social networking apps</td>
+<td>Smartphone encryption, and a safe place to keep them</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p>This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.</p>
 <!--more-->
 <p><strong>THE RISK MATRIX: PROBABILITY AND IMPACT</strong>
