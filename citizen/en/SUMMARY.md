@@ -59,7 +59,7 @@
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  * [Unit Title](topics/understand-3-opsec/0-getting-started/index.md)
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   

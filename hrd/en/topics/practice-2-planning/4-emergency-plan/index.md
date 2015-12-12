@@ -1,9 +1,9 @@
 # Preparing for emergencies with your contacts
-<p>Scenario text...</p>
+<p>Introduction text...</p>
+
+***<p>Scenario text...</p>
 
 ***<p>Learning text...</p>
-
-***<p>Introduction text...</p>
 
 ***<quiz name="Gitbook Quiz">
     <question multiple>
