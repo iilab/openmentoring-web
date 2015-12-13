@@ -50,8 +50,8 @@
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
