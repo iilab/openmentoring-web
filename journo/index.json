@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2015-12-13T15:28:30.392Z",
+  "updatedAt": "2015-12-13T16:42:11.651Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -90,17 +90,6 @@
     }
   ,
     {
-      "slug": "understand-2-security",
-      "type": "topic",
-      "title": "Understand Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec",
       "type": "topic",
       "title": "Understanding Operational Security",
@@ -120,6 +109,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     
@@ -272,7 +272,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -487,83 +487,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_2-your-well-being",
-      "type": "unit",
-      "title": "Your Well Being",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_3-your-mission-hrd",
-      "type": "unit",
-      "title": "Your mission",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_3-your-story-journo",
-      "type": "unit",
-      "title": "Your Story",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_4-your-sources-journo",
-      "type": "unit",
-      "title": "Your Sources",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_5-your-colleagues",
-      "type": "unit",
-      "title": "Your colleagues",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -671,6 +594,83 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-mission-hrd",
+      "type": "unit",
+      "title": "Your mission",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-story-journo",
+      "type": "unit",
+      "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_4-your-sources-journo",
+      "type": "unit",
+      "title": "Your Sources",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_5-your-colleagues",
+      "type": "unit",
+      "title": "Your colleagues",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_2-your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ]  
 }

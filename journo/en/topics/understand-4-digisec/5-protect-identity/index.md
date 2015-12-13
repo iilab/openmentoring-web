@@ -1,7 +1,7 @@
 # Protecting Identity
-<p>Introduction text...</p>
+<p>Scenario text...</p>
 
-***<p>Scenario text...</p>
+***<p>Introduction text...</p>
 
 ***<p>Learning text...</p>
 

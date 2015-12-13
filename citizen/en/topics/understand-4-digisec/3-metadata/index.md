@@ -1,7 +1,7 @@
 # Metadata
-<p>Scenario text...</p>
+<p>Introduction text...</p>
 
-***<p>Introduction text...</p>
+***<p>Scenario text...</p>
 
 ***<p>Learning text...</p>
 

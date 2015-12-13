@@ -1,9 +1,9 @@
 # Secure Communications
 <p>Introduction text...</p>
 
-***<p>Scenario text...</p>
-
 ***<p>Learning text...</p>
+
+***<p>Scenario text...</p>
 
 ***<quiz name="Gitbook Quiz">
     <question multiple>

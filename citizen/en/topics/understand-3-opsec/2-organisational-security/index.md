@@ -1,5 +1,7 @@
 # Organisational Security
-<p>Scenario text...</p>
+<p>Introduction text...</p>
+
+***<p>Scenario text...</p>
 
 ***<p>Learning text...</p>
 
@@ -22,7 +24,5 @@
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
 <li>...</li>
 </ul>
-
-***<p>Introduction text...</p>
 
 ***
