@@ -1,6 +1,8 @@
 # Passwords
 <p>Introduction text...</p>
 
+***<p>Learning text...</p>
+
 ***<p>Scenario text...</p>
 
 ***<quiz name="Gitbook Quiz">
@@ -22,7 +24,5 @@
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
 <li>...</li>
 </ul>
-
-***<p>Learning text...</p>
 
 ***

@@ -1,9 +1,7 @@
 # Phones
-<p>Scenario text...</p>
+<p>Introduction text...</p>
 
-***<p>Learning text...</p>
-
-***<p>Introduction text...</p>
+***<p>Scenario text...</p>
 
 ***<quiz name="Gitbook Quiz">
     <question multiple>
@@ -19,6 +17,8 @@
         <answer>No</answer>
     </question>
 </quiz>
+***<p>Learning text...</p>
+
 ***<ul>
 <li><a href="en/topics/_topic/_unit/index.md">A topic to study next</a></li>
 <li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
