@@ -2,7 +2,6 @@
 ## Introduction
 Introduction text...
 
-## Scenario
 Scenario text...
 
 ## Test

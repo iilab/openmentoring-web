@@ -5,23 +5,23 @@ This topic is based on the [Digital First Aid Kit](http://digitaldefenders.org/d
 ## Scenario
 This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
 
-<!--more-->
+<br>
 
 It also provides guidelines for digital first responders to assist a person under threat.
 
 ## Learn
 The Digital First Aid Kit is not meant to serve as the ultimate solution to all your digital emergencies. 
 
-<!--more-->
+<br>
 
 It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
 
-<!--more-->
+<br>
 
 If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 
 ## Test
-<quiz name="Gitbook Quiz">
+<quiz name="What this guide can help you with">
     <question multiple>
         <p>What is the digital first aid kit used for?</p>
         <answer correct>To help diagnose problems you might face</answer>
