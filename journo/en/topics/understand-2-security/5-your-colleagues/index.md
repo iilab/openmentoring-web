@@ -1,9 +1,15 @@
 # Your colleagues
-<p>Introduction text...</p>
+## Introduction
+Introduction text...
 
-***<p>Scenario text...</p>
+## Scenario
+Scenario text...
 
-***<quiz name="Gitbook Quiz">
+## Learn
+Learning text...
+
+## Test
+<quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
         <answer correct>To read books</answer>
@@ -17,12 +23,9 @@
         <answer>No</answer>
     </question>
 </quiz>
-***<p>Learning text...</p>
 
-***<ul>
-<li><a href="en/topics/_topic/_unit/index.md">A topic to study next</a></li>
-<li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
-<li>...</li>
-</ul>
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
-***

@@ -1,17 +1,15 @@
 # Passwords
-<p>Introduction text...</p>
+## Introduction
+Introduction text...
 
-***<p>Scenario text...</p>
+## Scenario
+Scenario text...
 
-***<p>Learning text...</p>
+## Learn
+Learning text...
 
-***<ul>
-<li><a href="en/topics/_topic/_unit/index.md">A topic to study next</a></li>
-<li><a href="en/topics/_topic/_unit/index.md">Another topic</a></li>
-<li>...</li>
-</ul>
-
-***<quiz name="Gitbook Quiz">
+## Test
+<quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
         <answer correct>To read books</answer>
@@ -25,4 +23,9 @@
         <answer>No</answer>
     </question>
 </quiz>
-***
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
