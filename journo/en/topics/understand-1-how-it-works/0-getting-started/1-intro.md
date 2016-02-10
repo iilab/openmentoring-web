@@ -1,2 +1,2 @@
 ## Introduction
-Introduction text...
+How it works
