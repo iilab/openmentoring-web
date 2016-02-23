@@ -18,6 +18,7 @@ Mansour and Magda are journalists from north Africa. They are covering a march, 
 ## Test you social networking knowledge!
 
 
+## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
