@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-02-23T16:16:53.533Z",
+  "updatedAt": "2016-05-02T12:13:54.735Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -10,17 +10,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning",
-      "type": "topic",
-      "title": "Planning and Preparing",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -43,6 +32,17 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning",
+      "type": "topic",
+      "title": "Planning and Preparing",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -124,17 +124,6 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
       "title": "Seeking Remote Help",
@@ -179,6 +168,17 @@
     }
   ,
     {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
       "title": "DDOS Attack",
@@ -201,58 +201,14 @@
     }
   ,
     {
-      "slug": "practice-2-planning_0-getting-started",
+      "slug": "practice-3-safe-phones_1-instant-messaging",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_1-threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_3-assess-digital-risk",
-      "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -262,17 +218,6 @@
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-3-safe-phones_1-instant-messaging",
-      "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -341,6 +286,61 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_1-threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_2-assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_3-assess-digital-risk",
+      "type": "unit",
+      "title": "Assessing Digital Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [ "profile:hrd"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -487,9 +487,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_6-trust",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_6-trust",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
