@@ -2,6 +2,8 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
@@ -10,17 +12,27 @@
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -35,18 +47,6 @@
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
-  
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
@@ -66,9 +66,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -84,9 +84,9 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
@@ -118,7 +118,7 @@
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
