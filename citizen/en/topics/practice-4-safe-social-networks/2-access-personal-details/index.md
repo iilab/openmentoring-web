@@ -5,6 +5,17 @@ Social networking sites ask you for a good deal of data about yourself to make i
 ## Scenario
 Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
+## Learn
+
+Ask yourself: is it necessary to post the following information online?
+
+ - birth dates
+ - contact phone numbers
+ - addresses
+ - details of family members
+ - sexual orientation
+ - education and employment history
+
 ## How-to
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 
@@ -22,20 +33,6 @@ Clicking on this icon will bring up a menu where you can change this setting:
 
 
 
-## Learn
-
-Ask yourself: is it necessary to post the following information online?
-
- - birth dates
- - contact phone numbers
- - addresses
- - details of family members
- - sexual orientation
- - education and employment history
-
-## Test you social networking knowledge!
-
-
 ## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
@@ -43,4 +40,7 @@ Ask yourself: is it necessary to post the following information online?
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
+## Test you social networking knowledge!
+
 

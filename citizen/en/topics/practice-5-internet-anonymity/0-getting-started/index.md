@@ -43,11 +43,11 @@ In addition,they want to prepare for when the government eventually filters thei
     </question>
 </quiz>
 
+## Learn
+Learning text...
+
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
-## Learn
-Learning text...
 
