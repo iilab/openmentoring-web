@@ -5,11 +5,11 @@ This section describe what to do after an emergency takes place.
 Key takeaway for this section will be:
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 Learning text...
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

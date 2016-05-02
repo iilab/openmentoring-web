@@ -1,4 +1,16 @@
 # Getting Started
+## Introduction
+In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor.
+
+<br>
+
+Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
+
+<br>
+
+If you want to keep yourself safe in this digital age you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.
+
+
 ## Scenario
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
@@ -13,21 +25,6 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 <br>
 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
-
-
-## Learn
-Learning text...
-
-## Introduction
-In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor.
-
-<br>
-
-Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web.
-
-<br>
-
-If you want to keep yourself safe in this digital age you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.
 
 
 ## Test
@@ -50,4 +47,7 @@ If you want to keep yourself safe in this digital age you can use Tor browser so
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+## Learn
+Learning text...
 

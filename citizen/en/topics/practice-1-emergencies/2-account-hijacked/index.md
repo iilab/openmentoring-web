@@ -14,9 +14,6 @@ Key takeaways will include:
 
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -61,6 +58,9 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
