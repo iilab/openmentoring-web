@@ -1,6 +1,13 @@
 # Devices Seized
 ## Introduction
-Introduction text...
+In this section, you will learn about what steps to take if your digital devices are seized.
+<br>
+Key takeaways from this section include:
+- Questions to answer when you first notice a device is missing
+- Identifying security protections the missing device has in place
+- Identifying what was on the missing device
+- Mitigating the problem
+
 
 ## Scenario
 Scenario text...
@@ -8,6 +15,7 @@ Scenario text...
 ## Learn
 Learning text...
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -23,6 +31,7 @@ Learning text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
