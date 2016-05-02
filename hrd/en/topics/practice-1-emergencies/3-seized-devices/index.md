@@ -9,6 +9,7 @@ Key takeaways from this section include:
 - Mitigating the problem
 
 
+## Scenario
 Scenario text...
 
 ## Learn
