@@ -106,7 +106,12 @@ It may be that you find there are a lot of threats to your work, and it can be d
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
 
-## Test
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
+
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -121,10 +126,4 @@ Once you have prioritised the risks to yourself and your work, you can then star
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
-
 

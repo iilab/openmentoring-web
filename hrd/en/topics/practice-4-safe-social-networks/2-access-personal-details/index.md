@@ -1,5 +1,4 @@
 # How to control access to your personal details?
-## Introduction
 Social networking sites ask you for a good deal of data about yourself to make it easier for other users to find and connect to you. Perhaps the biggest vulnerability this creates for users of these sites is the possibility of identity fraud, which is increasingly common. In addition, the more information about yourself you reveal online, the easier it becomes for the authorities to identify you and monitor your activities. The online activities of diaspora activists from some countries have led to the targeting of their family members by the authorities in their homelands.
 
 ## Scenario
@@ -33,9 +32,6 @@ Clicking on this icon will bring up a menu where you can change this setting:
 
 
 
-## Test you social networking knowledge!
-
-
 ## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
@@ -43,4 +39,7 @@ Clicking on this icon will bring up a menu where you can change this setting:
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
+## Test you social networking knowledge!
+
 
