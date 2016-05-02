@@ -74,9 +74,9 @@
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
