@@ -6,6 +6,9 @@ This topic covers the fundamentals security basics of mobile phones and devices
 ## Scenario
 Scenario text...
 
+## Learn
+Learning text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -21,9 +24,6 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Learn
-Learning text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

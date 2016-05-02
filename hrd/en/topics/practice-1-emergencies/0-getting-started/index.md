@@ -20,6 +20,13 @@ This topic offers a set of self-diagnostic tools for human rights defenders, blo
 <br>
 It also provides guidelines for digital first responders to assist a person under threat.
 
+## Learn
+The Digital First Aid Kit is not meant to serve as the ultimate solution to all your digital emergencies. 
+<br>
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+<br>
+If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
+
 ## Test
 <quiz name="What this guide can help you with">
     <question multiple>
@@ -31,13 +38,7 @@ It also provides guidelines for digital first responders to assist a person unde
     </question>
 </quiz>
 
-## Learn
-The Digital First Aid Kit is not meant to serve as the ultimate solution to all your digital emergencies. 
-<br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
-<br>
-If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
-
+## Next
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
  * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
