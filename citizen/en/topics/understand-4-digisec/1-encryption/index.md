@@ -1,5 +1,4 @@
 # Encryption
-## Introduction
 Introduction text...
 
 ## Scenario
