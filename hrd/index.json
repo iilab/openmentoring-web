@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2016-05-03T11:08:22.062Z",
+  "updatedAt": "2016-05-03T11:13:40.261Z",
   "items": [
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -57,17 +68,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -101,17 +101,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec",
-      "type": "topic",
-      "title": "Understanding Digital Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec",
       "type": "topic",
       "title": "Understanding Operational Security",
@@ -122,7 +111,95 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
+    {
+      "slug": "understand-4-digisec",
+      "type": "topic",
+      "title": "Understanding Digital Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
     
+    {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_2-account-hijacked",
+      "type": "unit",
+      "title": "Account Hijacking",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_4-malware",
+      "type": "unit",
+      "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_5-ddos",
+      "type": "unit",
+      "title": "DDOS Attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_6-after",
+      "type": "unit",
+      "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
     {
       "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
@@ -267,9 +344,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -278,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -319,83 +396,6 @@
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Account Hijacking",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_4-malware",
-      "type": "unit",
-      "title": "Malware",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_5-ddos",
-      "type": "unit",
-      "title": "DDOS Attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_6-after",
-      "type": "unit",
-      "title": "After an Emergency",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ,
     {
@@ -509,6 +509,17 @@
     }
   ,
     {
+      "slug": "understand-2-security_2-your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security_3-your-mission-hrd",
       "type": "unit",
       "title": "Your mission",
@@ -542,17 +553,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
-      "type": "unit",
-      "title": "Your Well Being",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_5-your-colleagues",
       "type": "unit",
       "title": "Your colleagues",
@@ -561,6 +561,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -638,39 +671,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ]  
 }

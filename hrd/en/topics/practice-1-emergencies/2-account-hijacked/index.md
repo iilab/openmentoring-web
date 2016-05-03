@@ -1,6 +1,11 @@
 # Account Hijacking
-## Scenario
-Scenario text...
+## Learn
+For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+
 
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem. Select the link that best describes your current situation:
@@ -33,17 +38,14 @@ Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
 
 ## Learn
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-## Learn
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+
+## Learn
+Change the passwords for all your other online accounts that are linked to your hijacked account.
+
+For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
@@ -104,6 +106,9 @@ Key takeaways will include:
 <br>
 
 
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
