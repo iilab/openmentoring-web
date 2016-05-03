@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T10:57:43.284Z",
+  "updatedAt": "2016-05-03T10:59:51.296Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -344,6 +344,17 @@
     }
   ,
     {
+      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
       "type": "unit",
       "title": "How to prevent your traffic from being watched",
@@ -358,17 +369,6 @@
       "slug": "practice-5-internet-anonymity_2-leave-no-traces",
       "type": "unit",
       "title": "How to leave less traces while browsing",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
