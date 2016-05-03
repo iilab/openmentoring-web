@@ -1,9 +1,9 @@
 # Your Well Being
-## Scenario
-Scenario text...
-
 ## Introduction
 Introduction text...
+
+## Scenario
+Scenario text...
 
 ## Learn
 Learning text...
@@ -24,6 +24,7 @@ Learning text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

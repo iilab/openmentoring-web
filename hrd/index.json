@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-05-03T11:13:40.261Z",
+  "updatedAt": "2016-05-03T11:58:05.053Z",
   "items": [
-    {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -24,17 +13,6 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones",
-      "type": "topic",
-      "title": "Safe Phones",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks",
       "type": "topic",
       "title": "Safe Social Networks",
@@ -43,6 +21,17 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones",
+      "type": "topic",
+      "title": "Safe Phones",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -122,84 +111,18 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
     
-    {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Account Hijacking",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_4-malware",
-      "type": "unit",
-      "title": "Malware",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_5-ddos",
-      "type": "unit",
-      "title": "DDOS Attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_6-after",
-      "type": "unit",
-      "title": "After an Emergency",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
@@ -256,28 +179,6 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-3-safe-phones_1-instant-messaging",
-      "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
@@ -311,9 +212,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_4-who-controls",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "Who controls and owns your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -322,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -341,6 +242,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_1-instant-messaging",
+      "type": "unit",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -575,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Organisational Security",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -586,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_2-organisational-security",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Organisational Security",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -619,9 +542,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -633,17 +556,6 @@
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_4-secure-communications",
-      "type": "unit",
-      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -671,6 +583,94 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_2-passwords",
+      "type": "unit",
+      "title": "Passwords",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_2-account-hijacked",
+      "type": "unit",
+      "title": "Account Hijacking",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_4-malware",
+      "type": "unit",
+      "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_5-ddos",
+      "type": "unit",
+      "title": "DDOS Attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_6-after",
+      "type": "unit",
+      "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ]  
 }
