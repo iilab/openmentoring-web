@@ -34,20 +34,6 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
-  
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
-  
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
-  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
-  
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
   * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
@@ -61,6 +47,14 @@
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -90,14 +84,6 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
@@ -121,4 +107,18 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  
+  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
+  
+  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
+  
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
