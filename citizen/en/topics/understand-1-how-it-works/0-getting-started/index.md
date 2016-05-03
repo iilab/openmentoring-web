@@ -6,6 +6,7 @@ How it works
 ## Scenario
 Scenario text...
 
+## Learn
 Learning text...
 
 ## Test
