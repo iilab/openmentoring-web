@@ -18,6 +18,7 @@ Required Reading
 ## Scenario
 
 
+## How-to
 This how to will go through the following steps:
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
