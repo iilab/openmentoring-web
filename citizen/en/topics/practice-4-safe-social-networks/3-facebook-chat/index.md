@@ -147,6 +147,7 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 ## Test you social networking knowledge!
 
 
+## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
