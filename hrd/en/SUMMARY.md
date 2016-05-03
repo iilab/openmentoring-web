@@ -1,5 +1,21 @@
 # Summary
 
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -50,9 +66,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -98,27 +114,11 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   

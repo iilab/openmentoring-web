@@ -1,13 +1,4 @@
 # Seeking Remote Help
-## Introduction
-This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack.
-
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
 ## Learn
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
@@ -16,6 +7,15 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
 <br>
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
+## Introduction
+This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack.
 
 ## Next
 Do the best that you can with the resources and skills available.
