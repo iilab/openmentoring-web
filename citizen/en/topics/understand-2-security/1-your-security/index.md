@@ -1,9 +1,9 @@
 # Your Security
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
+
+## Introduction
+Introduction text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -24,7 +24,6 @@ Scenario text...
 ## Learn
 Learning text...
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
