@@ -37,11 +37,11 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 ## Scenario
-Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
+Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. 
 
 <br>
 
-They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
+They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 
 <br>
 
@@ -53,11 +53,11 @@ Mansour and Magda plan how to share photos and videos of the march without revea
 
 
 ## Scenario
-Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. 
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
 
 <br>
 
-They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
+They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 
 <br>
 
@@ -80,7 +80,6 @@ Remember that social networking sites are owned by private businesses, and that 
 ## Test you social networking knowledge!
 
 
-## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)

@@ -75,7 +75,6 @@ For example, if you are looking at an email account and it is the recovery addre
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

@@ -3,9 +3,12 @@
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 <br>
 Key takeaways of this section are:
-- What is a DDOS attack
-- Determining whether you have fallen victim to a DDOS attack
-- Steps to take to mitigate DDOS attacks
+- [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
+- [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
+- [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
+- [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
+- [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 <br>
 
 
@@ -75,6 +78,22 @@ If you have determined that none of these are at fault, you may be suffering fro
 -- CloudFlare’s Project Galileo
 <br>
 - Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
+## Learn
+If you are suffering from a website defacement, take the following steps:
+Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes. It is very important to keep payments for your domain name in order.
+<br>
+Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the Account Hijacking section for help.
+<br>
+Step 3: Make a backup of the defaced site that can later be used for investigation of the defacement.
+<br>
+Step 4: Temporarily turn off your website – use a simple landing page or ‘parked’ page.
+<br>
+Step 5: Determine how your site was hacked. Your hosting provider may be able to help. Common problems are older parts of your site with custom scripts/tools running on them, out of date content management systems, and custom programming with security flaws.
+<br>
+Step 6: Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch! Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
+<br>
+Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 ## Learn
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.

@@ -1,7 +1,4 @@
 # Devices Seized
-## Scenario
-Scenario text...
-
 ## Introduction
 In this section, you will learn about what steps to take if your digital devices are seized.
 <br>
@@ -11,6 +8,9 @@ Key takeaways from this section include:
 - [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
+
+## Scenario
+Scenario text...
 
 ## en/topics/practice-1-emergencies/3-seized-devices/3-1 Learn.md
 Should you believe your device is seized, start by answering some simple questions:
