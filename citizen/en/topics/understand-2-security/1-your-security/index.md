@@ -1,12 +1,12 @@
 # Your Security
-## Scenario
-Scenario text...
+## Introduction
+Introduction text...
 
 ## Learn
 Learning text...
 
-## Introduction
-Introduction text...
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
