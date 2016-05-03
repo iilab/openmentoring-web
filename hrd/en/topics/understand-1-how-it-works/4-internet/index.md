@@ -1,4 +1,7 @@
 # Internet
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
@@ -20,9 +23,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Introduction
-Introduction text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
