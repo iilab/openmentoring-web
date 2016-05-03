@@ -16,17 +16,7 @@ Ask yourself: is it necessary to post the following information online?
  - sexual orientation
  - education and employment history
 
-## Test you social networking knowledge!
-
-
-## Next
-
- * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
- * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
- * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
- * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
- * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
-
+## How-to
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 
 For instance going to About > Contact & Basic Info you can see your date of birth:
@@ -42,4 +32,15 @@ Clicking on this icon will bring up a menu where you can change this setting:
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
 
 
+
+## Test you social networking knowledge!
+
+
+## Next
+
+ * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
+ * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
+ * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
+ * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
+ * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
 

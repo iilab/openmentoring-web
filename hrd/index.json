@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T10:05:41.336Z",
+  "updatedAt": "2016-05-03T10:06:21.728Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -135,6 +135,17 @@
     }
   ,
     {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Account Hijacking",
@@ -146,9 +157,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Devices Seized",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -190,17 +201,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -212,9 +212,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_1-threats",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Understanding Threats",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_1-threats",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
