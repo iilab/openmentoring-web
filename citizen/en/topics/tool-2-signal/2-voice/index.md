@@ -1,4 +1,8 @@
 # How to have voice calls?
+## Scenario
+Scenario text...
+
+
 ## How to make calls?
 
  * Make a call
@@ -6,10 +10,6 @@
  * Verifying the call
 
 [Learn more about risk types and levels](resources/risk-assessment.md)
-
-## Scenario
-Scenario text...
-
 
 ## How-to
 Make a call

@@ -87,6 +87,11 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 <br>
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -102,9 +107,4 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
