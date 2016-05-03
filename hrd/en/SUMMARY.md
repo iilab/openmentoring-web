@@ -100,19 +100,19 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   

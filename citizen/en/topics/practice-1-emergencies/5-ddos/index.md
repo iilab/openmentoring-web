@@ -103,7 +103,6 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
