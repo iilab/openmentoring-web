@@ -8,10 +8,6 @@ Perhaps without realising, we take decisions based on risk analyses every day: y
 The idea of this section is to consider that same logic, as it applies to our digital activities, both as human rights defenders and as private people.
 
 
-## Scenario
-Perhaps without realising, we take decisions based on risk analyses every day: you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. 
-The idea of this section is to consider that same logic, as it applies to our digital activities.
-
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 
@@ -105,6 +101,10 @@ It may be that you find there are a lot of threats to your work, and it can be d
 
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
+
+## Scenario
+Perhaps without realising, we take decisions based on risk analyses every day: you may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves. 
+The idea of this section is to consider that same logic, as it applies to our digital activities.
 
 ## Test
 <quiz name="Gitbook Quiz">

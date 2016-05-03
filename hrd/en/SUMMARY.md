@@ -4,8 +4,6 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
   * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
@@ -15,6 +13,8 @@
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -44,9 +44,9 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
@@ -56,12 +56,6 @@
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -69,6 +63,12 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -100,9 +100,9 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
