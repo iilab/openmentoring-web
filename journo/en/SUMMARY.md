@@ -62,14 +62,6 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
@@ -97,6 +89,14 @@
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
