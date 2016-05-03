@@ -62,6 +62,18 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -109,16 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [How does it work?](topics/understand-1-how-it-works/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   

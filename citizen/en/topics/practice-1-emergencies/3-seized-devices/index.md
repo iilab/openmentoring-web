@@ -12,6 +12,12 @@ Key takeaways from this section include:
 ## Scenario
 Scenario text...
 
+## More informative title
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
