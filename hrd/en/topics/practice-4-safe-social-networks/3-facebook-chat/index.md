@@ -1,10 +1,10 @@
 # How to chat securely?
-## Scenario
-Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
-
-
 ## Introduction
 Here you can learn how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do! Continue reading to learn more.  
+
+
+## Scenario
+Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
 
 
 ## Learn
@@ -147,7 +147,6 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 ## Test you social networking knowledge!
 
 
-## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)

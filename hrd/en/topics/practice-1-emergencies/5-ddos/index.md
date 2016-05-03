@@ -9,9 +9,6 @@ Key takeaways of this section are:
 <br>
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
 <br>
@@ -102,6 +99,9 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
         <answer>No</answer>
     </question>
 </quiz>
+
+## Scenario
+Scenario text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

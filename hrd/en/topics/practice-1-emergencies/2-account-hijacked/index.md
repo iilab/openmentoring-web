@@ -33,7 +33,11 @@ Scenario text...
     </question>
 </quiz>
 
-## Learn
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
 If you still have access to the account, move to a different computer that you believe to be safe or uncompromised and take the following 5 Steps:
@@ -77,9 +81,4 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
