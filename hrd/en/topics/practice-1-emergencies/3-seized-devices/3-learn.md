@@ -60,6 +60,3 @@ If you have lost contact with your device for an extended period of time and you
 - If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
-
-
-
