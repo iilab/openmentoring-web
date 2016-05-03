@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T15:13:56.308Z",
+  "updatedAt": "2016-05-03T15:15:27.833Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -73,7 +73,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -157,9 +157,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
-      "title": "Devices Seized",
+      "title": "Malware",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -168,9 +168,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "Malware",
+      "title": "Devices Seized",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -212,9 +212,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_1-threats",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_1-threats",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Understanding Threats",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -272,7 +272,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -292,17 +292,6 @@
       "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
       "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
-      "type": "unit",
-      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -333,6 +322,17 @@
     }
   ,
     {
+      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "type": "unit",
+      "title": "How to control access to your personal details?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_5-who-can-access",
       "type": "unit",
       "title": "Who can access your information on Social Networking platforms?",
@@ -344,9 +344,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -355,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -377,9 +377,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
+      "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -388,9 +388,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_1-sharing",
+      "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -410,23 +410,23 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -465,17 +465,6 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
-      "type": "unit",
-      "title": "Smart Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
       "title": "Internet",
@@ -487,20 +476,20 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understand Security",
+      "title": "Smart Phones",
+      "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -534,6 +523,17 @@
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
