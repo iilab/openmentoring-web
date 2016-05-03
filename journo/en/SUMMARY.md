@@ -66,9 +66,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -114,9 +114,9 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
