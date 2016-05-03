@@ -18,17 +18,17 @@ Key takeaways will include:
 Scenario text...
 
 ## Learn
+Should you suspect your account has been hijacked, the first step you should take is mitigating the problem. Select the link that best describes your current situation:
+- [I still have access to the account]((en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md))
+- [I no longer have access to the account](en/topics/practice-1-emergencies/2-account-hijacked/3-3-learn.md)
+
+
+## Learn
 If you still have access to the account, move to a different computer that you believe to be safe or uncompromised and take the following steps:
 <br>
 Step 1. Log in to your account from the new computer and change the password on your account.
 <br>
 Step 2. Once you have changed your password, stop using this account for sharing of sensitive information until you better understand the situation.
-
-## Learn
-Should you suspect your account has been hijacked, the first step you should take is mitigating the problem. Select the link that best describes your current situation:
-- [I still have access to the account]((en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md))
-- [I no longer have access to the account](en/topics/practice-1-emergencies/2-account-hijacked/3-3-learn.md)
-
 
 ## Learn
 If you no longer have access to the account, different providers have different recovery procedures or ways to rest passwords.

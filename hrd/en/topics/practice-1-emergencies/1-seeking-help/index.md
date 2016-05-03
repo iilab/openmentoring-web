@@ -8,6 +8,15 @@ Isaac is worried that his computer might have been hacked into. He wants to reac
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
+## Learn
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+<br>
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+
 ## Test
 <quiz name="">
     <question>
@@ -18,6 +27,7 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
     </question>
 </quiz>
 
+## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>
@@ -32,15 +42,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
         <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
     </question>
 </quiz>
-
-## Learn
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
-<br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
-<br>
-Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 
 
 Secure communication is always a trade-off between security and convenience. 

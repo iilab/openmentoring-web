@@ -3,11 +3,11 @@
 This topic covers the fundamentals security basics of mobile phones and devices
 
 
-## Learn
-Learning text...
-
 ## Scenario
 Scenario text...
+
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">

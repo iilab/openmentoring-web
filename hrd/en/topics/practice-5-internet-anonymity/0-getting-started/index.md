@@ -15,6 +15,9 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
 
 
+## Learn
+Learning text...
+
 ## Introduction
 In this chapter you are going to learn how to be anonymous while using internet using a software tool called Tor.
 
@@ -26,9 +29,6 @@ Your government and hackers around the world are increasingly interested in know
 
 If you want to keep yourself safe in this digital age you can use Tor browser software which hide or disguise your identity and keep prying eyes off of your traffic.
 
-
-## Learn
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
