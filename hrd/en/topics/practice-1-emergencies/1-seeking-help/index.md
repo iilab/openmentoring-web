@@ -65,6 +65,7 @@ Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started
 <br>
 
 
+
 Secure communication is always a trade-off between security and convenience. 
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
