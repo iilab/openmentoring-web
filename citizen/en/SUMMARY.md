@@ -16,24 +16,6 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
@@ -56,11 +38,11 @@
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -105,6 +87,24 @@
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

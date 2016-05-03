@@ -34,14 +34,6 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
-  
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
-  
-  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
-  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
@@ -55,6 +47,14 @@
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
+  
+* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
+  
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
+  
+  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -82,6 +82,22 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
@@ -92,9 +108,9 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
@@ -105,20 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T11:03:06.167Z",
+  "updatedAt": "2016-05-03T11:06:26.754Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -35,17 +35,6 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity",
-      "type": "topic",
-      "title": "Using the Internet Anonymously",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks",
       "type": "topic",
       "title": "Safe Social Networks",
@@ -54,6 +43,17 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity",
+      "type": "topic",
+      "title": "Using the Internet Anonymously",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -73,7 +73,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -87,6 +87,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     {
@@ -109,17 +120,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security",
-      "type": "topic",
-      "title": "Understand Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     
@@ -278,39 +278,6 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
@@ -377,6 +344,39 @@
     }
   ,
     {
+      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
+      "type": "unit",
+      "title": "How to leave less traces while browsing",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
       "title": "Getting Started with the Open Mentoring App",
@@ -415,7 +415,7 @@
       "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -487,6 +487,83 @@
     }
   ,
     {
+      "slug": "understand-2-security_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_2-your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-mission-hrd",
+      "type": "unit",
+      "title": "Your mission",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-story-journo",
+      "type": "unit",
+      "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_4-your-sources-journo",
+      "type": "unit",
+      "title": "Your Sources",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_5-your-colleagues",
+      "type": "unit",
+      "title": "Your colleagues",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -520,9 +597,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_1-encryption",
+      "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
-      "title": "Encryption",
+      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -531,9 +608,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_0-getting-started",
+      "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -594,83 +671,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_3-your-mission-hrd",
-      "type": "unit",
-      "title": "Your mission",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_3-your-story-journo",
-      "type": "unit",
-      "title": "Your Story",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_4-your-sources-journo",
-      "type": "unit",
-      "title": "Your Sources",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_5-your-colleagues",
-      "type": "unit",
-      "title": "Your colleagues",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_2-your-well-being",
-      "type": "unit",
-      "title": "Your Well Being",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ]  
 }
