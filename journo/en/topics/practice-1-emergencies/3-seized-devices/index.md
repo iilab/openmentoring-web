@@ -9,6 +9,9 @@ Key takeaways from this section include:
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## en/topics/practice-1-emergencies/3-seized-devices/3-1 Learn.md
 Should you believe your device is seized, start by answering some simple questions:
 <br>
@@ -105,6 +108,4 @@ For more extensive threat modeling assistance see the Electronic Frontier Founda
  natural follow up lessons (e.g. the next lesson), but also related materials (e.g. phones), or additional reading that's online.-->
  
 
-
-Scenario text...
 
