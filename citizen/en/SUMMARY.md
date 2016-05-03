@@ -72,11 +72,11 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
@@ -88,23 +88,23 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

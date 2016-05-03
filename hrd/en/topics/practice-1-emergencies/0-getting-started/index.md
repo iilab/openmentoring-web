@@ -21,16 +21,12 @@ This topic offers a set of self-diagnostic tools for human rights defenders, blo
 <br>
 It also provides guidelines for digital first responders to assist a person under threat.
 
-## Test
-<quiz name="What this guide can help you with">
-    <question multiple>
-        <p>What is the digital first aid kit used for?</p>
-        <answer correct>To help diagnose problems you might face</answer>
-        <answer>To help hijack other people's account</answer>
-        <answer correct>To help provide support to others who might encounter problems</answer>
-        <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
-    </question>
-</quiz>
+## Learn
+The Digital First Aid Kit is not meant to serve as the ultimate solution to all your digital emergencies. 
+<br>
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+<br>
+If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 
 ## Next
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
@@ -44,9 +40,14 @@ See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
 
-The Digital First Aid Kit is not meant to serve as the ultimate solution to all your digital emergencies. 
-<br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
-<br>
-If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
+## Test
+<quiz name="What this guide can help you with">
+    <question multiple>
+        <p>What is the digital first aid kit used for?</p>
+        <answer correct>To help diagnose problems you might face</answer>
+        <answer>To help hijack other people's account</answer>
+        <answer correct>To help provide support to others who might encounter problems</answer>
+        <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
+    </question>
+</quiz>
 

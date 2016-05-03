@@ -143,18 +143,6 @@ Among the organizations you may reach out to include:
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 ## Learn
-Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
-<br>
-You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
-
-This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
-<br>
-Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
-
-When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
-
-## Learn
 Basic introduction to encryption and secure communication
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
@@ -237,11 +225,17 @@ When getting advice, compare it to concepts discussed on well-respected guides s
 
 
 
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+## Learn
+Establishing trust when reaching out
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
 
+This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
+<br>
+Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
+
+When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
@@ -252,6 +246,12 @@ Key takeaways from this section will include the following:
 - Who to contact when reaching out for help
 - Next steps
 
+
+
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Test

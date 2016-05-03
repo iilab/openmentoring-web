@@ -13,7 +13,6 @@ Learning text...
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

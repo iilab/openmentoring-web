@@ -2,6 +2,9 @@
 ## Introduction
 Introduction text...
 
+## Scenario
+Scenario text...
+
 ## Learn
 Safer communications: What to do when you can't trust your communications channels
 
@@ -22,9 +25,6 @@ The following important recommendations can help you to set up new channels of s
         A number of secure tools come pre-installed in TAILS.
 
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
