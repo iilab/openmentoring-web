@@ -6,6 +6,21 @@ If you work with sensitive information and topics, and are interested in using s
 
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
+## Introduction
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
+
+<br>
+
+Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
+
+## Introduction
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
+
+<br>
+
+Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
+
+
 ## Scenario
 Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
 
@@ -20,6 +35,38 @@ They plan to use Twitter during the march to give updates on the progress of the
 <br>
 
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+## Scenario
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
+
+<br>
+
+They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
+
+<br>
+
+They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
+
+<br>
+
+Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+
+## Scenario
+Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. 
+
+<br>
+
+They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
+
+<br>
+
+They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
+
+<br>
+
+Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
 
 ## Learn
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with. This guide will help you understand the security implications of using social networking sites.
