@@ -5,6 +5,9 @@ This section describe what to do after an emergency takes place.
 Key takeaway for this section will be:
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 Learning text...
 
@@ -23,9 +26,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Scenario
-Scenario text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
