@@ -24,13 +24,6 @@ Should you suspect your account has been hijacked, the first step you should tak
 
 
 ## Learn
-If you still have access to the account, move to a different computer that you believe to be safe or uncompromised and take the following steps:
-<br>
-Step 1. Log in to your account from the new computer and change the password on your account.
-<br>
-Step 2. Once you have changed your password, stop using this account for sharing of sensitive information until you better understand the situation.
-
-## Learn
 If you no longer have access to the account, different providers have different recovery procedures or ways to rest passwords.
 <br>
 Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
@@ -46,6 +39,13 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
+
+## Learn
+If you still have access to the account, move to a different computer that you believe to be safe or uncompromised and take the following steps:
+<br>
+Step 1. Log in to your account from the new computer and change the password on your account.
+<br>
+Step 2. Once you have changed your password, stop using this account for sharing of sensitive information until you better understand the situation.
 
 ## Learn
 For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.

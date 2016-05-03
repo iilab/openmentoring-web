@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T11:08:04.922Z",
+  "updatedAt": "2016-05-03T11:08:24.199Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -630,9 +630,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -641,9 +641,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

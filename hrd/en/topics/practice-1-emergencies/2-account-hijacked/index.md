@@ -1,19 +1,4 @@
 # Account Hijacking
-## Introduction
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-
-<br>
-
-Key takeaways will include:
-- How to mitigate the problem
-- Reviewing account activity
-- Adjusting account settings
-- Changing account passwords
-- Next steps
-<br>
-
-
-
 ## Scenario
 Scenario text...
 
@@ -104,6 +89,21 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
+
+## Introduction
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+
+<br>
+
+Key takeaways will include:
+- How to mitigate the problem
+- Reviewing account activity
+- Adjusting account settings
+- Changing account passwords
+- Next steps
+<br>
+
+
 
 ## Test
 <quiz name="Gitbook Quiz">
