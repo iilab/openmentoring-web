@@ -36,11 +36,11 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
@@ -69,6 +69,18 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -109,16 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [How does it work?](topics/understand-1-how-it-works/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   

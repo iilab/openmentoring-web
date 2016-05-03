@@ -1,7 +1,4 @@
 # Account Hijacking
-## Scenario
-Scenario text...
-
 ## Introduction
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
@@ -15,6 +12,9 @@ Key takeaways will include:
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 <br>
 
+
+## Scenario
+Scenario text...
 
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
