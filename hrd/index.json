@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-03T09:56:42.691Z",
+  "updatedAt": "2016-05-03T09:59:39.412Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -40,7 +40,7 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -283,7 +283,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
