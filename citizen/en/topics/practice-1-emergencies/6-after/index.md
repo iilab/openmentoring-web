@@ -8,6 +8,9 @@ Key takeaway for this section will be:
 ## Scenario
 Scenario text...
 
+## Learn
+Learning text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -28,6 +31,4 @@ Scenario text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
-Learning text...
 

@@ -1,5 +1,21 @@
 # Summary
 
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -70,9 +86,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
@@ -81,6 +97,14 @@
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
@@ -97,28 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   

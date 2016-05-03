@@ -1,5 +1,4 @@
 # After an Emergency
-## Introduction
 This section describe what to do after an emergency takes place.
 <br>
 Key takeaway for this section will be:
@@ -27,7 +26,6 @@ Learning text...
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
