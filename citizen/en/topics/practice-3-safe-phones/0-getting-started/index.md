@@ -23,7 +23,11 @@ iPhone
 Your iOS options are more limited, but the ChatSecure app on the iPhone is created in cooperation with the Android ChatSecure app and has similar features. Onion Browser offers similar features to Tor and Orbot for iOS.
 Trust
 
-## Test
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -38,9 +42,4 @@ Trust
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
