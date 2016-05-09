@@ -2,6 +2,9 @@
 ## Introduction
 Introduction text...
 
+## Scenario
+Scenario text...
+
 ## Learn
 Safer communications: What to do when you can't trust your communications channels
 
@@ -23,9 +26,6 @@ The following important recommendations can help you to set up new channels of s
 
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
-## Scenario
-Scenario text...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -42,6 +42,7 @@ Scenario text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
