@@ -1,12 +1,12 @@
 # Your Story
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
 ## Learn
 Learning text...
-
-## Introduction
-Introduction text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -24,7 +24,6 @@ Introduction text...
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
