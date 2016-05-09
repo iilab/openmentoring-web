@@ -1,12 +1,29 @@
 # Seeking Remote Help
 ## Learn
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+Among the organizations you may reach out to include:
+-EFF https://www.eff.org/
+ email: info@eff.org
+-Front Line Defenders http://www.frontlinedefenders.org/
+ email: info@frontlinedefenders.org
+-CPJ https://www.cpj.org/
+ email: info@cpj.org
 <br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+Among the organizations you may reach out to include:
+-RSF http://en.rsf.org/
+ email: internet@rsf.org
+-Access https://www.accessnow.org/
+ email: help@accessnow.org
+ PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
+-Digital Defenders Partnership http://digitaldefenders.org/
+ email: ddp@hivos.org
 <br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
-<br>
-Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+Among the organizations you may reach out to include:
+-Freedom House http://freedomhouse.org/
+-Internews https://www.internews.org/
+-IWPR https://www.cyber-arabs.com/
+-Open Technology Fund https://www.opentechfund.org
+ email: info@opentechfund.org
+ PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 ## Learn
 Basic introduction to encryption and secure communication
@@ -117,32 +134,6 @@ When you are seeking remote help from a third party please keep the following in
 
 
 ## Learn
-Among the organizations you may reach out to include:
--EFF https://www.eff.org/
- email: info@eff.org
--Front Line Defenders http://www.frontlinedefenders.org/
- email: info@frontlinedefenders.org
--CPJ https://www.cpj.org/
- email: info@cpj.org
-<br>
-Among the organizations you may reach out to include:
--RSF http://en.rsf.org/
- email: internet@rsf.org
--Access https://www.accessnow.org/
- email: help@accessnow.org
- PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
--Digital Defenders Partnership http://digitaldefenders.org/
- email: ddp@hivos.org
-<br>
-Among the organizations you may reach out to include:
--Freedom House http://freedomhouse.org/
--Internews https://www.internews.org/
--IWPR https://www.cyber-arabs.com/
--Open Technology Fund https://www.opentechfund.org
- email: info@opentechfund.org
- PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
-
-## Learn
 Establishing trust when reaching out
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
@@ -153,6 +144,15 @@ This adversary has an obvious interest in intercepting your secure communication
 Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
+
+## Learn
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+<br>
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
@@ -218,7 +218,6 @@ Anonymisation tools hide the sender and recipient of a message and will protect 
 <br>
 Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
 <br>
-
 
 
 Secure communication is always a trade-off between security and convenience. 

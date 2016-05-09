@@ -7,10 +7,6 @@
 
 [Learn more about risk types and levels](resources/risk-assessment.md)
 
-## Scenario
-Scenario text...
-
-
 ## How-to
 Make a call
 
@@ -34,5 +30,9 @@ This makes sure you are both who you say you are.
 ![11s.png](11s.png)
 
 
+
+
+## Scenario
+Scenario text...
 
 

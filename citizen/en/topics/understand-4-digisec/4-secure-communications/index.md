@@ -1,9 +1,9 @@
 # Secure Communications
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
+
+## Introduction
+Introduction text...
 
 ## Learn
 Safer communications: What to do when you can't trust your communications channels
@@ -42,7 +42,6 @@ For detailed instructions on communicating safely on a smartphone, refer to the 
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
