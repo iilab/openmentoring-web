@@ -96,7 +96,6 @@ For more extensive threat modeling assistance see the Electronic Frontier Founda
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

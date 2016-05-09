@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-09T12:44:54.823Z",
+  "updatedAt": "2016-05-09T12:48:04.562Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -68,17 +68,6 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works",
-      "type": "topic",
-      "title": "How does it work?",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -87,6 +76,17 @@
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works",
+      "type": "topic",
+      "title": "How does it work?",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -322,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_4-who-controls",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "Who controls and owns your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -399,6 +399,39 @@
     }
   ,
     {
+      "slug": "tool-2-signal_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -454,39 +487,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-mission-hrd",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your mission",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_3-your-mission-hrd",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your mission",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

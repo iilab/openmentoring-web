@@ -23,14 +23,6 @@ Then you need to share the content
  * ...
 
 ## How-to
-First you need to share the app
- * If you want to share this app as a link 
- * If you want to share the app with a QR code
-
-Then you need to share the content
- * ...
-
-## How-to
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -208,6 +200,14 @@ Note: While Signal allows you to export your messages, the messages in the backu
 Figure 16 & 17: Signal Export and Export confirmation screens
 
 
+
+## How-to
+First you need to share the app
+ * If you want to share this app as a link 
+ * If you want to share the app with a QR code
+
+Then you need to share the content
+ * ...
 
 ## Share
 
