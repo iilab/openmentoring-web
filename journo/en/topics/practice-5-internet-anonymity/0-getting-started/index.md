@@ -27,6 +27,7 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
 
 
+## Learn
 Learning text...
 
 ## Test
@@ -45,6 +46,7 @@ Learning text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
