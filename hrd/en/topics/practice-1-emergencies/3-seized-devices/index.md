@@ -80,7 +80,6 @@ If you have lost contact with your device for an extended period of time and you
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

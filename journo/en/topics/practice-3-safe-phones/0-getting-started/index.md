@@ -6,6 +6,22 @@ This topic covers the fundamentals security basics of mobile phones and devices
 ## Scenario
 Scenario text...
 
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
+
 ## Learn
 Safer Communication on a smartphone
 
@@ -22,22 +38,6 @@ iPhone
 
 Your iOS options are more limited, but the ChatSecure app on the iPhone is created in cooperation with the Android ChatSecure app and has similar features. Onion Browser offers similar features to Tor and Orbot for iOS.
 Trust
-
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
