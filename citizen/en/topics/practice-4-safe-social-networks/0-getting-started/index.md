@@ -88,6 +88,7 @@ Essentially you are giving all your data over to the owners and trusting them wi
 ## Test you social networking knowledge!
 
 
+## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)

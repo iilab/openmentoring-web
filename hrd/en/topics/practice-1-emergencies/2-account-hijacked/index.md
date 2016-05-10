@@ -13,9 +13,6 @@ Key takeaways will include:
 <br>
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -59,6 +56,14 @@ Change the passwords for all your other online accounts that are linked to your 
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
+## Scenario
+Scenario text...
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -74,9 +79,4 @@ For example, if you are looking at an email account and it is the recovery addre
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
