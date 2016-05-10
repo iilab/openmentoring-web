@@ -16,6 +16,7 @@ Key takeaways from this section include immediate steps to take when faced with 
 
 
 
+## Scenario
 This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
 <br>
 It also provides guidelines for digital first responders to assist a person under threat.
@@ -38,6 +39,7 @@ If at any moment you feel uncomfortable or unsure about implementing any of the 
     </question>
 </quiz>
 
+## Next
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
  * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
