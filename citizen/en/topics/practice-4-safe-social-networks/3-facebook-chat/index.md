@@ -83,6 +83,7 @@ Now you are prepared to add your Facebook account on Jitsi. To do this follow th
 
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
 
+
 ## How-to
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
