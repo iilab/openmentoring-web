@@ -3,6 +3,9 @@
 This topic covers the fundamentals security basics of mobile phones and devices
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 Safer Communication on a smartphone
 
@@ -19,9 +22,6 @@ iPhone
 
 Your iOS options are more limited, but the ChatSecure app on the iPhone is created in cooperation with the Android ChatSecure app and has similar features. Onion Browser offers similar features to Tor and Orbot for iOS.
 Trust
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

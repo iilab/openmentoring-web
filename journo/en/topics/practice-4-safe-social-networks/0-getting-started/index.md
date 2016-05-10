@@ -1,5 +1,11 @@
 # Getting started with Social Networks
 ## Introduction
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
+<br>
+Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
+
+
+## Introduction
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 
 <br>
@@ -15,12 +21,6 @@ This section will provide an overview of how to use social networks safer. Topic
 - [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
 - [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
 - Establishing trust with others on Social Networking platforms
-
-
-## Introduction
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
-<br>
-Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
 ## Introduction
@@ -88,6 +88,7 @@ Essentially you are giving all your data over to the owners and trusting them wi
 ## Test you social networking knowledge!
 
 
+## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
