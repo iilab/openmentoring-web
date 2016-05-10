@@ -40,6 +40,7 @@ Things You Should Know About This Tool Before You Start
 ## Scenario
 
 
+## How-to
 This how to will go through the following steps:
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
