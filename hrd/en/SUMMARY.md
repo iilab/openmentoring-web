@@ -108,9 +108,9 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   

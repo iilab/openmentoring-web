@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-05-10T08:31:28.353Z",
+  "updatedAt": "2016-05-10T08:32:28.766Z",
   "items": [
-    {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -21,6 +10,17 @@
       "categories": [ "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ,
     {
@@ -46,17 +46,6 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity",
-      "type": "topic",
-      "title": "Using the Internet Anonymously",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-1-open-mentoring",
       "type": "topic",
       "title": "Using the Open Mentoring App",
@@ -65,6 +54,17 @@
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity",
+      "type": "topic",
+      "title": "Using the Internet Anonymously",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -123,6 +123,61 @@
     }
   ,
     
+    {
+      "slug": "practice-2-planning_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_1-threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_2-assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_3-assess-digital-risk",
+      "type": "unit",
+      "title": "Assessing Digital Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [ "profile:hrd"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
     {
       "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
@@ -198,61 +253,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_1-threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_3-assess-digital-risk",
-      "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -344,6 +344,28 @@
     }
   ,
     {
+      "slug": "tool-1-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_1-sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -374,28 +396,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
