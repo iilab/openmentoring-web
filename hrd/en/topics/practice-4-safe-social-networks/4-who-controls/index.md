@@ -23,13 +23,13 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Test
+## Next
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Next
+## Test
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
