@@ -1,52 +1,12 @@
 # Seeking Remote Help
-## Test
-<quiz name="">
-    <question>
-        <p>Landlines are not encrypted but mobile phones are</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
-
-## Test
-<quiz name="">
-    <question>
-        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
-        <answer>Yes</answer>
-        <answer correct>No</answer>
-        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
-    </question>
-    <question>
-        <p>With transport layer encryption the company providing the service is able to read my content.</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
-    </question>
-</quiz>
-
-## Introduction
-This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
-<br>
-Key takeaways from this section will include the following:
-- [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
-- [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
-- [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
-- [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
-- [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
-
-
 ## Learn
-How to ask for help
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
-If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
 <br>
-If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
-
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+<br>
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 
 ## Learn
 Basic introduction to encryption and secure communication
@@ -132,6 +92,17 @@ When getting advice, compare it to concepts discussed on well-respected guides s
 
 
 ## Learn
+How to ask for help
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+<br>
+If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
+<br>
+If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
+
+
+## Learn
 Seeking and providing remote help
 
 When you are seeking remote help from a third party please keep the following in mind:
@@ -183,20 +154,49 @@ Security tools have built-in ways to verify if the person you are talking to is 
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
-## Learn
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+## Introduction
+This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 <br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
-<br>
-Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+Key takeaways from this section will include the following:
+- [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
+- [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
+- [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
+- [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
+
 
 ## Scenario
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
+
+## Test
+<quiz name="">
+    <question>
+        <p>Landlines are not encrypted but mobile phones are</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
+    </question>
+</quiz>
+
+## Test
+<quiz name="">
+    <question>
+        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
+        <answer>Yes</answer>
+        <answer correct>No</answer>
+        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
+    </question>
+    <question>
+        <p>With transport layer encryption the company providing the service is able to read my content.</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
+    </question>
+</quiz>
 
 
 Secure communication is always a trade-off between security and convenience. 
@@ -206,6 +206,19 @@ Choosing the most appropriate form of secure communication will depend on your u
 When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
 <br>
 A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
 
 
 Secure communication is always a trade-off between security and convenience. 
@@ -222,19 +235,7 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
-
+## Next
 Do the best that you can with the resources and skills available.
 <br>
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 
