@@ -1,4 +1,20 @@
 # Getting Started with Signal
+## Introduction
+Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
+<br>
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+<br>
+Key takeaways from this section include learning to:
+ - Send encrypted messages to other Signal users via SMS or the internet (MMS).
+ - Make encrypted voice calls to other Signal users.
+ - Keep your messages encrypted on your phone and protected by a passphrase.
+<br>
+Required Reading
+<!--Is this from SIAB? We should maybe think of some required reading that's also built into the app itself if possible-->
+ - How-to Booklet chapter 10. How to use mobile phones as securely as possible
+ - How-to Booklet chapter 11. How to use smartphones as securely as possible
+
+
 ## Learn
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
 <br>
@@ -19,22 +35,6 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages. 
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-## Introduction
-Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
-<br>
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
-<br>
-Key takeaways from this section include learning to:
- - Send encrypted messages to other Signal users via SMS or the internet (MMS).
- - Make encrypted voice calls to other Signal users.
- - Keep your messages encrypted on your phone and protected by a passphrase.
-<br>
-Required Reading
-<!--Is this from SIAB? We should maybe think of some required reading that's also built into the app itself if possible-->
- - How-to Booklet chapter 10. How to use mobile phones as securely as possible
- - How-to Booklet chapter 11. How to use smartphones as securely as possible
 
 
 ## Scenario
