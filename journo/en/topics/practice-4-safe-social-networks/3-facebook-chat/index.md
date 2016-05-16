@@ -59,7 +59,6 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-08.png
 **Step 7**: Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
 
 
-## How-to
 **How to add a Facebook account on Jitsi**
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
