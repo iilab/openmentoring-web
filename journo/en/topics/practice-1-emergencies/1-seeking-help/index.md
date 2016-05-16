@@ -103,20 +103,6 @@ If you think that your communication might be targeted and/or you have just chan
 
 
 ## Learn
-Seeking and providing remote help
-
-When you are seeking remote help from a third party please keep the following in mind:
-- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
-<br>
-- Remember that the device you are using might be the subject of the attack.
-- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-<br>
-- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
-- If possible, do not rely on unknown people you find online.
-
-
-
-## Learn
 Among the organizations you may reach out to include:
 -EFF https://www.eff.org/
  email: info@eff.org
@@ -141,6 +127,20 @@ Among the organizations you may reach out to include:
 -Open Technology Fund https://www.opentechfund.org
  email: info@opentechfund.org
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
+
+## Learn
+Seeking and providing remote help
+
+When you are seeking remote help from a third party please keep the following in mind:
+- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
+<br>
+- Remember that the device you are using might be the subject of the attack.
+- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
+<br>
+- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
+- If possible, do not rely on unknown people you find online.
+
+
 
 ## Learn
 Establishing trust when reaching out
