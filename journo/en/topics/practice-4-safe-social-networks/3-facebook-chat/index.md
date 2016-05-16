@@ -1,4 +1,8 @@
 # How to chat securely?
+## Scenario
+Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
+
+
 ## Introduction
 This section will describe how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do!
 <br>
@@ -158,10 +162,6 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
-
-## Scenario
-Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
-
 
 ## Test you social networking knowledge!
 

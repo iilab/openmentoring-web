@@ -86,9 +86,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
@@ -112,9 +112,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
