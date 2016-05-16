@@ -6,9 +6,6 @@ How it works
 ## Scenario
 Scenario text...
 
-## Learn
-Learning text...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -25,7 +22,10 @@ Learning text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+Learning text...
 
