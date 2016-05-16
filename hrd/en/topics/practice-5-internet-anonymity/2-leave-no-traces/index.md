@@ -1,12 +1,12 @@
 # How to leave less traces while browsing
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
 ## Learn
 Learning text...
-
-## Introduction
-Introduction text...
 
 ## Test
 <quiz name="Gitbook Quiz">
