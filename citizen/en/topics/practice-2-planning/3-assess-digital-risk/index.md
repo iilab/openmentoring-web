@@ -1,16 +1,5 @@
 # Assessing Digital Security Risks
 ## Introduction
-In this section, you learn how to understand the nature of the risk we face with digital data (risk assesment), so that we can make the right decisions about how best to stay safe.
-
-Perhaps without realising, we take decisions based on risk analyses every day: you may chose to lock your office doors when you leave in the evening, to deter thieves. 
-<br>
-
-The idea of this section is to consider that same logic, as it applies to our digital activities, both as human rights defenders and as private people.
-<br>
-This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
-
-
-## Introduction
 In order to know what measures to take in order to be more secure, both digitally and in our day-to-day personal and professional activities, it's important to understand the nature of the risk we face, so that we can make the right decisions about how best to stay safe.
 
 <br>
@@ -20,12 +9,23 @@ Perhaps without realising, we take decisions based on risk analyses every day. *
 This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
 
 
+## Introduction
+In this section, you learn how to understand the nature of the risk we face with digital data (risk assesment), so that we can make the right decisions about how best to stay safe.
+<br>
+Perhaps without realising, we take decisions based on risk analyses every day: you may chose to lock your office doors when you leave in the evening, to deter thieves. 
+<br>
+
+The idea of this section is to consider that same logic, as it applies to our digital activities, both as human rights defenders and as private people.
+<br>
+This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
+
+
 ## Scenario
 ###rewrite this to be a scenario
 
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
-
+<br>
 In order to 'map' the **actors** relevant to our work and our well-being, we might consider dividing them into three categories:
 <br>
 

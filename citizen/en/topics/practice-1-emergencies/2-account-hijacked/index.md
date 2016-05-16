@@ -17,6 +17,14 @@ Key takeaways will include:
 Scenario text...
 
 ## Learn
+For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+
+
+## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
 If you still have access to the account, take the following steps:
@@ -39,14 +47,6 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
-
-
-## Learn
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Learn
@@ -75,7 +75,6 @@ For example, if you are looking at an email account and it is the recovery addre
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

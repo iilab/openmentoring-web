@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-16T14:56:25.501Z",
+  "updatedAt": "2016-05-16T14:57:14.922Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -509,17 +509,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
-      "type": "unit",
-      "title": "Your Well Being",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_3-your-mission-hrd",
       "type": "unit",
       "title": "Your mission",
@@ -534,6 +523,17 @@
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_2-your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -575,17 +575,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
       "title": "Organisational Security",
@@ -597,9 +586,20 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_0-getting-started",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_1-encryption",
+      "type": "unit",
+      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_1-encryption",
+      "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
-      "title": "Encryption",
+      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
