@@ -60,7 +60,6 @@ If you want to keep your house and possessions safe, here are a few questions yo
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
