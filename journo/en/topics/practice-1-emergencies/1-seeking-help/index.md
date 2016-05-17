@@ -103,20 +103,6 @@ If you think that your communication might be targeted and/or you have just chan
 
 
 ## Learn
-Seeking and providing remote help
-
-When you are seeking remote help from a third party please keep the following in mind:
-- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
-<br>
-- Remember that the device you are using might be the subject of the attack.
-- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-<br>
-- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
-- If possible, do not rely on unknown people you find online.
-
-
-
-## Learn
 Among the organizations you may reach out to include:
 -EFF https://www.eff.org/
  email: info@eff.org
@@ -143,6 +129,20 @@ Among the organizations you may reach out to include:
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 ## Learn
+Seeking and providing remote help
+
+When you are seeking remote help from a third party please keep the following in mind:
+- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
+<br>
+- Remember that the device you are using might be the subject of the attack.
+- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
+<br>
+- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
+- If possible, do not rely on unknown people you find online.
+
+
+
+## Learn
 Establishing trust when reaching out
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
@@ -154,6 +154,12 @@ Security tools have built-in ways to verify if the person you are talking to is 
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 <br>
@@ -164,12 +170,6 @@ Key takeaways from this section will include the following:
 - [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
 - [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
-
-
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Test

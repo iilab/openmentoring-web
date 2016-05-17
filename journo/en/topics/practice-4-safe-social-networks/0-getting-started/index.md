@@ -56,6 +56,9 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+## Test you social networking knowledge!
+
+
 ## Learn
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with.
 <br>
@@ -82,15 +85,13 @@ Privacy settings are only meant to protect you from other members of the social 
 Essentially you are giving all your data over to the owners and trusting them with it.
 
 
-## Test you social networking knowledge!
-
-
 ## Next
-
- * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
- * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
- * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
- * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
- * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+If you found this section useful, you might be interested in the following sections:
+- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
+- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
+<br>
+- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
+- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
 
 
