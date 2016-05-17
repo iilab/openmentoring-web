@@ -154,12 +154,6 @@ Security tools have built-in ways to verify if the person you are talking to is 
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 <br>
@@ -172,42 +166,11 @@ Key takeaways from this section will include the following:
 - [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
 
 
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
-<br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
-<br>
-If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
-<br>
-Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
-<br>
-In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
-<br>
-If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
 ## Test
 <quiz name="">
@@ -234,6 +197,43 @@ If you have prepared [an emergency plan with your contacts](en/topics/practice-2
         <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
     </question>
 </quiz>
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
+<br>
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
+<br>
+If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
+<br>
+Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
+<br>
+In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
+<br>
+If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
 ## Next
 Do the best that you can with the resources and skills available.
