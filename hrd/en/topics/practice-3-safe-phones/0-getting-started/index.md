@@ -1,10 +1,10 @@
 # Getting Started
-## Scenario
-Scenario text...
-
 ## Introduction
 This topic covers the fundamentals security basics of mobile phones and devices
 
+
+## Scenario
+Scenario text...
 
 ## Learn
 Safer Communication on a smartphone
@@ -36,7 +36,6 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
