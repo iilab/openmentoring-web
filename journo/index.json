@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-17T09:16:17.800Z",
+  "updatedAt": "2016-05-17T09:17:30.918Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -73,7 +73,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -382,7 +382,7 @@
       "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -415,7 +415,7 @@
       "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_6-trust",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_6-trust",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
