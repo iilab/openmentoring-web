@@ -23,6 +23,22 @@ This section is adapted from Tactical Technology Collective's [guide to risk mod
 ## Scenario
 ###rewrite this to be a scenario
 
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
+
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -117,25 +133,12 @@ It may be that you find there are a lot of threats to your work, and it can be d
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
 
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
-
 ## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
+If you found this useful, you might be interested in the following sections:
+* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
+* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
+* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
+* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
+* [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
 
 

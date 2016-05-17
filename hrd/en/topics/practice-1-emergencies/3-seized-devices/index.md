@@ -26,20 +26,6 @@ Should you believe your device is seized, start by answering some simple questio
 -Is the device still missing?
 
 ## Learn
-Think about the kinds of security protections the device had in place:
-<br>
-- Was the device protected by a password or other security measures?
-<br>
-- Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-- Does the device have full disk encryption turned on?
-<br>
-- What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-- Do you have remote access to the device?
-
-
-## Learn
 Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 <br>
 What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
@@ -52,6 +38,20 @@ Do your accounts have saved passwords and/or automatically log in? This is commo
 <br>
 After answering these questions, take the following steps to mitigate the problem:
 <br>
+
+## Learn
+Think about the kinds of security protections the device had in place:
+<br>
+- Was the device protected by a password or other security measures?
+<br>
+- Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+<br>
+- Does the device have full disk encryption turned on?
+<br>
+- What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+<br>
+- Do you have remote access to the device?
+
 
 ## Learn
 <!--Perhaps there's a way here to have users select the situation that applies to them, rather than making users have to go through lots of information that doesn't concern them. This would improve flow. One idea here would be, "Is your device still missing? Do you have your device back?"-->
@@ -80,20 +80,6 @@ If you have lost contact with your device for an extended period of time and you
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
 
-## Next
- If you found this useful, you might be interested in the following related sections:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- <br>
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -109,4 +95,18 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ If you found this useful, you might be interested in the following related sections:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+ <br>
+ * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
+ * [Further Reading and Resources](resources)
+
 

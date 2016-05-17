@@ -1,10 +1,11 @@
 # Secure Communications
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
 
+## Introduction
+Introduction text...
+
+## Learn
 Safer communications: What to do when you can't trust your communications channels
 
 If you believe your communications are being targeted, you must stop using the communications services/accounts that you believe are compromised immediately. Create a new account and remember not to re-use your existing usernames, passwords or email accounts as you seek help.
