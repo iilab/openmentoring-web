@@ -5,13 +5,10 @@ This section aims to providing preliminary support for identifying threats and a
 However, here we try providing an introduction to themes and things to consider. This section provides extensive links to additional resources where you can learn more about the topic.
 <br>
 Key takeaways from this section include immediate steps to take when faced with the following situations:
-- [Seeking help](en/topics/practice-1-emergencies/1-seeking-help/1-intro.md) 
-- [Hijacked account](en/topics/practice-1-emergencies/2-account-hijacked/1-intro.md)
-- [Devices seized](en/topics/practice-1-emergencies/3-seized-devices/1-intro.md)
-- [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
-- [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
-- [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
-
+* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
+* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
+* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
+* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 
 ## Scenario
 Scenario text...
