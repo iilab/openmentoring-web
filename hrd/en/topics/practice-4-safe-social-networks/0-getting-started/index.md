@@ -56,7 +56,6 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
-## Learn
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with.
 <br>
 This guide will help you understand the security implications of using social networking sites.
@@ -82,9 +81,6 @@ Privacy settings are only meant to protect you from other members of the social 
 Essentially you are giving all your data over to the owners and trusting them with it.
 
 
-## Test you social networking knowledge!
-
-
 ## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
@@ -92,5 +88,8 @@ Essentially you are giving all your data over to the owners and trusting them wi
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
+
+## Test you social networking knowledge!
 
 
