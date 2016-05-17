@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-17T09:17:32.670Z",
+  "updatedAt": "2016-05-17T09:22:51.534Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -300,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_2-access-personal-details",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
