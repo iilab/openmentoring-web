@@ -17,17 +17,17 @@ This section, adopted from Tactical Technology Collective's [Security in a Box,]
 ## Introduction
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
 <br>
-Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
+Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
 
 
 ## Introduction
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise. 
 <br>
-Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
+Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
 ## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
@@ -37,7 +37,7 @@ Mansour and Magda plan how to share photos and videos of the march without revea
 
 
 ## Scenario
-Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
