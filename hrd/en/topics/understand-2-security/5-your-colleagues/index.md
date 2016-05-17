@@ -1,9 +1,8 @@
 # Your colleagues
+Introduction text...
+
 ## Scenario
 Scenario text...
-
-## Introduction
-Introduction text...
 
 ## Learn
 Learning text...
@@ -24,7 +23,6 @@ Learning text...
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

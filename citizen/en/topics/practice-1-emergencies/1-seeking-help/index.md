@@ -117,6 +117,18 @@ When you are seeking remote help from a third party please keep the following in
 
 
 ## Learn
+Establishing trust when reaching out
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
+<br>
+You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
+
+This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
+<br>
+Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
+
+When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
+
+## Learn
 Among the organizations you may reach out to include:
 -EFF https://www.eff.org/
  email: info@eff.org
@@ -141,18 +153,6 @@ Among the organizations you may reach out to include:
 -Open Technology Fund https://www.opentechfund.org
  email: info@opentechfund.org
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
-
-## Learn
-Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
-<br>
-You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
-
-This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
-<br>
-Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
-
-When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
