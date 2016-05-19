@@ -1,4 +1,7 @@
 # DDOS Attack
+## Scenario
+Scenario text...
+
 ## Introduction
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 <br>
@@ -11,9 +14,6 @@ Key takeaways of this section are:
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 <br>
 
-
-## Scenario
-Scenario text...
 
 ## Learn
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
@@ -65,7 +65,6 @@ Start by answering some simple questions:
 After answering these questions, take the following first steps to mitigate the problem.
 
 
-## Learn
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 <br>
 - Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).

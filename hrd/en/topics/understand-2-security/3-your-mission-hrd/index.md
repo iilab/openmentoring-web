@@ -1,13 +1,14 @@
 # Your mission
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
 ## Learn
 Learning text...
 
-## Introduction
-Introduction text...
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
