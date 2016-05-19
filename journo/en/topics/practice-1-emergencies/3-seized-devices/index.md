@@ -9,6 +9,9 @@ Key takeaways from this section include:
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
 <br>
@@ -84,9 +87,6 @@ If you have lost contact with your device for an extended period of time and you
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

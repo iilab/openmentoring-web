@@ -1,10 +1,10 @@
 # Getting Started
+## Scenario
+Scenario text...
+
 ## Introduction
 How it works
 
-
-## Scenario
-Scenario text...
 
 ## Learn
 Learning text...

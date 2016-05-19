@@ -1,21 +1,5 @@
 # Summary
 
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -42,9 +26,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
@@ -121,4 +105,20 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
