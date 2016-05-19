@@ -1,4 +1,9 @@
 # Getting Started
+## Scenario
+This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
+<br>
+It also provides guidelines for digital first responders to assist a person under threat.
+
 ## Introduction
 **This section aims to provide preliminary support for people facing the most common types of digital threats.
 **
@@ -14,11 +19,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
 <br>
 
-
-## Scenario
-This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
-<br>
-It also provides guidelines for digital first responders to assist a person under threat.
 
 ## Learn
 This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
@@ -39,7 +39,6 @@ If at any moment you feel uncomfortable or unsure about implementing any of the 
     </question>
 </quiz>
 
-## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:
 * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

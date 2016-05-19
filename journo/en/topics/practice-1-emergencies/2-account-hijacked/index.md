@@ -1,4 +1,7 @@
 # Account Hijacking
+## Scenario
+Scenario text...
+
 ## Introduction
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
@@ -12,9 +15,6 @@ Key takeaways will include:
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 <br>
 
-
-## Scenario
-Scenario text...
 
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
@@ -31,7 +31,7 @@ Some providers will send a link to change your password to your recovery email a
 In the reset case, it is important to change the password immediately after regaining access to your account.
 <br>
 If these steps do not work and your account is being abused, contact the platform provider directly. Alternatively, contact the following organisations for possible support in shutting the account down.
-
+<br>
 Electronic Frontier Foundation: info@eff.org
 Front Line Defenders: info@frontlinedefenders.org
 Committee to Protect Journalists: info@cpj.org
@@ -50,14 +50,14 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 
 
 ## Learn
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
-
-## Learn
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+
+## Learn
+Look at the account settings. Have they changed?
+<br>
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 ## Test
 <quiz name="Gitbook Quiz">

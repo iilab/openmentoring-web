@@ -1,6 +1,17 @@
 # Account Hijacking
-## Scenario
-Scenario text...
+## Introduction
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+
+<br>
+
+Key takeaways will include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+<br>
+
 
 ## Learn
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
@@ -17,7 +28,7 @@ Some providers will send a link to change your password to your recovery email a
 In the reset case, it is important to change the password immediately after regaining access to your account.
 <br>
 If these steps do not work and your account is being abused, contact the platform provider directly. Alternatively, contact the following organisations for possible support in shutting the account down.
-
+<br>
 Electronic Frontier Foundation: info@eff.org
 Front Line Defenders: info@frontlinedefenders.org
 Committee to Protect Journalists: info@cpj.org
@@ -45,19 +56,8 @@ Change the passwords for all your other online accounts that are linked to your 
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
-## Introduction
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-
-<br>
-
-Key takeaways will include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
-<br>
-
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

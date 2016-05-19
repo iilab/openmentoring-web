@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-19T12:43:08.359Z",
+  "updatedAt": "2016-05-19T12:53:50.417Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -432,9 +432,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_1-computers",
+      "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
-      "title": "Computers",
+      "title": "Getting Started",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -443,9 +443,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_0-getting-started",
+      "slug": "understand-1-how-it-works_1-computers",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Computers",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -564,9 +564,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Getting Started",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],

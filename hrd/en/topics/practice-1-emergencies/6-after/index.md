@@ -1,4 +1,10 @@
 # After an Emergency
+## Introduction
+This section describe what to do after an emergency takes place.
+<br>
+Key takeaway for this section will be:
+
+
 ## Scenario
 Scenario text...
 
@@ -33,10 +39,4 @@ If you found this useful, you might be interested in the following sections:
 See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
-
-## Introduction
-This section describe what to do after an emergency takes place.
-<br>
-Key takeaway for this section will be:
-
 

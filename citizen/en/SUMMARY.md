@@ -72,9 +72,9 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
@@ -100,9 +100,9 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   

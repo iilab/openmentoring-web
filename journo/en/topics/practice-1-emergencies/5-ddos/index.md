@@ -16,13 +16,6 @@ Key takeaways of this section are:
 Scenario text...
 
 ## Learn
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
-<br>
-In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a ‘denial of service’ attack or a website takeover.
-<br>
-If your site is under a denial of service attack, some immediate options for next steps are suggested.
-
-## Learn
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site. Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 <br>
 Network problem
@@ -52,6 +45,13 @@ Is your site loading intermittently or unusually slowly? Your site may be overwh
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 
 ## Learn
+A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
+<br>
+In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a ‘denial of service’ attack or a website takeover.
+<br>
+If your site is under a denial of service attack, some immediate options for next steps are suggested.
+
+## Learn
 Finding the problem and possible solutions to your website’s problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (e.g. webmaster or the people who helped you set up your site)
 <br>
 Start by answering some simple questions:
@@ -79,6 +79,7 @@ If you have determined that none of these are at fault, you may be suffering fro
 <br>
 - Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
+## Learn
 If you are suffering from a website defacement, take the following steps:
 Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes. It is very important to keep payments for your domain name in order.
 <br>
