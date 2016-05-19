@@ -34,16 +34,6 @@ To learn more about communicating safely on a computer, refer to the [Safe Email
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
 
-## How to ask for help
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-<br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
-<br>
-If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
-<br>
-If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
-
-
 ## Seeking and providing remote help
 When you are seeking remote help from a third party please keep the following in mind:
 - If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
@@ -55,6 +45,16 @@ When you are seeking remote help from a third party please keep the following in
 - The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
 <br>
 - If possible, do not rely on unknown people you find online.
+
+
+## How to ask for help
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+<br>
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+<br>
+If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
+<br>
+If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
 
 
 ## Organisations you may reach out to
@@ -81,6 +81,12 @@ When you are seeking remote help from a third party please keep the following in
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 <br>
@@ -93,12 +99,6 @@ Key takeaways from this section will include the following:
 <br>
 - [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
-
-
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Test

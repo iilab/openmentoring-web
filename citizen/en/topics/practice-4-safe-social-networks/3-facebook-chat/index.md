@@ -31,8 +31,7 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 (5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
-## How-to
-**How to install Jitsi **
+## Installing Jitsi
 
 You can install Jitsi through the following seven steps:
 <br>
