@@ -6,6 +6,7 @@ This topic covers the fundamentals security basics of mobile phones and devices
 ## Scenario
 Scenario text...
 
+## Learn
 Safer Communication on a smartphone
 
 If you only have a smartphone, the following tools can protect your communication. Be aware that your phone is generally tied to your identity (through billing, account services or SIM card registration) and can reveal your location. These tools do not protect against this, they only encrypt the content of your communication.
