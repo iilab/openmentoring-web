@@ -12,7 +12,7 @@ Key takeaways from this section include:
 ## Scenario
 Scenario text...
 
-## en/topics/practice-1-emergencies/3-seized-devices/3-1 Learn.md
+## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
 <br>
 - What happened?
@@ -24,6 +24,7 @@ Should you believe your device is seized, start by answering some simple questio
 - How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
 <br>
 -Is the device still missing?
+
 
 ## Learn
 Think about the kinds of security protections the device had in place:

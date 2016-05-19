@@ -1,4 +1,4 @@
-## en/topics/practice-1-emergencies/3-seized-devices/3-1 Learn.md
+## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
 <br>
 - What happened?
