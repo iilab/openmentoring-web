@@ -11,6 +11,7 @@ Security tools have built-in ways to verify if the person you are talking to is 
 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
+
 ## Learn
 **Basic introduction to encryption and secure communication**
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
@@ -34,6 +35,21 @@ This, in turn, is better than using unencrypted communications (such as a postca
 To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
+
+## Learn
+**Encrypted communication**
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+<br>
+Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+Finally, when communicating there are different levels of security. How and what kind of encryption a tool makes use of will increase or decrease your communication security.
+<br>
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+<br>
+This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available. 
+<br>
+To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
 ## Learn
 How to ask for help
@@ -83,6 +99,7 @@ Among the organizations you may reach out to include:
 -Open Technology Fund https://www.opentechfund.org
  email: info@opentechfund.org
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
+
 
 ## Introduction
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)

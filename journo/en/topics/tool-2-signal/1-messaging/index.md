@@ -30,7 +30,6 @@ First you need to share the app
 Then you need to share the content
  * ...
 
-## How-to
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
