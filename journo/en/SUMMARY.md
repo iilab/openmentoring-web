@@ -78,9 +78,9 @@
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -88,9 +88,9 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
@@ -112,11 +112,11 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   

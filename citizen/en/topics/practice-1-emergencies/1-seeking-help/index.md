@@ -114,7 +114,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
     </question>
 </quiz>
 
-## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>
