@@ -56,7 +56,7 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
-## Learn
+## Social networking basics
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with.
 <br>
 This guide will help you understand the security implications of using social networking sites.
