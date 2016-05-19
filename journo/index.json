@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-19T12:41:49.975Z",
+  "updatedAt": "2016-05-19T12:42:30.166Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -289,17 +289,6 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
-      "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_2-access-personal-details",
       "type": "unit",
       "title": "How to control access to your personal details?",
@@ -336,6 +325,17 @@
       "slug": "practice-4-safe-social-networks_5-who-can-access",
       "type": "unit",
       "title": "Who can access your information on Social Networking platforms?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "type": "unit",
+      "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -465,9 +465,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -476,9 +476,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_4-internet",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -520,17 +520,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-mission-hrd",
-      "type": "unit",
-      "title": "Your mission",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
@@ -545,6 +534,17 @@
       "slug": "understand-2-security_4-your-sources-journo",
       "type": "unit",
       "title": "Your Sources",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-mission-hrd",
+      "type": "unit",
+      "title": "Your mission",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
