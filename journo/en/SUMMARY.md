@@ -58,9 +58,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -78,9 +78,9 @@
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -94,9 +94,9 @@
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -108,15 +108,15 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
