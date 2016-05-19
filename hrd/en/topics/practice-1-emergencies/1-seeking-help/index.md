@@ -160,8 +160,10 @@ This section will provide you with guidance on ways to establish secure communic
 Key takeaways from this section will include the following:
 - [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
+<br>
 - [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
 - [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
+<br>
 - [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
 
@@ -212,6 +214,19 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
 When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
 <br>
 If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
@@ -222,20 +237,6 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
-
-## Next
 Do the best that you can with the resources and skills available.
 <br>
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 
