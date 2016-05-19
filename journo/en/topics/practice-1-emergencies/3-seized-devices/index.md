@@ -26,7 +26,7 @@ Should you believe your device is seized, start by answering some simple questio
 -Is the device still missing?
 
 
-## Learn
+## Identifying security protections the missing device has in place
 Think about the kinds of security protections the device had in place:
 <br>
 - Was the device protected by a password or other security measures?
@@ -40,7 +40,7 @@ Think about the kinds of security protections the device had in place:
 - Do you have remote access to the device?
 
 
-## Learn
+## Identifying what was on the missing device
 Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 <br>
 What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
@@ -53,6 +53,7 @@ Do your accounts have saved passwords and/or automatically log in? This is commo
 <br>
 After answering these questions, take the following steps to mitigate the problem:
 <br>
+
 
 ## Learn
 <!--Perhaps there's a way here to have users select the situation that applies to them, rather than making users have to go through lots of information that doesn't concern them. This would improve flow. One idea here would be, "Is your device still missing? Do you have your device back?"-->
