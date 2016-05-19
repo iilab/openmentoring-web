@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-19T13:55:54.660Z",
+  "updatedAt": "2016-05-19T13:56:14.354Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -619,9 +619,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_1-encryption",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Encryption",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
