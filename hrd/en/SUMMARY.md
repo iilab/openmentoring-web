@@ -2,9 +2,9 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
@@ -42,9 +42,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
@@ -66,9 +66,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -98,6 +98,14 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
@@ -113,12 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
