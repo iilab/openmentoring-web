@@ -16,7 +16,7 @@ Key takeaways will include:
 ## Scenario
 Scenario text...
 
-## Learn
+## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
 If you still have access to the account, take the following steps:

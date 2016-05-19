@@ -13,7 +13,10 @@ Key takeaways will include:
 <br>
 
 
-## Learn
+## Scenario
+Scenario text...
+
+## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
 If you still have access to the account, take the following steps:
@@ -55,9 +58,6 @@ For email accounts, check for auto-forwards in email, possible changes to the ba
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-19T13:23:53.671Z",
+  "updatedAt": "2016-05-19T13:53:10.524Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -68,6 +68,17 @@
     }
   ,
     {
+      "slug": "tool-2-signal",
+      "type": "topic",
+      "title": "Using Signal",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-1-how-it-works",
       "type": "topic",
       "title": "How does it work?",
@@ -109,17 +120,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal",
-      "type": "topic",
-      "title": "Using Signal",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     
@@ -399,6 +399,39 @@
     }
   ,
     {
+      "slug": "tool-2-signal_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -638,39 +671,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ]  
 }
