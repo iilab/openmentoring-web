@@ -118,7 +118,7 @@
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

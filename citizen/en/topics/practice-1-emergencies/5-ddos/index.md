@@ -12,6 +12,9 @@ Key takeaways of this section are:
 <br>
 
 
+## Scenario
+Scenario text...
+
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
 <br>
@@ -96,9 +99,6 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 <br>
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-20T20:48:14.359Z",
+  "updatedAt": "2016-05-20T20:52:46.190Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_6-trust",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_6-trust",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
