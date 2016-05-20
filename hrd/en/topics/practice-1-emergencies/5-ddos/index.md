@@ -15,6 +15,7 @@ Key takeaways of this section are:
 ## Scenario
 Scenario text...
 
+
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
 <br>
