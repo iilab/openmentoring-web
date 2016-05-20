@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-19T14:33:28.682Z",
+  "updatedAt": "2016-05-20T20:48:14.359Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -73,7 +73,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -135,9 +135,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_2-account-hijacked",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Account Hijacking",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -146,9 +146,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Account Hijacking",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -179,9 +179,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_6-after",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "After an Emergency",
+      "title": "DDOS Attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -190,9 +190,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_6-after",
       "type": "unit",
-      "title": "DDOS Attack",
+      "title": "After an Emergency",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -393,7 +393,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -410,23 +410,23 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_2-organisational-security",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Organisational Security",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -586,9 +586,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Organisational Security",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_6-trust",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_6-trust",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

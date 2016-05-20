@@ -15,6 +15,12 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
 
 
+## Learn
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. 
+<br>
+To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).
+
+
 ## Encrypting Facebook instant messaging and voice calls
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
@@ -52,18 +58,15 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-08.png
 **Step 7**: Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
 
 
-## How-to
-**How to add a Facebook account on Jitsi**
+## Adding a Facebook account on Jitsi
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
 **Facebook Username**
-
 Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page. Your username is also included in your Facebook email address (e.g. username@facebook.com). 
 <br>
 You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username. To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process. For more details see Facebook’s explanation of usernames.
 <br>
 **App Settings**
-
 Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat. Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”. 
 <br>
 **Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers. This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends. After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use".
@@ -79,9 +82,7 @@ Now you are prepared to add your Facebook account on Jitsi. To do this follow th
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
 
 
-## How-to
-**How to encrypt your Facebook instant messages**
-
+## Encrypting your Facebook instant messages
 OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
 <br>
 **Step 1:** Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
@@ -123,9 +124,8 @@ Note that padlock no longer includes the orange triangle with the white exclamat
 <br>
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 
-## How-to
-**How to encrypt your Facebook voice calls**
 
+## Encrypting Facebook voice calls
 Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to do the following 5 Steps:
 <br>
 **Step 1:** Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
@@ -155,11 +155,6 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
 https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
-
-## Learn
-When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. 
-<br>
-To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).
 
 
 ## Test you social networking knowledge!
