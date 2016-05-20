@@ -44,6 +44,19 @@ If you believe that your computer has been compromised by malware and the device
 If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
 
 
+## Seeking and providing remote help
+When you are seeking remote help from a third party please keep the following in mind:
+- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
+<br>
+- Remember that the device you are using might be the subject of the attack.
+<br>
+- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
+<br>
+- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
+<br>
+- If possible, do not rely on unknown people you find online.
+
+
 ## Organisations you may reach out to
 -EFF https://www.eff.org/
  email: info@eff.org
@@ -66,19 +79,6 @@ If you think that your communication might be targeted and/or you have just chan
 -Open Technology Fund https://www.opentechfund.org
  email: info@opentechfund.org
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
-
-
-## Seeking and providing remote help
-When you are seeking remote help from a third party please keep the following in mind:
-- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
-<br>
-- Remember that the device you are using might be the subject of the attack.
-<br>
-- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-<br>
-- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
-<br>
-- If possible, do not rely on unknown people you find online.
 
 
 ## Introduction
@@ -141,6 +141,19 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
 When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
 <br>
 If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
@@ -150,19 +163,6 @@ Depending on how advanced your digital security and operational security practic
 In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
 
 ## Next
 Do the best that you can with the resources and skills available.
