@@ -13,8 +13,9 @@ Key takeaways of this section are:
 
 
 ## Scenario
-Scenario text...
-
+Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+<br>
+Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
 
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
