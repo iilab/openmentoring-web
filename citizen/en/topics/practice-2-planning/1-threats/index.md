@@ -1,4 +1,12 @@
 # Understanding Threats
+## Introduction
+There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats. To become more secure, you must determine what you need to protect, and whom you need to protect it from.
+<br>
+Threats can change depending on where you’re located, what you’re doing, and whom you’re working with. Therefore, in order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
+<br>
+This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
+
 ## Scenario
 Scenario text...
 
@@ -35,14 +43,6 @@ It is important to distinguish between threats and risks. While a threat is a ba
 Conducting a risk analysis is both a personal and a subjective process; not everyone has the same priorities or views threats in the same way. Many people find certain threats unacceptable no matter what the risk, because the mere presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don't view the threat as a problem.
 <br>
 In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
-
-
-## Introduction
-There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats. To become more secure, you must determine what you need to protect, and whom you need to protect it from.
-<br>
-Threats can change depending on where you’re located, what you’re doing, and whom you’re working with. Therefore, in order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
-<br>
-This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
 ## Test

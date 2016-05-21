@@ -15,6 +15,11 @@ Key takeaways from this section include immediate steps to take when faced with 
 <br>
 
 
+## Scenario
+This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
+<br>
+It also provides guidelines for digital first responders to assist a person under threat.
+
 ## Learn
 This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
 <br>
@@ -49,8 +54,4 @@ See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
 
-
-This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
-<br>
-It also provides guidelines for digital first responders to assist a person under threat.
 

@@ -84,6 +84,7 @@ If you have determined that none of these are at fault, you may be suffering fro
 - Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
+## What to do if you are suffering from a website defacement
 If you are suffering from a website defacement, take the following steps:
 <br>
 Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes. It is very important to keep payments for your domain name in order.
@@ -117,7 +118,6 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
     </question>
 </quiz>
 
-## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
