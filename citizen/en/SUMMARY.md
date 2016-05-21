@@ -44,9 +44,9 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
@@ -58,17 +58,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -78,9 +70,9 @@
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -121,4 +113,12 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
