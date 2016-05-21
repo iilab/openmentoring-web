@@ -28,21 +28,6 @@ Should you believe your device is seized, start by answering some simple questio
 -Is the device still missing?
 
 
-## Identifying what was on the missing device
-Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
-<br>
-What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
-<br>
-Did you use encryption tools for email or chat (such as PGP and OTR)?
-<br>
-What accounts does this device have access to? This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
-<br>
-Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass.
-<br>
-After answering these questions, take the following steps to mitigate the problem:
-<br>
-
-
 ## Identifying security protections the missing device has in place
 Think about the kinds of security protections the device had in place:
 <br>
@@ -88,6 +73,21 @@ If you have lost contact with your device for an extended period of time and you
 - If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
+
+
+## Identifying what was on the missing device
+Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
+<br>
+What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
+<br>
+Did you use encryption tools for email or chat (such as PGP and OTR)?
+<br>
+What accounts does this device have access to? This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
+<br>
+Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass.
+<br>
+After answering these questions, take the following steps to mitigate the problem:
+<br>
 
 
 ## Test
