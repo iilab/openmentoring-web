@@ -1,7 +1,4 @@
 # Passwords
-## Scenario
-Scenario text...
-
 ## Introduction
 This unit will provide an overview on how to create strong passwords.
 <br>
@@ -11,6 +8,9 @@ Key takeaways from this unit include the following:
 - How to test the stength of my password
 - What is a password manager?
 - What is two factor authentication
+
+## Scenario
+Scenario text...
 
 ## Why choosing a strong password is important
 Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
