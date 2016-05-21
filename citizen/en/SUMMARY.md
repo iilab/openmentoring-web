@@ -100,9 +100,9 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   

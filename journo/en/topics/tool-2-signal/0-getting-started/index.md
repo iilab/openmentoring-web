@@ -5,15 +5,10 @@ Signal is an Android and iPhone app for secure messaging and voice calls. Signal
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
 Key takeaways from this section include learning to:
+ - Install Signal on your smart phone
  - Send encrypted messages to other Signal users via SMS or the internet (MMS).
  - Make encrypted voice calls to other Signal users.
  - Keep your messages encrypted on your phone and protected by a passphrase.
-<br>
-Required Reading
-<!--Is this from SIAB? We should maybe think of some required reading that's also built into the app itself if possible-->
- - How-to Booklet chapter 10. How to use mobile phones as securely as possible
- - How-to Booklet chapter 11. How to use smartphones as securely as possible
-
 
 ## Learn
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
@@ -40,6 +35,7 @@ Things You Should Know About This Tool Before You Start
 ## Scenario
 
 
+## How-to
 This how to will go through the following steps:
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**

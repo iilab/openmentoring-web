@@ -20,6 +20,14 @@ This topic offers a set of self-diagnostic tools for human rights defenders, blo
 <br>
 It also provides guidelines for digital first responders to assist a person under threat.
 
+## Learn
+This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
+<br>
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+<br>
+If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
+
+
 ## Test
 <quiz name="What this guide can help you with">
     <question multiple>
@@ -45,12 +53,5 @@ To learn more about dealing with emergencies, you might be intersted in reading 
 See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
-
-
-This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
-<br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
-<br>
-If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 
 
