@@ -7,6 +7,9 @@ In this section, you are going to learn about how to
 - [Leave less traces while browsing and avoid malicious sites](en/topics/practice-5-internet-anonymity/2-leave-no-traces/1-intro.md)
 
 
+## Learn
+Learning text...
+
 ## Scenario
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
@@ -22,9 +25,6 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
 
-
-## Learn
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">

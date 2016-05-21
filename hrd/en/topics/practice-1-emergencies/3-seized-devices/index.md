@@ -9,11 +9,6 @@ Key takeaways from this section include:
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
-## Scenario
-Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
-<br>
-He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
-
 ## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
 <br>
@@ -119,4 +114,8 @@ See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
 
+
+Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
+<br>
+He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
 
