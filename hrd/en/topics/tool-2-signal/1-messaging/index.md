@@ -20,22 +20,6 @@ He needs to be careful to share the app and its content in ways that doesn't all
 
 
 ## How-to
-First you need to share the app
- * If you want to share this app as a link 
- * If you want to share the app with a QR code
-
-Then you need to share the content
- * ...
-
-## How-to
-First you need to share the app
- * If you want to share this app as a link 
- * If you want to share the app with a QR code
-
-Then you need to share the content
- * ...
-
-## How-to
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
