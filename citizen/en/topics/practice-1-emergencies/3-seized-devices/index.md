@@ -1,14 +1,4 @@
 # Devices Seized
-## Introduction
-In this section, you will learn about what steps to take if your digital devices are seized.
-<br>
-Key takeaways from this section include:
-- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
-- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
-- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
-- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
-
-
 ## Scenario
 Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
 <br>
@@ -88,6 +78,16 @@ If you have lost contact with your device for an extended period of time and you
 - If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
+
+
+## Introduction
+In this section, you will learn about what steps to take if your digital devices are seized.
+<br>
+Key takeaways from this section include:
+- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
+- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
+- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
+- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
 ## Test

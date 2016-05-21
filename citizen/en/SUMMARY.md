@@ -6,8 +6,6 @@
   
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
-  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
@@ -15,6 +13,8 @@
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -30,9 +30,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -44,35 +44,43 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
-  
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
+  
+  * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
   * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
+  
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
-* [How does it work?](topics/understand-1-how-it-works/index.md)
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -84,9 +92,9 @@
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
@@ -110,15 +118,7 @@
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
