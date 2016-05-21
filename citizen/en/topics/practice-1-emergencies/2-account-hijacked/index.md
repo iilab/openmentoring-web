@@ -1,4 +1,9 @@
 # Account Hijacking
+## Scenario
+Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+<br>
+More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
+
 ## Introduction
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 <br>
@@ -9,11 +14,6 @@ Key takeaways will include:
 - [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
-
-## Scenario
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
-<br>
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
