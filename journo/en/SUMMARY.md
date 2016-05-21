@@ -4,8 +4,6 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
   * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
@@ -15,6 +13,8 @@
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -30,9 +30,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -58,9 +58,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -84,9 +84,9 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

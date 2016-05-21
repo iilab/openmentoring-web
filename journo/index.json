@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-21T14:15:29.153Z",
+  "updatedAt": "2016-05-21T14:15:58.292Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -135,17 +135,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Account Hijacking",
@@ -193,6 +182,17 @@
       "slug": "practice-1-emergencies_6-after",
       "type": "unit",
       "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -256,23 +256,23 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-3-safe-phones_1-instant-messaging",
       "type": "unit",
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -377,9 +377,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
+      "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -388,9 +388,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_1-sharing",
+      "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -487,9 +487,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
