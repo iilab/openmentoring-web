@@ -84,9 +84,9 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

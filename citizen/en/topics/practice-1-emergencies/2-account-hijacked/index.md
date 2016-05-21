@@ -10,7 +10,6 @@ Key takeaways will include:
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
-## Scenario
 Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
 <br>
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-21T14:14:51.097Z",
+  "updatedAt": "2016-05-21T14:15:29.153Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -487,9 +487,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
