@@ -1,14 +1,4 @@
 # DDOS Attack
-## Key takeaways
-Key takeaways of this section are:
-- [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
-- [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
-- [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
-- [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
-- [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
-
-
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -20,6 +10,16 @@ Emma published an important story on her organisations website about corruption.
 <br>
 ![](scenario.png "Illustrate scenario 2")
 Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
+
+
+## Key takeaways
+Key takeaways of this section are:
+- [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
+- [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
+- [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
+- [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
+- [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 
 
 ## What is a DDOS attack?
@@ -74,21 +74,6 @@ Start by answering some simple questions:
 After answering these questions, take the following first steps to mitigate the problem.
 
 
-## How to mitigate a DDOS attack
-If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
-<br>
-- Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
-<br>
-- Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour. This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days). This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
-<br>
-- Step 3: Move your site to a DDoS mitigation service.  Examples:
--- Deflect.ca
--- Google’s Project Shield
--- CloudFlare’s Project Galileo
-<br>
-- Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
-
-
 ## What to do if you are suffering from a website defacement
 If you are suffering from a website defacement, take the following steps:
 <br>
@@ -105,6 +90,21 @@ Step 5: Determine how your site was hacked. Your hosting provider may be able to
 Step 6: Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch! Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
 <br>
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
+
+
+## How to mitigate a DDOS attack
+If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
+<br>
+- Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+- Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour. This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days). This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+- Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+- Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
 ## Test

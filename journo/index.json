@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T12:59:11.810Z",
+  "updatedAt": "2016-05-22T13:00:42.704Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -90,17 +90,6 @@
     }
   ,
     {
-      "slug": "understand-2-security",
-      "type": "topic",
-      "title": "Understand Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec",
       "type": "topic",
       "title": "Understanding Operational Security",
@@ -109,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     {
@@ -487,6 +487,39 @@
     }
   ,
     {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -564,39 +597,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -619,9 +619,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -630,9 +630,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

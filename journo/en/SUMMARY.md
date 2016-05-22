@@ -82,6 +82,14 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -98,23 +106,15 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

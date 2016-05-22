@@ -1,16 +1,16 @@
 # After an Emergency
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
 This section describe what to do after an emergency takes place.
 <br>
 Key takeaway for this section will be:
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
