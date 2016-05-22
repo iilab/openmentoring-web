@@ -5,6 +5,14 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Introduction
+Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
+<br>
+In this section, you are going to learn about how to 
+- [Stay anonymous online and prevent your traffic from being watched](en/topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/1-intro.md)
+- [Leave less traces while browsing and avoid malicious sites](en/topics/practice-5-internet-anonymity/2-leave-no-traces/1-intro.md)
+
+
 ## Scenario
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
@@ -23,14 +31,6 @@ In addition,they want to prepare for when the government eventually filters thei
 
 ## Learn
 Learning text...
-
-## Introduction
-Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
-<br>
-In this section, you are going to learn about how to 
-- [Stay anonymous online and prevent your traffic from being watched](en/topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/1-intro.md)
-- [Leave less traces while browsing and avoid malicious sites](en/topics/practice-5-internet-anonymity/2-leave-no-traces/1-intro.md)
-
 
 ## Test
 <quiz name="Gitbook Quiz">
