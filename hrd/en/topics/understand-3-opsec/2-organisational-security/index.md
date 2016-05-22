@@ -1,9 +1,12 @@
 # Organisational Security
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
-## Introduction
-Introduction text...
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -21,9 +24,7 @@ Introduction text...
     </question>
 </quiz>
 
-## Learn
-Learning text...
-
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
