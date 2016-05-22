@@ -4,7 +4,7 @@ Key takeaway for this section will be:
 - [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
 - [Effects of traumatic stress](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
 - [Dealing with traumatic stress](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
-- Next steps
+
 
 
 ## Introduction
@@ -15,12 +15,6 @@ Journalists and human rights defenders do difficult and challenging work, and se
 It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
 This section describe what to do after an emergency takes place.
-
-## Scenario
-Scenario text...
-![](scenario.png "Illustrate scenario 1")
-<br>
-![](scenario.png "Illustrate scenario 2")
 
 ## Learn
 ##Effects
@@ -130,6 +124,12 @@ Any event which is very distressing and outside of the realm of normal human exp
 <br>
 Such a response is a normal reaction to an abnormal situation.
 
+
+## Scenario
+Scenario text...
+![](scenario.png "Illustrate scenario 1")
+<br>
+![](scenario.png "Illustrate scenario 2")
 
 ## Test
 <quiz name="Gitbook Quiz">

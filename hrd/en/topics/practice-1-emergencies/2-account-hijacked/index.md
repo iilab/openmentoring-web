@@ -13,16 +13,6 @@ Key takeaways will include:
 
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
-<br>
-![](scenario.png "Illustrate scenario 2")
-
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
-
-
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -68,6 +58,16 @@ For email accounts, check for auto-forwards in email, possible changes to the ba
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+
+
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+
+Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+<br>
+![](scenario.png "Illustrate scenario 2")
+
+More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 
 ## Test

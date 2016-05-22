@@ -103,7 +103,6 @@ Note that padlock no longer includes the orange triangle with the white exclamat
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 
 
-## Encrypting Facebook voice calls
 Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to do the following 5 Steps:
 <br>
 **Step 1:** Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
