@@ -17,12 +17,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Learn
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## How-to
 ## A New Post
 
@@ -30,6 +24,12 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 ## Test
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+## Learn
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

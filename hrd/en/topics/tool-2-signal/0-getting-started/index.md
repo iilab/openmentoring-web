@@ -44,7 +44,6 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
-## How-to
 This how to will go through the following steps:
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
