@@ -1,15 +1,18 @@
 # Getting Started
-## Introduction
-Introduction text...
-
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
+
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -26,9 +29,6 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Learn
-Learning text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

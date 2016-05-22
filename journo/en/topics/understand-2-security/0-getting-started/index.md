@@ -1,15 +1,18 @@
 # Getting Started
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-## Scenario
-Scenario text...
+Key takeaways from this topic include lessons on the following:
+- Your security
+- Your well-being
+- Your mission
+- Your story
+- Your sources
+- Your colleagues 
 
 ## Introduction
 Introduction text...
+
+## Scenario
+Scenario text...
 
 ## Learn
 Learning text...
