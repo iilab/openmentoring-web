@@ -23,14 +23,6 @@
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 
-## Normal Communication
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
-<br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
-
-
 ## Encrypted Communication
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -54,6 +46,14 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
 <br>
 If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
+
+
+## Normal Communication
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
 
 
 ## Seeking and providing remote help
@@ -98,6 +98,15 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
+When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
+<br>
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
 When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
 <br>
 Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
@@ -105,15 +114,6 @@ Anonymisation tools hide the sender and recipient of a message and will protect 
 Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
 <br>
 
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
-<br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
 
 
 Secure communication is always a trade-off between security and convenience. 
@@ -143,7 +143,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
 <br>
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 
-## Test
 <quiz name="">
     <question>
         <p>Landlines are not encrypted but mobile phones are</p>

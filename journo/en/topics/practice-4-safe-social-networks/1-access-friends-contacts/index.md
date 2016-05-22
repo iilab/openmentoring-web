@@ -34,10 +34,10 @@ Remember that social networking sites are owned by private businesses, and that 
 When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
 
-## How-to
-
-
 ## Test you social networking knowledge!
+
+
+## How-to
 
 
 ## Next
