@@ -1,4 +1,10 @@
 # Assessing Digital Security Risks
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 In this section, you learn how to understand the nature of the risk we face with digital data (risk assesment), so that we can make the right decisions about how best to stay safe.
 <br>

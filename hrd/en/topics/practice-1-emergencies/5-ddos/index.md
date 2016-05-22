@@ -20,14 +20,6 @@ Key takeaways of this section are:
 <br>
 
 
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
-<br>
-![](scenario.png "Illustrate scenario 2")
-Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
-
-
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
 <br>
@@ -113,6 +105,14 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+<br>
+![](scenario.png "Illustrate scenario 2")
+Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -129,6 +129,7 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
     </question>
 </quiz>
 
+## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

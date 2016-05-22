@@ -1,9 +1,9 @@
 # Secure Communications
-## Scenario
-Scenario text...
-
 ## Introduction
 Introduction text...
+
+## Scenario
+Scenario text...
 
 ## Learn
 Safer communications: What to do when you can't trust your communications channels

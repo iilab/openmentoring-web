@@ -8,6 +8,7 @@ In this section, you will learn how to:
 [Learn more about risk types and levels](resources/risk-assessment.md)
 
 
+## Scenario
 Scenario text...
 
 

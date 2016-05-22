@@ -31,14 +31,6 @@ John is a journalist working on issues of transparency and accountability. While
 John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
-## Learn
-This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
-<br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
-<br>
-If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
-
-
 ## Test
 <quiz name="What this guide can help you with">
     <question multiple>
@@ -49,6 +41,14 @@ If at any moment you feel uncomfortable or unsure about implementing any of the 
         <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
     </question>
 </quiz>
+
+## Learn
+This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
+<br>
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+<br>
+If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
+
 
 ## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:

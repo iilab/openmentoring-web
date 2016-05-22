@@ -1,4 +1,10 @@
 # Getting Started
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
 <br>
@@ -10,14 +16,14 @@ Key takeaways from this section include immediate steps to take when faced with 
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 
+## Learn
+Learning text...
+
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
 
 ![](scenario.png "Illustrate scenario 2")
 
-
-## Learn
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">

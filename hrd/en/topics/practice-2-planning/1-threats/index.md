@@ -1,4 +1,10 @@
 # Understanding Threats
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats. To become more secure, you must determine what you need to protect, and whom you need to protect it from.
 <br>
