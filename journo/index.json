@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T13:01:39.815Z",
+  "updatedAt": "2016-05-22T13:30:21.506Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -13,14 +13,14 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks",
+      "slug": "practice-2-planning",
       "type": "topic",
-      "title": "Safe Social Networks",
+      "title": "Planning and Preparing",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:journo", "profile:hrd"],
+      "categories": [ "profile:hrd"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -32,6 +32,17 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks",
+      "type": "topic",
+      "title": "Safe Social Networks",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -51,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content,identity", "protect:identity", "protect:content,identity", "protect:content", "protect:content", "protect:content,identity", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -68,28 +79,6 @@
     }
   ,
     {
-      "slug": "understand-2-security",
-      "type": "topic",
-      "title": "Understand Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning",
-      "type": "topic",
-      "title": "Planning and Preparing",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-1-how-it-works",
       "type": "topic",
       "title": "How does it work?",
@@ -98,6 +87,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     {
@@ -201,12 +201,89 @@
     }
   ,
     {
+      "slug": "practice-2-planning_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_1-threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_2-assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_3-assess-digital-risk",
+      "type": "unit",
+      "title": "Assessing Digital Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [ "profile:hrd"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_1-instant-messaging",
+      "type": "unit",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:journo", "profile:hrd"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -267,28 +344,6 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-3-safe-phones_1-instant-messaging",
-      "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -327,7 +382,7 @@
       "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content","protect:content,identity","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -338,7 +393,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content","protect:content,identity","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -374,6 +429,61 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_1-computers",
+      "type": "unit",
+      "title": "Computers",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_2-phones",
+      "type": "unit",
+      "title": "Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_3-smartphones",
+      "type": "unit",
+      "title": "Smart Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_4-internet",
+      "type": "unit",
+      "title": "Internet",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -451,116 +561,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_1-threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_3-assess-digital-risk",
-      "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_1-computers",
-      "type": "unit",
-      "title": "Computers",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_2-phones",
-      "type": "unit",
-      "title": "Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_3-smartphones",
-      "type": "unit",
-      "title": "Smart Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_4-internet",
-      "type": "unit",
-      "title": "Internet",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {

@@ -1,17 +1,20 @@
 # After an Emergency
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Key takeaway for this section will be:
+- [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
+- Effects of traumatic stress
+- Dealing with traumatic stress
+- Next steps
 
 
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
-This section describe what to do after an emergency takes place.
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-Key takeaway for this section will be:
-
+It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+This section describe what to do after an emergency takes place.
 
 ## Scenario
 Scenario text...
@@ -20,7 +23,13 @@ Scenario text...
 ![](scenario.png "Illustrate scenario 2")
 
 ## Learn
-Learning text...
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
+
 
 ## Test
 <quiz name="Gitbook Quiz">

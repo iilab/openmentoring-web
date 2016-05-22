@@ -1,4 +1,6 @@
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Key takeaway for this section will be:
+- [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
+- Effects of traumatic stress
+- Dealing with traumatic stress
+- Next steps
