@@ -88,6 +88,33 @@ It is important to recognise that is it is impossible to take care of others if 
 **Think positive!**
 
 ## Learn
+##Coping strategies for traumatic stress
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
+<br>
+This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
+<br>
+Encourage positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+- Discuss problems with someone you trust. 
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+Discourage negative coping strategies:
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+<br>
+- Don’t work all the time without any rest or relation
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
+
+## Learn
 ##Effects
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 <br>
@@ -162,33 +189,6 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
-##Coping strategies for traumatic stress
-Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
-<br>
-This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
-<br>
-Encourage positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-- Discuss problems with someone you trust. 
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-Discourage negative coping strategies:
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-<br>
-- Don’t work all the time without any rest or relation
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
-
-## Learn
 ##What is of chronic stress?
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
@@ -208,13 +208,12 @@ Key takeaways from this section include identifying and addressing the following
 - Post-traumatic stress
 
 
-## Scenario
-Scenario text...
-
 ## Introduction
 This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
 
-## Test
+## Scenario
+Scenario text...
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

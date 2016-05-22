@@ -1,4 +1,10 @@
 # Passwords
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 This unit will provide an overview on how to create strong passwords.
 <br>
@@ -8,12 +14,6 @@ Key takeaways from this unit include the following:
 - How to test the stength of my password
 - What is a password manager?
 - What is two factor authentication
-
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 
 ## Scenario
 Scenario text...
