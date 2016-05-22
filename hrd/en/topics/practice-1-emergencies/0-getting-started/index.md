@@ -16,9 +16,12 @@ Key takeaways from this section include immediate steps to take when faced with 
 
 
 ## Scenario
-This topic offers a set of self-diagnostic tools for human rights defenders, bloggers, activists and journalists facing attacks themselves.
+![](scenario.png "Illustrate scenario 1")
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
 <br>
-It also provides guidelines for digital first responders to assist a person under threat.
+![](scenario.png "Illustrate scenario 2")
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
+
 
 ## Learn
 This guide is not meant to serve as the ultimate solution to all your digital emergencies. 

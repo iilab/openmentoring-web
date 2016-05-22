@@ -96,8 +96,10 @@ Key takeaways from this section will include the following:
 
 
 ## Scenario
+![](scenario.png "Illustrate scenario 1")
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
+![](scenario.png "Illustrate scenario 2")
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
@@ -111,7 +113,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
     </question>
 </quiz>
 
-## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>
