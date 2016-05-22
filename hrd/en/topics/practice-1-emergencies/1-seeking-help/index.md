@@ -117,7 +117,6 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
-
 Secure communication is always a trade-off between security and convenience. 
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
@@ -169,6 +168,7 @@ This section will provide you with guidance on ways to establish secure communic
     </question>
 </quiz>
 
+## Next
 Do the best that you can with the resources and skills available.
 <br>
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 

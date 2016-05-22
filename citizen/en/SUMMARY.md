@@ -18,9 +18,9 @@
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
@@ -42,25 +42,25 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
-  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
-  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
-  
   * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -72,9 +72,9 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
@@ -88,11 +88,11 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   

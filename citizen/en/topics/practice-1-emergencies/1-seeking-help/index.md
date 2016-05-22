@@ -169,6 +169,7 @@ This section will provide you with guidance on ways to establish secure communic
     </question>
 </quiz>
 
+## Next
 Do the best that you can with the resources and skills available.
 <br>
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 

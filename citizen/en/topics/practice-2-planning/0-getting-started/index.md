@@ -7,16 +7,16 @@ Key takeaways from this section include immediate steps to take when faced with 
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 
 
+## Introduction
+This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
+<br>
+However, here we try providing an introduction to themes and things to consider. This section provides extensive links to additional resources where you can learn more about the topic.
+
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
 
 ![](scenario.png "Illustrate scenario 2")
 
-
-## Introduction
-This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
-<br>
-However, here we try providing an introduction to themes and things to consider. This section provides extensive links to additional resources where you can learn more about the topic.
 
 ## Learn
 Learning text...
