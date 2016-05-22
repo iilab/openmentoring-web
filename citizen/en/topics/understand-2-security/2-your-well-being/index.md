@@ -1,5 +1,101 @@
 # Your Well Being
 ## Learn
+##What is post-traumatic stress disorder
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+<br>
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+
+## Learn
+##Effects of chronic stress
+There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
+<br>
+Physical symptoms may include:
+-Exhaustion
+-Hyperactivity
+-Sleeping difficulties or excessive sleep
+<Br>
+-Slight flu-like symptoms
+-Headaches
+-Heightened blood pressure and heart rate
+-Nausia or vomiting.
+<br>
+Behavioural symptoms may include:
+-Avoiding genuine social contact and relationships
+-Substance abuse (caffeine/alcohol/drugs)
+-A series of short and casual romatic/sexual relationships
+<br>
+-Risk taking
+-Withdrawal
+-Irritability or a constant tendency to pick quarrels
+-Aggression
+<br>
+Work-related symptoms may include
+-Working very long hours
+-Lateness/not coming in to work
+-Poor work performance
+<br>
+-Loss of perspective
+-Pre-occupation with an idea, even if it is old or ineffective
+<br>
+-Deterioration in judgment and logical thinking
+-Reduced creativity
+-Deteriorating communication
+<br>
+Emotional effects may include
+-Low morale
+-Pessimism and cynicism
+<br>
+-Anxiety
+-Guilt
+-Depression
+-Excitement/hyper-activity
+<br>
+-A feeling of pwoer and invulnerability
+-Intense identificaiton with, OR lack of compassion for those you work with
+-Nightmares or flashbacks
+<br>
+-Tendency to avoid/repress intense thoughts or feelings
+-Questioning of major life areas
+<br>
+Engaging in some of these types of behaviours are security risks in and of themrselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
+
+## Learn
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
+
+## Learn
+##Dealing with chronic stress
+Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consignee and comprise the techniques that work best for each person.
+<br>
+It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+<br>
+**Learn about stress.** Be aware of the signs and symptoms of stress.
+<br>
+**Know yourself.** Learn to observe your feelings and attitudes before trying to control your behaviour.
+<br>
+**Eat well and exercise. **Establish a regular exercise program and stick to it. Beneficial exercise for stress reduction includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+<br>
+**Get rest and relaxation. **Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+<br>
+**Practice belief systems.** Maintain spiritual health consistent with your personal beliefs.
+<br>
+**Maintain a sense of humour and perspective.** Try to have contact with others outside of the work environment.
+<br>
+**Be informed. **Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
+<br>
+**Talk to people. **Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
+<br>
+**Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
+<br>
+**Think positive!**
+
+## Learn
 ##Effects
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 <br>
@@ -74,94 +170,6 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
-##Effects of chronic stress
-There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
-<br>
-Physical symptoms may include:
--Exhaustion
--Hyperactivity
--Sleeping difficulties or excessive sleep
-<Br>
--Slight flu-like symptoms
--Headaches
--Heightened blood pressure and heart rate
--Nausia or vomiting.
-<br>
-Behavioural symptoms may include:
--Avoiding genuine social contact and relationships
--Substance abuse (caffeine/alcohol/drugs)
--A series of short and casual romatic/sexual relationships
-<br>
--Risk taking
--Withdrawal
--Irritability or a constant tendency to pick quarrels
--Aggression
-<br>
-Work-related symptoms may include
--Working very long hours
--Lateness/not coming in to work
--Poor work performance
-<br>
--Loss of perspective
--Pre-occupation with an idea, even if it is old or ineffective
-<br>
--Deterioration in judgment and logical thinking
--Reduced creativity
--Deteriorating communication
-<br>
-Emotional effects may include
--Low morale
--Pessimism and cynicism
-<br>
--Anxiety
--Guilt
--Depression
--Excitement/hyper-activity
-<br>
--A feeling of pwoer and invulnerability
--Intense identificaiton with, OR lack of compassion for those you work with
--Nightmares or flashbacks
-<br>
--Tendency to avoid/repress intense thoughts or feelings
--Questioning of major life areas
-<br>
-Engaging in some of these types of behaviours are security risks in and of themrselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
-
-## Learn
-##Dealing with chronic stress
-Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consignee and comprise the techniques that work best for each person.
-<br>
-It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
-<br>
-**Learn about stress.** Be aware of the signs and symptoms of stress.
-<br>
-**Know yourself.** Learn to observe your feelings and attitudes before trying to control your behaviour.
-<br>
-**Eat well and exercise. **Establish a regular exercise program and stick to it. Beneficial exercise for stress reduction includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
-<br>
-**Get rest and relaxation. **Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
-<br>
-**Practice belief systems.** Maintain spiritual health consistent with your personal beliefs.
-<br>
-**Maintain a sense of humour and perspective.** Try to have contact with others outside of the work environment.
-<br>
-**Be informed. **Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
-<br>
-**Talk to people. **Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
-<br>
-**Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
-<br>
-**Think positive!**
-
-## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-Such a response is a normal reaction to an abnormal situation.
-
-## Learn
 ##Coping strategies for traumatic stress
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
@@ -187,14 +195,6 @@ Discourage negative coping strategies:
 - Don’t be violent
 <br>
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
-
-## Learn
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
-<br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
 ## Learn
 ##Effects
@@ -272,13 +272,22 @@ Key takeaways from this section include identifying and addressing the following
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
 
-## Introduction
-This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
-
 ## Scenario
 Scenario text...
 
-## Test
+## Introduction
+This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
+
+## Next
+If you found this unit helpful, you might be interested in the following units:
+* [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+ <br>
+* [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+* [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -293,13 +302,4 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-If you found this unit helpful, you might be interested in the following units:
-* [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
-* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- <br>
-* [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
-* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
-* [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
 

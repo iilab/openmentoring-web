@@ -41,9 +41,6 @@ If you work with sensitive information and topics, and are interested in using s
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 
-## Test you social networking knowledge!
-
-
 ## Learn
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with. This guide will help you understand the security implications of using social networking sites.
 
@@ -52,6 +49,9 @@ Online communities have existed since the invention of the internet. First there
 Although these networks can be very useful, and promote social interaction both online and offline, when using them you may be making information available to people who want to abuse it. Think of a social networking site as being like a huge party. There are people there that you know, as well as some that you don't know at all. Imagine walking through the party with all your personal details, and up-to-the-minute accounts of what you are thinking, written on a big sign stuck on your back so that everyone can read it without you even knowing. Do you really want everyone to know all about you?
 
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to third party advertisers. When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
+
+## Test you social networking knowledge!
+
 
 ## How-to
 This how to will go through the following steps 
@@ -143,6 +143,31 @@ Figure 11: Signal timeout settings
 
 
 
+
+
+
+
+## How-to
+Make a call
+
+Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
+
+Call your contact. 
+When your contact answers you'll see two words.
+Say one word to your friend and ask them to say the other word. 
+This makes sure you are both who you say you are.
+
+![10s.png]({{site.baseurl}}/media/10s.png)
+
+Take a call
+
+When you get a signal call, you'll see on your screen "SIGNAL CALL"
+
+When you answer you'll see two words. 
+Say one word to your friend and ask them to say the other world. 
+This makes sure you are both who you say you are.
+
+![11s.png]({{site.baseurl}}/media/11s.png)
 
 
 
@@ -332,32 +357,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-## How-to
-Make a call
-
-Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
-
-Call your contact. 
-When your contact answers you'll see two words.
-Say one word to your friend and ask them to say the other word. 
-This makes sure you are both who you say you are.
-
-![10s.png]({{site.baseurl}}/media/10s.png)
-
-Take a call
-
-When you get a signal call, you'll see on your screen "SIGNAL CALL"
-
-When you answer you'll see two words. 
-Say one word to your friend and ask them to say the other world. 
-This makes sure you are both who you say you are.
-
-![11s.png]({{site.baseurl}}/media/11s.png)
-
-
-
-
-## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)

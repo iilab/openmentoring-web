@@ -16,6 +16,7 @@ It is therefore imprint to know how to react following a traumatic event, and ho
 <br>
 This section describe what to do after an emergency takes place.
 
+
 ## Scenario
 Scenario text...
 ![](scenario.png "Illustrate scenario 1")

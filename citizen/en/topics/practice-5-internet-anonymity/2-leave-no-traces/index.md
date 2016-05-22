@@ -5,14 +5,11 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-Introduction text...
+## Learn
+Learning text...
 
 ## Scenario
 Scenario text...
-
-## Learn
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -34,4 +31,6 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+Introduction text...
 

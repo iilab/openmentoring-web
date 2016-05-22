@@ -15,20 +15,20 @@ Key takeaways from this section include immediate steps to take when faced with 
 <br>
 This section aims to provide preliminary support for people facing the most common types of digital threats.
 
-## Learn
-This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
-<br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
-<br>
-If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
-
-
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
 John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
 <br>
 ![](scenario.png "Illustrate scenario 2")
 John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
+
+
+## Learn
+This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
+<br>
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+<br>
+If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 
 
 ## Test
@@ -42,7 +42,6 @@ John is afraid that he's being targeted as a result of his work. But he's unsure
     </question>
 </quiz>
 
-## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:
 * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
 * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
