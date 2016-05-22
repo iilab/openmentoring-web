@@ -16,12 +16,6 @@ It is therefore imprint to know how to react following a traumatic event, and ho
 <br>
 This section describe what to do after an emergency takes place.
 
-## Scenario
-Scenario text...
-![](scenario.png "Illustrate scenario 1")
-<br>
-![](scenario.png "Illustrate scenario 2")
-
 ## Learn
 ##Effects
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
@@ -103,6 +97,12 @@ Any event which is very distressing and outside of the realm of normal human exp
 <br>
 Such a response is a normal reaction to an abnormal situation.
 
+
+## Scenario
+Scenario text...
+![](scenario.png "Illustrate scenario 1")
+<br>
+![](scenario.png "Illustrate scenario 2")
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -163,7 +163,6 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 
 
 
-## Test you social networking knowledge!
 
 
 ## Next
