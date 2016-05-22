@@ -1,7 +1,4 @@
 # Passwords
-## Scenario
-Scenario text...
-
 ## Introduction
 This unit will provide an overview on how to create strong passwords.
 <br>
@@ -11,6 +8,9 @@ Key takeaways from this unit include the following:
 - How to test the stength of my password
 - What is a password manager?
 - What is two factor authentication
+
+## Scenario
+Scenario text...
 
 ## Why choosing a strong password is important
 Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
@@ -74,11 +74,6 @@ Password patterns can allow you to use very different but related phrases for al
 
 Finally, take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message. You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. Here is a comprehensive list of websites that offer this service.
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -94,4 +89,9 @@ Finally, take advantage of online services that offer two-factor authentication.
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
