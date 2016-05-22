@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T10:36:40.166Z",
+  "updatedAt": "2016-05-22T10:38:01.304Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -35,17 +35,6 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks",
-      "type": "topic",
-      "title": "Safe Social Networks",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-5-internet-anonymity",
       "type": "topic",
       "title": "Using the Internet Anonymously",
@@ -54,6 +43,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks",
+      "type": "topic",
+      "title": "Safe Social Networks",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -278,6 +278,39 @@
     }
   ,
     {
+      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
+      "type": "unit",
+      "title": "How to leave less traces while browsing",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
@@ -311,9 +344,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_4-who-controls",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "Who controls and owns your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -322,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
+      "title": "How to chat securely?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -341,39 +374,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -465,9 +465,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -476,9 +476,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_4-internet",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-mission-hrd",
+      "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
-      "title": "Your mission",
+      "title": "Your Story",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -531,9 +531,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-story-journo",
+      "slug": "understand-2-security_3-your-mission-hrd",
       "type": "unit",
-      "title": "Your Story",
+      "title": "Your mission",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
