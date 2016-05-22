@@ -10,9 +10,14 @@ Key takeaways from this section include:
 
 
 ## Scenario
+![](scenario.png "Illustrate scenario 1")
 Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
 <br>
+![](scenario.png "Illustrate scenario 2")
 He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
+
+
+
 
 ## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
@@ -57,6 +62,7 @@ After answering these questions, take the following steps to mitigate the proble
 <br>
 
 
+## Mitigating the problem
 If your device is still missing take the following four steps:
 <br>
 - Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
