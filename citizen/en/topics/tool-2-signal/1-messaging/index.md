@@ -1,4 +1,10 @@
 # How to use messaging?
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Using Signal for encrypted messaging
 This section will provide an overview of how to use the app Signal for encrypted messaging.
 <br>
