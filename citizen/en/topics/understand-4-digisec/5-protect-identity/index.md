@@ -8,12 +8,13 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Introduction
 Introduction text...
 
-## Scenario
-Scenario text...
-
 ## Learn
 Learning text...
 
+## Scenario
+Scenario text...
+
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

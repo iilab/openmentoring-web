@@ -81,19 +81,6 @@ Security tools have built-in ways to verify if the person you are talking to is 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 
-## Introduction
-![](unit.png "Landing image for the unit")
-<br>
-This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
-
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png "Illustrate scenario 2")
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
 ## Key takeaways
 Key takeaways from this section will include the following:
 - [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
@@ -120,6 +107,19 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
 When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
 <br>
 If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
@@ -130,18 +130,18 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+![](scenario.png "Illustrate scenario 2")
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
 
+## Introduction
+![](unit.png "Landing image for the unit")
+<br>
+This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 
 ## Test
 <quiz name="">

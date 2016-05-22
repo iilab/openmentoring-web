@@ -22,6 +22,14 @@ Emma published an important story on her organisations website about corruption.
 Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
 
 
+## What is a DDOS attack?
+A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
+<br>
+In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
+<br>
+If your site is under a denial of service attack, some immediate options for next steps are suggested.
+
+
 ## Possible other reasons you may be suffering from a down or defaced website
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site. Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 <br>
@@ -52,14 +60,6 @@ Is your site loading intermittently or unusually slowly? Your site may be overwh
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 
 
-## What is a DDOS attack?
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
-<br>
-In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
-<br>
-If your site is under a denial of service attack, some immediate options for next steps are suggested.
-
-
 ## First steps to take if your website is down or defaced
 Finding the problem and possible solutions to your website’s problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (e.g. webmaster or the people who helped you set up your site)
 <br>
@@ -72,21 +72,6 @@ Start by answering some simple questions:
 - Who else knows or may have access to these account details?
 <br>
 After answering these questions, take the following first steps to mitigate the problem.
-
-
-## How to mitigate a DDOS attack
-If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
-<br>
-- Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
-<br>
-- Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour. This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days). This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
-<br>
-- Step 3: Move your site to a DDoS mitigation service.  Examples:
--- Deflect.ca
--- Google’s Project Shield
--- CloudFlare’s Project Galileo
-<br>
-- Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
 ## What to do if you are suffering from a website defacement
@@ -107,6 +92,21 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+## How to mitigate a DDOS attack
+If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
+<br>
+- Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+- Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour. This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days). This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+- Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+- Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -123,6 +123,7 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
     </question>
 </quiz>
 
+## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
