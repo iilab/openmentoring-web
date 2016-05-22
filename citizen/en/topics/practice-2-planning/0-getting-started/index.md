@@ -18,6 +18,9 @@ However, here we try providing an introduction to themes and things to consider.
 ![](scenario.png "Illustrate scenario 2")
 
 
+## Learn
+Learning text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -38,7 +41,4 @@ However, here we try providing an introduction to themes and things to consider.
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
-## Learn
-Learning text...
 

@@ -11,6 +11,9 @@ Introduction text...
 ## Scenario
 Scenario text...
 
+## Learn
+Learning text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -34,6 +37,4 @@ If you found this useful, you might be interested in the following:
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
 * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
-
-Learning text...
 

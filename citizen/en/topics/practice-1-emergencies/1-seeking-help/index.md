@@ -23,6 +23,14 @@
  PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 
+## Normal Communication
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+
+
 ## Encrypted Communication
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -59,14 +67,6 @@ When you are seeking remote help from a third party please keep the following in
 - The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
 <br>
 - If possible, do not rely on unknown people you find online.
-
-
-## Normal Communication
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
-<br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
 
 
 ## Establishing trust when reaching out

@@ -1,4 +1,15 @@
 # Getting Started with Signal
+## Introduction
+Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
+<br>
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+<br>
+Key takeaways from this section include learning to:
+ - [Things You Should Know About This Tool Before You Start](en/topics/tool-2-signal/0-getting-started/3-learn.md)
+ - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
+ - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+
 ## Key takeaways
 ## A New Post
 
@@ -26,17 +37,6 @@ Things You Should Know About This Tool Before You Start
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
-
-## Introduction
-Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
-<br>
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
-<br>
-Key takeaways from this section include learning to:
- - [Things You Should Know About This Tool Before You Start](en/topics/tool-2-signal/0-getting-started/3-learn.md)
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
 ## Scenario
 Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
