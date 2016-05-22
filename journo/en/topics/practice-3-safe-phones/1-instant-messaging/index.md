@@ -9,9 +9,9 @@ Although these networks can be very useful, and promote social interaction both 
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to third party advertisers. When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
 ## Introduction
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
 <br>
-Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 
 ## Introduction
@@ -21,9 +21,9 @@ Anyone needs to be vigilant about their use of social networking sites and need 
 
 
 ## Introduction
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 <br>
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
 ## Scenario

@@ -30,9 +30,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -84,9 +84,9 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

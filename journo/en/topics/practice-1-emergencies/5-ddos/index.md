@@ -1,9 +1,4 @@
 # DDOS Attack
-## Scenario
-Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
-<br>
-Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
-
 ## Introduction
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 <br>
@@ -16,6 +11,11 @@ Key takeaways of this section are:
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 <br>
 
+
+## Scenario
+Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+<br>
+Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
 
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.

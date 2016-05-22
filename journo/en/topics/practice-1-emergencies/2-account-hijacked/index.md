@@ -1,14 +1,4 @@
 # Account Hijacking
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
-<br>
-![](scenario.png "Illustrate scenario 2")
-
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
-
-
 ## Introduction
 ![](unit.png "Landing image for the unit")
 
@@ -20,6 +10,16 @@ Key takeaways will include:
 - [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
 - [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+
+
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+
+Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+<br>
+![](scenario.png "Illustrate scenario 2")
+
+More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 
 ## Mitigating the problem
