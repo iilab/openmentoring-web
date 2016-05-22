@@ -13,6 +13,16 @@ Key takeaways will include:
 
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+
+Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+<br>
+![](scenario.png "Illustrate scenario 2")
+
+More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
+
+
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -51,26 +61,16 @@ Check to see if your account was accessed at a time when you were not online or 
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
-## Adjusting account settings
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
-
-
 ## Changing account passwords
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
 
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+## Adjusting account settings
+Look at the account settings. Have they changed?
 <br>
-![](scenario.png "Illustrate scenario 2")
-
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Test

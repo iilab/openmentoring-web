@@ -8,9 +8,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Introduction
 Introduction text...
 
-## Learn
-Learning text...
-
 ## Scenario
 Scenario text...
 
@@ -29,6 +26,9 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
+
+## Learn
+Learning text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

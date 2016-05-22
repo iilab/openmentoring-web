@@ -11,6 +11,9 @@ Social networking sites ask you for a good deal of data about yourself to make i
 In addition, the more information about yourself you reveal online, the easier it becomes for the authorities to identify you and monitor your activities. The online activities of diaspora activists from some countries have led to the targeting of their family members by the authorities in their homelands.
 
 
+## Scenario
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
 ## Thing to think about when posting to social networking sites
 Ask yourself: is it necessary to post the following information online?
  - birth dates
@@ -20,9 +23,6 @@ Ask yourself: is it necessary to post the following information online?
  - sexual orientation
  - education and employment history
 
-
-## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 ## How-to
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
