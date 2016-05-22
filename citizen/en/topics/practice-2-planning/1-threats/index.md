@@ -13,9 +13,6 @@ Threats can change depending on where you’re located, what you’re doing, and
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
@@ -51,6 +48,9 @@ Conducting a risk analysis is both a personal and a subjective process; not ever
 In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
 
 
+## Scenario
+Scenario text...
+
 ## Test
 If you want to keep your house and possessions safe, here are a few questions you might ask:
 
@@ -66,7 +66,6 @@ If you want to keep your house and possessions safe, here are a few questions yo
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
-## Next
 If you found this useful, you might be interested in the following sections:
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
