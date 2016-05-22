@@ -1,5 +1,4 @@
 # Instant Messaging on Smart Phones
-## Learn
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with. This guide will help you understand the security implications of using social networking sites.
 
 Online communities have existed since the invention of the internet. First there were bulletin boards and email lists, which gave people around the world opportunities to connect, to communicate and to share information about particular subjects. Today, social networking websites have greatly expanded the range of possible interactions, allowing you to share messages, pictures, files and even up-to-the-minute information about what you are doing and where you are. These functions are not new or unique – any of these actions can also be performed via the internet without joining a social networking site.
@@ -142,6 +141,30 @@ Figure 11: Signal timeout settings
 
 
 ## How-to
+Make a call
+
+Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
+
+Call your contact. 
+When your contact answers you'll see two words.
+Say one word to your friend and ask them to say the other word. 
+This makes sure you are both who you say you are.
+
+![10s.png]({{site.baseurl}}/media/10s.png)
+
+Take a call
+
+When you get a signal call, you'll see on your screen "SIGNAL CALL"
+
+When you answer you'll see two words. 
+Say one word to your friend and ask them to say the other world. 
+This makes sure you are both who you say you are.
+
+![11s.png]({{site.baseurl}}/media/11s.png)
+
+
+
+
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -322,31 +345,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-
-
-
-
-## How-to
-Make a call
-
-Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
-
-Call your contact. 
-When your contact answers you'll see two words.
-Say one word to your friend and ask them to say the other word. 
-This makes sure you are both who you say you are.
-
-![10s.png]({{site.baseurl}}/media/10s.png)
-
-Take a call
-
-When you get a signal call, you'll see on your screen "SIGNAL CALL"
-
-When you answer you'll see two words. 
-Say one word to your friend and ask them to say the other world. 
-This makes sure you are both who you say you are.
-
-![11s.png]({{site.baseurl}}/media/11s.png)
 
 
 
