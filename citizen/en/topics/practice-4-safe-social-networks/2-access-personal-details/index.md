@@ -43,6 +43,7 @@ Clicking on this icon will bring up a menu where you can change this setting:
 ## Test you social networking knowledge!
 
 
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)

@@ -1,24 +1,17 @@
 # Organisational Security
-## Introduction
-Introduction text...
-
 
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
-## Learn
-Learning text...
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -33,4 +26,12 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
+
+## Learn
+Learning text...
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 

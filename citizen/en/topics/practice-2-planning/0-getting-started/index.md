@@ -16,6 +16,12 @@ Key takeaways from this section include immediate steps to take when faced with 
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+
+![](scenario.png "Illustrate scenario 2")
+
+
 ## Learn
 Learning text...
 
@@ -34,12 +40,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-
-![](scenario.png "Illustrate scenario 2")
-
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

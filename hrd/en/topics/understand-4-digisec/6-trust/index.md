@@ -1,9 +1,15 @@
 # Establishing Trust
-## Introduction
-Introduction text...
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
 
 ## Scenario
 Scenario text...
+
+## Introduction
+Introduction text...
 
 ## Learn
 Learning text...

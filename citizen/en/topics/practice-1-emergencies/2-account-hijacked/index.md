@@ -5,6 +5,19 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Introduction
+![](unit.png "Landing image for the unit")
+
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+<br>
+Key takeaways will include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+
+
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
 
@@ -60,19 +73,6 @@ For email accounts, check for auto-forwards in email, possible changes to the ba
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
-
-
-## Introduction
-![](unit.png "Landing image for the unit")
-
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-<br>
-Key takeaways will include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
 ## Test

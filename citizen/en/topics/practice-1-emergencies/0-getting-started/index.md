@@ -1,4 +1,10 @@
 # Getting Started
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -17,10 +23,12 @@ Key takeaways from this section include immediate steps to take when faced with 
 <br>
 
 
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+<br>
+![](scenario.png "Illustrate scenario 2")
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
 ## Learn
@@ -29,14 +37,6 @@ This guide is not meant to serve as the ultimate solution to all your digital em
 It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
 <br>
 If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
-
-
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
-<br>
-![](scenario.png "Illustrate scenario 2")
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
 ## Test
