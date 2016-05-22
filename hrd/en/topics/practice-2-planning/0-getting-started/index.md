@@ -11,7 +11,10 @@ Key takeaways from this section include immediate steps to take when faced with 
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 
 ## Scenario
-Scenario text...
+![](scenario.png "Illustrate scenario 1")
+
+![](scenario.png "Illustrate scenario 2")
+
 
 ## Learn
 Learning text...
