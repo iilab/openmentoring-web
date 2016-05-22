@@ -95,6 +95,7 @@ Chronic stress builds slowly and may be hard to notice in yourself or others. If
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

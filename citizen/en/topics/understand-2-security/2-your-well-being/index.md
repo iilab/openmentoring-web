@@ -12,7 +12,6 @@ This unit will address issues related to your well-being. Much of the informatio
 ## Scenario
 Scenario text...
 
-## Learn
 ##Effects of chronic stress
 There is a wide range of possible symptoms of negative stress, and people differ in terms of the symptoms they exhibit.
 <br>
