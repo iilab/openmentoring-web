@@ -5,11 +5,11 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
-Scenario text...
-
 ## Introduction
 Introduction text...
+
+## Scenario
+Scenario text...
 
 ## Learn
 Safer communications: What to do when you can't trust your communications channels

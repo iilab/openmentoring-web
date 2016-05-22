@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T16:06:18.913Z",
+  "updatedAt": "2016-05-22T16:06:36.422Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -179,9 +179,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_6-after",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "After an Emergency",
+      "title": "DDOS Attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -190,9 +190,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_6-after",
       "type": "unit",
-      "title": "DDOS Attack",
+      "title": "After an Emergency",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -344,9 +344,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -355,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -564,6 +564,17 @@
     }
   ,
     {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
       "title": "Establishing Trust",
@@ -578,17 +589,6 @@
       "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
       "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
