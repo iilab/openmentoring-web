@@ -81,10 +81,16 @@ Security tools have built-in ways to verify if the person you are talking to is 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Key takeaways
+Key takeaways from this section will include the following:
+- [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
+<br>
+- [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
+- [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
+<br>
+- [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
 
 
 
@@ -136,17 +142,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
 ![](unit.png "Landing image for the unit")
 <br>
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
-<br>
-Key takeaways from this section will include the following:
-- [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
-- [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
-<br>
-- [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
-- [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
-<br>
-- [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
-
 
 ## Test
 <quiz name="">

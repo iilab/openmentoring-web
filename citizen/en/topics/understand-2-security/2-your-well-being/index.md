@@ -1,12 +1,12 @@
 # Your Well Being
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
+## Key takeaways
+Key takeaways from this section include the following:
+- Dealing with chronic stress
+- Dealing with traumatic stress
+- Dealing with post-traumatic stress
 
 ## Introduction
-Introduction text...
+This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
 
 ## Scenario
 Scenario text...

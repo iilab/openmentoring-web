@@ -1,15 +1,5 @@
 # DDOS Attack
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-## Introduction
-![](unit.png "Landing image for the unit")
-<br>
-This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
-<br>
+## Key takeaways
 Key takeaways of this section are:
 - [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
@@ -17,8 +7,12 @@ Key takeaways of this section are:
 - [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
 - [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
-<br>
 
+
+## Introduction
+![](unit.png "Landing image for the unit")
+<br>
+This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
