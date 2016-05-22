@@ -6,7 +6,10 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 ## Introduction
-Introduction text...
+This unit will describe things you should consider in terms of your safety and the safety of your sources.
+<br>
+Much of the information for this unit is drawn from the Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
 
 ## Scenario
 Scenario text...
@@ -24,11 +27,6 @@ In order to protect both you and your sources, it is important consider when and
 <br>
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt. 
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -44,4 +42,8 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
         <answer>No</answer>
     </question>
 </quiz>
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 

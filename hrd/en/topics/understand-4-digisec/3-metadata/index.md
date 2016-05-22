@@ -39,11 +39,6 @@ Nonetheless, metadata from email communication can be used to track corresponden
 In many cases, metadata tells a story just as interesting as the content itself.
 
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -59,4 +54,9 @@ In many cases, metadata tells a story just as interesting as the content itself.
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 

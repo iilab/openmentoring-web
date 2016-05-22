@@ -71,11 +71,6 @@ We recommend you take advantage of online services that offer two-factor authent
 <br>
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -91,4 +86,9 @@ You input the code to verify that you are indeed the person trying to access the
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
