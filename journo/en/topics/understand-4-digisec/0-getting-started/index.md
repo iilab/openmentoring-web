@@ -8,11 +8,11 @@ Key takeaways from this topic include learning about the following:
 - [Protecting your identity](en/topics/understand-4-digisec/5-protect-identity/1-intro.md)
 - [Establishing trust](en/topics/understand-4-digisec/6-trust/1-intro.md)
 
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
+
+## Introduction
+Introduction text...
 
 ## Learn
 Learning text...

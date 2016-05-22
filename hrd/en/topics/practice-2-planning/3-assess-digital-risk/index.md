@@ -16,6 +16,7 @@ The idea of this section is to consider that same logic, as it applies to our di
 This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
 
 
+## Introduction
 In order to know what measures to take in order to be more secure, both digitally and in our day-to-day personal and professional activities, it's important to understand the nature of the risk we face, so that we can make the right decisions about how best to stay safe.
 
 <br>
