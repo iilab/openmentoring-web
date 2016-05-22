@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T17:33:24.300Z",
+  "updatedAt": "2016-05-22T17:34:09.112Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_3-your-mission-hrd",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your mission",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-mission-hrd",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your mission",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

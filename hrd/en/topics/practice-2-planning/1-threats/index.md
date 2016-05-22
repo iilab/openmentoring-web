@@ -1,16 +1,16 @@
 # Understanding Threats
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## Introduction
 There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats. To become more secure, you must determine what you need to protect, and whom you need to protect it from.
 <br>
 Threats can change depending on where you’re located, what you’re doing, and whom you’re working with. Therefore, in order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
 <br>
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
@@ -66,7 +66,6 @@ If you want to keep your house and possessions safe, here are a few questions yo
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
-## Next
 If you found this useful, you might be interested in the following sections:
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
