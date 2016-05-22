@@ -1,8 +1,4 @@
 # Getting Started
-## Introduction
-How it works
-
-
 ## Scenario
 Scenario text...
 
@@ -29,4 +25,8 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+## Introduction
+How it works
+
 

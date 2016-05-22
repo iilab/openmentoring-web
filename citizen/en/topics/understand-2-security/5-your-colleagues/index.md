@@ -1,5 +1,4 @@
 # Your colleagues
-## Introduction
 Introduction text...
 
 ## Scenario

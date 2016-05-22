@@ -1,5 +1,7 @@
 # After an Emergency
 ## Introduction
+![](unit.png "Landing image for the unit")
+<br>
 This section describe what to do after an emergency takes place.
 <br>
 Key takeaway for this section will be:
@@ -30,7 +32,6 @@ Learning text...
     </question>
 </quiz>
 
-## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

@@ -20,9 +20,6 @@ Perhaps without realising, we take decisions based on risk analyses every day. *
 This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
 
 
-## Scenario
-###rewrite this to be a scenario
-
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -116,6 +113,9 @@ It may be that you find there are a lot of threats to your work, and it can be d
 
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
+
+## Scenario
+###rewrite this to be a scenario
 
 ## Test
 <quiz name="Gitbook Quiz">

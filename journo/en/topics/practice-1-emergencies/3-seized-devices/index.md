@@ -1,14 +1,4 @@
 # Devices Seized
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
-<br>
-![](scenario.png "Illustrate scenario 2")
-He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
-
-
-
-
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -19,6 +9,16 @@ Key takeaways from this section include:
 - [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
 - [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
+
+
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
+<br>
+![](scenario.png "Illustrate scenario 2")
+He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
+
+
 
 
 ## Questions to answer when you first notice a device is missing
@@ -113,7 +113,6 @@ For more extensive threat modeling assistance see the Electronic Frontier Founda
     </question>
 </quiz>
 
-## Next
  If you found this useful, you might be interested in the following related sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

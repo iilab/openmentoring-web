@@ -1,5 +1,4 @@
 # Organisational Security
-## Introduction
 Introduction text...
 
 ## Scenario
