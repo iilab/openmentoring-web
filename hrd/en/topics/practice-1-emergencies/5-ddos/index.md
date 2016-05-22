@@ -14,14 +14,6 @@ Key takeaways of this section are:
 <br>
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
-<br>
-![](scenario.png "Illustrate scenario 2")
-Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
-
-
 ## What is a DDOS attack?
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
 <br>
@@ -105,6 +97,14 @@ Step 5: Determine how your site was hacked. Your hosting provider may be able to
 Step 6: Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch! Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
 <br>
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
+
+
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+<br>
+![](scenario.png "Illustrate scenario 2")
+Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
 
 
 ## Test

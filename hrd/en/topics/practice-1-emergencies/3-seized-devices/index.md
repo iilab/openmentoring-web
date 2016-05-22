@@ -1,12 +1,4 @@
 # Devices Seized
-## Key takeaways
-Key takeaways from this section include:
-- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
-- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
-- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
-- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
-
-
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -22,6 +14,14 @@ He is worried that he has not only lost important research, but also put his sou
 
 
 
+## Key takeaways
+Key takeaways from this section include:
+- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
+- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
+- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
+- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
+
+
 ## Questions to answer when you first notice a device is missing
 Should you believe your device is seized, start by answering some simple questions:
 <br>
@@ -34,20 +34,6 @@ Should you believe your device is seized, start by answering some simple questio
 - How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
 <br>
 -Is the device still missing?
-
-
-## Identifying security protections the missing device has in place
-Think about the kinds of security protections the device had in place:
-<br>
-- Was the device protected by a password or other security measures?
-<br>
-- Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-- Does the device have full disk encryption turned on?
-<br>
-- What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-- Do you have remote access to the device?
 
 
 ## Identifying what was on the missing device
@@ -96,6 +82,20 @@ If you have lost contact with your device for an extended period of time and you
 - If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
+
+
+## Identifying security protections the missing device has in place
+Think about the kinds of security protections the device had in place:
+<br>
+- Was the device protected by a password or other security measures?
+<br>
+- Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+<br>
+- Does the device have full disk encryption turned on?
+<br>
+- What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+<br>
+- Do you have remote access to the device?
 
 
 ## Test
