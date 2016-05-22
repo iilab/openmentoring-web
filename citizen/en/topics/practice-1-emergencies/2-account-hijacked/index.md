@@ -1,4 +1,14 @@
 # Account Hijacking
+## Scenario
+![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario1)
+
+Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+<br>
+![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario2)
+
+More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
+
+
 ## Introduction
 ![](http://dummyimage.com/400x400/ddd/666.png&text=Unit+landing)
 
@@ -10,16 +20,6 @@ Key takeaways will include:
 - [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
 - [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
-
-
-## Scenario
-![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario1)
-
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
-<br>
-![](http://dummyimage.com/400x400/ddd/666.png&text=Scenario2)
-
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 
 ## Mitigating the problem
