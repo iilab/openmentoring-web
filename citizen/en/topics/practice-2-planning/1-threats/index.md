@@ -13,9 +13,6 @@ Threats can change depending on where you’re located, what you’re doing, and
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
@@ -65,6 +62,9 @@ If you want to keep your house and possessions safe, here are a few questions yo
   -What is the actual risk of someone breaking in? Is it likely?
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
+
+## Scenario
+Scenario text...
 
 ## Next
 If you found this useful, you might be interested in the following sections:

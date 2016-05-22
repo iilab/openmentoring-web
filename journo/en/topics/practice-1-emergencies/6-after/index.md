@@ -13,14 +13,14 @@ This section describe what to do after an emergency takes place.
 Key takeaway for this section will be:
 
 
-## Learn
-Learning text...
-
 ## Scenario
 Scenario text...
 ![](scenario.png "Illustrate scenario 1")
 <br>
 ![](scenario.png "Illustrate scenario 2")
+
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">

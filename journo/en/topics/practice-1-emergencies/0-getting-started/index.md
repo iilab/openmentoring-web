@@ -1,4 +1,10 @@
 # Getting Started
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -15,12 +21,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
 <br>
-
-
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
