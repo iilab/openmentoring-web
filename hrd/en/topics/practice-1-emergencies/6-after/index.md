@@ -7,6 +7,9 @@ Key takeaway for this section will be:
 
 ## Scenario
 Scenario text...
+![](scenario.png "Illustrate scenario 1")
+<br>
+![](scenario.png "Illustrate scenario 2")
 
 ## Learn
 Learning text...

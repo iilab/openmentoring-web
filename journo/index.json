@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T09:16:57.277Z",
+  "updatedAt": "2016-05-22T09:17:28.484Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -410,9 +410,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
+      "slug": "tool-2-signal_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -421,9 +421,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
