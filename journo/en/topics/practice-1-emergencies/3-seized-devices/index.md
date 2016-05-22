@@ -1,4 +1,10 @@
 # Devices Seized
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -113,6 +119,7 @@ For more extensive threat modeling assistance see the Electronic Frontier Founda
     </question>
 </quiz>
 
+## Next
  If you found this useful, you might be interested in the following related sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

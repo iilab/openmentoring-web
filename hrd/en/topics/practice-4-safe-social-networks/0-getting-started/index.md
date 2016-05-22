@@ -27,7 +27,7 @@ Anyone needs to be vigilant about their use of social networking sites and need 
 
 
 ## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
@@ -37,7 +37,7 @@ Mansour and Magda plan how to share photos and videos of the march without revea
 
 
 ## Scenario
-Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
@@ -85,6 +85,7 @@ Essentially you are giving all your data over to the owners and trusting them wi
 ## Test you social networking knowledge!
 
 
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

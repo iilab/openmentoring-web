@@ -7,6 +7,11 @@ Human rights advocates are particularly vulnerable to the dangers of social netw
 This section will provide instructions on how to control access to your social network friends and contacts.
 
 
+## Scenario
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+###give a different example here that highlights access to friends/contacts
+
 ## Security implications of using social networking sites
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with. This guide will help you understand the security implications of using social networking sites.
 <br>
@@ -25,11 +30,6 @@ When you enter a social networking site, you are leaving the freedoms of the int
 
 ## How-to
 
-
-## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-###give a different example here that highlights access to friends/contacts
 
 ## Test you social networking knowledge!
 
