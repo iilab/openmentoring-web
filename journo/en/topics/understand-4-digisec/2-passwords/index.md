@@ -15,9 +15,6 @@ Key takeaways from this unit include the following:
 - What is a password manager?
 - What is two factor authentication
 
-## Scenario
-Scenario text...
-
 ## Why choosing a strong password is important
 Passwords are often the first and only barrier between your informatio and anyone who might want to read, use, or destroy it without your mission
 <br>
@@ -71,6 +68,9 @@ We recommend you take advantage of online services that offer two-factor authent
 <br>
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
+## Scenario
+Scenario text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -87,7 +87,6 @@ You input the code to verify that you are indeed the person trying to access the
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

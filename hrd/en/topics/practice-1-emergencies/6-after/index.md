@@ -70,6 +70,15 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are week or sick.
 
 ## Learn
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
+
+
+## Learn
 ##Coping strategies for traumatic stress
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
@@ -95,15 +104,6 @@ Discourage negative coping strategies:
 - Don’t be violent
 <br>
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
-
-## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-Such a response is a normal reaction to an abnormal situation.
-
 
 ## Test
 <quiz name="Gitbook Quiz">

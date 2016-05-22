@@ -12,6 +12,12 @@ This section aims to providing preliminary support for identifying threats and a
 <br>
 However, here we try providing an introduction to themes and things to consider. This section provides extensive links to additional resources where you can learn more about the topic.
 
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+
+![](scenario.png "Illustrate scenario 2")
+
+
 ## Learn
 Learning text...
 
@@ -35,9 +41,4 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
-![](scenario.png "Illustrate scenario 1")
-
-![](scenario.png "Illustrate scenario 2")
-
 

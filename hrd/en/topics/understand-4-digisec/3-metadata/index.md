@@ -6,7 +6,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 ## Introduction
-Introduction text...
+This unit will provide an overview of what metadata is an why it is important.
 
 ## Scenario
 Scenario text...

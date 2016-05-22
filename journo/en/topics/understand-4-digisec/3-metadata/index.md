@@ -1,15 +1,31 @@
 # Metadata
+## Introduction
+This unit will provide an overview of what metadata is an why it is important.
+
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
+
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
 
 ## What is metadata?
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
@@ -36,22 +52,6 @@ Nonetheless, metadata from email communication can be used to track corresponden
 <br>
 In many cases, metadata tells a story just as interesting as the content itself.
 
-
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

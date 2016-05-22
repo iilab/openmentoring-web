@@ -272,11 +272,11 @@ Key takeaways from this section include identifying and addressing the following
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
 
-## Scenario
-Scenario text...
-
 ## Introduction
 This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
