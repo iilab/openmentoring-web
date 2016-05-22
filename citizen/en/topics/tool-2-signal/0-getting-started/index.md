@@ -10,6 +10,12 @@ Key takeaways from this section include learning to:
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
+## Scenario
+Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
+<br>
+He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
+
+
 ## Learn
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
 <br>
@@ -30,12 +36,6 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages. 
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-## Scenario
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
-<br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
 ## How-to

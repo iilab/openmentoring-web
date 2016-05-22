@@ -1,17 +1,4 @@
 # How to use messaging?
-## Using Signal for encrypted messaging
-This section will provide an overview of how to use the app Signal for encrypted messaging.
-<br>
-Key takeaways from this section include learning how to do the following:
- - Send and receive messages
- - Message individuals
- - Message groups
- - Identity verification
- - Read fingerprints
- - Scan fingerprints
- - Export your messages
-
-
 ## Scenario
 
 Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
@@ -205,5 +192,17 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 If you found this useful, you might be interested in reading the following units:
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+
+
+This section will provide an overview of how to use the app Signal for encrypted messaging.
+<br>
+Key takeaways from this section include learning how to do the following:
+ - Send and receive messages
+ - Message individuals
+ - Message groups
+ - Identity verification
+ - Read fingerprints
+ - Scan fingerprints
+ - Export your messages
 
 
