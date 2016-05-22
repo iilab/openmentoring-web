@@ -91,6 +91,7 @@ Essentially you are giving all your data over to the owners and trusting them wi
 ## Test you social networking knowledge!
 
 
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

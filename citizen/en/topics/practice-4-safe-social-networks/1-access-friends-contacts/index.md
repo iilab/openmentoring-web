@@ -34,6 +34,9 @@ Remember that social networking sites are owned by private businesses, and that 
 When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
 
+## Test you social networking knowledge!
+
+
 ## How-to
 
 
@@ -45,6 +48,4 @@ If you found this section useful, you might be interested in the following secti
 - [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
 - [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
 - [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
-
-
 

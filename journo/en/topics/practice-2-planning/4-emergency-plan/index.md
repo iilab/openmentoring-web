@@ -1,12 +1,12 @@
 # Preparing for emergencies with your contacts
+## Introduction
+Introduction text...
+
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-
-## Introduction
-Introduction text...
 
 ## Scenario
 Scenario text...
@@ -30,6 +30,7 @@ Learning text...
     </question>
 </quiz>
 
+## Next
 If you found this useful, you might be interested in the following:
 * [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
