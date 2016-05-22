@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T17:02:51.765Z",
+  "updatedAt": "2016-05-22T17:03:07.276Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -201,9 +201,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_1-threats",
+      "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Getting Started",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -212,9 +212,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_0-getting-started",
+      "slug": "practice-2-planning_1-threats",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Understanding Threats",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -393,20 +393,9 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content","protect:content,identity","protect:identity","protect:content","protect:content,identity"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -421,6 +410,17 @@
     }
   ,
     {
+      "slug": "tool-2-signal_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
@@ -429,6 +429,17 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -446,17 +457,6 @@
       "slug": "understand-1-how-it-works_2-phones",
       "type": "unit",
       "title": "Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],

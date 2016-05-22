@@ -1,4 +1,12 @@
 # After an Emergency
+## Key takeaways
+Key takeaway for this section will be:
+- [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
+- [Effects of traumatic stress](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
+- [Dealing with traumatic stress](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
+
+
+
 ## Introduction
 ![](unit.png "Landing image for the unit")
 <br>
@@ -95,14 +103,6 @@ Journalists and human rights defenders do difficult and challenging work ,and se
 Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
 Such a response is a normal reaction to an abnormal situation.
-
-
-## Key takeaways
-Key takeaway for this section will be:
-- [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
-- [Effects of traumatic stress](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
-- [Dealing with traumatic stress](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
-
 
 
 ## Test

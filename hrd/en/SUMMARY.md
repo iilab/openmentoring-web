@@ -18,9 +18,9 @@
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
@@ -64,19 +64,19 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
