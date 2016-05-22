@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T10:38:07.186Z",
+  "updatedAt": "2016-05-22T10:38:46.842Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -168,9 +168,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "Malware",
+      "title": "DDOS Attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -179,9 +179,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
-      "title": "DDOS Attack",
+      "title": "Malware",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -289,9 +289,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "slug": "practice-4-safe-social-networks_2-access-personal-details",
       "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
+      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -300,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
