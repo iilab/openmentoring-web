@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T12:25:28.015Z",
+  "updatedAt": "2016-05-22T12:31:22.520Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -542,9 +542,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_5-your-colleagues",
+      "slug": "understand-2-security_4-your-sources-journo",
       "type": "unit",
-      "title": "Your colleagues",
+      "title": "Your Sources",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -553,9 +553,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_4-your-sources-journo",
+      "slug": "understand-2-security_5-your-colleagues",
       "type": "unit",
-      "title": "Your Sources",
+      "title": "Your colleagues",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

@@ -1,10 +1,4 @@
 # Getting Started with Signal
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## Introduction
 Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
 <br>
@@ -36,6 +30,12 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages. 
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
@@ -139,7 +139,6 @@ Step 5: Tap Timeout interval and in the next screen enter after what time you wa
 Figure 11: Signal timeout settings
 
 
-## Next
 If you found this useful, you might be interested in reading the following units:
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)

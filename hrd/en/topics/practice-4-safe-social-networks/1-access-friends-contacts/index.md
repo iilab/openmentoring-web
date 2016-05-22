@@ -37,7 +37,6 @@ When you enter a social networking site, you are leaving the freedoms of the int
 ## How-to
 
 
-## Test you social networking knowledge!
 
 
 ## Next

@@ -15,6 +15,9 @@ Key takeaways from this unit include the following:
 - What is a password manager?
 - What is two factor authentication
 
+## Scenario
+Scenario text...
+
 ## Why choosing a strong password is important
 Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
 <br>
@@ -76,9 +79,6 @@ On the topic of special characters: be aware that most hackers or password-crack
 Password patterns can allow you to use very different but related phrases for all of your accounts, basing one off of the other. For example, if you use your mother’s birthday, you could use your dad’s, brother’s, grandmother’s or dog’s for other accounts. Repeating patterns will make your passwords easy to remember, though it can put you at risk if an adversary gains access to multiple passwords and recognizes the patterns. And, of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
 
 Finally, take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message. You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. Here is a comprehensive list of websites that offer this service.
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
