@@ -1,51 +1,5 @@
 # Your Well Being
 ## Learn
-##Effects
-At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
-<br>
-Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
-<br>
-Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
-<br>
-People react differently and take different amounts of time to come to terms with a traumatic event. Even so, you may be surprised by the strength of your feelings.
-<br>
-##Feelings you might have after a traumatic event
-After an emergency or traumatic event, you may feel:
-<br>
-Frightened — that the same thing will happen again, or that you might lose control of your feelings and break down
-<br>
-Helpless - that something really bad happened and you could do nothing about it. 
-<br>
-Angry — about what has happened and with whoever was responsible
-<br>
-Guilty — that you have survived when others have suffered or died
-<br>
-Sad - particularly if people were injured or killed, especially someone you knew.
-<br>
-Ashamed or embarrassed — that you have these strong feelings you can’t control, especially if you need others to support you
-<br>
-Relieved - that danger is over and that the danger has gone.
-<br>
-Hopeful - that your life will return to normal. People can start to feel more positive about things quite soon after a trauma.
-<br>
-Strong feelings affect your physical health. In the weeks after a trauma, you may find that you:
--Cannot sleep
--Feel very tired
--Dream a lot and have nightmares
-<br>
--Have poor concentration
--Have memory problems
--Have difficulty thinking clearly
--Suffer from headaches
-<br>
--Experiences change in appetite
--Experiences changes in sex-drive or libido
--Have aches and pains
--Feel that your heart is beating faster.
-<Br>
-It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are week or sick.
-<br>
-
 ##Coping strategies for traumatic stress
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
@@ -71,7 +25,6 @@ Discourage negative coping strategies:
 - Don’t be violent
 <br>
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
-
 
 ## Learn
 ##Effects of chronic stress
@@ -162,6 +115,52 @@ Any event which is very distressing and outside of the realm of normal human exp
 Such a response is a normal reaction to an abnormal situation.
 
 ## Learn
+##Effects
+At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
+<br>
+Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
+<br>
+Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
+<br>
+People react differently and take different amounts of time to come to terms with a traumatic event. Even so, you may be surprised by the strength of your feelings.
+<br>
+##Feelings you might have after a traumatic event
+After an emergency or traumatic event, you may feel:
+<br>
+Frightened — that the same thing will happen again, or that you might lose control of your feelings and break down
+<br>
+Helpless - that something really bad happened and you could do nothing about it. 
+<br>
+Angry — about what has happened and with whoever was responsible
+<br>
+Guilty — that you have survived when others have suffered or died
+<br>
+Sad - particularly if people were injured or killed, especially someone you knew.
+<br>
+Ashamed or embarrassed — that you have these strong feelings you can’t control, especially if you need others to support you
+<br>
+Relieved - that danger is over and that the danger has gone.
+<br>
+Hopeful - that your life will return to normal. People can start to feel more positive about things quite soon after a trauma.
+<br>
+Strong feelings affect your physical health. In the weeks after a trauma, you may find that you:
+-Cannot sleep
+-Feel very tired
+-Dream a lot and have nightmares
+<br>
+-Have poor concentration
+-Have memory problems
+-Have difficulty thinking clearly
+-Suffer from headaches
+<br>
+-Experiences change in appetite
+-Experiences changes in sex-drive or libido
+-Have aches and pains
+-Feel that your heart is beating faster.
+<Br>
+It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are week or sick.
+<br>
+
 ##Coping strategies for traumatic stress
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
@@ -187,6 +186,7 @@ Discourage negative coping strategies:
 - Don’t be violent
 <br>
 It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
+
 
 ## Learn
 ##What is post-traumatic stress disorder
@@ -237,19 +237,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - antidepressant medication
 
 ## Learn
-##What is of chronic stress?
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-<br>
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-<br>
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
-<br>
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
-<br>
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
-
-
-## Learn
 ##Dealing with it
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -264,6 +251,19 @@ Any of the following treatment options may be recommended:
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+
+## Learn
+##What is of chronic stress?
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+<br>
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+<br>
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
+<br>
+Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
+<br>
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
+
 
 ## Key takeaways
 Key takeaways from this section include identifying and addressing the following:

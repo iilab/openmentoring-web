@@ -16,6 +16,12 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -27,12 +33,6 @@
   * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -62,14 +62,6 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
@@ -81,6 +73,14 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   

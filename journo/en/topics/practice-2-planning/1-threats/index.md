@@ -16,6 +16,7 @@ This section is adopted from the Electronic Frontier Foundation's [Surveillance 
 ## Scenario
 Scenario text...
 
+## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
 
