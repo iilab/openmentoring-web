@@ -1,9 +1,9 @@
 # Your Sources
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
+Key takeaways from this unit include the following:
+- Why is it important to protect your sources
+- Things to consider when offering confidentiality to your sources
+- Suggestions on techniques to protect you and your sources
 
 ## Introduction
 This unit will describe things you should consider in terms of your safety and the safety of your sources.
@@ -25,7 +25,8 @@ In some nations, local journalists covering organized crime, national security, 
 <br>
 In order to protect both you and your sources, it is important consider when and how to contact your sources, whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
 <br>
-Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt. 
+Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
+
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -89,7 +89,6 @@ For example, if you are looking at an email account and it is the recovery addre
     </question>
 </quiz>
 
-## Next
  You might be interested in reading these other topics:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
