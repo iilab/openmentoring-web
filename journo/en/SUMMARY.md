@@ -76,9 +76,9 @@
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   

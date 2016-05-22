@@ -2,8 +2,8 @@
 ## Key takeaways
 Key takeaway for this section will be:
 - [What is traumatic stress](en/topics/practice-1-emergencies/6-after/3-learn.md)
-- Effects of traumatic stress
-- Dealing with traumatic stress
+- [Effects of traumatic stress](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
+- [Dealing with traumatic stress](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 - Next steps
 
 
@@ -157,6 +157,7 @@ If you found this useful, you might be interested in the following sections:
  * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
 <br>
 See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
+ * Chronic Stress
+ * Traumatic Stress
+ * Post-Traumatic Stress 
 
