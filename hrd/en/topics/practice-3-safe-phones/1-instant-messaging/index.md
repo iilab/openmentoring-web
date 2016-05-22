@@ -326,7 +326,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-## How-to
 Make a call
 
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
@@ -351,7 +350,6 @@ This makes sure you are both who you say you are.
 
 
 
-## Next
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)

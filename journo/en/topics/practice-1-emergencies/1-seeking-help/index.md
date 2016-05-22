@@ -19,16 +19,6 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
 
 
-## How to ask for help
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-<br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
-<br>
-If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
-<br>
-If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
-
-
 ## Encrypted Communication
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -42,6 +32,16 @@ This, in turn, is better than using unencrypted communications (such as a postca
 <br>
 To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
+
+
+## How to ask for help
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+<br>
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+<br>
+If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
+<br>
+If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section to establish secure communications.
 
 
 ## Seeking and providing remote help
@@ -82,6 +82,8 @@ When you are seeking remote help from a third party please keep the following in
 
 
 ## Introduction
+![](unit.png "Landing image for the unit")
+<br>
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
 <br>
 Key takeaways from this section will include the following:
@@ -166,7 +168,6 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
-## Next
 Do the best that you can with the resources and skills available.
 <br>
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 

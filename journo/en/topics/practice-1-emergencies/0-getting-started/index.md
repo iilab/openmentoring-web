@@ -1,5 +1,7 @@
 # Getting Started
 ## Introduction
+![](unit.png "Landing image for the unit")
+<br>
 This section aims to provide preliminary support for people facing the most common types of digital threats.
 **
 <br>
@@ -42,6 +44,7 @@ If at any moment you feel uncomfortable or unsure about implementing any of the 
     </question>
 </quiz>
 
+## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:
 * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
 * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

@@ -1,5 +1,7 @@
 # DDOS Attack
 ## Introduction
+![](unit.png "Landing image for the unit")
+<br>
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 <br>
 Key takeaways of this section are:
@@ -18,14 +20,6 @@ Emma published an important story on her organisations website about corruption.
 <br>
 ![](scenario.png "Illustrate scenario 2")
 Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
-
-
-## What is a DDOS attack?
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
-<br>
-In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
-<br>
-If your site is under a denial of service attack, some immediate options for next steps are suggested.
 
 
 ## Possible other reasons you may be suffering from a down or defaced website
@@ -56,6 +50,14 @@ Poor site performance
 Is your site loading intermittently or unusually slowly? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem. This could be ‘good’ insofar as your site has become more popular and it simply needs some improvements to respond to more readers – check your site analytics for a long-term pattern in growth.
 <br>
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
+
+
+## What is a DDOS attack?
+A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
+<br>
+In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
+<br>
+If your site is under a denial of service attack, some immediate options for next steps are suggested.
 
 
 ## First steps to take if your website is down or defaced
@@ -105,19 +107,6 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
-## Next
-If you found this useful, you might be interested in the following sections:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- <br>
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -133,4 +122,17 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this useful, you might be interested in the following sections:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+ <br>
+ * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
 
