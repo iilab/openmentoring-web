@@ -13,12 +13,6 @@ This section describe what to do after an emergency takes place.
 Key takeaway for this section will be:
 
 
-## Scenario
-Scenario text...
-![](scenario.png "Illustrate scenario 1")
-<br>
-![](scenario.png "Illustrate scenario 2")
-
 ## Learn
 Learning text...
 
@@ -50,4 +44,10 @@ If you found this useful, you might be interested in the following sections:
 See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
+
+## Scenario
+Scenario text...
+![](scenario.png "Illustrate scenario 1")
+<br>
+![](scenario.png "Illustrate scenario 2")
 

@@ -5,16 +5,6 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-This unit will provide an overview on how to create strong passwords.
-<br>
-Key takeaways from this unit include the following:
-- [Why choosing a strong password is important](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
-- How to create a strong password
-- How to test the stength of my password
-- What is a password manager?
-- What is two factor authentication
-
 ## Scenario
 Scenario text...
 
@@ -80,7 +70,21 @@ Password patterns can allow you to use very different but related phrases for al
 
 Finally, take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message. You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. Here is a comprehensive list of websites that offer this service.
 
-## Test
+## Introduction
+This unit will provide an overview on how to create strong passwords.
+<br>
+Key takeaways from this unit include the following:
+- [Why choosing a strong password is important](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
+- How to create a strong password
+- How to test the stength of my password
+- What is a password manager?
+- What is two factor authentication
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -95,9 +99,4 @@ Finally, take advantage of online services that offer two-factor authentication.
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
