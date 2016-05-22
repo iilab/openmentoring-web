@@ -12,9 +12,9 @@
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -50,9 +50,9 @@
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
   * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
+  
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
@@ -100,11 +100,11 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

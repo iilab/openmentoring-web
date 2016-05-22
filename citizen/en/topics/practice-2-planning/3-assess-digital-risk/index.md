@@ -26,9 +26,6 @@ Perhaps without realising, we take decisions based on risk analyses every day. *
 This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
 
 
-## Scenario
-###rewrite this to be a scenario
-
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -147,4 +144,7 @@ If you found this useful, you might be interested in the following sections:
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
 
+
+## Scenario
+###rewrite this to be a scenario
 

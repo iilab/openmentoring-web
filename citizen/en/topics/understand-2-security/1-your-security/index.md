@@ -5,11 +5,13 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-Introduction text...
-
 ## Scenario
 Scenario text...
+
+## Introduction
+Journalists often work on stories that may expose them to risk of physical or other forms of harm.
+<br>
+This unit will provide an overview of thinking about security in terms of yourself. 
 
 ## Learn
 Learning text...

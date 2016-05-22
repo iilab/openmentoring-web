@@ -15,6 +15,7 @@ Key takeaways from this unit include the following:
 - What is a password manager?
 - What is two factor authentication
 
+## Scenario
 Scenario text...
 
 ## Why choosing a strong password is important
