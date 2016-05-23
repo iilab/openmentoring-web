@@ -1,27 +1,18 @@
 # Your colleagues
-## Introduction
-Introduction text...
-
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
 ## Learn
 Learning text...
-
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -38,4 +29,13 @@ If you found this unit helpful, you might be interested in the following units:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+
 
