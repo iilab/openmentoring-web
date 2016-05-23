@@ -1,9 +1,10 @@
 # DDOS Attack
-## Billing problem
+## Other reasons your site might be down
 ![](recap.png)
 
-
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
+<br>
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 
 
 ## What is a DDOS attack?
@@ -28,6 +29,25 @@ This could be ‘good’ if your site has become more popular and simply needs s
 ![](recap.png)
 
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
+
+
+## Steps to fix the problem
+![](recap.png)
+
+Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
+<br>
+This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
+<br>
+This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
 ## Questions for your webmaster
@@ -55,7 +75,7 @@ Step 1: Verify that this is a malicious takeover of your website. An unfortunate
 <br>
 To prevent this, it is very important to keep payments for your domain name in order.
 <br>
-Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking]() section for help.
+Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section for help.
 <br>
 Step 3: Make a backup of the defaced site that can later be used for investigation of the defacement.
 <br>
@@ -82,18 +102,17 @@ To see whether your web host is working but your website is unavailable, visit h
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
+## Billing problem
+![](recap.png)
+
+
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+
 ## Legal problem
 ![](recap.png)
 
 If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
-
-
-## Other reasons your site might be down
-![](recap.png)
-
-To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
-<br>
-Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 
 
 ## Hosting problem
@@ -102,6 +121,14 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 If your website is not loading at all, your hosting company may be having problems.
 <br>
 Visit the website of your hosting company and look for a 'status' blog, or search on Twitter.com for other users also discussing downtime with the same host.
+
+
+## Censorship problem
+![](recap.png)
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Software problem
@@ -116,38 +143,12 @@ Sending your webmaster a screenshot, the link of the page you are having problem
 Here are some [helpful questions]() to ask your webmaster
 
 
-## Censorship problem
-![](recap.png)
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
-
-
 ## Account hijacking
 ![](recap.png)
 
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
-See [website defacement]() for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
-
-
-![](recap.png)
-
-Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
-<br>
-Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
-<br>
-This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
-<br>
-This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
-<br>
-Step 3: Move your site to a DDoS mitigation service.  Examples:
--- Deflect.ca
--- Google’s Project Shield
--- CloudFlare’s Project Galileo
-<br>
-Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
 
 
 ## Introduction
@@ -175,19 +176,6 @@ Key takeaways of this section are:
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 
 
-## Next
-If you found this useful, you might be interested in the following sections:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- <br>
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -203,4 +191,17 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this useful, you might be interested in the following sections:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+ <br>
+ * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
 

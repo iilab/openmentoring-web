@@ -1,5 +1,21 @@
 # Summary
 
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -54,6 +70,18 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -69,18 +97,6 @@
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-* [How does it work?](topics/understand-1-how-it-works/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -105,20 +121,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   

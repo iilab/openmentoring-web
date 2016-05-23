@@ -5,13 +5,6 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
-Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
-<br>
-Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
-<br>
-After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
-
 ## Introduction
 Journalists often work on stories that may expose them to risk of physical or other forms of harm.
 <br>
@@ -32,6 +25,13 @@ An independent journalist working without a relationship with a news organizatio
 <br>
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
+
+## Scenario
+Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
+<br>
+Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
+<br>
+After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
 
 ## Test
 <quiz name="Gitbook Quiz">

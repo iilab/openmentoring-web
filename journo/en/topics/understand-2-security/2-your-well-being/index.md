@@ -81,14 +81,6 @@ Emotional effects may include
 Engaging in some of these types of behaviours are security risks in and of themrselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
 
 ## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-Such a response is a normal reaction to an abnormal situation.
-
-## Learn
 ##Dealing with chronic stress
 Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consignee and comprise the techniques that work best for each person.
 <br>
@@ -113,6 +105,14 @@ It is important to recognise that is it is impossible to take care of others if 
 **Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 **Think positive!**
+
+## Learn
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
 
 ## Learn
 ##Effects
@@ -189,30 +189,6 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
-<br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
-
-## Learn
-##Dealing with it
-It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
-<br>
-However you should visit your doctor if you are still having problems about for weeks after the traumatic experience, of if the symptoms are particularly troublesome. 
-<br>
-Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
-<br>
-PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
-<br>
-Any of the following treatment options may be recommended:
-<br>
-- Watchful waiting — waiting to see whether the symptoms improve without treatment
-- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
-- Antidepressant medication
-
-## Learn
 ##Effects
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described in the following cards.
 <br>
@@ -253,6 +229,30 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - antidepressant medication
 
 ## Learn
+##What is post-traumatic stress disorder
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+<br>
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+
+## Learn
+##Dealing with it
+It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
+<br>
+However you should visit your doctor if you are still having problems about for weeks after the traumatic experience, of if the symptoms are particularly troublesome. 
+<br>
+Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
+<br>
+PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
+<br>
+Any of the following treatment options may be recommended:
+<br>
+- Watchful waiting — waiting to see whether the symptoms improve without treatment
+- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
+- Antidepressant medication
+
+## Learn
 ##What is of chronic stress?
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
@@ -272,20 +272,11 @@ Key takeaways from this section include identifying and addressing the following
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
 
-## Introduction
-This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
-
 ## Scenario
 Scenario text...
 
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
+## Introduction
+This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -302,4 +293,13 @@ If you found this unit helpful, you might be interested in the following units:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 

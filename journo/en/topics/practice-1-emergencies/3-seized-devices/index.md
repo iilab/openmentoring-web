@@ -12,15 +12,6 @@ Key takeaways from this section include:
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
-## Scenario
-![](scenario.png)
-
-Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
-<br>
-![](scenario.png)
-
-She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
-
 ## Questions to answer when you first notice a device is missing
 ![](recap.png)
 <br>
@@ -102,6 +93,15 @@ If you cannot change devices but you suspect it might be compromised, take preca
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
+
+## Scenario
+![](scenario.png)
+
+Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
+<br>
+![](scenario.png)
+
+She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
 
 ## Test
 <quiz name="Gitbook Quiz">

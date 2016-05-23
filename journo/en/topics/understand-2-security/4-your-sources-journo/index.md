@@ -5,9 +5,6 @@ Key takeaways from this unit include the following:
 - Things to consider when offering confidentiality to your sources
 - Suggestions on techniques to protect you and your sources
 
-## Scenario
-Scenario text...
-
 ## Introduction
 This unit will describe things you should consider in terms of your safety and the safety of your sources.
 <br>
@@ -27,6 +24,9 @@ In order to protect both you and your sources, it is important consider when and
 <br>
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
 
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

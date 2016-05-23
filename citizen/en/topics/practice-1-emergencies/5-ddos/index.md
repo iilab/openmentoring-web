@@ -75,7 +75,7 @@ Step 1: Verify that this is a malicious takeover of your website. An unfortunate
 <br>
 To prevent this, it is very important to keep payments for your domain name in order.
 <br>
-Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking]() section for help.
+Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section for help.
 <br>
 Step 3: Make a backup of the defaced site that can later be used for investigation of the defacement.
 <br>
@@ -148,7 +148,7 @@ Here are some [helpful questions]() to ask your webmaster
 
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
-See [website defacement]() for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
+See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
 
 
 ## Introduction

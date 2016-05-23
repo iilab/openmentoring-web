@@ -16,14 +16,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
 
 
-## Scenario
-![](scenario.png)
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
-<br>
-![](scenario.png)
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
-
-
 ## Learn
 ![](recap.png)
 It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own.
@@ -41,6 +33,14 @@ If someone else seems to have taken control of your social media accounts, then 
 <br>
 * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
 * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+
+
+## Scenario
+![](scenario.png)
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+<br>
+![](scenario.png)
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
 ## Next
