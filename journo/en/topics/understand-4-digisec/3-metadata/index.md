@@ -55,6 +55,7 @@ In many cases, metadata tells a story just as interesting as the content itself.
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
