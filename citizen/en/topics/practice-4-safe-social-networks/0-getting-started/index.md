@@ -33,7 +33,7 @@ Anyone needs to be vigilant about their use of social networking sites and need 
 
 
 ## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
@@ -43,7 +43,7 @@ Mansour and Magda plan how to share photos and videos of the march without revea
 
 
 ## Scenario
-Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
 <br>
