@@ -24,14 +24,6 @@ Michael just received an email from his service provider allerting him that his 
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -60,6 +52,14 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Adjusting account settings

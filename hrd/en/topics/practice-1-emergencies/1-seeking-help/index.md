@@ -1,42 +1,26 @@
 # Seeking Remote Help
-## Test
-<quiz name="">
-    <question>
-        <p>Landlines are not encrypted but mobile phones are</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
-
-## Test
-<quiz name="">
-    <question>
-        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
-        <answer>Yes</answer>
-        <answer correct>No</answer>
-        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
-    </question>
-    <question>
-        <p>With transport layer encryption the company providing the service is able to read my content.</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
-    </question>
-</quiz>
-
-## Introduction
-![](unit.png)
+## Organisations you may reach out to
+-EFF https://www.eff.org/
+ email: info@eff.org
+-Front Line Defenders http://www.frontlinedefenders.org/
+ email: info@frontlinedefenders.org
+-CPJ https://www.cpj.org/
+ email: info@cpj.org
 <br>
-This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
-
-
-## Scenario
-![](scenario.png)
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+-RSF http://en.rsf.org/
+ email: internet@rsf.org
+-Access https://www.accessnow.org/
+ email: help@accessnow.org
+ PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
+-Digital Defenders Partnership http://digitaldefenders.org/
+ email: ddp@hivos.org
 <br>
-![](scenario.png)
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+-Freedom House http://freedomhouse.org/
+-Internews https://www.internews.org/
+-IWPR https://www.cyber-arabs.com/
+-Open Technology Fund https://www.opentechfund.org
+ email: info@opentechfund.org
+ PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
 
 
 ## Normal Communication
@@ -101,27 +85,18 @@ Security tools have built-in ways to verify if the person you are talking to is 
 When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 
--EFF https://www.eff.org/
- email: info@eff.org
--Front Line Defenders http://www.frontlinedefenders.org/
- email: info@frontlinedefenders.org
--CPJ https://www.cpj.org/
- email: info@cpj.org
+## Introduction
+![](unit.png)
 <br>
--RSF http://en.rsf.org/
- email: internet@rsf.org
--Access https://www.accessnow.org/
- email: help@accessnow.org
- PGP key fingerprint: 6CE6 221C 98EC F399 A04C 41B8 C46B ED33 32E8 A2BC
--Digital Defenders Partnership http://digitaldefenders.org/
- email: ddp@hivos.org
+This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
+
+
+## Scenario
+![](scenario.png)
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
--Freedom House http://freedomhouse.org/
--Internews https://www.internews.org/
--IWPR https://www.cyber-arabs.com/
--Open Technology Fund https://www.opentechfund.org
- email: info@opentechfund.org
- PGP key fingerprint: 67AC DDCF B909 4685 36DD BC03 F766 3861 965A 90D2
+![](scenario.png)
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Key takeaways
@@ -172,6 +147,32 @@ Depending on how advanced your digital security and operational security practic
 In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
+
+## Test
+<quiz name="">
+    <question>
+        <p>Landlines are not encrypted but mobile phones are</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
+    </question>
+</quiz>
+
+## Test
+<quiz name="">
+    <question>
+        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
+        <answer>Yes</answer>
+        <answer correct>No</answer>
+        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
+    </question>
+    <question>
+        <p>With transport layer encryption the company providing the service is able to read my content.</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
+    </question>
+</quiz>
 
 ## Next
 Do the best that you can with the resources and skills available.

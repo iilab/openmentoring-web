@@ -5,6 +5,15 @@
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
 
+## Key takeaways
+Key takeaways will include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+
+
 ## Scenario
 ![](scenario.png)
 
@@ -13,20 +22,6 @@ Michael just received an email from his service provider allerting him that his 
 ![](scenario.png)
 
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
-
-
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-## Adjusting account settings
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Mitigating the problem
@@ -57,6 +52,20 @@ Reporters Sans Frontieres: internet@rsf.org
 Access: help@accessnow.org
 Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+
+
+## Adjusting account settings
+Look at the account settings. Have they changed?
+<br>
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Changing account passwords
@@ -93,12 +102,4 @@ For example, if you are looking at an email account and it is the recovery addre
 See also:
  * [Glossary of terms](resources/glossary.md)
  * [Further Reading and Resources](resources)
-
-Key takeaways will include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
-
 

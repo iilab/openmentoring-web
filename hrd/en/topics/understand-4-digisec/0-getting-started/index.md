@@ -11,11 +11,11 @@ Key takeaways from this topic include learning about the following:
 ## Introduction
 Introduction text...
 
-## Learn
-Learning text...
-
 ## Scenario
 Scenario text...
+
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -33,6 +33,7 @@ Scenario text...
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
