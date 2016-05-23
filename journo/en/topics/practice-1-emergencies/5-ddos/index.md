@@ -1,9 +1,4 @@
 # DDOS Attack
-## Introduction
-![](unit.png)
-<br>
-This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
-
 ## Key takeaways
 Key takeaways of this section are:
 - [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
@@ -14,12 +9,26 @@ Key takeaways of this section are:
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 
 
+## Introduction
+![](unit.png)
+<br>
+This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
+
 ## Scenario
 ![](scenario.png)
 Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
 <br>
 ![](scenario.png)
 Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
+
+
+## What is a DDOS attack?
+![](recap.png)
+A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
+<br>
+In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
+<br>
+If your site is under a denial of service attack, some immediate options for next steps are suggested.
 
 
 ## Possible other reasons you may be suffering from a down or defaced website
@@ -67,15 +76,6 @@ Start by answering some simple questions:
 - Who else knows or may have access to these account details?
 <br>
 After answering these questions, take the following first steps to mitigate the problem.
-
-
-## What is a DDOS attack?
-![](recap.png)
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
-<br>
-In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
-<br>
-If your site is under a denial of service attack, some immediate options for next steps are suggested.
 
 
 ## How to mitigate a DDOS attack
