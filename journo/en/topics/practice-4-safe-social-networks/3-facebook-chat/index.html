@@ -64,7 +64,7 @@
     <body>
         
         
-    <div class="book" data-level="4.4" data-basepath="../../.." data-revision="Mon May 23 2016 17:17:59 GMT+0000 (UTC)">
+    <div class="book" data-level="4.4" data-basepath="../../.." data-revision="Mon May 23 2016 17:18:45 GMT+0000 (UTC)">
     
 
 <div class="book-summary">
@@ -1288,6 +1288,27 @@ Now you are prepared to add your Facebook account on Jitsi. To do this follow th
 <p><strong>Step 1:</strong> Select <strong>File &gt; Add New Account...</strong> in the main menu bar of Jitsi.</p>
 <p><strong>Step 2:</strong> In the &quot;Add New Account&quot; dialogue, <em>Network</em> menu choose Facebook, enter your username and password and Click <strong>&quot;Add&quot;</strong>.</p>
 <p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png</a></p>
+<h2 id="encrypting-facebook-voice-calls"><a name="encrypting-facebook-voice-calls" class="plugin-anchor" href="#encrypting-facebook-voice-calls"><span class="fa fa-link"></span></a>Encrypting Facebook voice calls</h2>
+<p>Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to do the following 5 Steps:
+<br>
+<strong>Step 1:</strong> Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact&apos;s name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png</a></p>
+<p>Your contact will see incoming call notification:</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-43.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-43.png</a>
+<br>
+<strong>Step 2:</strong> If your contact accepts the call you will receive information that you are connected:</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png</a></p>
+<p>Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
+<br>
+<strong>Step 3:</strong> Wait... Your and your contact&apos;s programs are establishing an encrypted connection, which may take a moment. If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don&apos;t succeed in establishing a connection, you still can chat but without encryption. You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png</a>
+<br>
+<strong>Step 4:</strong> Observe the section under the letters zrtp and padlock with the message &quot;Compare with partner&quot; followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png</a>
+<br>
+<strong>Step 5:</strong> You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:</p>
+<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png</a></p>
+<p>Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.</p>
 <h2 id="encrypting-your-facebook-instant-messages"><a name="encrypting-your-facebook-instant-messages" class="plugin-anchor" href="#encrypting-your-facebook-instant-messages"><span class="fa fa-link"></span></a>Encrypting your Facebook instant messages</h2>
 <p>OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
 <br>
@@ -1316,36 +1337,15 @@ Closing the Authenticate Buddy window returns you to the chat window:</p>
 <p>Note that padlock no longer includes the orange triangle with the white exclamation mark. This means that you have authenticated your contact. The authentication should be done only once per contact. If the triangle with exclamation mark returns, it means that you are chatting to somebody who you have not yet authenticated.
 <br>
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.</p>
-<h2 id="encrypting-facebook-voice-calls"><a name="encrypting-facebook-voice-calls" class="plugin-anchor" href="#encrypting-facebook-voice-calls"><span class="fa fa-link"></span></a>Encrypting Facebook voice calls</h2>
-<p>Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to do the following 5 Steps:
-<br>
-<strong>Step 1:</strong> Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact&apos;s name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png</a></p>
-<p>Your contact will see incoming call notification:</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-43.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-43.png</a>
-<br>
-<strong>Step 2:</strong> If your contact accepts the call you will receive information that you are connected:</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png</a></p>
-<p>Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
-<br>
-<strong>Step 3:</strong> Wait... Your and your contact&apos;s programs are establishing an encrypted connection, which may take a moment. If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don&apos;t succeed in establishing a connection, you still can chat but without encryption. You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png</a>
-<br>
-<strong>Step 4:</strong> Observe the section under the letters zrtp and padlock with the message &quot;Compare with partner&quot; followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png</a>
-<br>
-<strong>Step 5:</strong> You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:</p>
-<p><a href="https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png" target="_blank">https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png</a></p>
-<p>Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.</p>
 <h2 id="key-takeaways"><a name="key-takeaways" class="plugin-anchor" href="#key-takeaways"><span class="fa fa-link"></span></a>Key takeaways</h2>
 <h2 id="a-new-post"><a name="a-new-post" class="plugin-anchor" href="#a-new-post"><span class="fa fa-link"></span></a>A New Post</h2>
 <p>Enter text in <a href="http://daringfireball.net/projects/markdown/" target="_blank">Markdown</a>. Use the toolbar above, or click the <strong>?</strong> button for formatting help.</p>
-<h2 id="scenario"><a name="scenario" class="plugin-anchor" href="#scenario"><span class="fa fa-link"></span></a>Scenario</h2>
-<p>Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.</p>
 <h2 id="learn"><a name="learn" class="plugin-anchor" href="#learn"><span class="fa fa-link"></span></a>Learn</h2>
 <p>When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. 
 <br>
 To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).</p>
+<h2 id="scenario"><a name="scenario" class="plugin-anchor" href="#scenario"><span class="fa fa-link"></span></a>Scenario</h2>
+<p>Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.</p>
 <h2 id="introduction"><a name="introduction" class="plugin-anchor" href="#introduction"><span class="fa fa-link"></span></a>Introduction</h2>
 <p>This section will describe how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do!
 <br>
