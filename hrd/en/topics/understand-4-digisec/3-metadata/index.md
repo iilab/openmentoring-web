@@ -1,11 +1,17 @@
 # Metadata
-## Introduction
-This unit will provide an overview of what metadata is an why it is important.
+## Key takeaways
+Key takeaways from this section include:
+- What is metadata?
+- Where can I find metadata?
+- How can metadata expose me or my connections?
 
 ## Scenario
 Henry is a journalist writing about wildlife preservation. While working on a story about poaching recently, he came across a story that park rangers were warning people not to upload pictures to social media, and to turn off the geo-location feature on their phone.
 <br>
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
+
+## Introduction
+This unit will provide an overview of what metadata is an why it is important.
 
 ## What is metadata?
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
@@ -32,12 +38,6 @@ Nonetheless, metadata from email communication can be used to track corresponden
 <br>
 In many cases, metadata tells a story just as interesting as the content itself.
 
-
-## Key takeaways
-Key takeaways from this section include:
-- What is metadata?
-- Where can I find metadata?
-- How can metadata expose me or my connections?
 
 ## Test
 <quiz name="Gitbook Quiz">

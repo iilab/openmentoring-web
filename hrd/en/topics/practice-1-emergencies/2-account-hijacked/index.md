@@ -24,15 +24,6 @@ Michael just received an email from his service provider allerting him that his 
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
 
-## Reviewing Account Activity
-![](recap.png)
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
 <br>
@@ -63,6 +54,15 @@ Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
 
 
+## Reviewing Account Activity
+![](recap.png)
+For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+
+
 ## Adjusting account settings
 ![](recap.png)
 Look at the account settings. Have they changed?
@@ -77,19 +77,7 @@ Change the passwords for all your other online accounts that are linked to your 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
 
-## Next
- You might be interested in reading these other topics:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- <br>
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -104,4 +92,17 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ You might be interested in reading these other topics:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+ <br>
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+ * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
+ * [Further Reading and Resources](resources)
 

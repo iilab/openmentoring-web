@@ -23,6 +23,7 @@ He is worried that he has not only lost important research, but also put his sou
 
 
 ## Questions to answer when you first notice a device is missing
+![](recap.png)
 Should you believe your device is seized, start by answering some simple questions:
 <br>
 - What happened?
@@ -37,6 +38,7 @@ Should you believe your device is seized, start by answering some simple questio
 
 
 ## Identifying security protections the missing device has in place
+![](recap.png)
 Think about the kinds of security protections the device had in place:
 <br>
 - Was the device protected by a password or other security measures?
@@ -51,6 +53,7 @@ Think about the kinds of security protections the device had in place:
 
 
 ## Identifying what was on the missing device
+![](recap.png)
 Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
 <br>
 What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
@@ -66,6 +69,7 @@ After answering these questions, take the following steps to mitigate the proble
 
 
 ## Mitigating the problem
+![](recap.png)
 If your device is still missing take the following four steps:
 <br>
 - Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.

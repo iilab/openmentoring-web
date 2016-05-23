@@ -1,4 +1,10 @@
 # Getting Started
+## Introduction
+![](unit.png)
+<br>
+This section aims to provide preliminary support for people facing the most common types of digital threats.
+
+
 ## Key takeaways
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
@@ -8,12 +14,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
-
-
-## Introduction
-![](unit.png)
-<br>
-This section aims to provide preliminary support for people facing the most common types of digital threats.
 
 
 ## Scenario
@@ -33,6 +33,17 @@ It strives to give you tools that can help you make a first assessment of what i
 If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 
 
+## Test
+<quiz name="What this guide can help you with">
+    <question multiple>
+        <p>What is the digital first aid kit used for?</p>
+        <answer correct>To help diagnose problems you might face</answer>
+        <answer>To help hijack other people's account</answer>
+        <answer correct>To help provide support to others who might encounter problems</answer>
+        <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
+    </question>
+</quiz>
+
 ## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:
 * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
@@ -48,14 +59,4 @@ See also:
 * [Glossary of terms](resources/glossary.md)
 * [Further Reading and Resources](resources)
 
-
-<quiz name="What this guide can help you with">
-    <question multiple>
-        <p>What is the digital first aid kit used for?</p>
-        <answer correct>To help diagnose problems you might face</answer>
-        <answer>To help hijack other people's account</answer>
-        <answer correct>To help provide support to others who might encounter problems</answer>
-        <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
-    </question>
-</quiz>
 
