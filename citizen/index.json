@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-23T13:23:33.335Z",
+  "updatedAt": "2016-05-23T13:38:04.055Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -344,9 +344,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],
@@ -355,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "slug": "practice-5-internet-anonymity_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Using the Internet Anonymously",
       "locale": "en",
       "categories": [],

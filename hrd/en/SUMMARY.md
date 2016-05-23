@@ -50,9 +50,9 @@
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
   * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
+  
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
@@ -61,14 +61,6 @@
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -81,6 +73,14 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   

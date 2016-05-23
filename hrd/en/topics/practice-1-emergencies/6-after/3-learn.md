@@ -1,7 +1,8 @@
 ## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+After an emergency has happened, it's a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+When necessary, this would be a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training.), determining the best practice of how to respond to an emergency or not.
 <br>
-Such a response is a normal reaction to an abnormal situation.
+This should be considered for all stages of an event or activity - in terms of preparation the implementation of an activity, and when an activity has ended.
+<br>
+For more information on what to do after an emergency has happened, you might find Protection International's [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/) useful.
