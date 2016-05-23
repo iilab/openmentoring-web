@@ -1,7 +1,4 @@
 # Getting Started
-## Introduction
-Introduction text...
-
 ## Key takeaways
 Key takeaways from this topic include learning about the following:
 - [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
@@ -13,6 +10,9 @@ Key takeaways from this topic include learning about the following:
 
 ## Scenario
 Scenario text...
+
+## Introduction
+Introduction text...
 
 ## Learn
 Learning text...

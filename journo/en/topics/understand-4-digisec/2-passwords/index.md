@@ -5,6 +5,9 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Scenario
+Scenario text...
+
 ## Introduction
 This unit will provide an overview on how to create strong passwords.
 <br>
@@ -14,9 +17,6 @@ Key takeaways from this unit include the following:
 - How to test the stength of my password
 - What is a password manager?
 - What is two factor authentication
-
-## Scenario
-Scenario text...
 
 ## Why choosing a strong password is important
 Passwords are often the first and only barrier between your informatio and anyone who might want to read, use, or destroy it without your mission

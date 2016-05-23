@@ -5,6 +5,9 @@ Key takeaways from this unit include the following:
 - Things to consider when offering confidentiality to your sources
 - Suggestions on techniques to protect you and your sources
 
+## Scenario
+Scenario text...
+
 ## Introduction
 This unit will describe things you should consider in terms of your safety and the safety of your sources.
 <br>
@@ -25,8 +28,14 @@ In order to protect both you and your sources, it is important consider when and
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
 
 
-## Scenario
-Scenario text...
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -43,13 +52,4 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
 

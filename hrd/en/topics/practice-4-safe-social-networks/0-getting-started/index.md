@@ -88,7 +88,6 @@ Privacy settings are only meant to protect you from other members of the social 
 Essentially you are giving all your data over to the owners and trusting them with it.
 
 
-## Test you social networking knowledge!
 
 
 ## Next

@@ -40,7 +40,6 @@ When you enter a social networking site, you are leaving the freedoms of the int
 ## Test you social networking knowledge!
 
 
-## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

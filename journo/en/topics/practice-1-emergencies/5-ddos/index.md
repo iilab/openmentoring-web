@@ -14,14 +14,6 @@ Key takeaways of this section are:
 - [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
 
 
-## Scenario
-![](scenario.png)
-Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
-<br>
-![](scenario.png)
-Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
-
-
 ## What is a DDOS attack?
 ![](recap.png)
 A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
@@ -64,20 +56,6 @@ Is your site loading intermittently or unusually slowly? Your site may be overwh
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 
 
-## First steps to take if your website is down or defaced
-Finding the problem and possible solutions to your website’s problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (e.g. webmaster or the people who helped you set up your site)
-<br>
-Start by answering some simple questions:
-- Who built your website? Are they available to help?
-- Who is your web hosting provider? This is the company that provides the server where your website lives. If you do not know, you can use a tool like this to help.
-- Do you have your account log in details for this hosting provider?
-- Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
-- Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
-- Who else knows or may have access to these account details?
-<br>
-After answering these questions, take the following first steps to mitigate the problem.
-
-
 ## How to mitigate a DDOS attack
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 <br>
@@ -91,6 +69,20 @@ If you have determined that none of these are at fault, you may be suffering fro
 -- CloudFlare’s Project Galileo
 <br>
 - Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
+
+## First steps to take if your website is down or defaced
+Finding the problem and possible solutions to your website’s problem can be cumbersome if you do not have hosting expertise. Therefore, when possible, the best first step is to contact a trusted person who can help with your website (e.g. webmaster or the people who helped you set up your site)
+<br>
+Start by answering some simple questions:
+- Who built your website? Are they available to help?
+- Who is your web hosting provider? This is the company that provides the server where your website lives. If you do not know, you can use a tool like this to help.
+- Do you have your account log in details for this hosting provider?
+- Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
+- Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
+- Who else knows or may have access to these account details?
+<br>
+After answering these questions, take the following first steps to mitigate the problem.
 
 
 ## What to do if you are suffering from a website defacement
@@ -111,6 +103,27 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+## Scenario
+![](scenario.png)
+Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
+<br>
+![](scenario.png)
+Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
+
+
+## Next
+If you found this useful, you might be interested in the following sections:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+ <br>
+ * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -126,17 +139,4 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
-If you found this useful, you might be interested in the following sections:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- <br>
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
 
