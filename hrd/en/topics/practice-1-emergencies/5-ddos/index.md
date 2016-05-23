@@ -85,13 +85,13 @@ To see whether your web host is working but your website is unavailable, visit h
 <br>
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
-## What to do if you are suffering from a website defacement
-**Legal problems**
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
-
 ## How to mitigate a DDOS attack
 **Billing problem**
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+## What to do if you are suffering from a website defacement
+**Legal problems**
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 ## Learn
 **Hosting problem**

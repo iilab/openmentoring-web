@@ -33,14 +33,6 @@ An independent journalist working without a relationship with a news organizatio
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
 
-If you found this unit useful, you might be interested in the following units:
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -56,4 +48,13 @@ If you found this unit useful, you might be interested in the following units:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this unit useful, you might be interested in the following units:
+- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 

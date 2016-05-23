@@ -18,6 +18,13 @@ Key takeaways from this section include learning how to do the following:
  - Export your messages
 
 
+## Scenario
+
+Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
+<br>
+He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
+
+
 ## How-to
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
@@ -195,13 +202,6 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 ![18s.png](18s.png)
 Figure 16 & 17: Signal Export and Export confirmation screens
-
-
-## Scenario
-
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
-<br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
 ## Share

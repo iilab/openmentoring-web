@@ -1,16 +1,17 @@
 # Secure Communications
-## Introduction
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
-
 ## Key takeaways
 Key takeaways from this unit include the following:
 - What is secure communication?
 - What to do if you believe your communication channels have been compromised?
 - Encryption tools
 
+## Introduction
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
+
 ## Scenario
 Scenario text...
 
+## Learn
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.

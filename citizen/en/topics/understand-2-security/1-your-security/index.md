@@ -5,18 +5,18 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-Journalists often work on stories that may expose them to risk of physical or other forms of harm.
-<br>
-This unit will provide an overview of thinking about security in terms of yourself. Much of the information is drawn from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
-
 ## Scenario
 Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
 <br>
 Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
 <br>
 After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
+
+## Introduction
+Journalists often work on stories that may expose them to risk of physical or other forms of harm.
+<br>
+This unit will provide an overview of thinking about security in terms of yourself. Much of the information is drawn from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
 
 ## Learn
 ![](recap.png)
@@ -49,6 +49,7 @@ For more information on conducting a risk assessment, refer to the [Planning and
     </question>
 </quiz>
 
+## Next
 If you found this unit useful, you might be interested in the following units:
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
