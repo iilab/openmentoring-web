@@ -55,6 +55,7 @@ Internews: info@internews.org
 
 
 ## Reviewing Account Activity
+![](recap.png)
 For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
 <br>
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
@@ -63,12 +64,14 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 
 
 ## Adjusting account settings
+![](recap.png)
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Changing account passwords
+![](recap.png)
 Change the passwords for all your other online accounts that are linked to your hijacked account.
 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.

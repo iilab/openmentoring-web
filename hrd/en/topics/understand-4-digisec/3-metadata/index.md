@@ -1,10 +1,4 @@
 # Metadata
-## Key takeaways
-Key takeaways from this section include:
-- What is metadata?
-- Where can I find metadata?
-- How can metadata expose me or my connections?
-
 ## Introduction
 This unit will provide an overview of what metadata is an why it is important.
 
@@ -38,6 +32,12 @@ Nonetheless, metadata from email communication can be used to track corresponden
 <br>
 In many cases, metadata tells a story just as interesting as the content itself.
 
+
+## Key takeaways
+Key takeaways from this section include:
+- What is metadata?
+- Where can I find metadata?
+- How can metadata expose me or my connections?
 
 ## Test
 <quiz name="Gitbook Quiz">
