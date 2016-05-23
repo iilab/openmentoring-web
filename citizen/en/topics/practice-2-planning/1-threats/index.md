@@ -1,10 +1,4 @@
 # Understanding Threats
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## Introduction
 There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats. To become more secure, you must determine what you need to protect, and whom you need to protect it from.
 <br>
@@ -13,8 +7,11 @@ Threats can change depending on where you’re located, what you’re doing, and
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
-## Scenario
-Scenario text...
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
 
 ## Learn
 
@@ -73,4 +70,7 @@ If you found this useful, you might be interested in the following sections:
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
  * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
+
+## Scenario
+Scenario text...
 

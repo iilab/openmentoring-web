@@ -24,9 +24,9 @@
   
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -42,9 +42,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
@@ -64,9 +64,9 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
