@@ -70,7 +70,6 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
     </question>
 </quiz>
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

@@ -40,7 +40,6 @@ First you need to share the app
 Then you need to share the content
  * ...
 
-## Share
 
 
 ## Share

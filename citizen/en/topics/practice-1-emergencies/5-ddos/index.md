@@ -42,6 +42,14 @@ Can you visit other sites with similar content to your site? Try visiting websit
 <br>
 Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
+## Learn
+**Software problem**
+Are you seeing error messages? This could be a software problem.
+<br>
+Think about any recent changes you or your team may have made and contact your webmaster.
+<br>
+Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
+
 ## Introduction
 ![](unit.png)
 <br>

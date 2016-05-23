@@ -13,18 +13,18 @@ In many cases, this maybe an innocent and frustrating problem, but on occasion, 
 If your site is under a denial of service attack, we suggest some immediate options for next steps.
 
 
-## First steps to take if your website is down or defaced
-**Network problem**
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
-<br>
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
 ## Possible other reasons you may be suffering from a down or defaced website
 ![](recap.png)
 
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 <br>
 Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
+
+## First steps to take if your website is down or defaced
+**Network problem**
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+<br>
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 ## What to do if you are suffering from a website defacement
 **Legal problems**
@@ -41,6 +41,14 @@ Visit the website of your hosting company and look for a 'status' blog, or searc
 Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
 <br>
 Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+## Learn
+**Software problem**
+Are you seeing error messages? This could be a software problem.
+<br>
+Think about any recent changes you or your team may have made and contact your webmaster.
+<br>
+Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 
 ## Introduction
 ![](unit.png)

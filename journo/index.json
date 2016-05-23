@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-23T21:02:42.875Z",
+  "updatedAt": "2016-05-23T21:03:12.180Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -135,17 +135,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Hijacked Account",
@@ -182,6 +171,17 @@
       "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
       "title": "DDOS Attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -410,9 +410,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
+      "slug": "tool-2-signal_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -421,9 +421,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -630,17 +630,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
-      "type": "unit",
-      "title": "Metadata",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
       "title": "Secure Communications",
@@ -666,6 +655,17 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_3-metadata",
+      "type": "unit",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
