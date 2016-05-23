@@ -9,6 +9,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 This topic covers the fundamentals security basics of mobile phones and devices
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 Safer Communication on a smartphone
 
@@ -38,9 +41,6 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
         <answer>No</answer>
     </question>
 </quiz>
-
-## Scenario
-Scenario text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
