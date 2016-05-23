@@ -11,13 +11,6 @@ Journalists often work on stories that may expose them to risk of physical or ot
 This unit will provide an overview of thinking about security in terms of yourself. Much of the information is drawn from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 
 
-## Scenario
-Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
-<br>
-Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
-<br>
-After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
-
 ## Learn
 ![](recap.png)
 Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
@@ -57,4 +50,11 @@ If you found this unit useful, you might be interested in the following units:
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
 
+
+## Scenario
+Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
+<br>
+Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
+<br>
+After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
 
