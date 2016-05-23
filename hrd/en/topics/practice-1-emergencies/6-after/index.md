@@ -3,7 +3,7 @@
 Key takeaway for this section will be:
 - [Re-evaluating your emergency and security procedures](en/topics/practice-1-emergencies/6-after/3-learn.md)
 - [Emergency funding for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
-- [Addressing traumatic stress](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
+- [Addressing traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
 ## Introduction
@@ -15,6 +15,12 @@ It is therefore imprint to know how to react following a traumatic event, and ho
 <br>
 This section describe what to do after an emergency takes place.
 
+
+## Scenario
+Scenario text...
+![](scenario.png "Illustrate scenario 1")
+<br>
+![](scenario.png "Illustrate scenario 2")
 
 ## Learn
 ##Emergency funding
@@ -37,12 +43,6 @@ When necessary, this would be a good time to try to improve your organisational 
 This should be considered for all stages of an event or activity - in terms of preparation the implementation of an activity, and when an activity has ended.
 <br>
 For more information on what to do after an emergency has happened, you might find Protection International's [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/) useful.
-
-## Scenario
-Scenario text...
-![](scenario.png "Illustrate scenario 1")
-<br>
-![](scenario.png "Illustrate scenario 2")
 
 ## Test
 <quiz name="Gitbook Quiz">
