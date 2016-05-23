@@ -4,6 +4,8 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
@@ -11,8 +13,6 @@
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
@@ -66,9 +66,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -86,9 +86,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
@@ -114,11 +114,11 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   

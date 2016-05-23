@@ -1,7 +1,7 @@
 # DDOS Attack
-## How to mitigate a DDOS attack
-**Billing problem**
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+## What to do if you are suffering from a website defacement
+**Legal problems**
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 ## What is a DDOS attack?
 ![](recap.png)
@@ -26,9 +26,9 @@ To see whether your web host is working but your website is unavailable, visit h
 <br>
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
-## What to do if you are suffering from a website defacement
-**Legal problems**
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+## How to mitigate a DDOS attack
+**Billing problem**
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 ## Learn
 **Hosting problem**
@@ -49,6 +49,15 @@ Are you seeing error messages? This could be a software problem.
 Think about any recent changes you or your team may have made and contact your webmaster.
 <br>
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
+<br>
+Here are some [helpful questions]() to ask your webmaster
+
+
+## Learn
+**Account hijacking**
+Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
+<br>
+See [website defacement]() for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
 
 ## Introduction
 ![](unit.png)
