@@ -16,17 +16,11 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
   
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
@@ -34,15 +28,21 @@
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
@@ -52,9 +52,9 @@
   
   * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
   
-  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
-  
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -72,9 +72,9 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
@@ -94,9 +94,9 @@
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   

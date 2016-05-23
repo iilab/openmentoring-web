@@ -12,6 +12,13 @@ Key takeaways from this section include:
 - [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 
 
+## Scenario
+![](scenario.png)
+Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
+<br>
+![](scenario.png)
+Brenda . If she doesn
+
 ## Questions to answer when you first notice a device is missing
 ![](recap.png)
 Should you believe your device is seized, start by answering some simple questions:
@@ -40,6 +47,22 @@ Think about the kinds of security protections the device had in place:
 - What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
 <br>
 - Do you have remote access to the device?
+
+
+## Identifying what was on the missing device
+![](recap.png)
+Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
+<br>
+What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
+<br>
+Did you use encryption tools for email or chat (such as PGP and OTR)?
+<br>
+What accounts does this device have access to? This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
+<br>
+Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass.
+<br>
+After answering these questions, take the following steps to mitigate the problem:
+<br>
 
 
 ## Mitigating the problem
@@ -76,29 +99,6 @@ If you have lost contact with your device for an extended period of time and you
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
 
-## Identifying what was on the missing device
-![](recap.png)
-Think about the content of what you had on the device. Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
-<br>
-What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
-<br>
-Did you use encryption tools for email or chat (such as PGP and OTR)?
-<br>
-What accounts does this device have access to? This can be email, social media, chat, IM and banking accounts that the device can access, browsers that have saved passwords to account, cookies that show your internet browsing history, authentication tokens such as fingerprint on iPhone 5 and accounts that use the device for secondary authentication.
-<br>
-Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass.
-<br>
-After answering these questions, take the following steps to mitigate the problem:
-<br>
-
-
-## Scenario
-![](scenario.png)
-Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
-<br>
-![](scenario.png)
-Brenda . If she doesn
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -115,6 +115,7 @@ Brenda . If she doesn
     </question>
 </quiz>
 
+## Next
  If you found this useful, you might be interested in the following related sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
