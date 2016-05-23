@@ -5,14 +5,6 @@ Look at the account settings. Have they changed?
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
 ## If you can login
 Move to a different computer that you believe to be safe or uncompromised... Because...
 <br>
@@ -22,6 +14,14 @@ Now time to confirm if your suspicions are founded?... But in general stop using
 <br>
 ![](recap.png)
 > Remember to change passwords for your linked accounts!
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## If you *cannot* login
@@ -79,6 +79,7 @@ Key takeaways will include:
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -94,6 +95,7 @@ Key takeaways will include:
     </question>
 </quiz>
 
+## Next
  You might be interested in reading these other topics:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)

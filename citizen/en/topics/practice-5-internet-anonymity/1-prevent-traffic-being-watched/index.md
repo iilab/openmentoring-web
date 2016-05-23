@@ -8,10 +8,11 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Introduction
 Introduction text...
 
+## Learn
+Learning text...
+
 ## Scenario
 Scenario text...
-
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -50,9 +50,6 @@ Although these networks can be very useful, and promote social interaction both 
 
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to third party advertisers. When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
-## Test you social networking knowledge!
-
-
 ## How-to
 This how to will go through the following steps 
  - **(1) How to Install Signal**
@@ -355,6 +352,9 @@ This makes sure you are both who you say you are.
 ![11s.png]({{site.baseurl}}/media/11s.png)
 
 
+
+
+## Test you social networking knowledge!
 
 
 ## Next

@@ -24,6 +24,9 @@ Ask yourself: is it necessary to post the following information online?
  - education and employment history
 
 
+## Test you social networking knowledge!
+
+
 ## How-to
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 <br>
@@ -40,9 +43,7 @@ Clicking on this icon will bring up a menu where you can change this setting:
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
 
 
-## Test you social networking knowledge!
-
-
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
