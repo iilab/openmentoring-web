@@ -11,6 +11,9 @@ Introduction text...
 ## Scenario
 Scenario text...
 
+## Learn
+Learning text...
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -27,9 +30,7 @@ Scenario text...
     </question>
 </quiz>
 
-## Learn
-Learning text...
-
+## Next
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)

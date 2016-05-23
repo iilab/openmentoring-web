@@ -94,9 +94,9 @@
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -116,9 +116,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
