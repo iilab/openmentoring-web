@@ -1,9 +1,10 @@
 # DDOS Attack
-## First steps to take if your website is down or defaced
-**Network problem**
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+## Possible other reasons you may be suffering from a down or defaced website
+![](recap.png)
+
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 <br>
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 
 ## What is a DDOS attack?
 ![](recap.png)
@@ -54,20 +55,43 @@ Who else knows or may have access to these account details?
 <br>
 After answering these questions, [take the following steps](en/topics/practice-1-emergencies/5-ddos/3-11-learn.md) to mitigate the problem.
 
-## Possible other reasons you may be suffering from a down or defaced website
-![](recap.png)
-
-To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
+## Learn
+## If your website is defaced
+Step 1: Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes.
 <br>
-Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
+To prevent this, it is very important to keep payments for your domain name in order.
+<br>
+Step 2: If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking]() section for help.
+<br>
+Step 3: Make a backup of the defaced site that can later be used for investigation of the defacement.
+<br>
+Step 4: Temporarily turn off your website – use a simple landing page or ‘parked’ page.
+<br>
+Step 5: Determine how your site was hacked. Your hosting provider may be able to help.
+<br>
+Common problems are older parts of your site with custom scripts/tools running on them, out of date content management systems, and custom programming with security flaws.
+<br>
+Step 6: Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch!
+<br>
+Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!
+<br>
+Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks.
+<br>
+Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
-## How to mitigate a DDOS attack
-**Billing problem**
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+## First steps to take if your website is down or defaced
+**Network problem**
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+<br>
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 ## What to do if you are suffering from a website defacement
 **Legal problems**
 If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+
+## How to mitigate a DDOS attack
+**Billing problem**
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 ## Learn
 **Hosting problem**

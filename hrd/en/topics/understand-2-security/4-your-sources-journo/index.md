@@ -11,6 +11,9 @@ This unit will describe things you should consider in terms of your safety and t
 Much of the information for this unit is drawn from the Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
 <br>
@@ -25,10 +28,6 @@ In order to protect both you and your sources, it is important consider when and
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
 
 
-## Scenario
-Scenario text...
-
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

@@ -48,14 +48,6 @@
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
-* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
-  
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
-  
-  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
-  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
@@ -69,6 +61,14 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
+  
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
+  
+  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   

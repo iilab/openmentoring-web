@@ -24,6 +24,12 @@ Check to see if your account was accessed at a time when you were not online or 
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
+## If you *cannot* login
+Look at the account settings. Have they changed?
+<br>
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+
+
 ## Reaching out for more help
 Different providers have different recovery procedures or ways to reset passwords.
 <br>
@@ -31,12 +37,6 @@ Some providers will send a link to change your password to your recovery email a
 <br>
 In the reset case, it is important to change the password immediately after regaining access to your account.
 ![](recap.png)
-
-
-## If you *cannot* login
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Learn
