@@ -153,7 +153,6 @@ This section will provide you with guidance on ways to establish secure communic
     </question>
 </quiz>
 
-## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>

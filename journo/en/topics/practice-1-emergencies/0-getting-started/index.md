@@ -24,6 +24,7 @@ John is afraid that he's being targeted as a result of his work. But he's unsure
 
 
 ## Learn
+![](recap.png "Lesson section recap image")
 This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
 <br>
 It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
