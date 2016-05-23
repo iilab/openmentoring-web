@@ -16,29 +16,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Scenario
 Scenario text...
 
-## Test
-If you want to keep your house and possessions safe, here are a few questions you might ask:
-
--Should I lock my door?
--What kind of lock or locks should I invest in?
--Do I need a more advanced security system?
--What are the assets in this scenario?
-  -The privacy of my home
-  -The items inside my home
--What is the threat?
-  -Someone could break in.
-  -What is the actual risk of someone breaking in? Is it likely?
-<br>
-Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
-
-## Next
-If you found this useful, you might be interested in the following sections:
-* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
-* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
-* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
- * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
-
 ## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
@@ -72,5 +49,28 @@ It is important to distinguish between threats and risks. While a threat is a ba
 Conducting a risk analysis is both a personal and a subjective process; not everyone has the same priorities or views threats in the same way. Many people find certain threats unacceptable no matter what the risk, because the mere presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don't view the threat as a problem.
 <br>
 In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
+
+
+## Test
+If you want to keep your house and possessions safe, here are a few questions you might ask:
+
+-Should I lock my door?
+-What kind of lock or locks should I invest in?
+-Do I need a more advanced security system?
+-What are the assets in this scenario?
+  -The privacy of my home
+  -The items inside my home
+-What is the threat?
+  -Someone could break in.
+  -What is the actual risk of someone breaking in? Is it likely?
+<br>
+Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
+
+## Next
+If you found this useful, you might be interested in the following sections:
+* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
+* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
+* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
+ * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
