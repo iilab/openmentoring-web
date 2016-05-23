@@ -1,11 +1,30 @@
 # Your Well Being
 ## Learn
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+##Coping strategies for traumatic stress
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
 <br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+Encourage positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+- Discuss problems with someone you trust. 
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+Discourage negative coping strategies:
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+<br>
+- Don’t work all the time without any rest or relation
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
 
 ## Learn
 ##Effects of chronic stress
@@ -170,32 +189,14 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
-##Coping strategies for traumatic stress
-Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
+##What is post-traumatic stress disorder
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
 <br>
-This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
+Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
 <br>
-Encourage positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-- Discuss problems with someone you trust. 
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-Discourage negative coping strategies:
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-<br>
-- Don’t work all the time without any rest or relation
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
+## Learn
 ##Effects
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described in the following cards.
 <br>
@@ -236,19 +237,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - antidepressant medication
 
 ## Learn
-##What is of chronic stress?
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-<br>
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-<br>
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
-<br>
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
-<br>
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
-
-
-## Learn
 ##Dealing with it
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -263,6 +251,19 @@ Any of the following treatment options may be recommended:
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+
+## Learn
+##What is of chronic stress?
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+<br>
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+<br>
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
+<br>
+Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
+<br>
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
+
 
 ## Key takeaways
 Key takeaways from this section include identifying and addressing the following:
