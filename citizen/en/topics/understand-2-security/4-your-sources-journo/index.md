@@ -5,6 +5,12 @@ Key takeaways from this unit include the following:
 - Things to consider when offering confidentiality to your sources
 - Suggestions on techniques to protect you and your sources
 
+## Introduction
+This unit will describe things you should consider in terms of your safety and the safety of your sources.
+<br>
+Much of the information for this unit is drawn from the Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
+
 ## Scenario
 Scenario text...
 
@@ -20,12 +26,6 @@ In some nations, local journalists covering organized crime, national security, 
 In order to protect both you and your sources, it is important consider when and how to contact your sources, whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
 <br>
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
-
-
-## Introduction
-This unit will describe things you should consider in terms of your safety and the safety of your sources.
-<br>
-Much of the information for this unit is drawn from the Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 
 
 ## Test

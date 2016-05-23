@@ -1,4 +1,10 @@
 # Getting Started
+## Introduction
+![](unit.png)
+<br>
+This section aims to provide preliminary support for people facing the most common types of digital threats.
+
+
 ## Key takeaways
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
@@ -16,12 +22,6 @@ John is a journalist working on issues of transparency and accountability. While
 <br>
 ![](scenario.png)
 John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
-
-
-## Introduction
-![](unit.png)
-<br>
-This section aims to provide preliminary support for people facing the most common types of digital threats.
 
 
 ## Learn
