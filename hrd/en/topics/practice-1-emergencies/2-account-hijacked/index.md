@@ -25,12 +25,9 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 
 
 ## If you *cannot* login
-Different providers have different recovery procedures or ways to reset passwords.
+Look at the account settings. Have they changed?
 <br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-![](recap.png)
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Reaching out for more help
