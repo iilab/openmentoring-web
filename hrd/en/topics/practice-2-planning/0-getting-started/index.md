@@ -12,14 +12,14 @@ This section aims to providing preliminary support for identifying threats and a
 <br>
 However, here we try providing an introduction to themes and things to consider. This section provides extensive links to additional resources where you can learn more about the topic.
 
-## Learn
-Learning text...
-
 ## Scenario
 ![](scenario.png "Illustrate scenario 1")
 
 ![](scenario.png "Illustrate scenario 2")
 
+
+## Learn
+Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
