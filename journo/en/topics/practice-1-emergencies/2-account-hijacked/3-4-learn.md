@@ -1,7 +1,7 @@
-## Reviewing Account Activity
+## If you *cannot* login
+Different providers have different recovery procedures or ways to reset passwords.
+<br>
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+In the reset case, it is important to change the password immediately after regaining access to your account.
 ![](recap.png)
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.

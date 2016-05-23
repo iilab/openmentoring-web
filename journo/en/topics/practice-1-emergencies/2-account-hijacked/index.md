@@ -21,57 +21,51 @@ Isaac just received an email from his service provider allerting him that his so
 ![](scenario.png)
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
-## Reviewing Account Activity
-![](recap.png)
-For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
+## If you can login
+Move to a different computer that you believe to be safe or uncompromised... Because...
 <br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
+Log into your account from the new computer and change the password on your account. Why? Change the passwords for all your other online accounts that are linked to your hijacked account. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+<br>
+Now time to confirm if your suspicions are founded?... But in general stop using this account for sharing of sensitive information until you better understand the situation.
+![](recap.png) - changing passwords and linked accounts.
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
 <br>
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
-## Mitigating the problem
-Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
-<br>
-##If you have access to the account
-If you still have access to the account, take the following steps:
-- Move to a different computer that you believe to be safe or uncompromised
-- Log into your account from the new computer and change the password on your account
-- Stop using this account for sharing of sensitive information until you better understand the situation.
-
-![](recap.png)
-<br>
-##If you do not have access to the account
-If you no longer have access to the account, different providers have different recovery procedures or ways to reset passwords.
-<br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-<br>
-If these steps do not work and your account is being abused, contact the platform provider directly. Alternatively, contact the following organisations for possible support in shutting the account down.
-<br>
-##Organisations to contact for support
-Electronic Frontier Foundation: info@eff.org
-Front Line Defenders: info@frontlinedefenders.org
-Committee to Protect Journalists: info@cpj.org
-Reporters Sans Frontieres: internet@rsf.org
-Access: help@accessnow.org
-Digital Defenders Partnership: ddp@hivos.org
-Internews: info@internews.org
-
-
-## Adjusting account settings
-![](recap.png)
+## Other places to check
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
-## Changing account passwords
+## If you *cannot* login
+Different providers have different recovery procedures or ways to reset passwords.
+<br>
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+In the reset case, it is important to change the password immediately after regaining access to your account.
 ![](recap.png)
-Change the passwords for all your other online accounts that are linked to your hijacked account.
 
-For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+
+## Reaching out for more help
+If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
+<br>
+Alternatively, contact the following organisations for possible support in shutting the account down.
+Immediate Support/Digital?
+- Electronic Frontier Foundation: info@eff.org
+- Front Line Defenders: info@frontlinedefenders.org
+- Committee to Protect Journalists: info@cpj.org
+<br>
+- Reporters Sans Frontieres: internet@rsf.org
+- Access: help@accessnow.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
 
 
 ## Test
@@ -100,6 +94,7 @@ For example, if you are looking at an email account and it is the recovery addre
  * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
 <br>
 See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
+ * [!!!Physical](resources/glossary.md)
+ * Umbrella
+
 

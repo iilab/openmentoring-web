@@ -9,6 +9,11 @@ Key takeaways from this unit include:
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
+## Scenario
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+
 ## Learn
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
 <br>
@@ -42,12 +47,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
     </question>
 </quiz>
 
-## Scenario
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
-
-## Next
 If you found this useful, you might be interested in the following:
 * [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
