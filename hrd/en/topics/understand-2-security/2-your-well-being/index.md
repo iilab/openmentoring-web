@@ -81,6 +81,14 @@ Emotional effects may include
 Engaging in some of these types of behaviours are security risks in and of themrselves, so it is very important to both the individual affected and your organisation that it is dealt with properly. 
 
 ## Learn
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
+
+## Learn
 ##Dealing with chronic stress
 Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be consignee and comprise the techniques that work best for each person.
 <br>
@@ -105,14 +113,6 @@ It is important to recognise that is it is impossible to take care of others if 
 **Change a stressful environment as much as possible.** Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 **Think positive!**
-
-## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-Such a response is a normal reaction to an abnormal situation.
 
 ## Learn
 ##Effects
