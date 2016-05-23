@@ -56,6 +56,12 @@
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -76,19 +82,13 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
@@ -116,9 +116,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

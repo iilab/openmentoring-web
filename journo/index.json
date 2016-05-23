@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-22T17:34:23.890Z",
+  "updatedAt": "2016-05-23T12:11:03.123Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -57,6 +57,17 @@
     }
   ,
     {
+      "slug": "tool-1-open-mentoring",
+      "type": "topic",
+      "title": "Using the Open Mentoring App",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -76,17 +87,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring",
-      "type": "topic",
-      "title": "Using the Open Mentoring App",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
@@ -377,6 +377,28 @@
     }
   ,
     {
+      "slug": "tool-1-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_1-sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -465,28 +487,6 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -641,6 +641,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_4-secure-communications",
+      "type": "unit",
+      "title": "Secure Communications",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
       "title": "Protecting Identity",
@@ -655,17 +666,6 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_4-secure-communications",
-      "type": "unit",
-      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

@@ -1,4 +1,17 @@
 # Getting Started
+## Introduction
+![](unit.png "Landing image for the unit")
+<br>
+This section aims to provide preliminary support for people facing the most common types of digital threats.
+
+## Scenario
+![](scenario.png "Illustrate scenario 1")
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+<br>
+![](scenario.png "Illustrate scenario 2")
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
+
+
 ## Key takeaways
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
@@ -9,11 +22,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
 
-
-## Introduction
-![](unit.png "Landing image for the unit")
-<br>
-This section aims to provide preliminary support for people facing the most common types of digital threats.
 
 ## Learn
 This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
@@ -33,14 +41,6 @@ If at any moment you feel uncomfortable or unsure about implementing any of the 
         <explanation>This topic is a set of self-diagnostic tools and also provides guidelines for digital first responders to assist a person under threat.</explanation>
     </question>
 </quiz>
-
-## Scenario
-![](scenario.png "Illustrate scenario 1")
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
-<br>
-![](scenario.png "Illustrate scenario 2")
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
-
 
 ## Next
 To learn more about dealing with emergencies, you might be intersted in reading the following sections:

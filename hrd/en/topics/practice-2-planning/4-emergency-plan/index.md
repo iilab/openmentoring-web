@@ -1,18 +1,30 @@
 # Preparing for emergencies with your contacts
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
+Key takeaways from this unit include:
+- What should go into an emergency plan
+- Who to share your emergency plan with
+- When to carry out your emergency plan
 
 ## Introduction
-Introduction text...
+This unit will describe the importance of journalists preparing an emergency plan. Information for this section has been adapted from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) and Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
+
 
 ## Scenario
-Scenario text...
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 ## Learn
-Learning text...
+When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.
+<br>
+Your plan may also include a simple code to discreetly signal an immediate threat.
+<br>
+Codes could also be devised to signal that the journalist wants to meet at a prearranged location, or to switch to another means of communication.
+<br>
+In the event you or a colleague of yours becomes out of touch, the plan should specify how long editors and family members should wait before taking action.
+<br>
+Your emergency plan should include a detailed list of individuals and groups for editors and loved ones to contact or call locally, regionally and internationally.
+
 
 ## Test
 <quiz name="Gitbook Quiz">
