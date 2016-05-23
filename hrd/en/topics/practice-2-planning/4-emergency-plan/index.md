@@ -31,7 +31,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
 
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
