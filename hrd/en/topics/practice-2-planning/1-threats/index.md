@@ -7,14 +7,14 @@ Threats can change depending on where you’re located, what you’re doing, and
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
+## Scenario
+Scenario text...
+
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-
-## Scenario
-Scenario text...
 
 ## Learn
 

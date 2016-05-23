@@ -252,6 +252,7 @@ Any of the following treatment options may be recommended:
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
 
+## Learn
 ##What is of chronic stress?
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
@@ -293,6 +294,7 @@ This unit will address issues related to your well-being. Much of the informatio
     </question>
 </quiz>
 
+## Next
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)

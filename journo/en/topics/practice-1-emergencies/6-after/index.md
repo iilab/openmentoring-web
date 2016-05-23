@@ -1,11 +1,4 @@
 # After an Emergency
-## Key takeaways
-Key takeaway for this section will be:
-- [Re-evaluating your emergency and security procedures](en/topics/practice-1-emergencies/6-after/3-learn.md)
-- [Emergency funding for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
-- [Addressing traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
-
-
 ## Introduction
 ![](unit.png)
 <br>
@@ -16,18 +9,18 @@ It is therefore imprint to know how to react following a traumatic event, and ho
 This section describe what to do after an emergency takes place.
 
 
+## Key takeaways
+Key takeaway for this section will be:
+- [Re-evaluating your emergency and security procedures](en/topics/practice-1-emergencies/6-after/3-learn.md)
+- [Emergency funding for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
+- [Addressing traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
+
+
 ## Scenario
 Scenario text...
 ![](scenario.png)
 <br>
 ![](scenario.png)
-
-## Learn
-##Emergency funding
-Some organisations offer funding to individuals or organisations who have encountered an emergency as a result of their journlaism or human rights related work.
-<br>
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-<br>
 
 ## Learn
 ##Traumatic Stress
@@ -43,6 +36,13 @@ When necessary, this would be a good time to try to improve your organisational 
 This should be considered for all stages of an event or activity - in terms of preparation the implementation of an activity, and when an activity has ended.
 <br>
 For more information on what to do after an emergency has happened, you might find Protection International's [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/) useful.
+
+## Learn
+##Emergency funding
+Some organisations offer funding to individuals or organisations who have encountered an emergency as a result of their journlaism or human rights related work.
+<br>
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+<br>
 
 ## Test
 <quiz name="Gitbook Quiz">

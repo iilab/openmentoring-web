@@ -3,8 +3,6 @@ Label,Type,Description,Image
 
 Dealing with Emergencies: Getting Started,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Dealing with Emergencies: Seeking Remote Help,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
-
 Dealing with Emergencies: Hijacked Account,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
 Dealing with Emergencies: Devices Seized,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
@@ -15,12 +13,14 @@ Dealing with Emergencies: DDOS Attack,Dealing with Emergencies,,http://dummyimag
 
 Dealing with Emergencies: After an Emergency,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
+Dealing with Emergencies: Seeking Remote Help,Dealing with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Planning and Preparing: Getting Started,Planning and Preparing,,http://dummyimage.com/100.png/edf8b1&text=+
 
 Planning and Preparing: Understanding Threats,Planning and Preparing,,http://dummyimage.com/100.png/edf8b1&text=+
 
 Planning and Preparing: Assessing Security Risks,Planning and Preparing,,http://dummyimage.com/100.png/edf8b1&text=+
+
+Planning and Preparing: Getting Started,Planning and Preparing,,http://dummyimage.com/100.png/edf8b1&text=+
 
 Planning and Preparing: Assessing Digital Security Risks,Planning and Preparing,,http://dummyimage.com/100.png/edf8b1&text=+
 
@@ -32,13 +32,13 @@ Safe Phones: Getting Started,Safe Phones,,http://dummyimage.com/100.png/c7e9b4&t
 Safe Phones: Instant Messaging on Smart Phones,Safe Phones,,http://dummyimage.com/100.png/c7e9b4&text=+
 
 
-Safe Social Networks: Getting started with Social Networks,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
-
 Safe Social Networks: How to control access to friends & contacts?,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
 
 Safe Social Networks: How to control access to your personal details?,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
 
 Safe Social Networks: How to chat securely?,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
+
+Safe Social Networks: Getting started with Social Networks,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
 
 Safe Social Networks: Who controls and owns your information on Social Networking platforms?,Safe Social Networks,,http://dummyimage.com/100.png/7fcdbb&text=+
 
@@ -70,9 +70,9 @@ How does it work?: Computers,How does it work?,,http://dummyimage.com/100.png/0c
 
 How does it work?: Phones,How does it work?,,http://dummyimage.com/100.png/0c2c84&text=+
 
-How does it work?: Smart Phones,How does it work?,,http://dummyimage.com/100.png/0c2c84&text=+
-
 How does it work?: Internet,How does it work?,,http://dummyimage.com/100.png/0c2c84&text=+
+
+How does it work?: Smart Phones,How does it work?,,http://dummyimage.com/100.png/0c2c84&text=+
 
 
 Understand Security: Getting Started,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
@@ -90,23 +90,23 @@ Understand Security: Your Sources,Understand Security,,http://dummyimage.com/100
 Understand Security: Your colleagues,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
 
 
-Understanding Operational Security: Getting Started,Understanding Operational Security,,http://dummyimage.com/100.png/edf8b1&text=+
+Understanding Digital Security: Getting Started,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Understanding Operational Security: Establishing Trust,Understanding Operational Security,,http://dummyimage.com/100.png/edf8b1&text=+
+Understanding Digital Security: Encryption,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Understanding Operational Security: Organisational Security,Understanding Operational Security,,http://dummyimage.com/100.png/edf8b1&text=+
+Understanding Digital Security: Passwords,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
+
+Understanding Digital Security: Metadata,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
+
+Understanding Digital Security: Secure Communications,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
+
+Understanding Digital Security: Protecting Identity,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
+
+Understanding Digital Security: Establishing Trust,Understanding Digital Security,,http://dummyimage.com/100.png/edf8b1&text=+
 
 
-Understanding Digital Security: Getting Started,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
+Understanding Operational Security: Getting Started,Understanding Operational Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
-Understanding Digital Security: Encryption,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
+Understanding Operational Security: Establishing Trust,Understanding Operational Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
-Understanding Digital Security: Passwords,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
-Understanding Digital Security: Metadata,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
-Understanding Digital Security: Secure Communications,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
-Understanding Digital Security: Protecting Identity,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
-Understanding Digital Security: Establishing Trust,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
+Understanding Operational Security: Organisational Security,Understanding Operational Security,,http://dummyimage.com/100.png/c7e9b4&text=+

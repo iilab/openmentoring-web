@@ -197,6 +197,22 @@ Certain factors such as if you or your family have had depression or anxiety in 
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
 ## Learn
+##Dealing with it
+It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
+<br>
+However you should visit your doctor if you are still having problems about for weeks after the traumatic experience, of if the symptoms are particularly troublesome. 
+<br>
+Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
+<br>
+PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
+<br>
+Any of the following treatment options may be recommended:
+<br>
+- Watchful waiting — waiting to see whether the symptoms improve without treatment
+- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
+- Antidepressant medication
+
+## Learn
 ##Effects
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described in the following cards.
 <br>
@@ -235,22 +251,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - watchful waiting — waiting to see whether the symptoms improve without treatment
 - psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - antidepressant medication
-
-## Learn
-##Dealing with it
-It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
-<br>
-However you should visit your doctor if you are still having problems about for weeks after the traumatic experience, of if the symptoms are particularly troublesome. 
-<br>
-Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
-<br>
-PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
-<br>
-Any of the following treatment options may be recommended:
-<br>
-- Watchful waiting — waiting to see whether the symptoms improve without treatment
-- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
-- Antidepressant medication
 
 ## Learn
 ##What is of chronic stress?
