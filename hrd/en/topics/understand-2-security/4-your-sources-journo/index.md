@@ -1,15 +1,15 @@
 # Your Sources
-## Key takeaways
-Key takeaways from this unit include the following:
-- Why is it important to protect your sources
-- Things to consider when offering confidentiality to your sources
-- Suggestions on techniques to protect you and your sources
-
 ## Introduction
 This unit will describe things you should consider in terms of your safety and the safety of your sources.
 <br>
 Much of the information for this unit is drawn from the Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 
+
+## Key takeaways
+Key takeaways from this unit include the following:
+- Why is it important to protect your sources
+- Things to consider when offering confidentiality to your sources
+- Suggestions on techniques to protect you and your sources
 
 ## Scenario
 Scenario text...
@@ -44,7 +44,6 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
     </question>
 </quiz>
 
-## Next
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)

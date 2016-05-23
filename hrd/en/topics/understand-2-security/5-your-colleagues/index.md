@@ -11,9 +11,6 @@ Introduction text...
 ## Scenario
 Scenario text...
 
-## Learn
-Learning text...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -29,6 +26,9 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
+
+## Learn
+Learning text...
 
 ## Next
 If you found this unit helpful, you might be interested in the following units:

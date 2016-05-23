@@ -48,14 +48,6 @@
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
-* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
-  
-  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
-  
-  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
-  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
@@ -82,6 +74,22 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Understanding Digital Security](topics/understand-4-digisec/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -106,19 +114,11 @@
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
-* [Understanding Digital Security](topics/understand-4-digisec/index.md)
+* [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  * [Getting Started](topics/practice-5-internet-anonymity/0-getting-started/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  * [How to prevent your traffic from being watched](topics/practice-5-internet-anonymity/1-prevent-traffic-being-watched/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
