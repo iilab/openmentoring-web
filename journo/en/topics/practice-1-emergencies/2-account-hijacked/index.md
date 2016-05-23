@@ -16,13 +16,10 @@ Key takeaways will include:
 
 ## Scenario
 ![](scenario.png)
-
-Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
+Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
 <br>
 ![](scenario.png)
-
-More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
-
+He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
 ## Mitigating the problem
 Should you suspect your account has been hijacked, the first step you should take is mitigating the problem.
@@ -77,19 +74,7 @@ Change the passwords for all your other online accounts that are linked to your 
 For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
 
 
-## Next
- You might be interested in reading these other topics:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- <br>
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -104,4 +89,17 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ You might be interested in reading these other topics:
+ * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
+ * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
+ <br>
+ * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+ * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
+ * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+<br>
+See also:
+ * [Glossary of terms](resources/glossary.md)
+ * [Further Reading and Resources](resources)
 
