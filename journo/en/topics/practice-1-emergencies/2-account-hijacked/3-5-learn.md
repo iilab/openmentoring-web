@@ -1,5 +1,13 @@
-## Adjusting account settings
-![](recap.png)
-Look at the account settings. Have they changed?
+## Reaching out for more help
+If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
 <br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Alternatively, contact the following organisations for possible support in shutting the account down.
+Immediate Support/Digital?
+- Electronic Frontier Foundation: info@eff.org
+- Front Line Defenders: info@frontlinedefenders.org
+- Committee to Protect Journalists: info@cpj.org
+<br>
+- Reporters Sans Frontieres: internet@rsf.org
+- Access: help@accessnow.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
