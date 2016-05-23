@@ -278,15 +278,7 @@ Scenario text...
 ## Introduction
 This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
 
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -301,4 +293,13 @@ If you found this unit helpful, you might be interested in the following units:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 
