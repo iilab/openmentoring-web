@@ -5,14 +5,6 @@
 This section aims to provide preliminary support for people facing the most common types of digital threats.
 
 
-## Scenario
-![](scenario.png)
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
-<br>
-![](scenario.png)
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
-
-
 ## Key takeaways
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
@@ -22,6 +14,14 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
+
+
+## Scenario
+![](scenario.png)
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+<br>
+![](scenario.png)
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
 ## Learn

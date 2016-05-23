@@ -1,27 +1,8 @@
 # Hijacked Account
-## Introduction
-![](unit.png)
-
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-
-
-## Key takeaways
-Key takeaways will include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
-
-
-## Scenario
-![](scenario.png)
-
-Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+## Other places to check
+Look at the account settings. Have they changed?
 <br>
-![](scenario.png)
-
-He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## If you can login
@@ -41,12 +22,6 @@ For some platforms (e.g. Facebook, Gmail), it is possible to review connection h
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
 <br>
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-## Other places to check
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## If you *cannot* login
@@ -71,6 +46,37 @@ Immediate Support/Digital?
 - Access: help@accessnow.org
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
+
+
+## Learn
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+## Introduction
+![](unit.png)
+
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+
+
+## Scenario
+![](scenario.png)
+
+Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+<br>
+![](scenario.png)
+
+He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+
+
+## Key takeaways
+Key takeaways will include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
 ## Test
