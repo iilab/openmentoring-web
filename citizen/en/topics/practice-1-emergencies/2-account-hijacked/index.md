@@ -30,15 +30,6 @@ Look at the account settings. Have they changed?
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
-## Reaching out for more help
-Different providers have different recovery procedures or ways to reset passwords.
-<br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-![](recap.png)
-
-
 ## Learn
 If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
 <br>
@@ -52,6 +43,15 @@ Immediate Support/Digital?
 - Access: help@accessnow.org
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
+
+
+## Reaching out for more help
+Different providers have different recovery procedures or ways to reset passwords.
+<br>
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+In the reset case, it is important to change the password immediately after regaining access to your account.
+![](recap.png)
 
 
 ## Introduction

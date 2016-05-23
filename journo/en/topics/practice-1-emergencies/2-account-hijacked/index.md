@@ -1,8 +1,10 @@
 # Hijacked Account
-## Other places to check
-Look at the account settings. Have they changed?
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
 <br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## If you can login
@@ -16,12 +18,10 @@ Now time to confirm if your suspicions are founded?... But in general stop using
 > Remember to change passwords for your linked accounts!
 
 
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
+## Other places to check
+Look at the account settings. Have they changed?
 <br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## If you *cannot* login
