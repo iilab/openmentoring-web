@@ -8,15 +8,15 @@ Key takeaways from this section include:
 
 
 ## Introduction
-![](unit.png "Landing image for the unit")
+![](unit.png)
 <br>
 In this section, you will learn about what steps to take if your digital devices are seized.
 
 ## Scenario
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 Chris returned to his organisation's office after attending a lunch meeting, only to find the laptop he was writing his newest article on is now missing.
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)
 He is worried that he has not only lost important research, but also put his sources potentially at risk of exposure.
 
 

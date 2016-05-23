@@ -1,5 +1,5 @@
 ## Normal Communication
-![](recap.png "Lesson section recap image")
+![](recap.png)
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 

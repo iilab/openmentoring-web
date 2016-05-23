@@ -7,7 +7,7 @@ Key takeaway for this section will be:
 
 
 ## Introduction
-![](unit.png "Landing image for the unit")
+![](unit.png)
 <br>
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -18,9 +18,9 @@ This section describe what to do after an emergency takes place.
 
 ## Scenario
 Scenario text...
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)
 
 ## Learn
 ##Emergency funding

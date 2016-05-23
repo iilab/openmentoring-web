@@ -24,7 +24,7 @@
 
 
 ## Normal Communication
-![](recap.png "Lesson section recap image")
+![](recap.png)
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
@@ -33,7 +33,7 @@ Sending unencrypted communication is like sending a postcard, anyone who has acc
 
 
 ## Encrypted Communication
-![](recap.png "Lesson section recap image")
+![](recap.png)
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
 Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
@@ -49,7 +49,7 @@ To learn more about communicating safely on a smartphone, refer to the [Safe Pho
 
 
 ## How to ask for help
-![](recap.png "Lesson section recap image")
+![](recap.png)
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
 In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
@@ -60,7 +60,7 @@ If you think that your communication might be targeted and/or you have just chan
 
 
 ## Seeking and providing remote help
-![](recap.png "Lesson section recap image")
+![](recap.png)
 When you are seeking remote help from a third party please keep the following in mind:
 - If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
 <br>
@@ -135,17 +135,18 @@ In this case you have to consider the consequence for yourself and your contact 
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
 ## Scenario
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Introduction
-![](unit.png "Landing image for the unit")
+![](unit.png)
 <br>
 This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
+
 
 ## Test
 <quiz name="">

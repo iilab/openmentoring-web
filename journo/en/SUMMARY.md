@@ -6,7 +6,7 @@
   
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
-  * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
@@ -86,9 +86,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   

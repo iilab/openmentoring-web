@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-23T13:46:38.293Z",
+  "updatedAt": "2016-05-23T14:44:13.110Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -148,7 +148,7 @@
     {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Account Hijacking",
+      "title": "Hijacked Account",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -498,9 +498,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

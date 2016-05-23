@@ -11,23 +11,24 @@ Key takeaways from this section include immediate steps to take when faced with 
 
 
 ## Introduction
-![](unit.png "Landing image for the unit")
+![](unit.png)
 <br>
 This section aims to provide preliminary support for people facing the most common types of digital threats.
 
+
 ## Scenario
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)
 John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
 ## Learn
-![](recap.png "Lesson section recap image")
-This guide is not meant to serve as the ultimate solution to all your digital emergencies. 
+![](recap.png)
+This guide is not meant to serve as the ultimate solution to all your digital emergencies.
 <br>
-It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own. 
+It strives to give you tools that can help you make a first assessment of what is happening and determine if you can mitigate the problem on your own.
 <br>
 If at any moment you feel uncomfortable or unsure about implementing any of the solutions outlined here, ask for help from trained professionals.
 

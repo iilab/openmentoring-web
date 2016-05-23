@@ -1,4 +1,4 @@
-# Account Hijacking
+# Hijacked Account
 ## Key takeaways
 Key takeaways will include:
 - [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
@@ -9,16 +9,16 @@ Key takeaways will include:
 
 
 ## Introduction
-![](unit.png "Landing image for the unit")
+![](unit.png)
 
 This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
 ## Scenario
-![](scenario.png "Illustrate scenario 1")
+![](scenario.png)
 
 Michael just received an email from his service provider allerting him that his social media account password has recently changed. However, he did not request such a change.
 <br>
-![](scenario.png "Illustrate scenario 2")
+![](scenario.png)
 
 More worrying, his social media account is now making posts he didn't write. Michael suspects that his social media account has been hijacked.
 
@@ -32,7 +32,7 @@ If you still have access to the account, take the following steps:
 - Log into your account from the new computer and change the password on your account
 - Stop using this account for sharing of sensitive information until you better understand the situation.
 
-![](recap.png "Lesson section recap image")
+![](recap.png)
 <br>
 ##If you do not have access to the account
 If you no longer have access to the account, different providers have different recovery procedures or ways to reset passwords.
@@ -53,18 +53,18 @@ Digital Defenders Partnership: ddp@hivos.org
 Internews: info@internews.org
 
 
+## Adjusting account settings
+Look at the account settings. Have they changed?
+<br>
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+
+
 ## Reviewing Account Activity
 For some platforms (e.g. Facebook, Gmail), it is possible to review conneciton history and account activity.
 <br>
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address. 
 <br>
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-## Adjusting account settings
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Changing account passwords
