@@ -43,7 +43,6 @@ If someone else seems to have taken control of your social media accounts, then 
 * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
 
 
-## Next
 ---
 - understand-2-security/0-getting-started
 - understand-3-opsec/0-getting-started

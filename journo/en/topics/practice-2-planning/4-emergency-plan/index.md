@@ -31,7 +31,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
 
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -47,7 +46,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
     </question>
 </quiz>
 
-## Next
 If you found this useful, you might be interested in the following:
 * [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
