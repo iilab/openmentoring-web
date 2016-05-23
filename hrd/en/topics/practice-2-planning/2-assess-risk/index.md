@@ -18,33 +18,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Scenario
 Scenario text...
 
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
-
-## Next
-If you found this useful, you might be interested in the following sections:
-* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
--hrd.md)
-* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
-
-Further reading:
- * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
- * [Protection International: Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
-
-
+## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
 In order to 'map' the **actors** relevant to our work and our well-being, we might consider dividing them into three categories:
@@ -136,5 +110,32 @@ It may be that you find there are a lot of threats to your work, and it can be d
 <br>
 
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
+
+
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
+
+## Next
+If you found this useful, you might be interested in the following sections:
+* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
+-hrd.md)
+* [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
+
+Further reading:
+ * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+ * [Protection International: Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
 
 

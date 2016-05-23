@@ -8,11 +8,11 @@ Key takeaways from this topic include lessons on the following:
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
 
-## Scenario
-Scenario text...
-
 ## Introduction
 Introduction text...
+
+## Scenario
+Scenario text...
 
 ## Learn
 Learning text...
