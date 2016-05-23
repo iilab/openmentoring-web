@@ -1,4 +1,10 @@
 # Getting Started with Signal
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Introduction
 Signal is an Android and iPhone app for secure messaging and voice calls. Signal is free, open source and is based on two older apps - TextSecure and RedPhone. 
 <br>
@@ -9,12 +15,6 @@ Key takeaways from this section include learning to:
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
-
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 
 ## Learn
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
@@ -43,6 +43,12 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 <br>
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
+
+## Next
+If you found this useful, you might be interested in reading the following units:
+ - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
+ - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
 ## How-to
 This how to will go through the following steps:
@@ -140,10 +146,4 @@ Step 5: Tap Timeout interval and in the next screen enter after what time you wa
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 Figure 11: Signal timeout settings
 
-
-## Next
-If you found this useful, you might be interested in reading the following units:
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 

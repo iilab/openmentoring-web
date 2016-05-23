@@ -1,8 +1,4 @@
 # Preparing for emergencies with your contacts
-## Introduction
-This unit will describe the importance of journalists preparing an emergency plan. Information for this section has been adapted from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) and Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
-
-
 ## Key takeaways
 Key takeaways from this unit include:
 - What should go into an emergency plan
@@ -13,6 +9,10 @@ Key takeaways from this unit include:
 Jenny is about to start on a new assignment investigating government abuses of power.
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+
+## Introduction
+This unit will describe the importance of journalists preparing an emergency plan. Information for this section has been adapted from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) and Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
+
 
 ## Learn
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.

@@ -1,4 +1,10 @@
 # Hijacked Account
+## Introduction
+![](unit.png)
+
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+
+
 ## Key takeaways
 Key takeaways will include:
 - [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
@@ -8,18 +14,15 @@ Key takeaways will include:
 - [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
-## Introduction
-![](unit.png)
-
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
-
-
 ## Scenario
 ![](scenario.png)
+
 Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
 <br>
 ![](scenario.png)
+
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+
 
 ## If you can login
 Move to a different computer that you believe to be safe or uncompromised... Because...
