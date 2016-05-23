@@ -8,6 +8,9 @@ Key takeaways from this unit include the following:
 ## Introduction
 This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
+## Scenario
+Scenario text...
+
 ## Learn
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
 <br>
@@ -51,8 +54,10 @@ For detailed instructions on communicating safely on a smartphone, refer to the 
 For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) setion
 
 
-## Scenario
-Scenario text...
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -69,9 +74,4 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 

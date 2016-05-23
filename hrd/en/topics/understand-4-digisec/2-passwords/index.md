@@ -5,6 +5,9 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Scenario
+Scenario text...
+
 ## Introduction
 This unit will provide an overview on how to create strong passwords.
 <br>
@@ -67,9 +70,6 @@ But caution: after you enter your password into this public site, it might not b
 We recommend you take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
 <br>
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

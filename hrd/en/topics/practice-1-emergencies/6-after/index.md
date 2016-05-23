@@ -16,6 +16,12 @@ Key takeaway for this section will be:
 - [Addressing traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
+## Scenario
+Scenario text...
+![](scenario.png)
+<br>
+![](scenario.png)
+
 ## Learn
 ##Emergency funding
 Some organisations offer funding to individuals or organisations who have encountered an emergency as a result of their journlaism or human rights related work.
@@ -38,28 +44,6 @@ This should be considered for all stages of an event or activity - in terms of p
 <br>
 For more information on what to do after an emergency has happened, you might find Protection International's [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/) useful.
 
-## Scenario
-Scenario text...
-![](scenario.png)
-<br>
-![](scenario.png)
-
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
-
 ## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
@@ -74,4 +58,19 @@ See also:
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
+
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
 

@@ -189,6 +189,14 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
+##What is post-traumatic stress disorder
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+<br>
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+
+## Learn
 ##Effects
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described in the following cards.
 <br>
@@ -227,14 +235,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - watchful waiting — waiting to see whether the symptoms improve without treatment
 - psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - antidepressant medication
-
-## Learn
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
-<br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
 ## Learn
 ##Dealing with it
@@ -294,6 +294,7 @@ This unit will address issues related to your well-being. Much of the informatio
     </question>
 </quiz>
 
+## Next
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)

@@ -24,14 +24,6 @@ Isaac just received an email from his service provider allerting him that his so
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
 
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
 ## If you can login
 Move to a different computer that you believe to be safe or uncompromised... Because...
 <br>
@@ -41,6 +33,14 @@ Now time to confirm if your suspicions are founded?... But in general stop using
 <br>
 ![](recap.png)
 > Remember to change passwords for your linked accounts!
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Other places to check

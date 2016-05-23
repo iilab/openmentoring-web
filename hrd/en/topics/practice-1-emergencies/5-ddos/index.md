@@ -4,16 +4,6 @@
 <br>
 This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
 
-## Key takeaways
-Key takeaways of this section are:
-- [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
-- [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
-- [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
-- [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
-- [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
-
-
 ## Scenario
 ![](scenario.png)
 Emma published an important story on her organisations website about corruption. Hours later, she and finds that the organisations website is not loading when readers visit.
@@ -111,6 +101,16 @@ Step 6: Restore your original from backups. If neither you, nor your hosting com
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks. Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+## Key takeaways
+Key takeaways of this section are:
+- [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
+- [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
+- [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
+- [How to mitigate a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
+- [What to do if you are suffering from a website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/5-ddos/5-next.md)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -127,6 +127,7 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
     </question>
 </quiz>
 
+## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
