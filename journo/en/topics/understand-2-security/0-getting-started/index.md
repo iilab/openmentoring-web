@@ -1,4 +1,7 @@
 # Getting Started
+## Introduction
+Introduction text...
+
 ## Key takeaways
 Key takeaways from this topic include lessons on the following:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
@@ -7,12 +10,6 @@ Key takeaways from this topic include lessons on the following:
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-## Introduction
-Introduction text...
-
-## Learn
-Learning text...
 
 ## Scenario
 Scenario text...
@@ -32,6 +29,9 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
+
+## Learn
+Learning text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

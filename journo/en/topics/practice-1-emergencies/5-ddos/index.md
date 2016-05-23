@@ -1,10 +1,9 @@
 # DDOS Attack
-## Other reasons your site might be down
+## Billing problem
 ![](recap.png)
 
-To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
-<br>
-Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
+
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 ## What is a DDOS attack?
@@ -49,25 +48,6 @@ Who else knows or may have access to these account details?
 After answering these questions, [take the following steps](en/topics/practice-1-emergencies/5-ddos/3-11-learn.md) to mitigate the problem.
 
 
-## Steps to fix the problem
-![](recap.png)
-
-Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
-<br>
-Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
-<br>
-This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
-<br>
-This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
-<br>
-Step 3: Move your site to a DDoS mitigation service.  Examples:
--- Deflect.ca
--- Google’s Project Shield
--- CloudFlare’s Project Galileo
-<br>
-Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
-
-
 ## Is your website defaced?
 ![](recap.png)
 
@@ -94,13 +74,6 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
-## Billing problem
-![](recap.png)
-
-
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
-
-
 ## Network problem
 ![](recap.png)
 
@@ -115,20 +88,20 @@ If your site is up but you cant see it, it might be a network problem. It could 
 If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
+## Other reasons your site might be down
+![](recap.png)
+
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
+<br>
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
+
+
 ## Hosting problem
 ![](recap.png)
 
 If your website is not loading at all, your hosting company may be having problems.
 <br>
 Visit the website of your hosting company and look for a 'status' blog, or search on Twitter.com for other users also discussing downtime with the same host.
-
-
-## Censorship problem
-![](recap.png)
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Software problem
@@ -143,11 +116,39 @@ Sending your webmaster a screenshot, the link of the page you are having problem
 Here are some [helpful questions]() to ask your webmaster
 
 
-## Learn
-**Account hijacking**
+## Censorship problem
+![](recap.png)
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
+## Account hijacking
+![](recap.png)
+
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
 See [website defacement]() for next steps. you will need to work with your web hosting provider and review the Account Hijacking section.
+
+
+![](recap.png)
+
+Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
+<br>
+This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
+<br>
+This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
 
 ## Introduction
 ![](unit.png)

@@ -1,10 +1,4 @@
 # How to have voice calls?
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## How to make calls?
 In this section, you will learn how to:
  * Make a call
@@ -12,6 +6,12 @@ In this section, you will learn how to:
  * Verifying the call
 
 [Learn more about risk types and levels](resources/risk-assessment.md)
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
@@ -39,6 +39,7 @@ This makes sure you are both who you say you are.
 ![11s.png](11s.png)
 
 
+## Next
 If you found this useful, you might be interested in reading the following units:
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
