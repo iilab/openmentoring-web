@@ -1,7 +1,9 @@
 # DDOS Attack
-## What to do if you are suffering from a website defacement
-**Legal problems**
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+## First steps to take if your website is down or defaced
+**Network problem**
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+<br>
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 ## What is a DDOS attack?
 ![](recap.png)
@@ -13,6 +15,29 @@ In many cases, this maybe an innocent and frustrating problem, but on occasion, 
 If your site is under a denial of service attack, we suggest some immediate options for next steps.
 
 
+## Learn
+**Poor site performance**
+Is your site loading intermittently or unusually slowly? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
+
+## Learn
+## Steps to mitigate a DDOS attack
+Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
+<br>
+This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
+<br>
+This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
 ## Possible other reasons you may be suffering from a down or defaced website
 ![](recap.png)
 
@@ -20,15 +45,13 @@ To start, it is important to know that there are many reasons why your website c
 <br>
 Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 
-## First steps to take if your website is down or defaced
-**Network problem**
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
-<br>
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
 ## How to mitigate a DDOS attack
 **Billing problem**
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+## What to do if you are suffering from a website defacement
+**Legal problems**
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 ## Learn
 **Hosting problem**
@@ -71,6 +94,10 @@ Emma published an important story on her organisations website about corruption.
 ![](scenario.png)
 Emma worries that her organistion is being targeted by malicious attackers, hoping to censor the important issues she has exposed. She thinks she is a victim of a DDOS attack.
 
+
+
+##None of these?
+If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 
 ## Key takeaways
 Key takeaways of this section are:
