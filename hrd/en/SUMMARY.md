@@ -8,9 +8,9 @@
   
   * [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
   * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
   
@@ -30,9 +30,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   

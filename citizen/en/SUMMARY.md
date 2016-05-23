@@ -36,13 +36,13 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
-  
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
@@ -88,9 +88,9 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
