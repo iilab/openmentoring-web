@@ -110,15 +110,15 @@
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   

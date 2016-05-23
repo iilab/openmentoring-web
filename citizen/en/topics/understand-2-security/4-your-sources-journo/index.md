@@ -1,10 +1,4 @@
 # Your Sources
-## Key takeaways
-Key takeaways from this unit include the following:
-- Why is it important to protect your sources
-- Things to consider when offering confidentiality to your sources
-- Suggestions on techniques to protect you and your sources
-
 ## Introduction
 This unit will describe things you should consider in terms of your safety and the safety of your sources.
 <br>
@@ -13,6 +7,12 @@ Much of the information for this unit is drawn from the Committee for the Protec
 
 ## Scenario
 Scenario text...
+
+## Key takeaways
+Key takeaways from this unit include the following:
+- Why is it important to protect your sources
+- Things to consider when offering confidentiality to your sources
+- Suggestions on techniques to protect you and your sources
 
 ## Learn
 Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
