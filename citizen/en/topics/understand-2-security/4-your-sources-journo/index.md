@@ -1,5 +1,4 @@
 # Your Sources
-## Key takeaways
 Key takeaways from this unit include the following:
 - Why is it important to protect your sources
 - Things to consider when offering confidentiality to your sources

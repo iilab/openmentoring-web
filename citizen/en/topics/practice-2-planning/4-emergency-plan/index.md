@@ -14,7 +14,6 @@ Jenny is about to start on a new assignment investigating government abuses of p
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
-## Learn
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
 <br>
 When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.

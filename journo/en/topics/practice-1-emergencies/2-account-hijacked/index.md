@@ -1,8 +1,11 @@
 # Hijacked Account
-## Other places to check
-Look at the account settings. Have they changed?
+## If you *cannot* login
+Different providers have different recovery procedures or ways to reset passwords.
 <br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+In the reset case, it is important to change the password immediately after regaining access to your account.
+![](recap.png)
 
 
 ## If you can login
@@ -24,13 +27,10 @@ Check to see if your account was accessed at a time when you were not online or 
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
-## If you *cannot* login
-Different providers have different recovery procedures or ways to reset passwords.
+## Other places to check
+Look at the account settings. Have they changed?
 <br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-![](recap.png)
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 
 
 ## Reaching out for more help
@@ -49,15 +49,27 @@ Immediate Support/Digital?
 
 
 ## Learn
-## A New Post
+If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
+<br>
+Alternatively, contact the following organisations for possible support in shutting the account down.
+Immediate Support/Digital?
+- Electronic Frontier Foundation: info@eff.org
+- Front Line Defenders: info@frontlinedefenders.org
+- Committee to Protect Journalists: info@cpj.org
+<br>
+- Reporters Sans Frontieres: internet@rsf.org
+- Access: help@accessnow.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-
-## Introduction
-![](unit.png)
-
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+## Key takeaways
+Key takeaways will include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
 ## Scenario
@@ -70,13 +82,10 @@ Isaac just received an email from his service provider allerting him that his so
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
 
-## Key takeaways
-Key takeaways will include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+## Introduction
+![](unit.png)
+
+This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
 
 
 ## Test
@@ -95,7 +104,6 @@ Key takeaways will include:
     </question>
 </quiz>
 
-## Next
  You might be interested in reading these other topics:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
