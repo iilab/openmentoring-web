@@ -8,6 +8,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ## Introduction
 Introduction text...
 
+## Scenario
 Scenario text...
 
 ## Learn

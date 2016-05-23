@@ -13,6 +13,9 @@ This section is adopted from the Electronic Frontier Foundation's [Surveillance 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
@@ -70,7 +73,4 @@ If you found this useful, you might be interested in the following sections:
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
  * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
-
-## Scenario
-Scenario text...
 
