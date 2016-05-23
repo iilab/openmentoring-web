@@ -28,7 +28,6 @@ In order to protect both you and your sources, it is important consider when and
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Instructions on physically securing written files, securing electronic files through encryption and other methods are described in other sections of this toolkt.
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
