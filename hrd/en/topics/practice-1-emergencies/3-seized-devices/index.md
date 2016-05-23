@@ -98,6 +98,12 @@ If you have lost contact with your device for an extended period of time and you
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
 
 
+## Learn
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>

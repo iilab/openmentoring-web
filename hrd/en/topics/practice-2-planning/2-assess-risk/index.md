@@ -15,7 +15,6 @@ This section is adapted from Tactical Technology Collective's [guide to risk mod
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
 Scenario text...
 
 ## Learn

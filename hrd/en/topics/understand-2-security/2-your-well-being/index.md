@@ -1,11 +1,30 @@
 # Your Well Being
 ## Learn
-##What is post-traumatic stress disorder
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+##Coping strategies for traumatic stress
+Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
 <br>
-Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
+This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
 <br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
+Encourage positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+- Discuss problems with someone you trust. 
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+Discourage negative coping strategies:
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+<br>
+- Don’t work all the time without any rest or relation
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
 
 ## Learn
 ##Effects of chronic stress
@@ -170,31 +189,12 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
-##Coping strategies for traumatic stress
-Everyone has natural ways of coping. Encourage people to use their own positive coping strategies.
+##What is post-traumatic stress disorder
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
 <br>
-This will help them feel stronger and regain a sense of control. You will need to adapt the following suggestions to take account of the persons culture and what is possible in the particular crisis situation.
+Certain factors such as if you or your family have had depression or anxiety in the past, or you don’t receive much support from family or friends, can make you more susceptible to developing PTSD after a traumatic event.
 <br>
-Encourage positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-- Discuss problems with someone you trust. 
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-Discourage negative coping strategies:
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-<br>
-- Don’t work all the time without any rest or relation
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-It is crucial in the weeks and months after a traumatic event to keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term post-traumatic stress disorder. PTSD is addressed in the following unit.
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
 ## Learn
 ##Effects
@@ -278,15 +278,6 @@ Scenario text...
 ## Introduction
 This unit will address issues related to your well-being. Much of the information for this unit draws from Security First's [Umbrella project](https://secfirst.org/index.html), available on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Github](https://github.com/securityfirst/Umbrella_android), and [F-Droid](https://secfirst.org/fdroid/repo).
 
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -302,4 +293,13 @@ If you found this unit helpful, you might be interested in the following units:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 

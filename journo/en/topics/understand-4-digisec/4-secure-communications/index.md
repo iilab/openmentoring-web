@@ -1,12 +1,12 @@
 # Secure Communications
-## Introduction
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
-
 ## Key takeaways
 Key takeaways from this unit include the following:
 - What is secure communication?
 - What to do if you believe your communication channels have been compromised?
 - Encryption tools
+
+## Introduction
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
 ## Scenario
 Scenario text...
@@ -54,11 +54,6 @@ For detailed instructions on communicating safely on a smartphone, refer to the 
 For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) setion
 
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -74,4 +69,9 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
