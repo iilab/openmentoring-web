@@ -13,9 +13,6 @@ Threats can change depending on where you’re located, what you’re doing, and
 This section is adopted from the Electronic Frontier Foundation's [Surveillance Self-Defense guide.](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 
 When Conducting an Assessment, There are Five Main Questions you Should Ask Yourself:
@@ -50,6 +47,9 @@ Conducting a risk analysis is both a personal and a subjective process; not ever
 <br>
 In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
 
+
+## Scenario
+Scenario text...
 
 ## Test
 If you want to keep your house and possessions safe, here are a few questions you might ask:

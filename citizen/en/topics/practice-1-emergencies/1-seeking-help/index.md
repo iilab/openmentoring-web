@@ -24,14 +24,16 @@
 
 
 ## Normal Communication
+![](recap.png "Lesson section recap image")
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
 <br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message. 
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
 ## Encrypted Communication
+![](recap.png "Lesson section recap image")
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
 Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
@@ -47,6 +49,7 @@ To learn more about communicating safely on a smartphone, refer to the [Safe Pho
 
 
 ## How to ask for help
+![](recap.png "Lesson section recap image")
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
 In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
@@ -57,6 +60,7 @@ If you think that your communication might be targeted and/or you have just chan
 
 
 ## Seeking and providing remote help
+![](recap.png "Lesson section recap image")
 When you are seeking remote help from a third party please keep the following in mind:
 - If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
 <br>
@@ -153,6 +157,7 @@ This section will provide you with guidance on ways to establish secure communic
     </question>
 </quiz>
 
+## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>
