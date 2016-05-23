@@ -265,6 +265,7 @@ Not only is this worse for the body physically and mentally, but chronic stress 
 Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
 
 
+## Key takeaways
 Key takeaways from this section include identifying and addressing the following:
 - [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
