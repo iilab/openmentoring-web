@@ -10,6 +10,16 @@
 - Internews: info@internews.org
 
 
+## Normal Communication
+![](recap.png)
+
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
+
+
 ## Encrypted Communication
 ![](recap.png)
 
@@ -37,16 +47,6 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
 <br>
 If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section to establish secure communications.
-
-
-## Normal Communication
-![](recap.png)
-
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
-<br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
 ## Seeking and providing remote help
