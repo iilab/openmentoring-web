@@ -66,15 +66,6 @@ Immediate Support/Digital?
 - Internews: info@internews.org
 
 
-## Key takeaways
-Key takeaways include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
-
-
 ## Introduction
 ![](unit.png)
 
@@ -89,6 +80,15 @@ Isaac just received an email from his service provider allerting him that his so
 ![](scenario.png)
 
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+
+
+## Key takeaways
+Key takeaways include:
+- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
+- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
+- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
 
 
 ## Test

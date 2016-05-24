@@ -20,20 +20,6 @@ Brenda returned to her office after a lunch meeting, only to find her laptop mis
 
 She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
 
-## Questions to answer when you first notice a device is missing
-![](recap.png)
-<br>
-What happened?
-<br>
-What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
-<br>
-When and where did you lose the device?
-<br>
-How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
-<br>
-Is the device still missing?
-
-
 ## Identifying security protections the missing device has in place
 ![](recap.png)
 <br>
@@ -101,6 +87,19 @@ Phones and tablets: Depending on your level of risk and the circumstances under 
 If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
+
+
+![](recap.png)
+<br>
+What happened?
+<br>
+What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
+<br>
+When and where did you lose the device?
+<br>
+How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
+<br>
+Is the device still missing?
 
 
 ## Test

@@ -1,23 +1,14 @@
 # Seeking Remote Help
-## Organisations you may reach out to
-- Electronic Frontier Foundation: info@eff.org
-- Front Line Defenders: info@frontlinedefenders.org
-- Committee to Protect Journalists: info@cpj.org
+## Establishing trust when reaching out
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
-- Reporters Sans Frontieres: internet@rsf.org
-- Access: help@accessnow.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
+You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
 
-
-## Normal Communication
-![](recap.png)
-
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
 <br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
+Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
+
+When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 
 ## Encrypted Communication
@@ -63,16 +54,25 @@ When you are seeking remote help from a third party please keep the following in
 - If possible, do not rely on unknown people you find online.
 
 
-## Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
+## Organisations you may reach out to
+- Electronic Frontier Foundation: info@eff.org
+- Front Line Defenders: info@frontlinedefenders.org
+- Committee to Protect Journalists: info@cpj.org
 <br>
-You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
+- Reporters Sans Frontieres: internet@rsf.org
+- Access: help@accessnow.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
 
-This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
+
+## Normal Communication
+![](recap.png)
+
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
-Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
-
-When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
 ## Introduction

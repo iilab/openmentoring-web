@@ -1,7 +1,4 @@
 # Getting Started with the Open Mentoring App
-## Introduction
-Introduction text...
-
 ## Key takeaways
 ## A New Post
 
@@ -44,4 +41,7 @@ Then you need to share the content
 
 ## Share
 
+
+## Introduction
+Introduction text...
 

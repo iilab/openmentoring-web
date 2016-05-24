@@ -9,14 +9,14 @@ The idea of this section is to consider that same logic, as it applies to our di
 This section is adapted from Tactical Technology Collective's [guide to risk modeling](https://securityinabox.org/en/lgbti-mena/security-risk)
 
 
-## Scenario
-Scenario text...
-
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
+
+## Scenario
+Scenario text...
 
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.

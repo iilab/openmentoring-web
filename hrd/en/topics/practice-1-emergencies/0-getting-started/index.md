@@ -24,7 +24,17 @@ John is a journalist working on issues of transparency and accountability. While
 John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 
-## Learn
+## Next
+---
+- understand-2-security/0-getting-started
+- understand-3-opsec/0-getting-started
+- understand-4-digisec/0-getting-started
+---
+To learn more about dealing with emergencies, see also:
+* DFAK.
+* ...
+
+
 ![](recap.png)
 It strives to give the tools to help you start knowing what is happening and to determine if you can fix the problem on your own.
 <br>
@@ -42,15 +52,4 @@ If you feel unsure about implementing any of the solutions outlined here, ask fo
 * Is your website down? Has it been defaced? Click here if you are worried your [website is under attack](topics/practice-1-emergencies/ddos.md)
 <br>
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
-
-## Next
----
-- understand-2-security/0-getting-started
-- understand-3-opsec/0-getting-started
-- understand-4-digisec/0-getting-started
----
-To learn more about dealing with emergencies, see also:
-* DFAK.
-* ...
-
 

@@ -8,11 +8,6 @@ Key takeaways from this topic include lessons on the following:
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
 
-## Introduction
-Introduction text...
-1. What is the unit about. Should answer by itself: "Am I in the right place?"
-
-
 ## Scenario
 
 
@@ -44,5 +39,10 @@ To learn more about XXX, see also:
  * [An external resource to study next](en/topics/_topic/_unit/index.md)
  * [Another resource](en/topics/_topic/_unit/index.md)
  * ...
+
+
+## Introduction
+Introduction text...
+1. What is the unit about. Should answer by itself: "Am I in the right place?"
 
 
