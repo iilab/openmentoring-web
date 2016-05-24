@@ -1,19 +1,20 @@
 # How to prevent your traffic from being watched
-## Introduction
-Introduction text...
-
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
-Scenario text...
+## Introduction
+Introduction text...
 
 ## Learn
 Learning text...
 
+## Scenario
+Scenario text...
+
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

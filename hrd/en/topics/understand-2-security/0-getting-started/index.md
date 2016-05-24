@@ -25,16 +25,6 @@ Scenario text...
 
 
 
-## Learn
-![](recap.png)
-About what is in the unit ...:
-* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
-<br>
-About what is in the next unit ...:
-* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
-<br>
-
-
 ## Next
 ---
 - understand-2-security/0-getting-started
@@ -44,5 +34,15 @@ To learn more about XXX, see also:
  * [An external resource to study next](en/topics/_topic/_unit/index.md)
  * [Another resource](en/topics/_topic/_unit/index.md)
  * ...
+
+
+## Learn
+![](recap.png)
+About what is in the unit ...:
+* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
+About what is in the next unit ...:
+* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
 
 

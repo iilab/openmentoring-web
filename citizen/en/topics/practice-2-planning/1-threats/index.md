@@ -51,7 +51,6 @@ Conducting a risk analysis is both a personal and a subjective process; not ever
 In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
 
 
-## Test
 If you want to keep your house and possessions safe, here are a few questions you might ask:
 
 -Should I lock my door?
