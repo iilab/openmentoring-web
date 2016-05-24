@@ -3,7 +3,7 @@
 
 Who built your website? Are they available to help?
 <br>
-Who is your web hosting provider? This is the company that provides the server where your website lives. If you do not know, you can use a tool like this to help.
+Who is your web hosting provider? This is the company that provides the server where your website lives.
 <br>
 Do you have your account log in details for this hosting provider?
 <br>
