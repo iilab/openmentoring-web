@@ -196,7 +196,6 @@ Certain factors such as if you or your family have had depression or anxiety in 
 <br>
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear. 
 
-## Learn
 ##Effects
 The specific symptoms of PTSD can vary widely between individuals, but they generally fall into the categories described in the following cards.
 <br>
