@@ -26,9 +26,6 @@ This section is adapted from Tactical Technology Collective's [guide to risk mod
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
-###rewrite this to be a scenario
-
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -122,6 +119,9 @@ It may be that you find there are a lot of threats to your work, and it can be d
 
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
+
+## Scenario
+###rewrite this to be a scenario
 
 ## Test
 <quiz name="Gitbook Quiz">
