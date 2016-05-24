@@ -1,10 +1,10 @@
 # DDOS Attack
-## Network problem
+## Other reasons your site might be down
 ![](recap.png)
 
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 <br>
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
 
 
 ## What is a DDOS attack?
@@ -94,12 +94,12 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
-## Other reasons your site might be down
+## Network problem
 ![](recap.png)
 
-To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
 <br>
-Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, root out the following potential problems:
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
 ## Billing problem

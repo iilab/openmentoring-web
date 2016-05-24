@@ -16,14 +16,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
 
 
-## Scenario
-![](scenario.png)
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
-<br>
-![](scenario.png)
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
-
-
 ## Learn
 ![](recap.png)
 It strives to give the tools to help you start knowing what is happening and to determine if you can fix the problem on your own.
@@ -52,5 +44,13 @@ If you feel unsure about implementing any of the solutions outlined here, ask fo
 To learn more about dealing with emergencies, see also:
 * DFAK.
 * ...
+
+
+## Scenario
+![](scenario.png)
+John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+<br>
+![](scenario.png)
+John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
 
 

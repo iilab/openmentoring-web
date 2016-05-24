@@ -1,8 +1,7 @@
 # Your Security
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+* Why do you need a security assessment as a journalist?
+* What goes into making a security assessment?
 
 
 ## Introduction
@@ -19,21 +18,11 @@ Before making plans to meet, however, she makes sure she has told colleagues of 
 <br>
 After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
 
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
+## Learn
+![](recap.png)
+Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+<br>
+This assessment should identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
 
 ## Learn
 ![](recap.png)
@@ -49,6 +38,22 @@ An independent journalist working without a relationship with a news organizatio
 <br>
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
+
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
 
 ## Next
 If you found this unit useful, you might be interested in the following units:

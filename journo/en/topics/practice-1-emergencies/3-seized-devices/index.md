@@ -34,6 +34,20 @@ How did you lose the device? Was it stolen by another person, taken by a state a
 Is the device still missing?
 
 
+## Identifying security protections the missing device has in place
+![](recap.png)
+<br>
+Was the device protected by a password or other security measures?
+<br>
+Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+<br>
+Does the device have full disk encryption turned on?
+<br>
+What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+<br>
+Do you have remote access to the device?
+
+
 ## Identifying what was on the missing device
 ![](recap.png)
 
@@ -48,20 +62,6 @@ What accounts does this device have access to? Examples include email, social me
 Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass. If you do, be sure to change you passwords immediately.
 <br>
 After answering these questions, take the following steps to mitigate the problem:
-
-
-## Identifying security protections the missing device has in place
-![](recap.png)
-<br>
-Was the device protected by a password or other security measures?
-<br>
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-Does the device have full disk encryption turned on?
-<br>
-What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-Do you have remote access to the device?
 
 
 ## Mitigating the problem

@@ -3,11 +3,7 @@
 How it works
 
 
-## Scenario
 Scenario text...
-
-## Learn
-Learning text...
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -25,7 +21,9 @@ Learning text...
     </question>
 </quiz>
 
-## Next
+## Learn
+Learning text...
+
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

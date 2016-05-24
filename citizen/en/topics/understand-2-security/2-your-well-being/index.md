@@ -107,14 +107,6 @@ It is important to recognise that is it is impossible to take care of others if 
 **Think positive!**
 
 ## Learn
-##What is traumatic stress
-Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-Such a response is a normal reaction to an abnormal situation.
-
-## Learn
 ##Effects
 At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
 <br>
@@ -189,6 +181,14 @@ It is crucial in the weeks and months after a traumatic event to keep an eye out
 
 
 ## Learn
+##What is traumatic stress
+Journalists and human rights defenders do difficult and challenging work ,and see a good deal of human misery. We may even be fearful for our lives at times. It is therefore imprint to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+Such a response is a normal reaction to an abnormal situation.
+
+## Learn
 ##What is post-traumatic stress disorder
 Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
 <br>
@@ -237,19 +237,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - antidepressant medication
 
 ## Learn
-##What is of chronic stress?
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-<br>
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-<br>
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
-<br>
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
-<br>
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
-
-
-## Learn
 ##Dealing with it
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -264,6 +251,19 @@ Any of the following treatment options may be recommended:
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+
+## Learn
+##What is of chronic stress?
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+<br>
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+<br>
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress. 
+<br>
+Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms. 
+<br>
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly manged, chronic stress can lead to burnout. 
+
 
 ## Key takeaways
 Key takeaways from this section include identifying and addressing the following:

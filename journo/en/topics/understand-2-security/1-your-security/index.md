@@ -1,8 +1,7 @@
 # Your Security
 ## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+* Why do you need a security assessment as a journalist?
+* What goes into making a security assessment?
 
 
 ## Introduction
@@ -18,6 +17,12 @@ Lisa is starting a new story about corruption in the gold mining industry, and w
 Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
 <br>
 After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
+
+## Learn
+![](recap.png)
+Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+<br>
+This assessment should identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
 
 ## Learn
 ![](recap.png)
