@@ -1,4 +1,4 @@
-# DDOS Attack
+# Website under attack
 ## Other reasons your site might be down
 ![](recap.png)
 

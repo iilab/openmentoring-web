@@ -1,19 +1,26 @@
 # Seeking Remote Help
-## Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
+## Organisations you may reach out to
+- Electronic Frontier Foundation: info@eff.org
+- Front Line Defenders: info@frontlinedefenders.org
+- Committee to Protect Journalists: info@cpj.org
 <br>
-You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
+- Reporters Sans Frontieres: internet@rsf.org
+- Access: help@accessnow.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
 
-This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
+
+## Normal Communication
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
-Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
-
-When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.
+<br>
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
+<br>
+![](recap.png)
 
 
 ## Encrypted Communication
-![](recap.png)
-
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
 Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
@@ -22,22 +29,24 @@ Finally, when communicating there are different levels of security. How and what
 <br>
 A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
 <br>
-This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available. 
+This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available.
 <br>
 To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
+<br>
+![](recap.png)
 
 
 ## How to ask for help
-![](recap.png)
-
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. Knowing that the channel is insecure will determine how freely you can talk about the situation.
 <br>
 If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
 <br>
-If you think that your communication might be targeted and/or you have just changed to a safer computer, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section to establish secure communications.
+If you think that your communication might be targeted, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lessons will help you establish secure communications.
+<br>
+![](recap.png)
 
 
 ## Seeking and providing remote help
@@ -54,50 +63,42 @@ When you are seeking remote help from a third party please keep the following in
 - If possible, do not rely on unknown people you find online.
 
 
-## Organisations you may reach out to
-- Electronic Frontier Foundation: info@eff.org
-- Front Line Defenders: info@frontlinedefenders.org
-- Committee to Protect Journalists: info@cpj.org
+## Establishing trust when reaching out
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
 <br>
-- Reporters Sans Frontieres: internet@rsf.org
-- Access: help@accessnow.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
+You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
 
-
-## Normal Communication
-![](recap.png)
-
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
 <br>
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
-<br>
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
+Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
+
+When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
 
 
 ## Introduction
 ![](unit.png)
-<br>
-This section provides guidance on ways you can establish secure communication when reaching out for help when confronted with a potential digital attack.
+
+Establish secure communications when reaching out for help.
 
 
 ## Scenario
 ![](scenario.png)
+
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
 ![](scenario.png)
+
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
-## Key takeaways
-- [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
-- [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
+## Learn how to
+- [Which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [Which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
-- [Seeking and providing remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
+- [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
 - [Who to contact when reaching out for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
 <br>
-- [Establishing trust when reaching out](http://prose.io/#iilab/openmentoring-content/edit/master/en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md)
+- [Establishing trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 
 
 

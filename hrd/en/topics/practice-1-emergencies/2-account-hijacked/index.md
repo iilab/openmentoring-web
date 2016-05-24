@@ -1,39 +1,10 @@
 # Hijacked Account
-## If you *cannot* login
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
-![](recap.png)
-> something setting related? 
-
-
-## Reviewing Account Activity
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-![](recap.png)
-> account history
-
-
-
 ## Other places to check
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
 <br>
 If you answered yes to any of these questions, it's possible someone has accessed hijacked your account.
-
-
-## Reaching out for more help
-Different providers have different recovery procedures or ways to reset passwords.
-<br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-![](recap.png)
-> change your password!
 
 
 ## If you can login
@@ -49,6 +20,37 @@ Until you better understand the situation we recommend you stop using this accou
 <br>
 ![](recap.png)
 > Remember to change passwords for your linked accounts!
+
+
+## Reviewing Account Activity
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+<br>
+![](recap.png)
+> account history
+
+
+## If you *cannot* login
+Look at the account settings. Have they changed?
+<br>
+For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+<br>
+![](recap.png)
+> something setting related?
+
+
+## Reaching out for more help
+Different providers have different recovery procedures or ways to reset passwords.
+<br>
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+In the reset case, it is important to change the password immediately after regaining access to your account.
+<br>
+![](recap.png)
+> change your password!
 
 
 ## Learn
@@ -82,9 +84,9 @@ Isaac just received an email from his service provider allerting him that his so
 He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
 
-## Key takeaways
-Key takeaways include:
-- [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+## Learn how to
+
+- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
 - [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 - [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
 - [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)

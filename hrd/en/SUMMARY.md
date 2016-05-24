@@ -2,17 +2,17 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
@@ -42,11 +42,11 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
   * [Who controls and owns your information on Social Networking platforms?](topics/practice-4-safe-social-networks/4-who-controls/index.md)
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
-  
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
 * [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.md)
   
@@ -56,6 +56,12 @@
   
   * [How to leave less traces while browsing](topics/practice-5-internet-anonymity/2-leave-no-traces/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -63,12 +69,6 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -88,11 +88,11 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
@@ -108,15 +108,15 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   

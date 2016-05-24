@@ -12,7 +12,7 @@
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [DDOS Attack](topics/practice-1-emergencies/5-ddos/index.md)
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   

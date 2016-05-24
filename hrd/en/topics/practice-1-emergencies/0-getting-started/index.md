@@ -1,27 +1,60 @@
 # Getting Started
-## Introduction
+## Getting Started
+
 ![](unit.png)
-<br>
-This section gives introductory support for how to face the most common types of digital threats.
+
+Learn how to recognise and deal with the most common types of digital threats.
 
 
-## Key takeaways
-Key takeaways from this section include immediate steps to take when faced with the following situations:
+## Learn how to
 
-- [Seeking help](en/topics/practice-1-emergencies/1-seeking-help/1-intro.md) 
-- [Hijacked account](en/topics/practice-1-emergencies/2-account-hijacked/1-intro.md)
-- [Devices seized](en/topics/practice-1-emergencies/3-seized-devices/1-intro.md)
-- [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
-- [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
-- [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
+- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
+- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
 
 
 ## Scenario
 ![](scenario.png)
-John is a journalist working on issues of transparency and accountability. While working on a new story, he's noticed a number of strange occurances
+
+While working on a new story Brenda received an email about suspicious activity on his account. He's not sure what is going on and wants to find out if this is a threat.
 <br>
 ![](scenario.png)
-John is afraid that he's being targeted as a result of his work. But he's unsure of what to do, or how to make it stop.
+
+It seems that the email is related to her social media account but she wants to make sure before the problem gets worse.
+
+
+## Where to start?
+
+You might want to seek help, but a good first step in any case is to assess the situation first so you can either fix the problem on your own or be more prepared when you reach out for help.
+<br>
+A good first step is to make sure you verify where the information is coming from. Have you received an email about an issue with your account? Did you see an error message? Has someone told you about the problem.
+<br>
+In all cases, you need to make sure you have verified that the information is coming from a source you trust. Make sure you recognise the email address, or the domain name. Fake emails could be sent to mislead you into giving information about your accounts.
+<br>
+![](recap.png)
+
+
+## Choose the right lesson?
+If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
+* Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
+
+<br>
+Are you locked out of your social media or email account? Seeing unusual activity?
+* Choose the [Account Hijacked](topics/practice-1-emergencies/2-account-hijacked) lesson
+
+<br>
+Has your phone or laptop been taken from you? Maybe at a security checkpoint, or it was stolen/seized? Has it been returned?
+* Choose the [Seized Device](topics/practice-1-emergencies/3-devices-seized.md) lesson
+
+<br>
+Have you opened an attachment that you think may have been malicious? Does your webcam LED turn on when you are not using the webcam? Have your accounts been compromised multiple times, even after you have changed the password?
+* Choose the [Malware](topics/practice-1-emergencies/4-malware.md) lesson.
+
+<br>
+Is your website down? Has it been defaced?
+* Choose the [DDOS Attack](topics/practice-1-emergencies/ddos.md) lesson.
+
+<br>
+* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
 
 
 ## Next
@@ -34,22 +67,4 @@ To learn more about dealing with emergencies, see also:
 * DFAK.
 * ...
 
-
-![](recap.png)
-It strives to give the tools to help you start knowing what is happening and to determine if you can fix the problem on your own.
-<br>
-## Other section: What is happening?
-<br>
-If you feel unsure about implementing any of the solutions outlined here, ask for help from trained professionals. The seeking help lesson will explain how to do this safely. Read this section first on how to communicate securely with others, and *where you can get help:
-* [How to get help!](topics/practice-1-emergencies/1-seeking-help)
-<br>
-*Are you locked out of your account? Seeing unusual activity? Go to the [Hijacked Account]((topics/practice-1-emergencies/2-account-hijacked)) section.
-<br>
-* [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned? Go to the seized device section.
-<br>
-* Is your computer acting suspicious? Read through the [malware](topics/practice-1-emergencies/4-malware.md) section.
-<br>
-* Is your website down? Has it been defaced? Click here if you are worried your [website is under attack](topics/practice-1-emergencies/ddos.md)
-<br>
-* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
 
