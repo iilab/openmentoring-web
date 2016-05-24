@@ -25,6 +25,7 @@
 
 ## Normal Communication
 ![](recap.png)
+
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment. 
@@ -88,7 +89,7 @@ When getting advice, compare it to concepts discussed on well-respected guides s
 ## Introduction
 ![](unit.png)
 <br>
-This section will provide you with guidance on ways to establish secure communication when reaching out for help when confronted with a potential digital attack. Much of the content from this section is adopted from the [Electronic Frontier Foundation's](https://www.eff.org/) [Digital First Aid Kit](https://github.com/RaReNet/DFAK/blob/master/SecureCommunication.md)
+This section provides guidance on ways you can establish secure communication when reaching out for help when confronted with a potential digital attack.
 
 
 ## Scenario

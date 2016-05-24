@@ -26,6 +26,9 @@ This section is adapted from Tactical Technology Collective's [guide to risk mod
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Scenario
+###rewrite this to be a scenario
+
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -144,6 +147,4 @@ If you found this useful, you might be interested in the following sections:
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
 
-
-###rewrite this to be a scenario
 
