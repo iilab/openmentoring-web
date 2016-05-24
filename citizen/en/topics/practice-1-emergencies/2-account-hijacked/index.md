@@ -1,13 +1,28 @@
 # Hijacked Account
-## Other places to check
-Look at the account settings. Have they changed?
-<br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
-<br>
-If you answered yes to any of these questions, it's possible someone has accessed hijacked your account.
+## Introduction
+![](unit.png)
+
+Steps to take if you suspect your online accounts are hijacked.
 
 
-## If you can login
+## Learn how to
+
+- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
+- [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+
+
+## Scenario
+![](scenario.png)
+
+Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+<br>
+![](scenario.png)
+
+He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+
+
+## Get back control of your account
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
 Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
@@ -22,7 +37,7 @@ Until you better understand the situation we recommend you stop using this accou
 > Remember to change passwords for your linked accounts!
 
 
-## Reviewing Account Activity
+## Confirm if your account has been hijacked
 For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
 <br>
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
@@ -30,67 +45,29 @@ Check to see if your account was accessed at a time when you were not online or 
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 <br>
 ![](recap.png)
-> account history
+> something suspicious in account activity details
 
 
-## If you *cannot* login
-Look at the account settings. Have they changed?
+## Other places to check for suspicious activity
+Check for suspicious addresses which your email might be automatically forwarding your emails to.
 <br>
-For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
+<br>
+Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
 <br>
 ![](recap.png)
-> something setting related?
+> account details one might not think of.
 
 
-## Reaching out for more help
-Different providers have different recovery procedures or ways to reset passwords.
+## Deal with being locked out of your account
+If you cannot log into your account, use the password reset or recovery link.
 <br>
 Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
 <br>
-In the reset case, it is important to change the password immediately after regaining access to your account.
-<br>
-![](recap.png)
-> change your password!
-
-
-## Learn
 If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
-Alternatively, contact the following organisations for possible support in shutting the account down.
-Immediate Support/Digital?
-- Electronic Frontier Foundation: info@eff.org
-- Front Line Defenders: info@frontlinedefenders.org
-- Committee to Protect Journalists: info@cpj.org
-<br>
-- Reporters Sans Frontieres: internet@rsf.org
-- Access: help@accessnow.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-
-
-## Introduction
-![](unit.png)
-
-This section provides recommendations on steps to take if you suspect your online accounts are hijacked.
-
-
-## Scenario
-![](scenario.png)
-
-Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
-<br>
-![](scenario.png)
-
-He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
-
-
-## Learn how to
-
-- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
-- [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)
-- [Changing account passwords](en/topics/practice-1-emergencies/2-account-hijacked/3-6-learn.md)
-- [Next steps](en/topics/practice-1-emergencies/2-account-hijacked/5-next.md)
+![](recap.png)
+> Use the password reset link
 
 
 ## Test
@@ -110,16 +87,15 @@ He needs to know if he still has access to the account, and if not, who he can r
 </quiz>
 
 ## Next
- You might be interested in reading these other topics:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- <br>
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [!!!Physical](resources/glossary.md)
- * Umbrella
+---
+- en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
+- en/topics/pratice-4-safe-social-networks/0-getting-started: Find out more about social networking platforms.
+---
+To learn more about dealing with emergencies, see also:
+ * RiseUp [Communications Security](https://help.riseup.net/en/security)
+ * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 
 

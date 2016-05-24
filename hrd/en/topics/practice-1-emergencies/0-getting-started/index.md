@@ -15,25 +15,26 @@ Learn how to recognise and deal with the most common types of digital threats.
 ## Scenario
 ![](scenario.png)
 
-While working on a new story Brenda received an email about suspicious activity on his account. He's not sure what is going on and wants to find out if this is a threat.
+While working on a new story Brenda received an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>
 ![](scenario.png)
 
-It seems that the email is related to her social media account but she wants to make sure before the problem gets worse.
+It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
 
-## Where to start?
+## Verify if the problem is real
 
-You might want to seek help, but a good first step in any case is to assess the situation first so you can either fix the problem on your own or be more prepared when you reach out for help.
+You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.
 <br>
-A good first step is to make sure you verify where the information is coming from. Have you received an email about an issue with your account? Did you see an error message? Has someone told you about the problem.
+Make sure you verify where the information is coming from. Was it via email? Did you see an error message on a website? Has someone told you about the problem?
 <br>
-In all cases, you need to make sure you have verified that the information is coming from a source you trust. Make sure you recognise the email address, or the domain name. Fake emails could be sent to mislead you into giving information about your accounts.
+Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
 <br>
 ![](recap.png)
+> taking a second closer look at the symptom is important.
 
 
-## Choose the right lesson?
+## Choose the right lesson
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
 
@@ -59,9 +60,9 @@ Is your website down? Has it been defaced?
 
 ## Next
 ---
-- understand-2-security/0-getting-started
-- understand-3-opsec/0-getting-started
-- understand-4-digisec/0-getting-started
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 ---
 To learn more about dealing with emergencies, see also:
 * DFAK.

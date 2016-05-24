@@ -1,16 +1,27 @@
 # Seeking Remote Help
 ## Organisations you may reach out to
-- Electronic Frontier Foundation: info@eff.org
+Dealing with digital emergencies:
+- Digital Security Helpline (Access Now): help@accessnow.org
+
+Dealing with emergencies within the first 24 hours:
 - Front Line Defenders: info@frontlinedefenders.org
-- Committee to Protect Journalists: info@cpj.org
+- Rory Peck Trust: www.rorypecktrust.org
+
 <br>
+Dealing with emergencies after the first 24 hours:
+- Amnesty International: www.amnesty.org
+- Committee to Protect Journalists: JournAsst@cpj.org
 - Reporters Sans Frontieres: internet@rsf.org
-- Access: help@accessnow.org
+
+<br>
+Providing digital emergency expertise:
+- Tactical Technology Collective: ttc@tacticaltech.org
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
+- Electronic Frontier Foundation: info@eff.org
 
 
-## Normal Communication
+## Unencrypted channels
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
 Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.
@@ -20,14 +31,14 @@ Sending unencrypted communication is like sending a postcard, anyone who has acc
 ![](recap.png)
 
 
-## Encrypted Communication
+## Encrypted channels
 Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
-Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation and the activities in which you are involved.
 <br>
-Finally, when communicating there are different levels of security. How and what kind of encryption a tool uses will increase or decrease your communication security.
+A communication tool that provides end-to-end encryption is recommended. PGP-encrypted email, or chat with OTR or Signal on your phone encrypt messages "all the way" (between you and your recipient).
 <br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+If an end-to-end encrypted tool is not available, use tools that encrypt message only between you and the provider. Such as Gmail, Facebook, or Twitter which all use HTTPS.
 <br>
 This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available.
 <br>
@@ -35,44 +46,31 @@ To learn more about communicating safely on a computer, refer to the [Safe Email
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 <br>
 ![](recap.png)
+> End to end better than end to server better than none.
 
 
-## How to ask for help
+## Dealing with insecure channels
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all. Knowing that the channel is insecure will determine how freely you can talk about the situation.
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
 <br>
-If you believe that your computer has been compromised by malware and the device you are using cannot be trusted, please go directly to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) section.
-<br>
-If you think that your communication might be targeted, the [Safer Emailing](link needed here!) section and [Safer Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lessons will help you establish secure communications.
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 <br>
 ![](recap.png)
-
-
-## Seeking and providing remote help
-![](recap.png)
-When you are seeking remote help from a third party please keep the following in mind:
-- If you think there is something wrong with one of your devices or accounts and you are uncomfortable or unsure about what to do next, ask for help from a trained technical professional or (inter)national organizations (some listed below) whom you feel you can trust.
-<br>
-- Remember that the device you are using might be the subject of the attack.
-<br>
-- In order to establish a secure line of communication with a person who can help you, it may be necessary to contact them from an alternate, trustworthy device.
-<br>
-- The guides referenced in the [Next Steps](en/topics/practice-1-emergencies/1-seeking-help/7-next.md) section can also help.
-<br>
-- If possible, do not rely on unknown people you find online.
+> Share only limited information using code words.
 
 
 ## Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is both very important and extremely complicated.
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>
-You should presume an adversary may have access to all your account details as well as your original communications when seeking help.
-
-This adversary has an obvious interest in intercepting your secure communications channel and providing specific, bad advice.
+It might be safer to presume that an adversary may have access to all your account details as well as your  communications when seeking help and might be attempting to provide specific, bad advice.
 <br>
-Security tools have built-in ways to verify if the person you are talking to is actually the person you think you are talking to.
-
-When getting advice, compare it to concepts discussed on well-respected guides such as [Security in a Box](https://securityinabox.org/), resources at [EFF](https://ssd.eff.org/en) and [Press Freedom Foundation](https://pressfreedomfoundation.org/encryption-works).
+If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
+<br>
+When you are initating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
+<br>
+![](recap.png)
+> have a video chat.
 
 
 ## Introduction
@@ -165,22 +163,15 @@ If you have prepared [an emergency plan with your contacts](en/topics/practice-2
 </quiz>
 
 ## Next
-Do the best that you can with the resources and skills available.
-<br>
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary. 
-<br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all.
-<br>
-To learn more, you might be interested in reading the following sections:
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- * [Has your phone or laptop been taken from you?](topics/practice-1-emergencies/3-devices-seized.md) (Was it taken out of your sight at a security checkpoint? Stolen/siezed? Has it been returned?)
- <br>
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
-<br>
-See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
+---
+- en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
+- en/topics/tool-1-signal/0-getting-started: Find out about Signal for your encrypted communications
+---
+To learn more about dealing with emergencies, see also:
+ * RiseUp [Communications Security](https://help.riseup.net/en/security)
+ * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 
 

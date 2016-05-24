@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-24T14:08:37.679Z",
+  "updatedAt": "2016-05-24T15:57:36.607Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -179,9 +179,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_6-after",
       "type": "unit",
-      "title": "Website under attack",
+      "title": "After an Emergency",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -190,9 +190,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_6-after",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "After an Emergency",
+      "title": "Website under attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
