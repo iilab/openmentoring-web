@@ -1,4 +1,4 @@
-## Choose the right lesson?
+## Choose the right lesson
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
 

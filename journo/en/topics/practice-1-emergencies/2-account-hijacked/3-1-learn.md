@@ -1,4 +1,4 @@
-## If you can login
+## Get back control of your account
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
 Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
