@@ -10,31 +10,39 @@ Key takeaways from this topic include lessons on the following:
 
 ## Introduction
 Introduction text...
+1. What is the unit about. Should answer by itself: "Am I in the right place?"
+
 
 ## Scenario
+
+
 Scenario text...
 
-## Learn
-Learning text...
+    Putting the reader in the situation where they're facing a problem.
+    Proposing an aim or aspiration. Motivate a way to adress the problem.
+    What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
+    What are the risks?
 
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
+
+
+## Learn
+![](recap.png)
+About what is in the unit ...:
+* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
+About what is in the next unit ...:
+* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
+
 
 ## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
+---
+- understand-2-security/0-getting-started
+- internal-...
+---
+To learn more about XXX, see also:
+ * [An external resource to study next](en/topics/_topic/_unit/index.md)
+ * [Another resource](en/topics/_topic/_unit/index.md)
  * ...
+
 

@@ -3,6 +3,8 @@
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+<br>
+If you answered yes to any of these questions, it's possible someone has accessed hijacked your account.
 
 
 ## If you can login
@@ -26,12 +28,17 @@ For some platforms (e.g. Facebook, Gmail), it is possible to review connection h
 Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
 <br>
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+![](recap.png)
+> account history
+
 
 
 ## If you *cannot* login
 Look at the account settings. Have they changed?
 <br>
 For email accounts, check for auto-forwards in email, possible changes to the backup/reset email address of phone numbers, synchronisation to different devices, including phones, computers or tablets, permisions to applications or other account permisions.
+![](recap.png)
+> something setting related? 
 
 
 ## Reaching out for more help
@@ -41,10 +48,11 @@ Some providers will send a link to change your password to your recovery email a
 <br>
 In the reset case, it is important to change the password immediately after regaining access to your account.
 ![](recap.png)
+> change your password!
 
 
 ## Learn
-If these steps do not work and your account is being abused, contact the platform provider directly. Explain...
+If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
 Alternatively, contact the following organisations for possible support in shutting the account down.
 Immediate Support/Digital?

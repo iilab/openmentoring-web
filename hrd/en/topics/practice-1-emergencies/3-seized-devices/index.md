@@ -5,7 +5,6 @@
 In this section, you will learn about what steps to take if your digital devices are seized.
 
 ## Key takeaways
-Key takeaways from this section include:
 - [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
 - [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
 - [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
@@ -24,42 +23,43 @@ She needs to know what was on the device before it went missing, as well as what
 ## Questions to answer when you first notice a device is missing
 ![](recap.png)
 <br>
-- What happened?
+What happened?
 <br>
-- What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
+What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
 <br>
-- When and where did you lose the device?
+When and where did you lose the device?
 <br>
-- How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
+How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
 <br>
--Is the device still missing?
+Is the device still missing?
+
 
 ## Identifying security protections the missing device has in place
 ![](recap.png)
 <br>
-- Was the device protected by a password or other security measures?
+Was the device protected by a password or other security measures?
 <br>
-- Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
 <br>
-- Does the device have full disk encryption turned on?
+Does the device have full disk encryption turned on?
 <br>
-- What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
 <br>
-- Do you have remote access to the device?
+Do you have remote access to the device?
 
 
 ## Identifying what was on the missing device
 ![](recap.png)
 
-Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more.
+Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more. This will help you learn what may have been exposed or stolen.
 <br>
 What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
 <br>
-Did you use encryption tools for email or chat (such as PGP and OTR)?
+Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if your information is secure or not.
 <br>
 What accounts does this device have access to? Examples include email, social media, chat, IM and banking accounts that the device can access. Is the device used for secondary authentication?
 <br>
-Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass.
+Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass. If you do, be sure to change you passwords immediately.
 <br>
 After answering these questions, take the following steps to mitigate the problem:
 
@@ -71,15 +71,15 @@ If your device is still missing take the following four steps:
 <br>
 - Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
 <br>
-- Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the Account Hijacked section.
+- Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 <br>
 - Step 3: Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
 <br>
 - Step 4: If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
 
+
 ## If you get the device back
 ![](recap.png)
-<br>
 Be careful as you do not know who has had access to your device. Possibly treat the device as if it is now untrusted or compromised.
 <br>
 Ask yourself the following 4 questions and assess the risk that your device has been compromised:
@@ -90,7 +90,7 @@ Ask yourself the following 4 questions and assess the risk that your device has 
 <br>
 3. Why would they want access to it?
 <br>
-4.  Are there signs that the device has been physically tampered with?
+4.Are there signs that the device has been physically tampered with?
 <br>
 If you have lost contact with your device for an extended period of time and you feel there is a chance that something has been installed on it, please consider the following:
 <br>

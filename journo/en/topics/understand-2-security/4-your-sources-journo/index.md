@@ -44,7 +44,6 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
     </question>
 </quiz>
 
-## Next
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)

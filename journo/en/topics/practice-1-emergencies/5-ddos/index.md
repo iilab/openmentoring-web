@@ -10,9 +10,9 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 ## What is a DDOS attack?
 ![](recap.png)
 
-A threat faced by many independent journalists, news sites and bloggers is having their voices muted because their website is down or defaced.
+A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.
 <br>
-In many cases, this maybe an innocent and frustrating problem, but on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
+In many cases, this maybe an innocent and frustrating problem. But on occasion, it may be due to a distributed ‘denial of service’ attack or a website takeover.
 <br>
 If your site is under a denial of service attack, we suggest some immediate options for next steps.
 
@@ -55,7 +55,7 @@ Step 4: As soon as you have regained control, review your needs and decide betwe
 
 Who built your website? Are they available to help?
 <br>
-Who is your web hosting provider? This is the company that provides the server where your website lives. If you do not know, you can use a tool like this to help.
+Who is your web hosting provider? This is the company that provides the server where your website lives.
 <br>
 Do you have your account log in details for this hosting provider?
 <br>
@@ -94,19 +94,19 @@ Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca 
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+## Billing problem
+![](recap.png)
+
+
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+
 ## Network problem
 ![](recap.png)
 
 To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
 <br>
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
-
-## Billing problem
-![](recap.png)
-
-
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 ## Legal problem
@@ -154,7 +154,8 @@ See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for
 ## Introduction
 ![](unit.png)
 <br>
-This section will provide an overview of DDOS attacks and steps to take if you are the victim of a DDOS attack. A DDOS attack, or a Denial of Service attack, occurs when an adversary may try to silence you by taking your website down or defacing your website.
+This section will provide guidance on waht to do if an adversary tries to silence you by taking down or defacing your website.
+
 
 ## Scenario
 ![](scenario.png)
@@ -167,7 +168,6 @@ Before she can determine if the site is being attacked, Brenda needs to rule out
 
 
 ## Key takeaways
-Key takeaways of this section are:
 - [What is a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [First steps to take if your website is down or defaced](en/topics/practice-1-emergencies/5-ddos/3-3-learn.md)
 - [Possible other reasons you may be suffering from a down or defaced website](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)

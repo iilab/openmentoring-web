@@ -90,7 +90,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
 
 
 ## Key takeaways
-Key takeaways from this section will include the following:
 - [Basic introduction to encryption and secure communication](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [How to ask for help](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
