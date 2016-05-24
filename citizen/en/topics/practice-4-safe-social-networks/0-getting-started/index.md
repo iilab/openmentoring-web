@@ -42,6 +42,7 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+## Scenario
 Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. 
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. 
@@ -61,6 +62,7 @@ They plan to use Twitter during the march to give updates on the progress of the
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+## Social networking basics
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with.
 <br>
 This guide will help you understand the security implications of using social networking sites.
@@ -89,6 +91,7 @@ Essentially you are giving all your data over to the owners and trusting them wi
 ## Test you social networking knowledge!
 
 
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

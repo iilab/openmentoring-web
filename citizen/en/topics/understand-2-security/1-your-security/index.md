@@ -25,6 +25,14 @@ Your security and well being are always more important than a story. To mimise p
 This assessment should identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
 
 ## Learn
+Diverse sources should be consulted, including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers, researching the risks, and arranging a contact network.
+
+
+## Learn
 ![](recap.png)
 Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
 <br>
@@ -56,11 +64,5 @@ For more information on conducting a risk assessment, refer to the [Planning and
 </quiz>
 
 ## Next
-If you found this unit useful, you might be interested in the following units:
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 

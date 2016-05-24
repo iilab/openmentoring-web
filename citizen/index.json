@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-24T13:06:41.204Z",
+  "updatedAt": "2016-05-24T13:08:19.889Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -68,17 +68,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal",
-      "type": "topic",
-      "title": "Using Signal",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-1-how-it-works",
       "type": "topic",
       "title": "How does it work?",
@@ -90,14 +79,14 @@
     }
   ,
     {
-      "slug": "understand-3-opsec",
+      "slug": "tool-2-signal",
       "type": "topic",
-      "title": "Understanding Operational Security",
+      "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -109,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec",
+      "type": "topic",
+      "title": "Understanding Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -399,39 +399,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -487,36 +454,36 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
+      "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Signal",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
-      "slug": "understand-3-opsec_2-organisational-security",
+      "slug": "tool-2-signal_2-voice",
       "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -545,6 +512,17 @@
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_3-your-mission-hrd",
+      "type": "unit",
+      "title": "Your mission",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -586,14 +564,36 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-mission-hrd",
+      "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
-      "title": "Your mission",
-      "parentTitle": "Understand Security",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {

@@ -5,10 +5,6 @@
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Introduction
-This topic covers the fundamentals security basics of mobile phones and devices
-
-
 ## Scenario
 Scenario text...
 
@@ -46,4 +42,7 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+This topic covers the fundamentals security basics of mobile phones and devices
+
 

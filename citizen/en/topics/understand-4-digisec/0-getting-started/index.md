@@ -1,7 +1,4 @@
 # Getting Started
-## Introduction
-Introduction text...
-
 ## Key takeaways
 Key takeaways from this topic include learning about the following:
 - [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
@@ -11,12 +8,16 @@ Key takeaways from this topic include learning about the following:
 - [Protecting your identity](en/topics/understand-4-digisec/5-protect-identity/1-intro.md)
 - [Establishing trust](en/topics/understand-4-digisec/6-trust/1-intro.md)
 
+## Introduction
+Introduction text...
+
 ## Scenario
 Scenario text...
 
 ## Learn
 Learning text...
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

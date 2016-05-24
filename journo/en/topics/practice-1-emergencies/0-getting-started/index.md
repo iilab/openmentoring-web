@@ -1,10 +1,4 @@
 # Getting Started
-## Introduction
-![](unit.png)
-<br>
-This section gives introductory support for how to face the most common types of digital threats.
-
-
 ## Key takeaways
 Key takeaways from this section include immediate steps to take when faced with the following situations:
 
@@ -14,6 +8,12 @@ Key takeaways from this section include immediate steps to take when faced with 
 - [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md)
 - [DDOS attack](en/topics/practice-1-emergencies/5-ddos/1-intro.md)
 - [What to do after an emergency](en/topics/practice-1-emergencies/6-after/1-intro.md)
+
+
+## Introduction
+![](unit.png)
+<br>
+This section gives introductory support for how to face the most common types of digital threats.
 
 
 ## Scenario
