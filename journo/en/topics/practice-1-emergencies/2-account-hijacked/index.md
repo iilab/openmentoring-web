@@ -57,7 +57,7 @@ Immediate Support/Digital?
 ## Introduction
 ![](unit.png)
 
-This section will provide recommendations on steps to take should you suspect your online accounts are hijacked.
+This section provides recommendations on steps to take if you suspect your online accounts are hijacked.
 
 
 ## Scenario
@@ -71,7 +71,7 @@ He needs to know if he still has access to the account, and if not, who he can r
 
 
 ## Key takeaways
-Key takeaways will include:
+Key takeaways include:
 - [How to mitigate the problem](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
 - [Reviewing account activity](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 - [Adjusting account settings](en/topics/practice-1-emergencies/2-account-hijacked/3-5-learn.md)

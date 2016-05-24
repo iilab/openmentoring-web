@@ -18,7 +18,6 @@ Key takeaways from this section include immediate steps to take when faced with 
 ![](scenario.png)
 
 
-## Learn
 Learning text...
 
 ## Test
