@@ -20,20 +20,6 @@ Brenda returned to her office after a lunch meeting, only to find her laptop mis
 
 She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
 
-## Questions to answer when you first notice a device is missing
-![](recap.png)
-<br>
-What happened?
-<br>
-What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
-<br>
-When and where did you lose the device?
-<br>
-How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
-<br>
-Is the device still missing?
-
-
 ## Identifying security protections the missing device has in place
 ![](recap.png)
 <br>
@@ -46,6 +32,20 @@ Does the device have full disk encryption turned on?
 What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
 <br>
 Do you have remote access to the device?
+
+
+## Questions to answer when you first notice a device is missing
+![](recap.png)
+<br>
+What happened?
+<br>
+What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
+<br>
+When and where did you lose the device?
+<br>
+How did you lose the device? Was it stolen by another person, taken by a state authority or did you simply lose track of it?
+<br>
+Is the device still missing?
 
 
 ## Identifying what was on the missing device

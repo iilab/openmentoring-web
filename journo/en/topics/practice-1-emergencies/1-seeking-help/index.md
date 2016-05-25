@@ -146,7 +146,6 @@ If you have prepared [an emergency plan with your contacts](en/topics/practice-2
     </question>
 </quiz>
 
-## Test
 <quiz name="">
     <question>
         <p>With end-to-end encryption the company providing the service is able to read my content.</p>

@@ -1,9 +1,4 @@
 # Your Security
-## Key takeaways
-* Why do you need a security assessment as a journalist?
-* What goes into making a security assessment?
-
-
 ## Introduction
 ![](recap.png)
 
@@ -17,6 +12,11 @@ Lisa is starting a new story about corruption in the gold mining industry, and w
 Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
 <br>
 After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
+
+## Key takeaways
+* [Why do you need a security assessment as a journalist?](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* What goes into making a security assessment?
+
 
 ## Learn
 ![](recap.png)
@@ -47,6 +47,7 @@ An independent journalist working without a relationship with a news organizatio
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
