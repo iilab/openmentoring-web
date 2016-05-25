@@ -34,6 +34,20 @@ How did you lose the device? Was it stolen by another person, taken by a state a
 Is the device still missing?
 
 
+## Identifying security protections the missing device has in place
+![](recap.png)
+<br>
+Was the device protected by a password or other security measures?
+<br>
+Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+<br>
+Does the device have full disk encryption turned on?
+<br>
+What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
+<br>
+Do you have remote access to the device?
+
+
 ## Identifying what was on the missing device
 ![](recap.png)
 
@@ -87,20 +101,6 @@ Phones and tablets: Depending on your level of risk and the circumstances under 
 If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
-
-
-## Identifying security protections the missing device has in place
-![](recap.png)
-<br>
-Was the device protected by a password or other security measures?
-<br>
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-Does the device have full disk encryption turned on?
-<br>
-What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-Do you have remote access to the device?
 
 
 ## Test

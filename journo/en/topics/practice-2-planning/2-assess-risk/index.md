@@ -15,6 +15,9 @@ This section is adapted from Tactical Technology Collective's [guide to risk mod
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+## Scenario
+Scenario text...
+
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -124,9 +127,6 @@ Once you have prioritised the risks to yourself and your work, you can then star
         <answer>No</answer>
     </question>
 </quiz>
-
-## Scenario
-Scenario text...
 
 ## Next
 If you found this useful, you might be interested in the following sections:

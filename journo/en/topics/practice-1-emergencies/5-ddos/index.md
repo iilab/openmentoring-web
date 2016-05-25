@@ -31,6 +31,25 @@ This could be ‘good’ if your site has become more popular and simply needs s
 If you have determined that none of these are at fault, you may be suffering from a DDOS attack. To mitigate against this, take the following four steps:
 
 
+## Steps to fix the problem
+![](recap.png)
+
+Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
+<br>
+Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
+<br>
+This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
+<br>
+This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
+<br>
+Step 3: Move your site to a DDoS mitigation service.  Examples:
+-- Deflect.ca
+-- Google’s Project Shield
+-- CloudFlare’s Project Galileo
+<br>
+Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+
+
 ## Questions for your webmaster
 ![](recap.png)
 
@@ -73,25 +92,6 @@ Also note that if your only backups are at your hosting provider, an attacker ma
 Step 7: Move to a DDoS Mitigtion service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks.
 <br>
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
-
-
-## Steps to fix the problem
-![](recap.png)
-
-Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
-<br>
-Step 2: Work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy) and change the ‘Time to Live’ or TTL to 1 hour.
-<br>
-This can help you redirect your site much faster once it comes under attack (the default is 72 hours, or three days).
-<br>
-This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
-<br>
-Step 3: Move your site to a DDoS mitigation service.  Examples:
--- Deflect.ca
--- Google’s Project Shield
--- CloudFlare’s Project Galileo
-<br>
-Step 4: As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
 ## Network problem
@@ -192,7 +192,6 @@ Before she can determine if the site is being attacked, Brenda needs to rule out
     </question>
 </quiz>
 
-## Next
 If you found this useful, you might be interested in the following sections:
  * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
  * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)

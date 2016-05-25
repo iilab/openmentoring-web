@@ -69,7 +69,6 @@ For more information on what to do after an emergency has happened, you might fi
     </question>
 </quiz>
 
-## Next
 If you found this useful, you might be interested in the following sections:
 - [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)

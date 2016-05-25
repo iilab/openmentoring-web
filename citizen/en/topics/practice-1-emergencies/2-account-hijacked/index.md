@@ -37,6 +37,17 @@ Until you better understand the situation we recommend you stop using this accou
 > Remember to change passwords for your linked accounts!
 
 
+## Confirm if your account has been hijacked
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+<br>
+![](recap.png)
+> something suspicious in account activity details
+
+
 ## Other places to check for suspicious activity
 Check for suspicious addresses which your email might be automatically forwarding your emails to.
 <br>
@@ -56,17 +67,6 @@ There are a number of organisations who can help you with this process [link]
 > Use the password reset link
 
 
-## Confirm if your account has been hijacked
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-<br>
-![](recap.png)
-> something suspicious in account activity details
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -83,6 +83,7 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security

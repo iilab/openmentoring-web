@@ -13,6 +13,16 @@ Introduction text...
 1. What is the unit about. Should answer by itself: "Am I in the right place?"
 
 
+## Learn
+![](recap.png)
+About what is in the unit ...:
+* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
+About what is in the next unit ...:
+* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
+<br>
+
+
 ## Scenario
 
 
@@ -23,16 +33,6 @@ Scenario text...
     What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
     What are the risks?
 
-
-
-## Learn
-![](recap.png)
-About what is in the unit ...:
-* [Unit description!](topics/practice-1-emergencies/1-seeking-help)
-<br>
-About what is in the next unit ...:
-* [Next unit description!](topics/practice-1-emergencies/1-seeking-help)
-<br>
 
 
 ## Next

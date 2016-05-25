@@ -1,18 +1,35 @@
 # Preparing for emergencies with your contacts
+## Introduction
+This unit will describe the importance of journalists preparing an emergency plan. Information for this section has been adapted from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) and Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
+
+
 ## Key takeaways
 Key takeaways from this unit include:
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
-## Introduction
-This unit will describe the importance of journalists preparing an emergency plan. Information for this section has been adapted from the Committee for the Protection of Journalists [Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) and Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
-
-
 ## Scenario
 Jenny is about to start on a new assignment investigating government abuses of power.
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+
+## Learn
+Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
+<br>
+When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.
+<br>
+Your plan may also include a simple code to discreetly signal an immediate threat.
+<br>
+Codes could also be devised to signal that the journalist wants to meet at a prearranged location, or to switch to another means of communication.
+<br>
+In the event you or a colleague of yours becomes out of touch, the plan should specify how long editors and family members should wait before taking action.
+<br>
+Your emergency plan should include a detailed list of individuals and groups for editors and loved ones to contact or call locally, regionally and internationally.
+<br>
+For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
+
+
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -36,22 +53,5 @@ If you found this useful, you might be interested in the following:
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
 * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
-
-## Learn
-Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
-<br>
-When making an emergency plan, you should specify the frequency and exact means by which you will check in with editors and family members.
-<br>
-Your plan may also include a simple code to discreetly signal an immediate threat.
-<br>
-Codes could also be devised to signal that the journalist wants to meet at a prearranged location, or to switch to another means of communication.
-<br>
-In the event you or a colleague of yours becomes out of touch, the plan should specify how long editors and family members should wait before taking action.
-<br>
-Your emergency plan should include a detailed list of individuals and groups for editors and loved ones to contact or call locally, regionally and internationally.
-<br>
-For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
-
 
 

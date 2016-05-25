@@ -73,6 +73,22 @@ When you are initating contact with third parties you might want to create a new
 > have a video chat.
 
 
+## Introduction
+![](unit.png)
+
+Establish secure communications when reaching out for help.
+
+
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+![](scenario.png)
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
 ## Learn how to
 - [Which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
@@ -119,22 +135,6 @@ Depending on how advanced your digital security and operational security practic
 In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
-
-## Introduction
-![](unit.png)
-
-Establish secure communications when reaching out for help.
-
-
-## Scenario
-![](scenario.png)
-
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png)
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
 
 ## Test
 <quiz name="">
