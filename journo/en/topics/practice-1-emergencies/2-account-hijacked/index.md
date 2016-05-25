@@ -54,10 +54,6 @@ Check for suspicious addresses which your email might be automatically forwardin
 Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
 <br>
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
-<br>
-![](recap.png)
-> account details one might not think of.
-
 
 ## Deal with being locked out of your account
 If you cannot log into your account, use the password reset or recovery link.
@@ -66,6 +62,7 @@ Some providers will send a link to change your password to your recovery email a
 <br>
 If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
+There are a number of organisations who can help you with this process [link]
 ![](recap.png)
 > Use the password reset link
 

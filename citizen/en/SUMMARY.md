@@ -2,8 +2,6 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
@@ -15,6 +13,8 @@
   * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -114,11 +114,11 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   

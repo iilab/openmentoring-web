@@ -37,6 +37,25 @@ Until you better understand the situation we recommend you stop using this accou
 > Remember to change passwords for your linked accounts!
 
 
+## Other places to check for suspicious activity
+Check for suspicious addresses which your email might be automatically forwarding your emails to.
+<br>
+Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
+<br>
+Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
+
+## Deal with being locked out of your account
+If you cannot log into your account, use the password reset or recovery link.
+<br>
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
+<br>
+There are a number of organisations who can help you with this process [link]
+![](recap.png)
+> Use the password reset link
+
+
 ## Confirm if your account has been hijacked
 For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
 <br>
@@ -46,28 +65,6 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 <br>
 ![](recap.png)
 > something suspicious in account activity details
-
-
-## Other places to check for suspicious activity
-Check for suspicious addresses which your email might be automatically forwarding your emails to.
-<br>
-Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
-<br>
-Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
-<br>
-![](recap.png)
-> account details one might not think of.
-
-
-## Deal with being locked out of your account
-If you cannot log into your account, use the password reset or recovery link.
-<br>
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
-<br>
-![](recap.png)
-> Use the password reset link
 
 
 ## Test
@@ -86,7 +83,6 @@ If these steps do not work and your account is being abused, contact the platfor
     </question>
 </quiz>
 
-## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
