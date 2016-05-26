@@ -63,11 +63,11 @@ If you believe that you cannot trust your computer or device you might want to f
 ## Establishing trust when reaching out
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>
-It might be safer to presume that an adversary may have access to all your account details as well as your  communications when seeking help and might be attempting to provide specific, bad advice.
+It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
 <br>
 If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
 <br>
-When you are initating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
+When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
 <br>
 ![](recap.png)
 > have a video chat.
@@ -104,15 +104,6 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
-When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
-<br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
 When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
 <br>
 Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
@@ -120,6 +111,15 @@ Anonymisation tools hide the sender and recipient of a message and will protect 
 Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
 <br>
 
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
+<br>
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
 
 
 Secure communication is always a trade-off between security and convenience. 

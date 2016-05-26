@@ -15,7 +15,7 @@ Steps to take if you suspect your online accounts are hijacked.
 ## Scenario
 ![](scenario.png)
 
-Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+Isaac just received an email from his service provider alerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
 <br>
 ![](scenario.png)
 
@@ -83,7 +83,6 @@ There are a number of organisations who can help you with this process [link]
     </question>
 </quiz>
 
-## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security

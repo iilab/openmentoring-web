@@ -1,4 +1,10 @@
 # Hijacked Account
+## Introduction
+![](unit.png)
+
+Steps to take if you suspect your online accounts are hijacked.
+
+
 ## Learn how to
 
 - [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
@@ -6,16 +12,10 @@
 - [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 
 
-## Introduction
-![](unit.png)
-
-Steps to take if you suspect your online accounts are hijacked.
-
-
 ## Scenario
 ![](scenario.png)
 
-Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+Isaac just received an email from his service provider alerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
 <br>
 ![](scenario.png)
 

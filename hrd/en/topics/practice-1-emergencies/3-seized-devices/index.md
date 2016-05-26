@@ -1,30 +1,29 @@
 # Devices Seized
-## Introduction
-![](unit.png)
-<br>
-In this section, you will learn about what steps to take if your digital devices are seized.
-
-## Key takeaways
-- [Questions to answer when you first notice a device is missing](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
-- [Identifying security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
-- [Identifying what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
-- [Mitigating the problem](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
-
-
-## Scenario
-![](scenario.png)
-
-Brenda returned to her office after a lunch meeting, only to find her laptop mising. She is worried that she has not only lost important research, but also put her sources potentially at risk.
-<br>
-![](scenario.png)
-
-She needs to know what was on the device before it went missing, as well as what security protections were in place. Brenda is worried that if she does not change settings for all accounts logged in, personal information in her email and social media accounts may get in the wrong hands.
-
-## Questions to answer when you first notice a device is missing
+## Identify security protections
 ![](recap.png)
+Strong security protection such as full disk encryption means that sensitive information on a missing device is less likely to get into the wrong hands. We recommend using full disk encryption and protecting devices with passwords whenever possible.
 <br>
-What happened?
+Failing this, password
+## give intro and say what to do depending on results of questions.
+
 <br>
+Was the device protected by a password or other security measures?
+<br>
+Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
+<br>
+
+<br>
+Do you have remote access to the device?
+
+
+## Assess the situation
+![](recap.png)
+Its helpful
+<br>
+How was your device ?
+<br>
+## subsection on human component, people being comproimised as result of having device seized. what are assets that can be compromising to people and work out a way to let them know.
+
 What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
 <br>
 When and where did you lose the device?
@@ -34,48 +33,39 @@ How did you lose the device? Was it stolen by another person, taken by a state a
 Is the device still missing?
 
 
-## Identifying security protections the missing device has in place
+## Have people been compromised?
 ![](recap.png)
+Sometimes having a device seized means that people have been compromised as a result of sensitive information getting in the wrong hands.
 <br>
-Was the device protected by a password or other security measures?
-<br>
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-Does the device have full disk encryption turned on?
-<br>
-What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-Do you have remote access to the device?
+Think about what assets you have that can be compromising to people and work out a way to let them know. Do this as securely as possible, as explained in the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications) lesson.
 
 
-## Identifying what was on the missing device
+## What was on the missing device
 ![](recap.png)
 
 Make an inventory of the different types of sensitive information that was on your device. Examples include email, chat history, social media, contacts (email, Skype, chat, etc.), files, location data, credit card data and more. This will help you learn what may have been exposed or stolen.
 <br>
-What sort of base software was it using, i.e. Windows, OS X, Android, iPhone?
-<br>
 Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if your information is secure or not.
 <br>
-What accounts does this device have access to? Examples include email, social media, chat, IM and banking accounts that the device can access. Is the device used for secondary authentication?
+Did you use full disk encryption on the device? This will help you to learn if files on your computer containing sensitive information is secure or not.
 <br>
-Do your accounts have saved passwords and/or automatically log in? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePass. If you do, be sure to change you passwords immediately.
+What accounts does this device have access to? Examples include email, social media, chat, IM and banking accounts that the device can access. Is the device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
 <br>
-After answering these questions, take the following steps to mitigate the problem:
+Do your accounts have saved passwords or automatically log in when you turn your device on? This is common for email, Skype and other chat programs, or if you save your passwords in your web browser instead of a password manager like KeePassX. If you do, be sure to change you passwords immediately.
 
 
-## Mitigating the problem
+## Deal with the problem
 ![](recap.png)
 
 If your device is still missing take the following four steps:
 <br>
-- Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
+Step 1: When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
 <br>
-- Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
+Step 2: Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 <br>
-- Step 3: Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
+Step 3: Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
 <br>
-- Step 4: If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
+Step 4: If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
 
 
 ## If you get the device back
@@ -90,17 +80,42 @@ Ask yourself the following 4 questions and assess the risk that your device has 
 <br>
 3. Why would they want access to it?
 <br>
-4.Are there signs that the device has been physically tampered with?
+4. Are there signs that the device has been physically tampered with?
 <br>
-If you have lost contact with your device for an extended period of time and you feel there is a chance that something has been installed on it, please consider the following:
+If you have lost contact with your device for a long time and you feel there is a chance that something has been installed on it, please consider the following:
 <br>
-Computer: reinstall the OS from scratch and recover all documents from the last backup and scan all your documents and files with antivirus software. For more guidance on this, see the the malware section.
+Computer: reinstall the OS from scratch and recover all documents from the last backup and scan all your documents and files with antivirus software. For more guidance on this, see the the [malware section](en/topics/practice-1-emergencies/4-malware/1-1-intro.md).
 <br>
-Phones and tablets: Depending on your level of risk and the circumstances under which your mobile phone or tablet was taken, you may not want to use your device again. If possible, migrate all of the data off of your phone or tables and purchase a new one.
+Phones and tablets: Depending on your level of risk and how your device was taken, you may not want to use it again. If possible, move all of the data off of your phone or tables and purchase a new one.
 <br>
-If you cannot change devices but you suspect it might be compromised, take precautions and do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it with you when going to sensitive meetings or have it with you when discussing sensitive topics.
+If you cannot change devices but suspect it might be compromised, do not use your phone or tablet for sensitive communication or opening sensitive files. Do not take it to sensitive meetings or have it with you when discussing sensitive topics.
 <br>
 For more extensive threat modeling assistance see the Electronic Frontier Foundations's Surveillance Self Defense Guide <!--https://ssd.eff.org/en-->.
+
+
+## Introduction
+![](unit.png)
+
+<br>
+Learn what to do if your digital devices are taken
+
+
+## Scenario
+![](scenario.png)
+
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+<br>
+![](scenario.png)
+
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
+
+
+## Learn how to
+- [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
+- [Identify security protections the missing device has in place](en/topics/practice-1-emergencies/3-seized-devices/3-2-learn.md)
+- [Identify what was on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-3-learn.md)
+- [Deal with a missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
+- [what to do if you get device back]
 
 
 ## Test
@@ -120,16 +135,10 @@ For more extensive threat modeling assistance see the Electronic Frontier Founda
 </quiz>
 
 ## Next
- If you found this useful, you might be interested in the following related sections:
- * [How to get help!](topics/practice-1-emergencies/1-seeking-help) (Read this section first on how to communicate securely with others, and *where you can get help*)
- * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
- * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
- <br>
- * [Is your website under attack?](topics/practice-1-emergencies/ddos.md) (Is your site down? Has it been defaced?)
- * [What to do after the emergency is past](topics/practice-1-emergencies/after.md) (What to do when the dust settles? Time to prepare so that you're ready for the next time.)
+* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
 <br>
 See also:
- * [Glossary of terms](resources/glossary.md)
- * [Further Reading and Resources](resources)
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 
 
