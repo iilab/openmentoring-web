@@ -1,12 +1,5 @@
-## Identifying security protections the missing device has in place
+## Have people been compromised?
 ![](recap.png)
+Sometimes having a device seized means that people have been compromised as a result of sensitive information getting in the wrong hands.
 <br>
-Was the device protected by a password or other security measures?
-<br>
-Which operating system was running on the device? Was this a legal version, or was it an illegal, jailbroken or rooted version?
-<br>
-Does the device have full disk encryption turned on?
-<br>
-What state was your device in when it was lost? Were you logged in? Was the device on but password-locked? Was it sleeping or hibernating? Completely turned off?
-<br>
-Do you have remote access to the device?
+Think about what assets you have that can be compromising to people and work out a way to let them know. Do this as securely as possible, as explained in the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications) lesson.

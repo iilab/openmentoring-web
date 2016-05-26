@@ -1,8 +1,11 @@
-## Questions to answer when you first notice a device is missing
+## Assess the situation
 ![](recap.png)
+Its helpful
 <br>
-What happened?
+How was your device ?
 <br>
+## subsection on human component, people being comproimised as result of having device seized. what are assets that can be compromising to people and work out a way to let them know.
+
 What sort of device are you missing? A computer, mobile phone, tablet or an external hard drive?
 <br>
 When and where did you lose the device?

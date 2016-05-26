@@ -1,7 +1,7 @@
 ## Scenario
 ![](scenario.png)
 
-Isaac just received an email from his service provider allerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+Isaac just received an email from his service provider alerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
 <br>
 ![](scenario.png)
 

@@ -1,4 +1,4 @@
-## Steps to fix the problem
+## 4 steps to fix the problem
 ![](recap.png)
 
 Step 1: Contact a trusted person who can help with your website (your webmaster, the people who helped you set up your site, your internal staff if you have them and the company that hosts your site).
@@ -9,7 +9,7 @@ This can help you redirect your site much faster once it comes under attack (the
 <br>
 This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records.
 <br>
-Step 3: Move your site to a DDoS mitigation service.  Examples:
+Step 3: Move your site to a DDoS mitigation service. Examples:
 -- Deflect.ca
 -- Google’s Project Shield
 -- CloudFlare’s Project Galileo
