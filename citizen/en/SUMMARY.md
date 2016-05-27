@@ -82,6 +82,8 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+  * [Getting Started](topics/understand-1-how-it-works/5-down-site/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)

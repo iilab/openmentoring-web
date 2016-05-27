@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-26T08:27:00.049Z",
+  "updatedAt": "2016-05-27T14:36:21.634Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -487,9 +487,20 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-1-how-it-works_5-down-site",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -498,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
