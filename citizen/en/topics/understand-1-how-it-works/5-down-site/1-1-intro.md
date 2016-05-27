@@ -1,2 +1,2 @@
 ## Introduction
-Learn why you may be experiencing a down website
+Learn why your website might be down

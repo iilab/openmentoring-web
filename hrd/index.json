@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-05-27T14:36:23.705Z",
+  "updatedAt": "2016-05-27T17:49:29.026Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -476,9 +476,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -487,9 +487,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
+      "slug": "tool-2-signal_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_1-encryption",
+      "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
-      "title": "Encryption",
+      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -619,9 +619,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_0-getting-started",
+      "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

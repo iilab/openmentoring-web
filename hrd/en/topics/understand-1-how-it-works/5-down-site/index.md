@@ -1,8 +1,8 @@
 # Getting Started
-## Billing problem
+## Legal problem
 ![](recap.png)
 
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 ## Questions for your webmaster
@@ -43,10 +43,10 @@ To see whether your web host is working but your website is unavailable, visit h
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
-## Legal problem
+## Billing problem
 ![](recap.png)
 
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 ## Hosting problem
@@ -86,38 +86,12 @@ See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for
 
 
 ## Introduction
-Learn why you may be experiencing a down website
-
-
-## Scenario
-Scenario text...
-
-1. Putting the reader in the situation where they're facing a problem.
-2. Proposing an aim or aspiration. Motivate a way to adress the problem.
-<br>
-3. What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
-4. What are the risks?
+Learn why your website might be down
 
 
 ## Learn about
-[Questions of your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
-[Network problems](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
-<br>
-[Billing Problems](en/topics/understand-1-how-it-works/5-down-site/3-4-learn.md)
-<br>
-[Legal problems](en/topics/understand-1-how-it-works/5-down-site/3-5-learn.md)
-<br>
-[Hosting problems](en/topics/understand-1-how-it-works/5-down-site/3-6-learn.md)
-<br>
-[Censorship problems](en/topics/understand-1-how-it-works/5-down-site/3-7-learn.md)
-<br>
-[Software problems](en/topics/understand-1-how-it-works/5-down-site/3-8-learn.md)
-<br>
-[Account hijacking](en/topics/understand-1-how-it-works/5-down-site/3-9-learn.md)
-<br>
-[Poor site performance](en/topics/understand-1-how-it-works/5-down-site/3-10-learn.md)
-<br>
-[None of these?](en/topics/understand-1-how-it-works/5-down-site/3-11-learn.md)
+[Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
+[Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
 ## Test

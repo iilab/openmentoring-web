@@ -72,7 +72,8 @@ Some providers will send a link to change your password to your recovery email a
 <br>
 If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
-There are a number of organisations who can help you with this process [link]
+There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
+<br>
 ![](recap.png)
 > Use the password reset link
 
@@ -93,6 +94,7 @@ There are a number of organisations who can help you with this process [link]
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
