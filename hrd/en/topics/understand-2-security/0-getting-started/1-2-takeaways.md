@@ -1,4 +1,4 @@
-## Key takeaways
+## Learn how to
 Key takeaways from this topic include lessons on the following:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
