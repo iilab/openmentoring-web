@@ -1,12 +1,12 @@
 # Metadata
+## Introduction
+This unit will provide an overview of what metadata is an why it is important.
+
 ## Key takeaways
 Key takeaways from this section include:
 - What is metadata?
 - Where can I find metadata?
 - How can metadata expose me or my connections?
-
-## Introduction
-This unit will provide an overview of what metadata is an why it is important.
 
 ## Scenario
 Henry is a journalist writing about wildlife preservation. While working on a story about poaching recently, he came across a story that park rangers were warning people not to upload pictures to social media, and to turn off the geo-location feature on their phone.

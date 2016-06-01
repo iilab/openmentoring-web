@@ -57,6 +57,14 @@ If your website is not loading at all, the company that hosts your website may b
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
+## Censorship problem
+![](recap.png)
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
 ## Software problem
 ![](recap.png)
 
@@ -67,14 +75,6 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
-
-
-## Censorship problem
-![](recap.png)
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Account hijacking
