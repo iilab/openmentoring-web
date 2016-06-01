@@ -84,22 +84,6 @@
   
   * [Getting Started](topics/understand-1-how-it-works/5-down-site/index.md)
   
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
@@ -123,4 +107,20 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   

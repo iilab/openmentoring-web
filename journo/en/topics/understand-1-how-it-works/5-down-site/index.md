@@ -21,6 +21,14 @@ Do you have the log in details for the domain name service? If not, finding thes
 Who else knows or may have access to these account details?
 
 
+## Poor site performance
+![](recap.png)
+
+Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
+
+
 ## None of these?
 ![](recap.png)
 
@@ -33,14 +41,6 @@ If you have determined that none of these are at fault, you may be suffering fro
 To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
 <br>
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
-
-## Poor site performance
-![](recap.png)
-
-Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
-<br>
-This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
 
 
 ## Billing problem
@@ -57,6 +57,14 @@ If your website is not loading at all, the company that hosts your website may b
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
+## Censorship problem
+![](recap.png)
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
 ## Software problem
 ![](recap.png)
 
@@ -67,14 +75,6 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
-
-
-## Censorship problem
-![](recap.png)
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Account hijacking

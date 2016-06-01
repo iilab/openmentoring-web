@@ -24,6 +24,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 - Assessing digital risks
 
 
+## Scenario
+###rewrite this to be a scenario
+
 ## Understand digital risks
 
 
@@ -154,6 +157,4 @@ If you found this useful, you might be interested in the following sections:
 * [How to make an emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-intro.md)
 * [Security box](https://securityinabox.org/en/lgbti-africa/security-risk "Security box reference")
 
-
-###rewrite this to be a scenario
 

@@ -162,6 +162,7 @@ If you have prepared [an emergency plan with your contacts](en/topics/practice-2
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
