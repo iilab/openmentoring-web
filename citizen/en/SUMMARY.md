@@ -4,15 +4,15 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
@@ -76,13 +76,13 @@
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/5-down-site/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   

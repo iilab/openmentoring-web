@@ -3,16 +3,16 @@
 Understand security issues for your sources
 
 
-## Learn about
-- [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
-- [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
-- [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
-
-
 ## Scenario
 Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
 <br>
 He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
+
+
+## Learn about
+- [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
+- [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
+- [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
 
 
 ## Why it&#39;s important to protect your sources
@@ -35,6 +35,11 @@ It is important consider when and how to contact your sources:  whether to call 
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
 
 
+## Next steps
+# See also:
+Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -50,9 +55,4 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next steps
-# See also:
-Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
 
