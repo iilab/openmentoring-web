@@ -33,7 +33,6 @@ Verify that the information is coming from a source you trust: do you recognise 
 > taking a second closer look at the symptom is important.
 
 
-## Choose the right lesson
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
 

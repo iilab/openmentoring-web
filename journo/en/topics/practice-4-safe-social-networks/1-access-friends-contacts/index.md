@@ -1,16 +1,16 @@
 # How to control access to friends &amp; contacts?
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
 ## Introduction
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 <br>
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 <br>
 This section will provide instructions on how to control access to your social network friends and contacts.
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Scenario
@@ -40,7 +40,6 @@ When you enter a social networking site, you are leaving the freedoms of the int
 ## Test you social networking knowledge!
 
 
-## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

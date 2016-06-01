@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-01T15:13:22.488Z",
+  "updatedAt": "2016-06-01T15:14:35.723Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -57,17 +57,6 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring",
-      "type": "topic",
-      "title": "Using the Open Mentoring App",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -76,6 +65,17 @@
       "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring",
+      "type": "topic",
+      "title": "Using the Open Mentoring App",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
@@ -377,28 +377,6 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -429,6 +407,28 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_1-sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
