@@ -1,44 +1,24 @@
 # Seeking Remote Help
-## Test
-<quiz name="">
-    <question>
-        <p>Landlines are not encrypted but mobile phones are</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
+## Organisations you may reach out to
+Dealing with digital emergencies:
+- Digital Security Helpline (Access Now): help@accessnow.org
 
-## Test
-<quiz name="">
-    <question>
-        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
-        <answer>Yes</answer>
-        <answer correct>No</answer>
-        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
-    </question>
-    <question>
-        <p>With transport layer encryption the company providing the service is able to read my content.</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
-    </question>
-</quiz>
+Dealing with emergencies within the first 24 hours:
+- Front Line Defenders: info@frontlinedefenders.org
+- Rory Peck Trust: www.rorypecktrust.org
 
-## Introduction
-![](unit.png)
-
-Establish secure communications when reaching out for help.
-
-
-## Scenario
-![](scenario.png)
-
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
-![](scenario.png)
+Dealing with emergencies after the first 24 hours:
+- Amnesty International: www.amnesty.org
+- Committee to Protect Journalists: JournAsst@cpj.org
+- Reporters Sans Frontieres: internet@rsf.org
 
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+<br>
+Providing digital emergency expertise:
+- Tactical Technology Collective: ttc@tacticaltech.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
+- Electronic Frontier Foundation: info@eff.org
 
 
 ## Unencrypted channels
@@ -93,26 +73,20 @@ When you are initiating contact with third parties you might want to create a ne
 > have a video chat.
 
 
-## Organisations you may reach out to
-Dealing with digital emergencies:
-- Digital Security Helpline (Access Now): help@accessnow.org
+## Introduction
+![](unit.png)
 
-Dealing with emergencies within the first 24 hours:
-- Front Line Defenders: info@frontlinedefenders.org
-- Rory Peck Trust: www.rorypecktrust.org
+Establish secure communications when reaching out for help.
 
+
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
-Dealing with emergencies after the first 24 hours:
-- Amnesty International: www.amnesty.org
-- Committee to Protect Journalists: JournAsst@cpj.org
-- Reporters Sans Frontieres: internet@rsf.org
+![](scenario.png)
 
-<br>
-Providing digital emergency expertise:
-- Tactical Technology Collective: ttc@tacticaltech.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-- Electronic Frontier Foundation: info@eff.org
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Learn how to
@@ -162,6 +136,33 @@ In this case you have to consider the consequence for yourself and your contact 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
+## Test
+<quiz name="">
+    <question>
+        <p>Landlines are not encrypted but mobile phones are</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
+    </question>
+</quiz>
+
+## Test
+<quiz name="">
+    <question>
+        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
+        <answer>Yes</answer>
+        <answer correct>No</answer>
+        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
+    </question>
+    <question>
+        <p>With transport layer encryption the company providing the service is able to read my content.</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
+    </question>
+</quiz>
+
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
