@@ -1,5 +1,4 @@
-## Key takeaways
-Key takeaways from this unit include the following:
-- What is secure communication?
+## Learn about
+- secure communication basics
 - What to do if you believe your communication channels have been compromised?
-- Encryption tools
+- Using secure communications tools
