@@ -16,7 +16,6 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
-## Learn
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.

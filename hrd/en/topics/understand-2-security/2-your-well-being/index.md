@@ -14,84 +14,6 @@ Learn about ensuring your short and long term well-being.
 ## Scenario
 Scenario text...
 
-## Learn
-Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
-<br>
-When our "fear buttons" are pressed, our bodies are preparing to enact our instinctual responses to danger. Your body will react in one of seven ways:
-
-> 1.
-# Freeze
-
-This response involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed.
-<br>
-A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
-<br>
-![](recap.png)
-> 2.
-# Flight
-
-This response is the strategy that puts as much distance as possible between us and danger. In the bank robbery example, we might imagine a customer who leaps over a desk and breaks down a door to get away.
-<br>
-You might experience this in your work when sources or colleagues stop listening to you, evading or changing the subject, talking to a neighbor, or crack inappropriate jokes.
-<br>
-![](recap.png)
-> 3.
-# Comply
-
-This response involves completely submitting to the aggressor in the hopes that cooperation will result in the attack ending quickly and without injury.
-<br>
-In the bank robbery example, this could be an employee who assists the robbers in opening the safe, packing up the money, and escaping.
-<br>
-In your work, you may see this with people participating in something they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work.
-<br>
-![](recap.png)
-> 4.
-# Tend and Befriend
-
-This response aims to ensure survival by getting closer to other human beings. We protect and care for those who are injured and more vulnerable, and we try to build relationships with those who are stronger and can protect and care for us.
-<br>
-In extreme cases we might even try to befriend an aggressor—commonly referred to as Stockholm Syndrome.
-<br>
-In the bank robbery situation, an instance where a customer draws children together, comforts and quiets them so as to reduce the danger is perfect example of this response method.
-<br>
-In doing so, she gains the respect and gratitude of the parents in the room. Should violence ensue, it is more likely those parents will act to protect and care for her. At the heart of this response is the fact that human beings are social creatures and we draw together in times of danger.
-<br>
-In your work, you may see this with colleagues becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
-<br>
-![](recap.png)
-> 5.
-# Posture
-
-This response is an attempt to drive off the danger by pretending to have greater physical strength than one actually does.
-<br>
-Going back to the bank robbery, a manager may confront the robbers with the lie that a silent alarm has been activated and the police are on their way.
-<br>
-In your work, you may see this with colleagues becoming argumentative and obstructive in order to undermine the authority of the trainer.
-<br>
-![](recap.png)
-> 6.
-# Fight
-
-This response is the strategy of destroying or driving off the threat by attacking.
-<br>
-In the bank robbery situation, this would involve one or more people physically attacking the robbers, with or without weapons.
-<br>
-In your work, you might see this by a colleague being blamed for or even insulting another colleague for distress they are experiencing.
-<br>
-![](recap.png)
-> 7.
-# Dissociation
-
-The Dissociation Response is characterized by the slowing of heart rate and breathing, a drop in blood pressure, and the person feeling calm and disconnected from the frightening reality in which they find themselves.
-<br>
-In the situation of the bank robbery, we might imagine a customer starting to giggle inappropriately or merely drifting off into a dreamlike state.
-<br>
-You might see this in your work if someone experiencing great distress becomes emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation.
-<br>
-Dissociation is a sign of serious traumatization.
-![](recap.png)
-
-
 ## Chronic stress
 # Identifying chronic stress
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
@@ -190,6 +112,84 @@ Refuse to see yourself as a helpless victim of circumstance. When faced with a d
 <br>
 **Think positive!**
 <br>
+![](recap.png)
+
+
+## Learn
+Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
+<br>
+When our "fear buttons" are pressed, our bodies are preparing to enact our instinctual responses to danger. Your body will react in one of seven ways:
+
+> 1.
+# Freeze
+
+This response involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed.
+<br>
+A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
+<br>
+![](recap.png)
+> 2.
+# Flight
+
+This response is the strategy that puts as much distance as possible between us and danger. In the bank robbery example, we might imagine a customer who leaps over a desk and breaks down a door to get away.
+<br>
+You might experience this in your work when sources or colleagues stop listening to you, evading or changing the subject, talking to a neighbor, or crack inappropriate jokes.
+<br>
+![](recap.png)
+> 3.
+# Comply
+
+This response involves completely submitting to the aggressor in the hopes that cooperation will result in the attack ending quickly and without injury.
+<br>
+In the bank robbery example, this could be an employee who assists the robbers in opening the safe, packing up the money, and escaping.
+<br>
+In your work, you may see this with people participating in something they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work.
+<br>
+![](recap.png)
+> 4.
+# Tend and Befriend
+
+This response aims to ensure survival by getting closer to other human beings. We protect and care for those who are injured and more vulnerable, and we try to build relationships with those who are stronger and can protect and care for us.
+<br>
+In extreme cases we might even try to befriend an aggressor—commonly referred to as Stockholm Syndrome.
+<br>
+In the bank robbery situation, an instance where a customer draws children together, comforts and quiets them so as to reduce the danger is perfect example of this response method.
+<br>
+In doing so, she gains the respect and gratitude of the parents in the room. Should violence ensue, it is more likely those parents will act to protect and care for her. At the heart of this response is the fact that human beings are social creatures and we draw together in times of danger.
+<br>
+In your work, you may see this with colleagues becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
+<br>
+![](recap.png)
+> 5.
+# Posture
+
+This response is an attempt to drive off the danger by pretending to have greater physical strength than one actually does.
+<br>
+Going back to the bank robbery, a manager may confront the robbers with the lie that a silent alarm has been activated and the police are on their way.
+<br>
+In your work, you may see this with colleagues becoming argumentative and obstructive in order to undermine the authority of the trainer.
+<br>
+![](recap.png)
+> 6.
+# Fight
+
+This response is the strategy of destroying or driving off the threat by attacking.
+<br>
+In the bank robbery situation, this would involve one or more people physically attacking the robbers, with or without weapons.
+<br>
+In your work, you might see this by a colleague being blamed for or even insulting another colleague for distress they are experiencing.
+<br>
+![](recap.png)
+> 7.
+# Dissociation
+
+The Dissociation Response is characterized by the slowing of heart rate and breathing, a drop in blood pressure, and the person feeling calm and disconnected from the frightening reality in which they find themselves.
+<br>
+In the situation of the bank robbery, we might imagine a customer starting to giggle inappropriately or merely drifting off into a dreamlike state.
+<br>
+You might see this in your work if someone experiencing great distress becomes emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation.
+<br>
+Dissociation is a sign of serious traumatization.
 ![](recap.png)
 
 
@@ -382,6 +382,21 @@ While the former may be difficult for many people due to the demands of their jo
  <br>
 
 
+## Next
+---
+- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
+- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
+- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
+- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
+- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
+---
+See also:
+- Security First: [Umbrella](https://secfirst.org/index.html)
+- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
+- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
+- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -397,19 +412,4 @@ While the former may be difficult for many people due to the demands of their jo
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
----
-- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
-- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
-- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
-- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
-- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
----
-See also:
-- Security First: [Umbrella](https://secfirst.org/index.html)
-- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
-- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
-- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
-
 

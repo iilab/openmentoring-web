@@ -1,7 +1,4 @@
 # Organisational Security
-## Introduction
-Introduction text...
-
 ## Key takeaways
 ## A New Post
 
@@ -34,4 +31,6 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+Introduction text...
 

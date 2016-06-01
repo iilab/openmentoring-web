@@ -23,26 +23,6 @@ A communication tool that provides end-to-end encryption (such a PGP-encrypted e
 Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
 
 
-## If your communications are compromised
-Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
-<br>
-In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency.
-<br>
-**Stop using the communications services/accounts that you believe are compromised immediately.** Create a new account and remember not to re-use your existing usernames, passwords or email accounts.
-<br>
-# Google products
-Unless your threat model includes surveillance by very well resourced governments such as the USA, the UK, China or many governments listed in Google's transparency report, using Google products may afford you a degree of protection.
-<br>
-Google tools (especially using Google tools on Chrome) can significantly increase security in these situations, and gives you access to more secure email, chat and voice/video conferencing.
-<br>
-This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat. It offers less protection if anyone forwards this information outside of Google, or a different email address then Gmail is added to a Gchat discussion.
-<br>
-# Alternatives to Google
-An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmail and Gchat.
-<br>
-It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
-
-
 ## Secure communication tools
 For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
 
@@ -61,6 +41,26 @@ Tor Browser Bundle can be used to increase your security and privacy while visit
 For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) lesson.
 <br>
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
+
+
+## If your communications are compromised
+Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
+<br>
+In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency.
+<br>
+**Stop using the communications services/accounts that you believe are compromised immediately.** Create a new account and remember not to re-use your existing usernames, passwords or email accounts.
+<br>
+# Google products
+Unless your threat model includes surveillance by very well resourced governments such as the USA, the UK, China or many governments listed in Google's transparency report, using Google products may afford you a degree of protection.
+<br>
+Google tools (especially using Google tools on Chrome) can significantly increase security in these situations, and gives you access to more secure email, chat and voice/video conferencing.
+<br>
+This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat. It offers less protection if anyone forwards this information outside of Google, or a different email address then Gmail is added to a Gchat discussion.
+<br>
+# Alternatives to Google
+An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmail and Gchat.
+<br>
+It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
 
 
 ## Test
