@@ -24,17 +24,17 @@ talking about that it's courageous to bring this subject up and when other peopl
 ## Scenario
 Scenario text...
 
-## Team configurations
-
->give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
-
-
 ## Sharing of information with your teams
 
 >sharing of info/collaboration: generally it's important to think about what you share and what has been shared. on the one end sometimes you want your colelagues to continue investigation so giving them enough of information so they can access ... also a way of dealing with infiltration
 
 
 >link here to operational security section and also to secure communication section
+
+
+## Team configurations
+
+>give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
 
 
 ## Talking about security with your colleagues

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-01T14:57:03.030Z",
+  "updatedAt": "2016-06-01T15:01:47.129Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -509,6 +509,17 @@
     }
   ,
     {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
@@ -534,17 +545,6 @@
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

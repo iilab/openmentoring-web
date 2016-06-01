@@ -3,11 +3,11 @@
 How it works
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 Learning text...
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -1,12 +1,12 @@
 # Your Sources
-## Your sources
-Understand security issues for your sources
-
-
 ## Learn about
 - [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
 - [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
 - [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
+
+
+## Your sources
+Understand security issues for your sources
 
 
 ## Scenario
@@ -35,6 +35,7 @@ It is important consider when and how to contact your sources:  whether to call 
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
 
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

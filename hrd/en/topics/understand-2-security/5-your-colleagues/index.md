@@ -44,6 +44,15 @@ Scenario text...
 >talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
+## Next
+If you found this unit helpful, you might be interested in the following units:
+- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
+- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
+- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
+- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -59,13 +68,4 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-
 

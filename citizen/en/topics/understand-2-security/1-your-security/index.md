@@ -1,12 +1,12 @@
 # Your Security
+## Learn how to
+* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+
+
 ## Introduction
 ![](recap.png)
 
 Learn about creating a security assessment
-
-
-## Learn how to
-* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
 ## Scenario
@@ -60,6 +60,7 @@ Editors working with staffers or freelancers should have substantial input into 
 An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 
+
 ![](recap.png)
 
 
@@ -105,7 +106,6 @@ Editors working with staffers or freelancers should have substantial input into 
 <br>
 An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
-
 
 ![](recap.png)
 
@@ -220,7 +220,6 @@ An independent journalist working without a relationship with a news organizatio
     </question>
 </quiz>
 
-## Next
 
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
