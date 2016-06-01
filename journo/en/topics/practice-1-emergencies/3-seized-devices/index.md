@@ -12,16 +12,6 @@ Learn what to do if your digital devices are taken.
 - [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
 
 
-## Scenario
-![](scenario.png)
-
-Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
-<br>
-![](scenario.png)
-
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
-
-
 ## Assess the situation
 ![](recap.png)
 # Appropriate response
@@ -125,6 +115,25 @@ Are there signs that the device has been physically tampered with? This will hel
 ![](recap.png)
 
 
+## Scenario
+![](scenario.png)
+
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+<br>
+![](scenario.png)
+
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
+
+
+## Next
+* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -140,13 +149,4 @@ Are there signs that the device has been physically tampered with? This will hel
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
-* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
-* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
-See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
-
 

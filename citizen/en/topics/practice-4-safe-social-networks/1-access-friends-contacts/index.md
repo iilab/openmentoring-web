@@ -1,16 +1,9 @@
 # How to control access to friends &amp; contacts?
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Control access to friends and contacts
+Learn to control access to friends and contacts.
 
 
-## Introduction
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
-<br>
-This section will provide instructions on how to control access to your social network friends and contacts.
+## Learn how to
 
 
 ## Scenario
@@ -19,6 +12,13 @@ Mansour and Magda are human rights defenders from north Africa. They are organis
 ###give a different example here that highlights access to friends/contacts
 
 ## Security implications of using social networking sites
+
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+<br>
+This section will provide instructions on how to control access to your social network friends and contacts.
+
 Before you use any social networking site it is important to understand how they make you vulnerable, and then take steps to protect yourself and the people you work with. This guide will help you understand the security implications of using social networking sites.
 <br>
 Online communities have existed since the invention of the internet. First there were bulletin boards and email lists, which gave people around the world opportunities to connect, to communicate and to share information about particular subjects.
