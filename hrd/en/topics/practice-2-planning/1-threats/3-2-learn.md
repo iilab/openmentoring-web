@@ -1,29 +1,3 @@
-# Understanding Threats
-## Threats
-Learn about identifying and dealing with threats
-
-
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-## Scenario
-Scenario text...
-
-## What are threats?
-A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
-<br>
-For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
-<br>
-There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats.
-<br>
-To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
-<br>
-In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
-
-
 ## Conducting a threat assessment
 There five steps to conducting a threat assessment:
 
@@ -86,25 +60,3 @@ A hacker on an open Wi-Fi network can access your unencrypted communications. Yo
 Based on the results of your risk analysis, you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
 <br>
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
-
-
-## Test
-If you want to keep your house and possessions safe, here are a few questions you might ask:
-
--Should I lock my door?
--What kind of lock or locks should I invest in?
--Do I need a more advanced security system?
--What are the assets in this scenario?
-  -The privacy of my home
-  -The items inside my home
--What is the threat?
-  -Someone could break in.
-  -What is the actual risk of someone breaking in? Is it likely?
-<br>
-Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
-
-## Next
-See also:
-* Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
-

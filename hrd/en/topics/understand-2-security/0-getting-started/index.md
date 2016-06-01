@@ -28,7 +28,6 @@ Scenario text...
 
 
 
-## Learn
 ![](recap.png)
 About what is in the unit ...:
 * [Unit description!](topics/practice-1-emergencies/1-seeking-help)
@@ -38,7 +37,6 @@ About what is in the next unit ...:
 <br>
 
 
-## Next
 ---
 - understand-2-security/0-getting-started
 - internal-...

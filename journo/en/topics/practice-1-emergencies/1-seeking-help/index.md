@@ -49,6 +49,17 @@ To learn more about communicating safely on a smartphone, refer to the [Safe Pho
 > End to end better than end to server better than none.
 
 
+## Dealing with insecure channels
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+<br>
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
+<br>
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+<br>
+![](recap.png)
+> Share only limited information using code words.
+
+
 ## Establishing trust when reaching out
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>
@@ -60,17 +71,6 @@ When you are initiating contact with third parties you might want to create a ne
 <br>
 ![](recap.png)
 > have a video chat.
-
-
-## Dealing with insecure channels
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-<br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
-<br>
-If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
-<br>
-![](recap.png)
-> Share only limited information using code words.
 
 
 ## Introduction

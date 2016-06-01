@@ -16,18 +16,6 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
@@ -90,9 +78,9 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your mission](topics/understand-2-security/3-your-mission-hrd/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
@@ -123,4 +111,16 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
   
