@@ -57,7 +57,6 @@ Is your website down? Has it been defaced?
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
 
 
-## Next
 ---
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
 - en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means

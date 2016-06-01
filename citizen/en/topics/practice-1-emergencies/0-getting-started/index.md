@@ -6,6 +6,11 @@
 Learn how to recognise and deal with the most common types of digital threats.
 
 
+## Learn how to
+- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
+- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
+
+
 ## Scenario
 ![](scenario.png)
 
@@ -50,11 +55,6 @@ Is your website down? Has it been defaced?
 
 <br>
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
-
-
-## Learn how to
-- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
-- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
 
 
 ## Next
