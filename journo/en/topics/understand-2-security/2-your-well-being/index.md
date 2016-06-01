@@ -1,54 +1,18 @@
 # Your Well Being
-## Post-traumatic stress disorder
-# Identifying PTSD
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+## Introduction
+Learn about ensuring your short and long term well-being.
 
-# Effects of PTSD
-The specific symptoms of PTSD can vary widely between individuals, but generally fall into the categories described in the following cards.
-<br>
-These symptoms are often severe and persistent and enough to have a significant impact on the person’s day-to-day life.
-<br>
-**Re-experiencing**
-Re-experiencing is the most typical symptom of PTSD. This is when a person involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations.
-<br>
-This can even include physical sensations such s pain, sweating and trembling or negative thoughts about their experience.
-<br>
-**Avoidance**
-Trying to avoid being reminded of the traumatic event is another key symptom of PTSD.
-<br>
-This usually means avoiding certain people or places that remind you of the trauma, or avoiding talking to anyone about your experience. Many people with PTSD try distraction themselves with work or hobbies.
-<br>
-Some people attempt to deal with their feelings by trying not to feel anything at all, which can lead to the person becoming isolated and withdrawn.
-<br>
-**Feeling on edge**
-Someone with PTSD may be very anxious and find it difficult to relax. They may be constantly aware of threats and easily startled.
-<br>
-This state of mind is known s hyper-arousal. Hyper-arousal often leads to irritability, angry outburst, sleeping problems (insomnia) and difficulty concentrating.
-<br>
-**Other problems**
-- depression, anxiety and phobias
-- drug misuse or alcohol misuse
-- headaches, dizziness, chest pains and stomach aches
-- PTSD sometimes leads to work-related problems and the breakdown of relationships.
 
-# Dealing with PTSD
-It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
-<br>
-If you are still having problems for weeks after the traumatic experience, or if symptoms are particularly troublesome, you should visit a doctor.
-<br>
-Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
-<br>
-PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
-<br>
-**Treatment options**
-- Watchful waiting — waiting to see whether the symptoms improve without treatment
-- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
-- Antidepressant medication
+## Learn how to
+- [Gettto grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
+- [Identify and deal with chronic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
+- [Identify and deal with traumatic stress](en/topics/understand-2-security/2-your-well-being/3-4-learn.md)
+- [Identify and deal with post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
+- [Build your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
+
+## Scenario
+Scenario text...
 
 ## Learn
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
@@ -62,6 +26,7 @@ This response involves a person becoming utterly still—although highly alert�
 <br>
 A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
 <br>
+![](recap.png)
 > 2.
 # Flight
 
@@ -69,7 +34,7 @@ This response is the strategy that puts as much distance as possible between us 
 <br>
 You might experience this in your work when sources or colleagues stop listening to you, evading or changing the subject, talking to a neighbor, or crack inappropriate jokes.
 <br>
-
+![](recap.png)
 > 3.
 # Comply
 
@@ -79,7 +44,7 @@ In the bank robbery example, this could be an employee who assists the robbers i
 <br>
 In your work, you may see this with people participating in something they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work.
 <br>
-
+![](recap.png)
 > 4.
 # Tend and Befriend
 
@@ -93,7 +58,7 @@ In doing so, she gains the respect and gratitude of the parents in the room. Sho
 <br>
 In your work, you may see this with colleagues becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
 <br>
-
+![](recap.png)
 > 5.
 # Posture
 
@@ -103,7 +68,7 @@ Going back to the bank robbery, a manager may confront the robbers with the lie 
 <br>
 In your work, you may see this with colleagues becoming argumentative and obstructive in order to undermine the authority of the trainer.
 <br>
-
+![](recap.png)
 > 6.
 # Fight
 
@@ -113,7 +78,7 @@ In the bank robbery situation, this would involve one or more people physically 
 <br>
 In your work, you might see this by a colleague being blamed for or even insulting another colleague for distress they are experiencing.
 <br>
-
+![](recap.png)
 > 7.
 # Dissociation
 
@@ -124,6 +89,7 @@ In the situation of the bank robbery, we might imagine a customer starting to gi
 You might see this in your work if someone experiencing great distress becomes emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation.
 <br>
 Dissociation is a sign of serious traumatization.
+![](recap.png)
 
 
 ## Chronic stress
@@ -137,7 +103,8 @@ If exposure to stress is excessive or long-term however, symptoms can persist an
 Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms.
 <br>
 Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
-
+![](recap.png)
+<br>
 # Effects of Chronic stress
 **Physical symptoms:**
 -Exhaustion
@@ -222,6 +189,8 @@ Sharing a problem with others may help you find a solution and will make you fee
 Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 **Think positive!**
+<br>
+![](recap.png)
 
 
 ## Traumatic stress
@@ -233,6 +202,8 @@ It is therefore important to know how to react following a traumatic event, and 
 Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
 Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+<br>
+![](recap.png)
 <br>
 
 # Effects of traumatic stress
@@ -279,7 +250,9 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 - Feel that your heart is beating faster.
 <br>
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
-
+<br>
+![](recap.png)
+<br>
 # Dealing with traumatic stress
 
 Everyone has natural ways of coping. Encourage people to use their own positive coping strategies. This will help them feel stronger and regain a sense of control.
@@ -307,6 +280,65 @@ Adapt the following suggestions to take account of the person and what is possib
 <br>
 **Weeks and months after**
 Keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+<br>
+
+
+## Post-traumatic stress disorder
+# Identifying PTSD
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+<br>
+![](recap.png)
+<br>
+# Effects of PTSD
+The specific symptoms of PTSD can vary widely between individuals, but generally fall into the categories described in the following cards.
+<br>
+These symptoms are often severe and persistent and enough to have a significant impact on the person’s day-to-day life.
+<br>
+**Re-experiencing**
+Re-experiencing is the most typical symptom of PTSD. This is when a person involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations.
+<br>
+This can even include physical sensations such s pain, sweating and trembling or negative thoughts about their experience.
+<br>
+**Avoidance**
+Trying to avoid being reminded of the traumatic event is another key symptom of PTSD.
+<br>
+This usually means avoiding certain people or places that remind you of the trauma, or avoiding talking to anyone about your experience. Many people with PTSD try distraction themselves with work or hobbies.
+<br>
+Some people attempt to deal with their feelings by trying not to feel anything at all, which can lead to the person becoming isolated and withdrawn.
+<br>
+**Feeling on edge**
+Someone with PTSD may be very anxious and find it difficult to relax. They may be constantly aware of threats and easily startled.
+<br>
+This state of mind is known s hyper-arousal. Hyper-arousal often leads to irritability, angry outburst, sleeping problems (insomnia) and difficulty concentrating.
+<br>
+**Other problems**
+- depression, anxiety and phobias
+- drug misuse or alcohol misuse
+- headaches, dizziness, chest pains and stomach aches
+- PTSD sometimes leads to work-related problems and the breakdown of relationships.
+<br>
+![](recap.png)
+<br>
+# Dealing with PTSD
+It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
+<br>
+If you are still having problems for weeks after the traumatic experience, or if symptoms are particularly troublesome, you should visit a doctor.
+<br>
+Your doctor may refer you to mental health specialists if they feel you would benefit from this treatment.
+<br>
+PTSD can be successfully treated, even when it develops many years after a traumatic event. Treatment depends on the severity of symptoms and how soon they occur after the traumatic event.
+<br>
+**Treatment options**
+- Watchful waiting — waiting to see whether the symptoms improve without treatment
+- Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
+- Antidepressant medication
+<br>
+![](recap.png)
+<br>
 
 
 ## Build your emotional resilience
@@ -331,6 +363,8 @@ If you are suffering from burnout , the key to recovery is rest. It is essential
 <br>
 During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
 <br>
+![](recap.png)
+<br>
 # Vicarious Traumatization
 Vicarious traumatization refers to traumatic stress arising from exposure to the frightening experiences of others.
 <br>
@@ -343,30 +377,9 @@ The prevention of vicarious traumatization requires limiting exposure to distres
 While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter.
 <br>
  If you are suffering from vicarious traumatization, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
-
-
-## Learn
-
-
-## Learn
-
-
-## Learn
-
-
-## Introduction
-Learn about your short and long term well-being as a journalist.
-
-
-## Scenario
-Scenario text...
-
-## Learn how to
-- [Getting to grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
-- [Identify and deal with chronic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
-- [Identify and deal with traumatic stress](en/topics/understand-2-security/2-your-well-being/3-4-learn.md)
-- [Identify and deal with post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
-- [Build your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
+ <br>
+ ![](recap.png)
+ <br>
 
 
 ## Test

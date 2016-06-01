@@ -85,7 +85,7 @@ Are you seeing a website that is not yours? Are you receiving a warning from you
 See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
 
-## Introduction
+## Reasons your site may be down
 Learn why your website might be down
 
 
