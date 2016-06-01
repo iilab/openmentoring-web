@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-01T16:54:46.438Z",
+  "updatedAt": "2016-06-01T17:11:23.569Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -46,6 +46,17 @@
     }
   ,
     {
+      "slug": "practice-5-internet-anonymity",
+      "type": "topic",
+      "title": "Using the Internet Anonymously",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-1-open-mentoring",
       "type": "topic",
       "title": "Using the Open Mentoring App",
@@ -65,17 +76,6 @@
       "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity",
-      "type": "topic",
-      "title": "Using the Internet Anonymously",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -101,17 +101,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec",
-      "type": "topic",
-      "title": "Understanding Operational Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec",
       "type": "topic",
       "title": "Understanding Digital Security",
@@ -120,6 +109,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec",
+      "type": "topic",
+      "title": "Understanding Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     
@@ -289,17 +289,6 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
-      "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_2-access-personal-details",
       "type": "unit",
       "title": "How to control access to your personal details?",
@@ -333,6 +322,17 @@
     }
   ,
     {
+      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "type": "unit",
+      "title": "How to control access to friends &amp; contacts?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_5-who-can-access",
       "type": "unit",
       "title": "Who can access your information on Social Networking platforms?",
@@ -341,6 +341,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
+      "type": "unit",
+      "title": "How to leave less traces while browsing",
+      "parentTitle": "Using the Internet Anonymously",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -396,39 +429,6 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-internet-anonymity_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Using the Internet Anonymously",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-internet-anonymity/index.json.gz"
     }
   ,
     {
@@ -575,39 +575,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -682,6 +649,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ]  
 }

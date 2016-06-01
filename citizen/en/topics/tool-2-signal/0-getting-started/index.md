@@ -1,5 +1,4 @@
 # Getting Started with Signal
-## Introduction
 Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone. Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 
 
@@ -37,12 +36,6 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 <br>
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
-
-## Next
-If you found this useful, you might be interested in reading the following units:
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
 ## How-to
 This how to will go through the following steps:
@@ -140,4 +133,10 @@ Step 5: Tap Timeout interval and in the next screen enter after what time you wa
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 Figure 11: Signal timeout settings
 
+
+## Next
+If you found this useful, you might be interested in reading the following units:
+ - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
+ - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 

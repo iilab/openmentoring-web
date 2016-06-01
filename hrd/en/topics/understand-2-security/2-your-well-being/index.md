@@ -1,4 +1,8 @@
 # Your Well Being
+## Introduction
+Learn about ensuring your short and long term well-being.
+
+
 ## Learn how to
 - [Gettto grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
 - [Identify and deal with chronic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
@@ -7,9 +11,8 @@
 - [Build your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
 
 
-## Introduction
-Learn about ensuring your short and long term well-being.
-
+## Scenario
+Scenario text...
 
 ## Learn
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
@@ -378,9 +381,6 @@ While the former may be difficult for many people due to the demands of their jo
  ![](recap.png)
  <br>
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
