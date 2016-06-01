@@ -1,4 +1,9 @@
 # Getting Started
+## Introduction
+Introduction text...
+1. What is the unit about. Should answer by itself: "Am I in the right place?"
+
+
 ## Key takeaways
 Key takeaways from this topic include lessons on the following:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
@@ -7,11 +12,6 @@ Key takeaways from this topic include lessons on the following:
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-## Introduction
-Introduction text...
-1. What is the unit about. Should answer by itself: "Am I in the right place?"
-
 
 ## Scenario
 

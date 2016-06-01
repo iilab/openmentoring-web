@@ -1,51 +1,208 @@
 # Your Security
-## Key takeaways
-* [Why do you need a security assessment as a journalist?](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* What goes into making a security assessment?
-
-
 ## Introduction
 ![](recap.png)
 
-Journalists often work on stories that may expose them to risk of physical or other forms of harm. This unit will provide an overview of thinking about security in terms of yourself.
+Learn about creating a security assessment
 
+
+## Learn how to
+* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
 ## Scenario
-Lisa is starting a new story about corruption in the gold mining industry, and wants to speak with a number of stakeholder involved.
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
 <br>
-Before making plans to meet, however, she makes sure she has told colleagues of her plans and the time and location of her meeting, as well as chosen to meet the stakeholders in a public space.
-<br>
-After the meeting, Lisa again contacts her colleagues to inform them that she is safe.
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't  she won't be best prepared.
+
 
 ## Learn
-Diverse sources should be consulted, including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+Your security and well being are always more important than a story. To minimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+<br>
+> Step 1
+# Identify known hazards
+
+Identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
+<br>
+Consider the possibility that any circumstance — from a tense political situation to a natural disaster — can escalate in severity.
+<br>
+The assessment should include:
+- where to stay and where to seek refuge if necessary
+- where and how to get updated information inside the country
+<br>
+- whether equipment such as a weather-band or shortwave radio is needed
+- whom to contact in the country, from local human rights groups to foreign embassies, for emergency information
+<br>
+ - travel plans and methods within the country
+ - multiple entry and exit routes.
+<br>
+
+> Step 2
+# Address communications infrastructure
+
+The assessment should address the communications infrastructure in the reporting area, identifying any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so?
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include?
+
+
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
 <br>
 Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
 <br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers, researching the risks, and arranging a contact network.
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+
+![](recap.png)
 
 
 ## Learn
-![](recap.png)
-Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+Your security and well being are always more important than a story. To minimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
 <br>
-This assessment should identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
+> Step 1
+# Identify known hazards
+
+Identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
 <br>
-Diverse sources should be consulted, including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+Consider the possibility that any circumstance — from a tense political situation to a natural disaster — can escalate in severity.
+<br>
+The assessment should include:
+- where to stay and where to seek refuge if necessary
+- where and how to get updated information inside the country
+<br>
+- whether equipment such as a weather-band or shortwave radio is needed
+- whom to contact in the country, from local human rights groups to foreign embassies, for emergency information
+<br>
+ - travel plans and methods within the country
+ - multiple entry and exit routes.
+<br>
+
+> Step 2
+# Address communications infrastructure
+
+The assessment should address the communications infrastructure in the reporting area, identifying any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so?
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include?
+
+
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
 <br>
 Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
 <br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers, researching the risks, and arranging a contact network.
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
+
+![](recap.png)
 
 
 ## Learn
-![](recap.png)
-Your security and well being are always more important than a story. To mimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+Your security and well being are always more important than a story. To minimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
 <br>
-This assessment should identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
+> Step 1
+# Identify known hazards
+
+Identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
+<br>
+Consider the possibility that any circumstance — from a tense political situation to a natural disaster — can escalate in severity.
+<br>
+The assessment should include:
+- where to stay and where to seek refuge if necessary
+- where and how to get updated information inside the country
+<br>
+- whether equipment such as a weather-band or shortwave radio is needed
+- whom to contact in the country, from local human rights groups to foreign embassies, for emergency information
+<br>
+ - travel plans and methods within the country
+ - multiple entry and exit routes.
+<br>
+
+> Step 2
+# Address communications infrastructure
+
+The assessment should address the communications infrastructure in the reporting area, identifying any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so?
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include?
+
+
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+
+
+![](recap.png)
+
+
+## Learn
+Your security and well being are always more important than a story. To minimise potential risks, it is important to prepare a security assessment before taking on a potentially dangerous story.
+<br>
+> Step 1
+# Identify known hazards
+
+Identify contact people and the time and means of communication; describe all known hazards, including the history of problems in the reporting area; and outline contingency plans that address the perceived risks.
+<br>
+Consider the possibility that any circumstance — from a tense political situation to a natural disaster — can escalate in severity.
+<br>
+The assessment should include:
+- where to stay and where to seek refuge if necessary
+- where and how to get updated information inside the country
+<br>
+- whether equipment such as a weather-band or shortwave radio is needed
+- whom to contact in the country, from local human rights groups to foreign embassies, for emergency information
+<br>
+ - travel plans and methods within the country
+ - multiple entry and exit routes.
+<br>
+
+> Step 2
+# Address communications infrastructure
+
+The assessment should address the communications infrastructure in the reporting area, identifying any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so?
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include?
+
+
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+
+
+![](recap.png)
+
 
 ## Test
 <quiz name="Gitbook Quiz">
@@ -64,5 +221,7 @@ This assessment should identify contact people and the time and means of communi
 </quiz>
 
 ## Next
+
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 

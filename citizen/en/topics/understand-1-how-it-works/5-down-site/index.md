@@ -94,7 +94,6 @@ Learn why your website might be down
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
