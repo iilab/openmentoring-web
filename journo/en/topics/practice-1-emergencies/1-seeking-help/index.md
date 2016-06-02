@@ -31,6 +31,24 @@ Sending unencrypted communication is like sending a postcard, anyone who has acc
 ![](recap.png)
 
 
+## Encrypted channels
+Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+<br>
+Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation and the activities in which you are involved.
+<br>
+A communication tool that provides end-to-end encryption is recommended. PGP-encrypted email, or chat with OTR or Signal on your phone encrypt messages "all the way" (between you and your recipient).
+<br>
+If an end-to-end encrypted tool is not available, use tools that encrypt message only between you and the provider. Such as Gmail, Facebook, or Twitter which all use HTTPS.
+<br>
+This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available.
+<br>
+To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
+<br>
+![](recap.png)
+> End to end better than end to server better than none.
+
+
 ## Dealing with insecure channels
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
@@ -55,22 +73,20 @@ When you are initiating contact with third parties you might want to create a ne
 > have a video chat.
 
 
-## Encrypted channels
-Sending encrypted communication is like placing the postcard inside a safe and then sending the safe, which only you and those you trust know the combination to and are able to open and read the message.
+## Introduction
+![](unit.png)
+
+Establish secure communications when reaching out for help.
+
+
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
-Secure communication is always a trade-off between security and convenience. Choosing the most appropriate form of secure communication will depend on your unique situation and the activities in which you are involved.
-<br>
-A communication tool that provides end-to-end encryption is recommended. PGP-encrypted email, or chat with OTR or Signal on your phone encrypt messages "all the way" (between you and your recipient).
-<br>
-If an end-to-end encrypted tool is not available, use tools that encrypt message only between you and the provider. Such as Gmail, Facebook, or Twitter which all use HTTPS.
-<br>
-This, in turn, is better than using unencrypted communications (such as a postcard, your phone or text messages). Do the best that you can with the resources and skills available.
-<br>
-To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
-To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
-<br>
-![](recap.png)
-> End to end better than end to server better than none.
+![](scenario.png)
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Learn how to
@@ -119,22 +135,6 @@ Depending on how advanced your digital security and operational security practic
 In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
-
-## Introduction
-![](unit.png)
-
-Establish secure communications when reaching out for help.
-
-
-## Scenario
-![](scenario.png)
-
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png)
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
 
 ## Test
 <quiz name="">

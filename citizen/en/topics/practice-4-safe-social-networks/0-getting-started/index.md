@@ -15,6 +15,23 @@ If you work with sensitive information and topics, and are interested in using s
 Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
 
 
+## Learn how to
+
+
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+<br>
+This section, adopted from Tactical Technology Collective's [Security in a Box,](https://securityinabox.org/) will provide an overview of how to use social networks safer. Topics to be covered include:
+- [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
+- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
+- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
+- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
+- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
+- Establishing trust with others on Social Networking platforms
+
+
 ## Scenario
 Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. 
 <br>
@@ -43,36 +60,6 @@ They want to use Facebook to publicise the event. They are worried that the auth
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
 <br>
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-
-## Learn how to
-
-
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
-<br>
-This section, adopted from Tactical Technology Collective's [Security in a Box,](https://securityinabox.org/) will provide an overview of how to use social networks safer. Topics to be covered include:
-- [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
-- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
-- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
-- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
-- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
-- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
-- Establishing trust with others on Social Networking platforms
-
-
-## Test you social networking knowledge!
-
-
-## Next
-If you found this section useful, you might be interested in the following sections:
-- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
-- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
-<br>
-- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
-- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
-- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
 
 
 ## Social networking basics
@@ -104,5 +91,18 @@ When you enter a social networking site, you are leaving the freedoms of the int
 Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service.
 <br>
 Essentially you are giving all your data over to the owners and trusting them with it.
+
+
+## Test you social networking knowledge!
+
+
+## Next
+If you found this section useful, you might be interested in the following sections:
+- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
+- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
+<br>
+- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
+- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
 
 

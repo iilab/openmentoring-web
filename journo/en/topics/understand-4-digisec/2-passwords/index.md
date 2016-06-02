@@ -1,4 +1,8 @@
 # Passwords
+## Getting started with passwords
+Learn about how to create strong and secure passwords
+
+
 ## Learn how to
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
@@ -9,10 +13,6 @@
 
 ## Scenario
 Scenario text...
-
-## Getting started with passwords
-Learn about how to create strong and secure passwords
-
 
 ## Password basics
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission

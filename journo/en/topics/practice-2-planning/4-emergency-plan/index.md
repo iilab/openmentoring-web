@@ -1,4 +1,7 @@
 # Preparing for emergencies with your contacts
+## Introduction
+
+
 ## Learn how to
 - What should go into an emergency plan
 - Who to share your emergency plan with
@@ -43,9 +46,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
         <answer>No</answer>
     </question>
 </quiz>
-
-## Introduction
-
 
 ## Next
 If you found this useful, you might be interested in the following:

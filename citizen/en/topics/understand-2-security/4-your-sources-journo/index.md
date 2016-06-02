@@ -3,16 +3,16 @@
 Understand security issues for your sources
 
 
-## Scenario
-Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
-<br>
-He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
-
-
 ## Learn about
 - [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
 - [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
 - [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
+
+
+## Scenario
+Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
+<br>
+He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
 
 
 ## Why it&#39;s important to protect your sources

@@ -5,6 +5,13 @@
 Recover from having your website from being attacked or defaced.
 
 
+## Learn how to
+- [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
+- [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
+- [Deal with a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
+- [Deal with website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
+
+
 ## Scenario
 ![](scenario.png)
 
@@ -138,12 +145,5 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
 * Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
-
-
-## Learn how to
-- [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
-- [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
-- [Deal with a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
-- [Deal with website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
 
 

@@ -3,6 +3,14 @@
 Know what measures to take to understand risks faced as a journalist.
 
 
+## Learn how to
+- [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
+- [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
+- [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
+- [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
+- [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
+
+
 ## Scenario
 Scenario text...
 
@@ -107,14 +115,6 @@ In these cases it can be useful to think of the different threats in terms of th
 | Impact      | Low | Medium   | High                      | Catastrophic |
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
-
-
-## Learn how to
-- [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
-- [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
-- [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
-- [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
-- [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
 ## Test

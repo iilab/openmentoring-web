@@ -1,4 +1,7 @@
 # Establishing Trust
+## Introduction
+Introduction text...
+
 ## Key takeaways
 ## A New Post
 
@@ -26,9 +29,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Introduction
-Introduction text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

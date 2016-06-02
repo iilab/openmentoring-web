@@ -1,12 +1,12 @@
 # Secure Communications
+## Introduction
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
+
 ## Learn about
 - secure communication basics
 - What to do if you believe your communication channels have been compromised?
 - Using secure communications tools
 
-
-## Introduction
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
 ## Scenario
 Scenario text...

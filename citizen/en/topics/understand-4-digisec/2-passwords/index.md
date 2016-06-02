@@ -1,14 +1,14 @@
 # Passwords
+## Getting started with passwords
+Learn about how to create strong and secure passwords
+
+
 ## Learn how to
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
 - [Test the strength of your password](en/topics/understand-4-digisec/2-passwords/3-3-learn.md)
 - [Use a password manager](en/topics/understand-4-digisec/2-passwords/3-4-learn.md)
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
-
-
-## Getting started with passwords
-Learn about how to create strong and secure passwords
 
 
 ## Scenario
@@ -59,12 +59,6 @@ Repeating patterns will make your passwords easy to remember, though it can put 
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
 
 
-## Test your password strength
-To test your password, you can play around with the “How secure is my password?” tool. This site will calculate how quickly a desktop PC could crack your password. “Hello12,” for example, would take about 19 seconds.
-<br>
-But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
-
-
 ## Use a password manager
 We recommend you use a password manager to keep track of passwords that are long and complex enough to be adequately secure. A secure password database, such as KeypassX, is a helpful tool for managing passwords for multiple accounts.
 <br>
@@ -72,6 +66,12 @@ Password managers are considered to be the most secure way to use complex and va
 <br>
 To enhance convenience, you can synchronise your password database - for example, by using a cloud service, so that you can access your passwords on various computers as well as your phone. That way, you'll have round the clock access to strong passwords.
 <br>
+
+
+## Test your password strength
+To test your password, you can play around with the “How secure is my password?” tool. This site will calculate how quickly a desktop PC could crack your password. “Hello12,” for example, would take about 19 seconds.
+<br>
+But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
 
 
 ## Two-factor authentication

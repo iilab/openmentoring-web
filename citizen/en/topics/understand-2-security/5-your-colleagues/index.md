@@ -30,13 +30,6 @@ Scenario text...
 >give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
 
 
-## Talking about security with your colleagues
-
->talking about security - impact things can have with your colleagues rather than putting on a brave face/pretending these risks do not exist. this promotes a culture of carelessness.
-
->talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
-
-
 ## Sharing of information with your teams
 
 
@@ -44,6 +37,13 @@ Scenario text...
 
 
 >link here to operational security section and also to secure communication section
+
+
+## Talking about security with your colleagues
+
+>talking about security - impact things can have with your colleagues rather than putting on a brave face/pretending these risks do not exist. this promotes a culture of carelessness.
+
+>talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
 ## Test
@@ -62,6 +62,7 @@ Scenario text...
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
 - (en/topics/understand-2-security/2-your-well-being/1-intro.md): Your well-being

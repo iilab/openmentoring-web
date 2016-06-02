@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-02T11:19:06.409Z",
+  "updatedAt": "2016-06-02T12:48:44.603Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -509,9 +509,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -520,9 +520,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
