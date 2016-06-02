@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-02T01:22:32.499Z",
+  "updatedAt": "2016-06-02T09:34:18.777Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -40,7 +40,7 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -283,7 +283,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -399,17 +399,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
@@ -427,6 +416,17 @@
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }

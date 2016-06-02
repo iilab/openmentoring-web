@@ -39,7 +39,6 @@ Things You Should Know About This Tool Before You Start
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
 
-## How-to
 Install Signal by following the following 3 steps:
 
 # Step 1. Download Signal

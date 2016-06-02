@@ -1,24 +1,15 @@
 # Seeking Remote Help
-## Organisations you may reach out to
-Dealing with digital emergencies:
-- Digital Security Helpline (Access Now): help@accessnow.org
-
-Dealing with emergencies within the first 24 hours:
-- Front Line Defenders: info@frontlinedefenders.org
-- Rory Peck Trust: www.rorypecktrust.org
-
+## Establishing trust when reaching out
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>
-Dealing with emergencies after the first 24 hours:
-- Amnesty International: www.amnesty.org
-- Committee to Protect Journalists: JournAsst@cpj.org
-- Reporters Sans Frontieres: internet@rsf.org
-
+It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
 <br>
-Providing digital emergency expertise:
-- Tactical Technology Collective: ttc@tacticaltech.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-- Electronic Frontier Foundation: info@eff.org
+If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
+<br>
+When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
+<br>
+![](recap.png)
+> have a video chat.
 
 
 ## Unencrypted channels
@@ -60,17 +51,26 @@ If you believe that you cannot trust your computer or device you might want to f
 > Share only limited information using code words.
 
 
-## Establishing trust when reaching out
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
+## Organisations you may reach out to
+Dealing with digital emergencies:
+- Digital Security Helpline (Access Now): help@accessnow.org
+
+Dealing with emergencies within the first 24 hours:
+- Front Line Defenders: info@frontlinedefenders.org
+- Rory Peck Trust: www.rorypecktrust.org
+
 <br>
-It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
+Dealing with emergencies after the first 24 hours:
+- Amnesty International: www.amnesty.org
+- Committee to Protect Journalists: JournAsst@cpj.org
+- Reporters Sans Frontieres: internet@rsf.org
+
 <br>
-If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
-<br>
-When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
-<br>
-![](recap.png)
-> have a video chat.
+Providing digital emergency expertise:
+- Tactical Technology Collective: ttc@tacticaltech.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
+- Electronic Frontier Foundation: info@eff.org
 
 
 ## Introduction
@@ -113,19 +113,6 @@ Secure communication is always a trade-off between security and convenience.
 <br>
 Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
 <br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
 When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
 <br>
 If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
@@ -135,6 +122,19 @@ Depending on how advanced your digital security and operational security practic
 In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
 <br>
 If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
+
+
+Secure communication is always a trade-off between security and convenience. 
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
+<br>
+Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+<br>
+Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
+<br>
+
 
 ## Test
 <quiz name="">

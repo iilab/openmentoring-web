@@ -3,10 +3,9 @@
 Learn about identifying and dealing with threats
 
 
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Learn about
+- [What are threats?](en/topics/practice-2-planning/1-threats/3-1-learn.md)
+- [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)
 
 
 ## Scenario
@@ -24,8 +23,7 @@ To become more secure, you must determine what you need to protect, and whom you
 In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
 
 
-## Conducting a threat assessment
-There five steps to conducting a threat assessment:
+## Five steps to Conducting a threat assessment
 
 > Step 1.
 # What do you want to protect?
