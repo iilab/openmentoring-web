@@ -6,9 +6,6 @@
 Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 
-
-
-
 ## Scenario
 ![](scenario.png)
 
@@ -35,4 +32,6 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+
 

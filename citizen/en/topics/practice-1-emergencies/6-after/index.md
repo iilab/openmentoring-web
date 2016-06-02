@@ -36,7 +36,6 @@ Some organisations offer funding to individuals or groups who have encountered a
 If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
 
 
-## Traumatic stress
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
 It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.

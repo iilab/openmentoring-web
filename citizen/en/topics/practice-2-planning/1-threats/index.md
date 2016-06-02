@@ -11,26 +11,12 @@ Learn about identifying and dealing with threats
 ## Scenario
 Scenario text...
 
-## What are threats?
-A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
-<br>
-For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
-<br>
-There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats.
-<br>
-To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
-<br>
-In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
-
-
 ## Five steps to Conducting a threat assessment
 
 > Step 1.
 # What do you want to protect?
 
-An asset is something you value and want to protect. When we are talking about digital security, the assets in question are usually information.
-<br>
-For example, your emails, contact lists, instant messages, and files are all assets. Your devices are also assets.
+What information could put you, your work or others at risk if were public? This is often the kind of information kept in your emails, contact lists, messages and files. It might relate to a specific sensitive campaign you are working on.
 <br>
 Write down a list of data that you keep, where it’s kept, who has access to it, and what stops others from accessing it.
 <br>
@@ -38,9 +24,9 @@ Write down a list of data that you keep, where it’s kept, who has access to it
 > Step 2.
 # Who do you want to protect it from?
 
-It’s important to understand who might want to target you or your information, or who is your adversary. An adversary is any person or entity that poses a threat against an asset or assets.
+This could be any person or entity that poses a threat against an your or your work, also known as an adversary. Think about who would have a motive in reading or deleting your information or disrupting your work.
 <br>
-Examples of potential adversaries are your boss, your government, or a hacker on a public network.
+Examples could be a government, a company you are exposing, your boss, or a hacker.
 <br>
 Make a list of who might want to get ahold of your data or communications. It might be an individual, a government agency, or a corporation.
 <br>
@@ -56,21 +42,12 @@ It is important to distinguish between threats and risks. While a threat is a ba
 <br>
 For instance, there is a threat that your building might collapse, but the risk of this happening is far greater in San Francisco (where earthquakes are common) than in Stockholm (where they are not).
 <br>
-[Conducting a risk analysis](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) is both a personal and a subjective process; not everyone has the same priorities or views threats in the same way.
-<br>
-Many people find certain threats unacceptable no matter what the risk, because the mere presence of the threat at any likelihood is not worth the cost.
-<br>
-In other cases, people disregard high risks because they don't view the threat as a problem.
-<br>
-In a military context, for example, it might be preferable for an asset to be destroyed than for it to fall into enemy hands. Conversely, in many civilian contexts, it's more important for an asset such as email service to be available than confidential.
-
-
 > Step 4
 # How bad are the consequences if you fail?
 
 The motives of adversaries differ widely, as do their attacks.
 <br>
-A government trying to prevent the spread of a video showing police violence may be content to simply delete or reduce the availability of that video. Whereas a political opponent may wish to gain access to secret content and publish it without you knowing.
+A company trying to prevent the spread of a video showing their illegal activity may simply want to delete the video, whereas a government may wish to gain access to the names/details of activists it sees as a threat to the state in order to arrest or harass them.
 <br>
 Write down what your adversary might want to do with your private data.
 <br>
@@ -81,9 +58,25 @@ A hacker on an open Wi-Fi network can access your unencrypted communications. Yo
 > Step 5
 # How much trouble are you willing to go through in order to try to prevent those?
 
-Based on the results of your risk analysis, you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
+This means figuring out which threats you are going to take seriously, and which may be too rare or too harmless (or too difficult to combat) to worry about.
+<br>
+Many people find certain threats unacceptable no matter what the risk, because the presence of the threat at any likelihood is not worth the cost. In other cases, people disregard high risks because they don't view the threat as a problem.
+<Br>
+Based on the results of your [risk analysis](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md), you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
 <br>
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
+
+
+## What are threats?
+A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
+<br>
+For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
+<br>
+There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats.
+<br>
+To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
+<br>
+In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
 
 
 ## Test

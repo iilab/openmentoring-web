@@ -1,11 +1,4 @@
 # How to share the Open Mentoring App
-## How to share Open Mentoring content with others?
-
- * First you need to share the app.
- * Then you need to share content.
-
-[Learn more about risk types and levels](resources/risk-assessment.md)
-
 ## Key takeaways
 ## A New Post
 
@@ -40,11 +33,19 @@ First you need to share the app
 Then you need to share the content
  * ...
 
+## How to share Open Mentoring content with others?
+
+ * First you need to share the app.
+ * Then you need to share content.
+
+[Learn more about risk types and levels](resources/risk-assessment.md)
+
 ## Share
 
 
 ## Share
 
 
+## Share
 
 

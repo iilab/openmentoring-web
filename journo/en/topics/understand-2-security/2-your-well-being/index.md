@@ -1,8 +1,4 @@
 # Your Well Being
-## Introduction
-Learn about ensuring your short and long term well-being.
-
-
 ## Learn how to
 - [Gettto grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
 - [Identify and deal with chronic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
@@ -380,6 +376,10 @@ While the former may be difficult for many people due to the demands of their jo
  <br>
  ![](recap.png)
  <br>
+
+
+## Introduction
+Learn about ensuring your short and long term well-being.
 
 
 ## Test

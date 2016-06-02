@@ -1,7 +1,4 @@
 # Secure Communications
-## Introduction
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
-
 ## Learn about
 - secure communication basics
 - What to do if you believe your communication channels have been compromised?
@@ -62,6 +59,9 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 <br>
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
+
+## Introduction
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
 ## Test
 <quiz name="Gitbook Quiz">

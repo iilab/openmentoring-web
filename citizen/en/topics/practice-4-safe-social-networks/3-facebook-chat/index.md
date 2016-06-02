@@ -163,6 +163,9 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 
 
 
+## Test you social networking knowledge!
+
+
 ## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
@@ -170,7 +173,4 @@ If you found this section useful, you might be interested in the following secti
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
 - [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
 - [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
-
-## Test you social networking knowledge!
-
 
