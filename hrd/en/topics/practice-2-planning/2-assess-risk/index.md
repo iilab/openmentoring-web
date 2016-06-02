@@ -3,10 +3,12 @@
 Know what measures to take to understand risks faced as a journalist.
 
 
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Learn how to
+- [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
+- [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
+- [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
+- [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
+- [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
 ## Scenario
@@ -20,7 +22,7 @@ Perhaps without realising, we take decisions based on risk analyses every day. Y
 The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
 
 
-## Learn
+## Actor mapping
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
 We might consider dividing them into three categories: resisting forces, supporting forces, and unknown forces.
@@ -56,20 +58,17 @@ An ISP, social network or e-mail provider could be legally pressured by a govern
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
 
 
-## Assessing risk
+## Understand threats, capacities, and vulnerabilities
 Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
 <br>
-
 **Threats** refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
 <br>
 An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
 <br>
-
 **Vulnerabilities** refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
 <br>
 An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
 <br>
-
 **Capacities** refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
 <br>
 An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
@@ -77,7 +76,7 @@ An example might be knowing how to create and store long, complex and varied pas
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
-## Identifying threats, capacities, and vulnerabilities
+## Mapping threats, capacities, and vulnerabilities
 
 It may be helpful for you to map them out on a matrix, like this:
 
@@ -103,7 +102,9 @@ This example is merely for demonstrative purposes and may have nothing in common
 
 ## Learn
 
-It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
+It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
+<br>
+In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
 <br>
 | Probability |     |          |                           |              |
 |-------------|-----|----------|---------------------------|--------------|

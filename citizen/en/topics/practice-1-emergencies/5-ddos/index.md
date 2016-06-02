@@ -1,10 +1,4 @@
 # Website under attack
-## Introduction
-![](unit.png)
-
-Recover from having your website from being attacked or defaced.
-
-
 ## Learn how to
 - [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
@@ -20,6 +14,12 @@ Brenda published a story about corruption on her organisation's website. Hours l
 ![](scenario.png)
 
 Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
+
+
+## Introduction
+![](unit.png)
+
+Recover from having your website from being attacked or defaced.
 
 
 ## What is a DDOS attack?

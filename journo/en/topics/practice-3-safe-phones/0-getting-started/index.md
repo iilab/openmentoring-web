@@ -9,9 +9,6 @@ Learn the basics of using mobile phones security.
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-## Scenario
-Scenario text...
-
 ## Safer commmunication on a smart phone
 
 If you only have a smartphone, be aware that your phone is generally tied to your identity. This happens through billing, account services or SIM card registration, and can reveal your location.
@@ -26,6 +23,9 @@ RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but bo
 <br>
 Orbot by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. It brings the features and functionality of Tor to the Android mobile operating system.
 
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

@@ -1,4 +1,4 @@
-## Learn
+## Actor mapping
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
 We might consider dividing them into three categories: resisting forces, supporting forces, and unknown forces.
