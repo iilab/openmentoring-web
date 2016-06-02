@@ -14,10 +14,6 @@ In this section, you will learn how to:
 [Learn more about risk types and levels](resources/risk-assessment.md)
 
 
-## Scenario
-Scenario text...
-
-
 ## How-to
 To make a call
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
@@ -37,6 +33,10 @@ Say one word to your friend and ask them to say the other world.
 This makes sure you are both who you say you are.
 
 ![11s.png](11s.png)
+
+
+## Scenario
+Scenario text...
 
 
 ## Next

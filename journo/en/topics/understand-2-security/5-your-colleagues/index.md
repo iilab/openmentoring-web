@@ -1,9 +1,4 @@
 # Your colleagues
-## Your colleagues
-
-Learn about security practices for your colleagues.
-
-
 ## Learn about
 - Team configurations
 - Sharing of information with your teams
@@ -24,6 +19,11 @@ talking about that it's courageous to bring this subject up and when other peopl
 
 ## Scenario
 Scenario text...
+
+## Your colleagues
+
+Learn about security practices for your colleagues.
+
 
 ## Team configurations
 

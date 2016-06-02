@@ -13,6 +13,7 @@ Understand what metadata is and why it is important.
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
 
 
+## What is metadata?
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
 <br>
 In many cases, metadata tells a story just as interesting as the content itself.

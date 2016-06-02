@@ -21,18 +21,18 @@ Protecting sources is a cornerstone of journalism. This is especially important 
 As a journalist, you need to know that this burden rests primarily with you. In some some countries, journalists working for established media houses also face risks.
 
 
+## Techniques to protect you and your sources
+It is important consider when and how to contact your sources:  whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
+<br>
+Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
+
+
 ## Things to consider when offering sources confidentiality
 Never promise a source that you can keep their identity confidential until you weight possible consequences of doing so.
 <br>
 Media houses require often journalists to provide the editor with the name of sources, however this is not always the case.
 <br>
 In some nations, local journalists covering organized crime, national security, or armed conflict are especially vulnerable to imprisonment, torture, coercion, or attack related to the use of confidential information.
-
-
-## Techniques to protect you and your sources
-It is important consider when and how to contact your sources:  whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
-<br>
-Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
 
 
 ## Test

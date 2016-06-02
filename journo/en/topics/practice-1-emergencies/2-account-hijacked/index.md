@@ -12,6 +12,16 @@ Steps to take if you suspect your online accounts are hijacked.
 - [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 
 
+## Scenario
+![](scenario.png)
+
+Isaac just received an email from his service provider alerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
+<br>
+![](scenario.png)
+
+He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
+
+
 ## Get back control of your account
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
@@ -66,16 +76,6 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
 <br>
 ![](recap.png)
 > Use the password reset link
-
-
-## Scenario
-![](scenario.png)
-
-Isaac just received an email from his service provider alerting him that his social media account password has recently changed. He suspects that his social media account has been hijacked.
-<br>
-![](scenario.png)
-
-He needs to know if he still has access to the account, and if not, who he can reach out to for help. Isaac is worried that if he doesn't regain control, his social media account will be used to hurt his reputation.
 
 
 ## Test

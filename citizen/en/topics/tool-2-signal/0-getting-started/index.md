@@ -16,27 +16,34 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
-## Learn
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
-<br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
-<br>
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
-<br>
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
-<br>
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
+## How-to
+Install Signal by following the following 3 steps:
 
+# Step 1. Download Signal
 
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
+>Signal on the Google Play Store
+
+<br>
+Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+<br>
+# Step 2: Review permissions
+
+Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
+<br>
+Once your are happy with the permissions allowed, press and the installation will complete.
+<br>
+If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
+>Permissions required
+
+<br>
+# Step 3. Run Signal
+Tap Open to run the app for the first time
 
 
 ## Registering with Signal
@@ -116,34 +123,27 @@ To enable encrypted storage, take the following 5 steps:
 > Signal timeout settings
 
 
-## How-to
-Install Signal by following the following 3 steps:
-
-# Step 1. Download Signal
-
-On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
+## Learn
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
->Signal on the Google Play Store
-
+Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
 <br>
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
 <br>
-# Step 2: Review permissions
+In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+<br>
+This means that When you use Signal, you can communicate with users using the following programs:
+ - Android: surespot, ChatSecure, Zom
+ - iOS: surespot, ChatSecure
+ - Microsoft Windows: Jitsi, Pidgin
+ - Mac OS: Jitsi, Adium
+ - Linux: Jitsi, Pidgin
 
-Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
-<br>
-Once your are happy with the permissions allowed, press and the installation will complete.
-<br>
-If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
 
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
->Permissions required
-
-<br>
-# Step 3. Run Signal
-Tap Open to run the app for the first time
+Things You Should Know About This Tool Before You Start
+ - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
+ - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+ - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
 
 ## Next

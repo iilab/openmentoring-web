@@ -17,10 +17,8 @@ Mansour and Magda are journalists from north Africa. They are covering a march, 
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
-## Learn how to
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Instant messaging on phones
+Learn to instant message securely on a smart phone.
 
 
 ## Introduction
@@ -35,8 +33,10 @@ If you work with sensitive information and topics, and are interested in using s
 Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
-## Instant messaging on phones
-Learn to instant message securely on a smart phone.
+## Learn how to
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Learn

@@ -35,6 +35,12 @@ This could be ‘good’ if your site has become more popular and simply needs s
 If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
 
 
+## Billing problem
+![](recap.png)
+
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+
 ## Network problem
 ![](recap.png)
 
@@ -43,26 +49,12 @@ To see whether your web host is working but your website is unavailable, visit h
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
-## Billing problem
-![](recap.png)
-
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
-
-
 ## Hosting problem
 ![](recap.png)
 
 If your website is not loading at all, the company that hosts your website may be having problems.
 <br>
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
-
-
-## Censorship problem
-![](recap.png)
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Software problem
@@ -75,6 +67,14 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+
+
+## Censorship problem
+![](recap.png)
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Account hijacking

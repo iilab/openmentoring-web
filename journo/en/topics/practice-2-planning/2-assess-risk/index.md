@@ -76,23 +76,6 @@ An example might be knowing how to create and store long, complex and varied pas
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
-## Learn
-
-It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
-<br>
-In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
-<br>
-| Probability |     |          |                           |              |
-|-------------|-----|----------|---------------------------|--------------|
-| Very high   |     |          | Confiscation of materials |              |
-| High        |     | Burglary |                           |              |
-| Medium      |     |          | Entrapment and Assault    | Imprisonment |
-| Low         |     |          |                           |              |
-| Impact      | Low | Medium   | High                      | Catastrophic |
-<br>
-Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
-
-
 ## Mapping threats, capacities, and vulnerabilities
 
 It may be helpful for you to map them out on a matrix, like this:
@@ -115,6 +98,23 @@ It may be helpful for you to map them out on a matrix, like this:
 |                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
 
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+
+
+## Learn
+
+It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
+<br>
+In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
+<br>
+| Probability |     |          |                           |              |
+|-------------|-----|----------|---------------------------|--------------|
+| Very high   |     |          | Confiscation of materials |              |
+| High        |     | Burglary |                           |              |
+| Medium      |     |          | Entrapment and Assault    | Imprisonment |
+| Low         |     |          |                           |              |
+| Impact      | Low | Medium   | High                      | Catastrophic |
+<br>
+Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
 
 ## Test
