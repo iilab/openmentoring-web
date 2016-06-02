@@ -141,6 +141,7 @@ Are there signs that the device has been physically tampered with? This will hel
     </question>
 </quiz>
 
+## Next
 * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
 * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
 <br>
