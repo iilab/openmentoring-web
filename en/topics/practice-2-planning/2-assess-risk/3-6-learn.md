@@ -1,6 +1,8 @@
 ## Learn
 
-It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin. In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
+It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
+<br>
+In these cases it can be useful to think of the different threats in terms of the probability of their occurrence, and their impact should they occur.
 <br>
 | Probability |     |          |                           |              |
 |-------------|-----|----------|---------------------------|--------------|
