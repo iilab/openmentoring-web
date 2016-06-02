@@ -35,6 +35,7 @@ en/topics/practice-2-planning/3-assess-digital-risk/1-1-intro.md
 en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md
 
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

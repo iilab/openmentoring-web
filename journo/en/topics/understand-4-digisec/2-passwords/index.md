@@ -27,15 +27,6 @@ You can use the most advanced security tools, but if your password is week, or i
 <br>
 
 
-## Use a password manager
-We recommend you use a password manager to keep track of passwords that are long and complex enough to be adequately secure. A secure password database, such as KeypassX, is a helpful tool for managing passwords for multiple accounts.
-<br>
-Password managers are considered to be the most secure way to use complex and varying passwords and still remember them. KeePassX is an open-source password manager, and once you've set your master password, it creates and saves passwords for you.
-<br>
-To enhance convenience, you can synchronise your password database - for example, by using a cloud service, so that you can access your passwords on various computers as well as your phone. That way, you'll have round the clock access to strong passwords.
-<br>
-
-
 ## Choosing a strong password
 
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it.
@@ -66,6 +57,15 @@ Password patterns can allow you to use very different but related phrases for al
 Repeating patterns will make your passwords easy to remember, though it can put you at risk if an adversary gains access to multiple passwords and recognizes the patterns.
 <br>
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
+
+
+## Use a password manager
+We recommend you use a password manager to keep track of passwords that are long and complex enough to be adequately secure. A secure password database, such as KeypassX, is a helpful tool for managing passwords for multiple accounts.
+<br>
+Password managers are considered to be the most secure way to use complex and varying passwords and still remember them. KeePassX is an open-source password manager, and once you've set your master password, it creates and saves passwords for you.
+<br>
+To enhance convenience, you can synchronise your password database - for example, by using a cloud service, so that you can access your passwords on various computers as well as your phone. That way, you'll have round the clock access to strong passwords.
+<br>
 
 
 ## Test your password strength

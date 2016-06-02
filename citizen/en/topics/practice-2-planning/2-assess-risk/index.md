@@ -1,4 +1,25 @@
 # Assessing Security Risks
+## Introduction
+Know what measures to take to understand risks faced as a journalist.
+
+
+## Key takeaways
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+## Scenario
+Scenario text...
+
+## Understand risk
+Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
+<br>
+Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
+<br>
+The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
+
+
 ## Learn
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -33,17 +54,6 @@ An example may be your Internet Service Provider (ISP) or companies such as Face
 An ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails.
 <br>
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
-
-
-## Understand risk
-Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
-<br>
-Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
-<br>
-The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
-
-
-## Learn
 
 
 ## Assessing risk
@@ -104,19 +114,6 @@ It may be that you find there are a lot of threats to your work, and it can be d
 | Impact      | Low | Medium   | High                      | Catastrophic |
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
-
-
-## Introduction
-Know what measures to take to understand risks faced as a journalist.
-
-
-## Scenario
-Scenario text...
-
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 ## Test
