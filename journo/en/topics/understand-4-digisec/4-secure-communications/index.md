@@ -3,13 +3,25 @@
 This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
 ## Learn about
-- secure communication basics
-- What to do if you believe your communication channels have been compromised?
-- Using secure communications tools
+- [secure communication basics](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
+- [What to do if you believe your communication channels have been compromised?](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
+- [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
 
 ## Scenario
 Scenario text...
+
+## Secure communication basics
+Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
+<br>
+Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
+<br>
+If you are actively surveilled, for instance, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
+<br>
+A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
+<br>
+Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+
 
 ## If your communications are compromised
 Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
@@ -29,18 +41,6 @@ This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat.
 An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmail and Gchat.
 <br>
 It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
-
-
-## Secure communication basics
-Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-If you are actively surveilled, for instance, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
-<br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
-<br>
-Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
 
 
 ## Secure communication tools

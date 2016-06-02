@@ -9,7 +9,6 @@ Learn to identity threats and risks you may face as a journalist or human rights
 
 
 
-## Scenario
 ![](scenario.png)
 
 ![](scenario.png)
