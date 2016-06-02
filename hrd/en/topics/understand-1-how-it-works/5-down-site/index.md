@@ -5,6 +5,22 @@
 If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
+## Questions for your webmaster
+![](recap.png)
+
+Who built your website? Are they available to help?
+<br>
+Who is your web hosting provider? This is the company that provides the server where your website lives.
+<br>
+Do you have your account log in details for this hosting provider?
+<br>
+Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
+<br>
+Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
+<br>
+Who else knows or may have access to these account details?
+
+
 ## Poor site performance
 ![](recap.png)
 
@@ -31,22 +47,6 @@ If your site is up but you cant see it, it might be a network problem. It could 
 ![](recap.png)
 
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
-
-
-## Questions for your webmaster
-![](recap.png)
-
-Who built your website? Are they available to help?
-<br>
-Who is your web hosting provider? This is the company that provides the server where your website lives.
-<br>
-Do you have your account log in details for this hosting provider?
-<br>
-Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
-<br>
-Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
-<br>
-Who else knows or may have access to these account details?
 
 
 ## Hosting problem
@@ -110,6 +110,7 @@ Learn why your website might be down
     </question>
 </quiz>
 
+## Next
 ---
 - understand-2-security/0-getting-started
 - internal-...

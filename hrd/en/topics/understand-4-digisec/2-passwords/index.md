@@ -3,9 +3,6 @@
 Learn about how to create strong and secure passwords
 
 
-## Scenario
-Scenario text...
-
 ## Learn how to
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
@@ -13,6 +10,9 @@ Scenario text...
 - [Use a password manager](en/topics/understand-4-digisec/2-passwords/3-4-learn.md)
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
 
+
+## Scenario
+Scenario text...
 
 ## Password basics
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
@@ -68,16 +68,16 @@ To enhance convenience, you can synchronise your password database - for example
 <br>
 
 
-## Two-factor authentication
-Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
-<br>
-You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
-
-
 ## Test your password strength
 To test your password, you can play around with the “How secure is my password?” tool. This site will calculate how quickly a desktop PC could crack your password. “Hello12,” for example, would take about 19 seconds.
 <br>
 But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
+
+
+## Two-factor authentication
+Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
+<br>
+You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
 
 ## Test
@@ -96,6 +96,7 @@ But caution: after you enter your password into this public site, it might not b
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
