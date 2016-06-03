@@ -1,24 +1,28 @@
 # Seeking Remote Help
-## Organisations you may reach out to
-Dealing with digital emergencies:
-- Digital Security Helpline (Access Now): help@accessnow.org
+## Introduction
+![](unit.png)
 
-Dealing with emergencies within the first 24 hours:
-- Front Line Defenders: info@frontlinedefenders.org
-- Rory Peck Trust: www.rorypecktrust.org
+Establish secure communications when reaching out for help.
 
+
+## Learn how to
+- [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
-Dealing with emergencies after the first 24 hours:
-- Amnesty International: www.amnesty.org
-- Committee to Protect Journalists: JournAsst@cpj.org
-- Reporters Sans Frontieres: internet@rsf.org
-
+- [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
+- [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
+- [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
 <br>
-Providing digital emergency expertise:
-- Tactical Technology Collective: ttc@tacticaltech.org
-- Digital Defenders Partnership: ddp@hivos.org
-- Internews: info@internews.org
-- Electronic Frontier Foundation: info@eff.org
+
+
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+![](scenario.png)
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Unencrypted channels
@@ -73,68 +77,27 @@ When you are initiating contact with third parties you might want to create a ne
 > have a video chat.
 
 
-## Introduction
-![](unit.png)
+## Organisations you may reach out to
+Dealing with digital emergencies:
+- Digital Security Helpline (Access Now): help@accessnow.org
 
-Establish secure communications when reaching out for help.
+Dealing with emergencies within the first 24 hours:
+- Front Line Defenders: info@frontlinedefenders.org
+- Rory Peck Trust: www.rorypecktrust.org
 
+<br>
+Dealing with emergencies after the first 24 hours:
+- Amnesty International: www.amnesty.org
+- Committee to Protect Journalists: JournAsst@cpj.org
+- Reporters Sans Frontieres: internet@rsf.org
 
-## Scenario
-![](scenario.png)
+<br>
+Providing digital emergency expertise:
+- Tactical Technology Collective: ttc@tacticaltech.org
+- Digital Defenders Partnership: ddp@hivos.org
+- Internews: info@internews.org
+- Electronic Frontier Foundation: info@eff.org
 
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png)
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
-## Learn how to
-- [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
-- [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
-<br>
-- [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
-- [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
-<br>
-
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the content of your communications. You can read more about [protecting the identity](5-learn-identity.md) of the participants.
-<br>
-A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting the identity of your communication participants. You can read more about what to do if you are under [targeted threat](5-learn-targeted.md).
-<br>
-Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-<br>
-Examples of anonymisation tools are [tor](en/topics/tool-4-tor/0-getting-started/index.md), or [orbot](en/topics/tool-5-orbot/0-getting-started/index.md) on your phone.
-<br>
-
-
-
-Secure communication is always a trade-off between security and convenience. 
-<br>
-Choosing the most appropriate form of secure communication will depend on your unique situation, your threat model and the activities in which you are involved.
-<br>
-When communicating there are different levels of security. This section focuses on protecting against active targeting of yourself or your communications.
-<br>
-If you are actively surveilled, you need to focus on many more aspects regarding your safety and the safety of the people you communicate with.
-<br>
-Depending on how advanced your digital security and operational security practices are, you might need to consider that your communications are compromised.
-<br>
-In this case you have to consider the consequence for yourself and your contact to reveal information about the emergency. 
-<br>
-If you have prepared [an emergency plan with your contacts](en/topics/practice-2-planning/4-emergency-plan/index.md) you can use pre-agreed signals to trigger an emergency plan.
 
 ## Test
 <quiz name="">
@@ -143,22 +106,6 @@ If you have prepared [an emergency plan with your contacts](en/topics/practice-2
         <answer correct>Yes</answer>
         <answer>No</answer>
         <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
-
-## Test
-<quiz name="">
-    <question>
-        <p>With end-to-end encryption the company providing the service is able to read my content.</p>
-        <answer>Yes</answer>
-        <answer correct>No</answer>
-        <explanation>End-to-end encryption means that only you and the person you're communicating with have the encryption keys. If the keys are not available to anyone else, then no one can eavesdrop on your communications.</explanation>
-    </question>
-    <question>
-        <p>With transport layer encryption the company providing the service is able to read my content.</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation>With transport-layer encryption (HTTPS), the communication is encrypted between you and the company's server. In other words, it's the internet company that is providing the encryption and they have the encryption keys. In the end-to-end case you and the person you're communicating with are providing the encryption.</explanation>
     </question>
 </quiz>
 

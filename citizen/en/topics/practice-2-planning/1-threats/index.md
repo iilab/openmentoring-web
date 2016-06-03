@@ -8,9 +8,6 @@ Learn about identifying and dealing with threats
 - [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)
 
 
-## Scenario
-Scenario text...
-
 ## What are threats?
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
 <br>
@@ -79,6 +76,9 @@ Based on the results of your [risk analysis](en/topics/practice-2-planning/2-ass
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
+## Scenario
+Scenario text...
+
 ## Test
 If you want to keep your house and possessions safe, here are a few questions you might ask:
 
@@ -94,7 +94,6 @@ If you want to keep your house and possessions safe, here are a few questions yo
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
-## Next
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 

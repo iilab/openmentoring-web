@@ -1,9 +1,4 @@
 # Your colleagues
-## Your colleagues
-
-Learn about security practices for your colleagues.
-
-
 ## Learn about
 - Team configurations
 - Sharing of information with your teams
@@ -20,6 +15,11 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 
 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
+
+
+## Your colleagues
+
+Learn about security practices for your colleagues.
 
 
 ## Scenario
@@ -62,6 +62,7 @@ Scenario text...
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
 - (en/topics/understand-2-security/2-your-well-being/1-intro.md): Your well-being

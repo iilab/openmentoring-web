@@ -50,7 +50,7 @@
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
-* [Using the Internet Anonymously](topics/practice-5-browsing-safely/index.md)
+* [Browsing safely](topics/practice-5-browsing-safely/index.md)
   
   * [Getting Started](topics/practice-5-browsing-safely/0-getting-started/index.md)
   
@@ -58,7 +58,7 @@
   
   * [How to leave less traces while browsing](topics/practice-5-browsing-safely/2-leave-no-traces/index.md)
   
-* [Using the Internet Anonymously](topics/practice-6-managing-website/index.md)
+* [Managing your website](topics/practice-6-managing-website/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
@@ -78,7 +78,7 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Signal](topics/tool-3-enigmail/index.md)
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
@@ -88,7 +88,7 @@
   
 * [Using Signal](topics/tool-4-keepassx/index.md)
   
-  * [Getting Started with Signal](topics/tool-4-keepassx/0-getting-started/index.md)
+  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to use messaging?](topics/tool-4-keepassx/1-messaging/index.md)
   
@@ -96,13 +96,13 @@
   
 * [Using Signal](topics/tool-5-veracrypt/index.md)
   
-  * [Getting Started with Signal](topics/tool-5-veracrypt/0-getting-started/index.md)
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
   * [How to use messaging?](topics/tool-5-veracrypt/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
-* [Using Signal](topics/tool-6-conversations/index.md)
+* [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
@@ -110,7 +110,7 @@
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-* [Planning and Preparing](topics/tool-7-computer-hygiene/index.md)
+* [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting Started](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
@@ -120,7 +120,7 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/4-linux-hygiene/index.md)
   
-* [Planning and Preparing](topics/tool-8-android-hygiene/index.md)
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   

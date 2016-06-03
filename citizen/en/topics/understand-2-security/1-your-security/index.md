@@ -12,14 +12,6 @@ Learn about creating a security assessment
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
-## Scenario
-![](scenario.png)
-Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
-<br>
-![](scenario.png)
-Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't  she won't be best prepared.
-
-
 ## Learn
 Your security and well being are always more important than a story. To minimise potential risks, it is important to always prepare a security assessment.
 <br>
@@ -44,19 +36,6 @@ The assessment should include:
 
 
 ## Learn
-> Step 3
-# Consult diverse sources
-
-Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
-<br>
-Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
-<br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
-<br>
-![](recap.png)
-
-
-## Learn
 > Step 2
 # Address communications infrastructure
 
@@ -69,6 +48,27 @@ Is a generator or a car battery with a DC adaptor needed to power one’s comput
 Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
 <br>
 ![](recap.png)
+
+
+## Learn
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+![](recap.png)
+
+
+## Scenario
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
+<br>
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't  she won't be best prepared.
 
 
 ## Test

@@ -1,4 +1,4 @@
-# Getting Started with Signal
+# Using KeePassX
 ## Getting started with KeePassX
 Learn how to use KeePassX for securely managing passwords for multiple accounts.
 

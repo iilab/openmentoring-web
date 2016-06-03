@@ -1,4 +1,4 @@
-# Using Signal
+# Using Enigmail
 
 
 
