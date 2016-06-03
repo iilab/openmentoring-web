@@ -65,14 +65,6 @@ Can you visit other sites with similar content to your site? Try visiting websit
 Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
-## Account hijacking
-![](recap.png)
-
-Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
-<br>
-See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
-
-
 ## Software problem
 ![](recap.png)
 
@@ -83,6 +75,14 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+
+
+## Account hijacking
+![](recap.png)
+
+Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
+<br>
+See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
 
 ## Reasons your site may be down

@@ -14,6 +14,8 @@
   
   * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
+  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
@@ -27,16 +29,6 @@
   * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
-* [Planning and Preparing](topics/practice-3-computer-hygiene/index.md)
-  
-  * [Getting Started](topics/practice-3-computer-hygiene/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-3-computer-hygiene/1-antivirus/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-3-computer-hygiene/3-windows-hygiene/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-3-computer-hygiene/4-linux-hygiene/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -98,9 +90,17 @@
   
   * [Getting Started with Signal](topics/tool-4-keepassx/0-getting-started/index.md)
   
+  * [How to use messaging?](topics/tool-4-keepassx/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-4-keepassx/2-voice/index.md)
+  
 * [Using Signal](topics/tool-5-veracrypt/index.md)
   
   * [Getting Started with Signal](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-5-veracrypt/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
 * [Using Signal](topics/tool-6-conversations/index.md)
   
@@ -109,6 +109,26 @@
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
+  
+* [Planning and Preparing](topics/tool-7-computer-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-7-computer-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-7-computer-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/4-linux-hygiene/index.md)
+  
+* [Planning and Preparing](topics/tool-8-android-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
