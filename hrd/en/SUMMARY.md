@@ -10,9 +10,9 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -70,6 +70,10 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -78,21 +82,17 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Using Signal](topics/tool-5-veracrypt/index.md)
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
   
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-5-veracrypt/1-messaging/index.md)
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
   * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
@@ -136,6 +136,14 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -165,12 +173,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   

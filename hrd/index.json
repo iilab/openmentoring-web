@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-06T14:09:54.108Z",
+  "updatedAt": "2016-06-06T14:39:22.468Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -79,17 +79,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal",
-      "type": "topic",
-      "title": "Using Signal",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-3-enigmail",
       "type": "topic",
       "title": "Using Enigmail",
@@ -98,6 +87,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal",
+      "type": "topic",
+      "title": "Using Signal",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -114,10 +114,10 @@
     {
       "slug": "tool-5-veracrypt",
       "type": "topic",
-      "title": "Using Signal",
+      "title": "Veracrypt",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
@@ -167,6 +167,17 @@
     }
   ,
     {
+      "slug": "understand-3-opsec",
+      "type": "topic",
+      "title": "Understanding Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security",
       "type": "topic",
       "title": "Understand Security",
@@ -186,17 +197,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec",
-      "type": "topic",
-      "title": "Understanding Operational Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     
@@ -245,9 +245,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
+      "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
-      "title": "Website under attack",
+      "title": "Malware",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -256,9 +256,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_5-ddos",
       "type": "unit",
-      "title": "Malware",
+      "title": "Website under attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -509,6 +509,17 @@
     }
   ,
     {
+      "slug": "tool-3-enigmail_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -542,17 +553,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -578,7 +578,7 @@
       "slug": "tool-5-veracrypt_0-getting-started",
       "type": "unit",
       "title": "Using Veracrypt",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -586,12 +586,12 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-messaging",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
+      "title": "Creating a standard encrypted volume",
+      "parentTitle": "Veracrypt",
       "locale": "en",
-      "categories": ["platform:android","protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
@@ -600,7 +600,7 @@
       "slug": "tool-5-veracrypt_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -784,6 +784,39 @@
     }
   ,
     {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -924,39 +957,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ]  
 }

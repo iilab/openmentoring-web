@@ -88,11 +88,11 @@
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Using Signal](topics/tool-5-veracrypt/index.md)
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
   
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-5-veracrypt/1-messaging/index.md)
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
   * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   

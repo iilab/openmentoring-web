@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-06T14:09:57.216Z",
+  "updatedAt": "2016-06-06T14:39:24.838Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -114,10 +114,10 @@
     {
       "slug": "tool-5-veracrypt",
       "type": "topic",
-      "title": "Using Signal",
+      "title": "Veracrypt",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
@@ -578,7 +578,7 @@
       "slug": "tool-5-veracrypt_0-getting-started",
       "type": "unit",
       "title": "Using Veracrypt",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -586,12 +586,12 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-messaging",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
+      "title": "Creating a standard encrypted volume",
+      "parentTitle": "Veracrypt",
       "locale": "en",
-      "categories": ["platform:android","protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
@@ -600,7 +600,7 @@
       "slug": "tool-5-veracrypt_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
