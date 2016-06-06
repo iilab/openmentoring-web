@@ -3,12 +3,6 @@
 Understand security issues for your sources
 
 
-## Learn about
-- [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
-- [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
-- [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
-
-
 ## Scenario
 Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
 <br>
@@ -54,5 +48,10 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
 ## Next steps
 # See also:
 Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
+
+- [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
+- [Things to consider when offering confidentiality to your sources](en/topics/understand-2-security/4-your-sources-journo/3-2-learn.md)
+- [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
 
 

@@ -35,6 +35,11 @@ It is important consider when and how to contact your sources:  whether to call 
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
 
 
+## Next steps
+# See also:
+Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -50,9 +55,4 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next steps
-# See also:
-Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
 

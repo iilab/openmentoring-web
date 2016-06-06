@@ -86,13 +86,11 @@
   
   * [How to have voice calls?](topics/tool-3-enigmail/2-voice/index.md)
   
-* [Using Signal](topics/tool-4-keepassx/index.md)
+* [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-4-keepassx/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-4-keepassx/2-voice/index.md)
+  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
 * [Using Signal](topics/tool-5-veracrypt/index.md)
   

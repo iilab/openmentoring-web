@@ -1,14 +1,14 @@
 # After an Emergency
-## Learn how to
-- [Re-evaluate your emergency and security plans](en/topics/practice-1-emergencies/6-after/3-learn.md)
-- [Apply for emergency funds for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
-- [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
-
-
 ## After an emergency
 
 ![](unit.png)
 Steps to take after an emergency has taken place.
+
+
+## Learn how to
+- [Re-evaluate your emergency and security plans](en/topics/practice-1-emergencies/6-after/3-learn.md)
+- [Apply for emergency funds for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
+- [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
 ## Scenario
@@ -31,6 +31,15 @@ Think about the best way to either respond or not to potential emergencies in al
 ![](recap.png)
 
 
+## Emergency funding
+Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
+<br>
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+
+<br>
+![](recap.png)
+
+
 ## Traumatic stress
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -39,15 +48,6 @@ It is therefore important to know how to react following a traumatic event, and 
 Traumatic Stress is a normal reaction to an abnormal situation. It's very possible that after an emergency, you or your colleagues may be suffering from traumatic stress.
 <br>
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
-<br>
-![](recap.png)
-
-
-## Emergency funding
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-<br>
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-
 <br>
 ![](recap.png)
 

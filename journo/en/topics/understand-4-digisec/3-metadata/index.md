@@ -1,26 +1,16 @@
 # Metadata
-## Getting started with metadata
-Understand what metadata is and why it is important.
-
-
 ## Learn about
 - What metadata is
 - Where you can find metadata
 - How metadata can expose you or your connections
 
 
+## Getting started with metadata
+Understand what metadata is and why it is important.
+
+
 ## Scenario
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
-
-
-## What is metadata?
-Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
-<br>
-In many cases, metadata tells a story just as interesting as the content itself.
-<br>
-This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
-<br>
-As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
 
 
 ## Hidden stories in metadata
@@ -41,6 +31,16 @@ This information is viewable even if the content of your documents are [encrypte
 Emails contain metadata as well. The author of the email, the email recipient, subject line, and date are all metadata. The content of the email, that is, what you are actually writing, is not metadata.
 <br>
 Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
+
+
+## What is metadata?
+Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
+<br>
+In many cases, metadata tells a story just as interesting as the content itself.
+<br>
+This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
+<br>
+As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
 
 
 ## Test

@@ -55,19 +55,6 @@ Do your accounts have saved passwords or automatically log in when you turn your
 ![](recap.png)
 
 
-## Contacts and linked accounts
-# Who is at risk?
-
-Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
-<br>
-# Removing linked accounts
-What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
-<br>
-![](recap.png)
-
-
 ## If your device is still missing
 > Step 1
 # Remove authorization
@@ -121,6 +108,19 @@ Why would they want access to it? This will help you know whether the informatio
 # 4. Was it tampered?
 
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
+<br>
+![](recap.png)
+
+
+## Contacts and linked accounts
+# Who is at risk?
+
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
 <br>
 ![](recap.png)
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-03T20:59:05.713Z",
+  "updatedAt": "2016-06-06T13:37:05.313Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -103,10 +103,10 @@
     {
       "slug": "tool-4-keepassx",
       "type": "topic",
-      "title": "Using Signal",
+      "title": "Using KeepassX",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
@@ -578,7 +578,7 @@
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Using KeepassX",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -586,23 +586,12 @@
     }
   ,
     {
-      "slug": "tool-4-keepassx_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-4-keepassx_2-voice",
+      "slug": "tool-4-keepassx_2-create-new-entry",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
+      "parentTitle": "Using KeepassX",
       "locale": "en",
-      "categories": ["platform:android","protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }

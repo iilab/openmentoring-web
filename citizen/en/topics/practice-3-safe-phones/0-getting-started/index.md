@@ -1,4 +1,8 @@
 # Getting Started
+## Safe phones
+Learn the basics of using mobile phones security.
+
+
 ## Learn how to
 ## A New Post
 
@@ -7,10 +11,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## Scenario
 Scenario text...
-
-## Safe phones
-Learn the basics of using mobile phones security.
-
 
 ## Safer commmunication on a smart phone
 
