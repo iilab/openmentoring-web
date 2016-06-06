@@ -10,9 +10,9 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -82,10 +82,6 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-3-enigmail/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-3-enigmail/2-voice/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
@@ -102,21 +98,11 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
-  
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -127,6 +113,16 @@
   * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/4-linux-hygiene/index.md)
+  
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -139,6 +135,20 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -160,21 +170,7 @@
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

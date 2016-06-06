@@ -1,4 +1,8 @@
 # Passwords
+## Getting started with passwords
+Learn about how to create strong and secure passwords
+
+
 ## Learn how to
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
@@ -7,12 +11,21 @@
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
 
 
-## Getting started with passwords
-Learn about how to create strong and secure passwords
-
-
 ## Scenario
 Scenario text...
+
+## Password basics
+Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
+<br>
+Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
+<br>
+In general, when you want to protect something - whether a house or an email account - you lock it up with a key.
+<br>
+All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
+<br>
+You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
+<br>
+
 
 ## Choosing a strong password
 
@@ -46,19 +59,6 @@ Repeating patterns will make your passwords easy to remember, though it can put 
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
 
 
-## Password basics
-Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
-<br>
-Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
-<br>
-In general, when you want to protect something - whether a house or an email account - you lock it up with a key.
-<br>
-All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
-<br>
-You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
-<br>
-
-
 ## Use a password manager
 We recommend you use a password manager to keep track of passwords that are long and complex enough to be adequately secure. A secure password database, such as KeypassX, is a helpful tool for managing passwords for multiple accounts.
 <br>
@@ -80,11 +80,6 @@ Take advantage of online services that offer two-factor authentication. These pr
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -100,4 +95,9 @@ You input the code to verify that you are indeed the person trying to access the
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 

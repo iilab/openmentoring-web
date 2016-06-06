@@ -1,13 +1,11 @@
 # Getting Started with Signal
-## Getting started with Signal
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+## Getting started with Enigmail
+Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
 
 
-## Learn how to
- - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+## Learn about
+ - [What the Enigmail extension is and how you can use it to protect your email communication](en/topics/tool-3-enigmail/0-getting-started/3-1-learn.md)
+ - [Where to find assistance installing and setting up Enigmail](en/topics/tool-3-enigmail/0-getting-started/3-2-learn.md)
 
 
 ## Scenario
@@ -16,140 +14,33 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
-## Learn
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+## About Enigmail
+Enigmail is an interface that lets you use GnuPG encryption program from within Thunderbird. The Engimail interface is represented as Enigmail in the Thunderbird console tool bar.
 <br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+Engimail is based on public-key cryptography. In this method, each individual must generate her/his own personal key pair.
 <br>
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+The first key is known as the private key. It is protected by a password or passphrase, both to be guarded and never shared with anyone.
 <br>
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+The second key is known as the public key. This key can be shared with any of your correspondents.
 <br>
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
-
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-## How-to
-Install Signal by following the following 3 steps:
-
-# Step 1. Download Signal
-
-On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
+Once you have a correspondent’s public key you can begin sending encrypted emails to this person. Only she will be able to decrypt and read your emails, because she is the only person who has access to the matching private key.
 <br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
->Signal on the Google Play Store
-
+Similarly, if you send a copy of your own public key to your email contacts and keep the matching private key secret, only you will be able to read encrypted messages from those contacts.
 <br>
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+Enigmail also lets you attach digital signatures to your messages. The recipient of your message who has a genuine copy of your public key will be able to verify that the email comes from you, and that its content was not tampered with on the way.
 <br>
-# Step 2: Review permissions
-
-Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
-<br>
-Once your are happy with the permissions allowed, press and the installation will complete.
-<br>
-If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
->Permissions required
-
-<br>
-# Step 3. Run Signal
-Tap Open to run the app for the first time
+If you have a correspondent's public key, you can verify the digital signatures on her signed messages.
 
 
-## Registering with Signal
-
-# Step 1: Register your phone number
-
-Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
->Registration screen
-
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
->Confirming number
-
-<br>
-# Step 2: Confirm registration
-Signal will send you an SMS message to confirm registration.
-<br>
-Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
-<Br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
-Registration completing
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
-Voice verification screens
-
-
-## Configure Signal
-# Importing Messages
-
-Signal can securely store your SMS messages, so it is recommended that you import the messages from your current SMS app.
-<br>
-After registration is complete, Signal will open and you will be asked if you want to import your messages from the default SMS app on your phone. Press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/012.png)
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/013.png)
-> Import messages into Signal
-
-<br>
-Once the import is complete you can access all your old messages in Signal and you should delete them from your other application.
-<br>
-
-### Making Signal the Default Message App
-After your old messages have been imported you should make Signal the default SMS application so that all messages you receive appear in it and not the old application. This can be done by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/012.png) when prompted.
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/014.png)
-> Set Signal as the default SMS application
-
-<br>
-### Encrypted Storage
-Signal also allows you to store all your messages in an encrypted container protected by a passphrase, so if someone gains access to your phone, they will not be able to access your messages when Signal is locked.
-<br>
-After a set period of time, if you have not looked at any messages, Signal will automatically lock and you will have to enter your passphrase the next time you want to read your messages.
-<br>
-To enable encrypted storage, take the following 5 steps:
-<br>
-1. Tap on  in the top right of your screen to bring up the menu and select .
-<br>
-2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
-<br>
-3. When prompted enter a passphrase that will be used to protect the messages stored on your phone and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
-> Passphrase options
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
-> Setting a password
-
-<br>
-4. Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
-<br>
-5. Tap Timeout interval and in the next screen enter after what time you want Signal to lock if unused and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
-> Signal timeout settings
+## Installing and setting up Enigmail
+Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
 
 
 ## Next
 ---
-- (en/topics/tool-2-signal/1-messaging/1-intro.md): Send encrypted messages to other Signal users via SMS or the internet (MMS).
-- (en/topics/tool-2-signal/2-voice/1-intro.md): Make encrypted voice calls to other Signal users.
-- (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate 
+- (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
+- (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics
+---
+Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
 
 

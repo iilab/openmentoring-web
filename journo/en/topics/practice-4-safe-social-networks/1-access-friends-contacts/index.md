@@ -11,9 +11,6 @@ Mansour and Magda are human rights defenders from north Africa. They are organis
 
 ###give a different example here that highlights access to friends/contacts
 
-## How-to
-
-
 ## Security implications of using social networking sites
 
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
@@ -35,6 +32,9 @@ Think of a social networking site as being like a huge party. There are people t
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to third party advertisers.
 <br>
 When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
+
+
+## How-to
 
 
 ## Test you social networking knowledge!

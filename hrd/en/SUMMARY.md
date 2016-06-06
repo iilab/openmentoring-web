@@ -82,10 +82,6 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-3-enigmail/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-3-enigmail/2-voice/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)

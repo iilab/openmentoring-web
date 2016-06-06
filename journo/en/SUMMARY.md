@@ -2,11 +2,11 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
@@ -17,6 +17,18 @@
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -60,19 +72,15 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-3-enigmail/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-3-enigmail/2-voice/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -120,11 +128,11 @@
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
@@ -154,9 +162,9 @@
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
@@ -165,16 +173,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Assessing Digital Security Risks](topics/practice-2-planning/3-assess-digital-risk/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   

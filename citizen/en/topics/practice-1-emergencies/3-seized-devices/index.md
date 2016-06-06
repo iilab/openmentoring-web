@@ -12,6 +12,16 @@ Learn what to do if your digital devices are taken.
 - [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
 
 
+## Scenario
+![](scenario.png)
+
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+<br>
+![](scenario.png)
+
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
+
+
 ## Assess the situation
 ![](recap.png)
 # Appropriate response
@@ -113,16 +123,6 @@ Why would they want access to it? This will help you know whether the informatio
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
 <br>
 ![](recap.png)
-
-
-## Scenario
-![](scenario.png)
-
-Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
-<br>
-![](scenario.png)
-
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
 
 
 ## Test

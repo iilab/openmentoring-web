@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-06T13:37:05.313Z",
+  "updatedAt": "2016-06-06T13:56:45.452Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -95,7 +95,7 @@
       "title": "Using Enigmail",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
@@ -548,28 +548,6 @@
       "parentTitle": "Using Enigmail",
       "locale": "en",
       "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-3-enigmail_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-3-enigmail_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }

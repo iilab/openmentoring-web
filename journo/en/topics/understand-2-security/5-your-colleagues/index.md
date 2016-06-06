@@ -22,6 +22,9 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
+## Scenario
+Scenario text...
+
 ## Team configurations
 
 >give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
@@ -43,9 +46,6 @@ talking about that it's courageous to bring this subject up and when other peopl
 >talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
-## Scenario
-Scenario text...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -62,6 +62,7 @@ Scenario text...
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
 - (en/topics/understand-2-security/2-your-well-being/1-intro.md): Your well-being
