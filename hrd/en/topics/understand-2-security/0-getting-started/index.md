@@ -53,6 +53,7 @@ What kind of information you should share, and how to talk about security issues
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 
 
+## Next
 ---
 - understand-2-security/0-getting-started
 - internal-...

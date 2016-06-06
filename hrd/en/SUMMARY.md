@@ -10,9 +10,9 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -150,14 +150,6 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
@@ -173,4 +165,12 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
