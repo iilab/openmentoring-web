@@ -4,15 +4,15 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -72,9 +72,9 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
@@ -108,13 +108,15 @@
   
   * [Getting Started](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/3-windows-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-7-computer-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-7-computer-hygiene/4-linux-hygiene/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
@@ -122,17 +124,15 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
@@ -154,9 +154,9 @@
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

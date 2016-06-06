@@ -1,12 +1,17 @@
 # Preparing for emergencies with your contacts
+## Introduction
+
+
 ## Learn how to
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
 
-## Introduction
-
+## Scenario
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 ## Learn
 > This section needs to be bulked up significantly
@@ -25,11 +30,6 @@ Your emergency plan should include a detailed list of individuals and groups for
 <br>
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
 
-
-## Scenario
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 ## Test
 <quiz name="Gitbook Quiz">

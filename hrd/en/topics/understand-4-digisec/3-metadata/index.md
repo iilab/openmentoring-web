@@ -9,6 +9,10 @@ Understand what metadata is and why it is important.
 - How metadata can expose you or your connections
 
 
+## Scenario
+The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
+
+
 ## What is metadata?
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
 <br>
@@ -37,10 +41,6 @@ This information is viewable even if the content of your documents are [encrypte
 Emails contain metadata as well. The author of the email, the email recipient, subject line, and date are all metadata. The content of the email, that is, what you are actually writing, is not metadata.
 <br>
 Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
-
-
-## Scenario
-The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
 
 
 ## Test

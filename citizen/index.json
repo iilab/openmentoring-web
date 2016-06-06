@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-06T14:39:24.838Z",
+  "updatedAt": "2016-06-06T15:29:23.568Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -46,17 +46,6 @@
     }
   ,
     {
-      "slug": "practice-5-browsing-safely",
-      "type": "topic",
-      "title": "Browsing safely",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-6-managing-website",
       "type": "topic",
       "title": "Managing your website",
@@ -79,6 +68,17 @@
     }
   ,
     {
+      "slug": "practice-5-browsing-safely",
+      "type": "topic",
+      "title": "Browsing safely",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -90,17 +90,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail",
-      "type": "topic",
-      "title": "Using Enigmail",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx",
       "type": "topic",
       "title": "Using KeepassX",
@@ -109,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail",
+      "type": "topic",
+      "title": "Using Enigmail",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
   ,
     {
@@ -432,39 +432,6 @@
     }
   ,
     {
-      "slug": "practice-5-browsing-safely_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-6-managing-website_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -509,6 +476,39 @@
     }
   ,
     {
+      "slug": "practice-5-browsing-safely_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Browsing safely",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Browsing safely",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-5-browsing-safely_2-leave-no-traces",
+      "type": "unit",
+      "title": "How to leave less traces while browsing",
+      "parentTitle": "Browsing safely",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -542,17 +542,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -572,6 +561,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
   ,
     {
@@ -729,17 +729,6 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-1-how-it-works_1-computers",
       "type": "unit",
       "title": "Computers",
@@ -776,6 +765,17 @@
       "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
       "title": "Internet",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -850,17 +850,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
       "title": "Establishing Trust",
@@ -875,6 +864,17 @@
       "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
       "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],

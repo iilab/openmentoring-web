@@ -3,9 +3,6 @@
 How it works
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 Learning text...
 
@@ -24,6 +21,9 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
+
+## Scenario
+Scenario text...
 
 ## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)

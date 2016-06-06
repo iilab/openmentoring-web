@@ -50,14 +50,6 @@
   
   * [Who can access your information on Social Networking platforms?](topics/practice-4-safe-social-networks/5-who-can-access/index.md)
   
-* [Browsing safely](topics/practice-5-browsing-safely/index.md)
-  
-  * [Getting Started](topics/practice-5-browsing-safely/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/practice-5-browsing-safely/1-prevent-traffic-being-watched/index.md)
-  
-  * [How to leave less traces while browsing](topics/practice-5-browsing-safely/2-leave-no-traces/index.md)
-  
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
@@ -70,6 +62,14 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [Browsing safely](topics/practice-5-browsing-safely/index.md)
+  
+  * [Getting Started](topics/practice-5-browsing-safely/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/practice-5-browsing-safely/1-prevent-traffic-being-watched/index.md)
+  
+  * [How to leave less traces while browsing](topics/practice-5-browsing-safely/2-leave-no-traces/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -78,15 +78,15 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
@@ -126,8 +126,6 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
@@ -135,6 +133,8 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -152,11 +152,11 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
