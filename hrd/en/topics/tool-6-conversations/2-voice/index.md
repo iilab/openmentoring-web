@@ -18,7 +18,6 @@ In this section, you will learn how to:
 Scenario text...
 
 
-## How-to
 To make a call
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
 <br>
