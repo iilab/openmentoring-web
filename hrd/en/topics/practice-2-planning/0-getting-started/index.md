@@ -6,13 +6,13 @@
 Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 
-
-
-
 ## Scenario
 ![](scenario.png)
 
 ![](scenario.png)
+
+
+
 
 
 ## Choose the right lesson

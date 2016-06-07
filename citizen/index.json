@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-07T09:13:18.825Z",
+  "updatedAt": "2016-06-07T09:35:24.212Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -57,17 +57,6 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website",
-      "type": "topic",
-      "title": "Managing your website",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-1-open-mentoring",
       "type": "topic",
       "title": "Using the Open Mentoring App",
@@ -79,17 +68,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal",
-      "type": "topic",
-      "title": "Using Signal",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-3-enigmail",
       "type": "topic",
       "title": "Using Enigmail",
@@ -98,6 +76,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal",
+      "type": "topic",
+      "title": "Using Signal",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -197,6 +186,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-managing-website",
+      "type": "topic",
+      "title": "Managing your website",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
     }
   ,
     
@@ -465,28 +465,6 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Managing your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-managing-website_1-down-site",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Managing your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
       "title": "Getting Started with the Open Mentoring App",
@@ -509,23 +487,23 @@
     }
   ,
     {
+      "slug": "tool-3-enigmail_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -542,14 +520,14 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Enigmail",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": [],
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
   ,
     {
@@ -784,17 +762,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_1-your-security",
       "type": "unit",
       "title": "Your Security",
@@ -809,6 +776,17 @@
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -905,9 +883,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -916,9 +894,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -957,6 +935,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-managing-website_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Managing your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-managing-website_1-down-site",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Managing your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
     }
   ]  
 }

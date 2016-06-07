@@ -49,6 +49,14 @@ If your site is up but you cant see it, it might be a network problem. It could 
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
+## Hosting problem
+![](recap.png)
+
+If your website is not loading at all, the company that hosts your website may be having problems.
+<br>
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+
+
 ## Censorship problem
 ![](recap.png)
 
@@ -75,14 +83,6 @@ Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-l
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
 See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
-
-
-## Hosting problem
-![](recap.png)
-
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 ## Reasons your site may be down

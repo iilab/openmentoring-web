@@ -58,29 +58,23 @@
   
   * [How to leave less traces while browsing](topics/practice-5-browsing-safely/2-leave-no-traces/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -138,11 +132,11 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
@@ -164,13 +158,19 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   

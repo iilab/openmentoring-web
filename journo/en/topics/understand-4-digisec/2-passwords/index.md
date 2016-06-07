@@ -59,7 +59,6 @@ Repeating patterns will make your passwords easy to remember, though it can put 
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
 
 
-## Use a password manager
 We recommend you use a password manager to keep track of passwords that are long and complex enough to be adequately secure. A secure password database, such as KeypassX, is a helpful tool for managing passwords for multiple accounts.
 <br>
 Password managers are considered to be the most secure way to use complex and varying passwords and still remember them. KeePassX is an open-source password manager, and once you've set your master password, it creates and saves passwords for you.
