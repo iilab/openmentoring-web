@@ -1,12 +1,12 @@
 # Secure Communications
+## Introduction
+This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
+
 ## Learn about
 - [secure communication basics](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 - [What to do if you believe your communication channels have been compromised?](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 - [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
-
-## Introduction
-This unit will provide an overview of secure communications. Much of this section has been adapted from Tactical Tech's [Security in a Box](https://securityinabox.org/) guide
 
 ## Scenario
 Scenario text...
@@ -21,26 +21,6 @@ If you are actively surveilled, for instance, you need to focus on many more asp
 A communication tool that provides end-to-end encryption (such a PGP-encrypted email, or chat with OTR or Textsecure on your phone) is better than using a tool with transport-layer encryption (such as Gmail, Facebook, or Twitter).
 <br>
 Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
-
-
-## Secure communication tools
-For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
-
-# Pidgin and Adium
-Pidgin (PC) and Adium (Mac) allow you to chat securely, with end-to-end encryption using OTR. [Here is a guide](https://securityinabox.org/en/guide/pidgin/windows) to installing Pidgin with OTR.
-<br>
-# Jitsi
-Jitsi can be used both for text chat as well as encrypted voice and video. [Use this guide](https://securityinabox.org/en/guide/jitsi/windows) to set it up. You can create an account for a secure voice/video call for free.
-<br>
-# PGP
-PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Tactical Tech has developed a [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) for using PGP with Thunderbird on your computer.
-<br>
-# Tor Browser Bundle
-Tor Browser Bundle can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
-<br>
-For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) lesson.
-<br>
-For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
 
 ## If your communications are compromised
@@ -61,6 +41,26 @@ This security only helps 'inside' Google, i.e. Gmail to Gmail or Gchat to Gchat.
 An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group working to create democratic alternatives and practice self-determination by controlling our own secure means of communications. They offer services such as Gmail and Gchat.
 <br>
 It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
+
+
+## Secure communication tools
+For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
+
+# Pidgin and Adium
+Pidgin (PC) and Adium (Mac) allow you to chat securely, with end-to-end encryption using OTR. [Here is a guide](https://securityinabox.org/en/guide/pidgin/windows) to installing Pidgin with OTR.
+<br>
+# Jitsi
+Jitsi can be used both for text chat as well as encrypted voice and video. [Use this guide](https://securityinabox.org/en/guide/jitsi/windows) to set it up. You can create an account for a secure voice/video call for free.
+<br>
+# PGP
+PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Tactical Tech has developed a [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) for using PGP with Thunderbird on your computer.
+<br>
+# Tor Browser Bundle
+Tor Browser Bundle can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
+<br>
+For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) lesson.
+<br>
+For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
 
 ## Test

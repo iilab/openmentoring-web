@@ -5,16 +5,6 @@
 Establish secure communications when reaching out for help.
 
 
-## Scenario
-![](scenario.png)
-
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png)
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
 ## Learn how to
 - [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
@@ -23,6 +13,16 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
 - [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
 <br>
+
+
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+![](scenario.png)
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Unencrypted channels

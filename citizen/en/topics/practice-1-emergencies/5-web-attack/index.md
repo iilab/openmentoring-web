@@ -38,7 +38,7 @@ To start, it is important to know that there are many reasons why your website c
 Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, make sure to root out potential problems by speaking with someone in charge of your website.
 <br>
 Talk to someone in charge of your website. If you don't have someone, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
-
+<br>
 ![](recap.png)
 
 
@@ -73,7 +73,7 @@ If you are doing this yourself...FIND A RESOURCE THAT EXPLAINS HOW TO DO THIS
 #Review your needs
 
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
-
+<br>
 ![](recap.png)
 
 
@@ -120,7 +120,7 @@ Also note that if your only backups are at your hosting provider, an attacker ma
 Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can support you in protecting your site from online attacks. CloudFlare can also block many common attacks.
 <br>
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
-
+<br>
 ![](recap.png)
 
 
