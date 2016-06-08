@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-07T09:35:21.828Z",
+  "updatedAt": "2016-06-08T16:07:39.944Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -18,7 +18,7 @@
       "title": "Planning and Preparing",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
@@ -40,7 +40,7 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -68,17 +68,6 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring",
-      "type": "topic",
-      "title": "Using the Open Mentoring App",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal",
       "type": "topic",
       "title": "Using Signal",
@@ -98,6 +87,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring",
+      "type": "topic",
+      "title": "Using the Open Mentoring App",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
@@ -167,17 +167,6 @@
     }
   ,
     {
-      "slug": "understand-2-security",
-      "type": "topic",
-      "title": "Understand Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-3-opsec",
       "type": "topic",
       "title": "Understanding Operational Security",
@@ -186,6 +175,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security",
+      "type": "topic",
+      "title": "Understand Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
     }
   ,
     {
@@ -322,17 +322,6 @@
     }
   ,
     {
-      "slug": "practice-2-planning_3-assess-digital-risk",
-      "type": "unit",
-      "title": "Assessing Digital Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [ "profile:hrd"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-2-planning_4-emergency-plan",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
@@ -371,7 +360,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -402,28 +391,6 @@
       "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
       "title": "How to chat securely?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
-      "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_5-who-can-access",
-      "type": "unit",
-      "title": "Who can access your information on Social Networking platforms?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -487,28 +454,6 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -553,6 +498,28 @@
     }
   ,
     {
+      "slug": "tool-1-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_1-sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -586,23 +553,23 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-standard-volume",
-      "type": "unit",
-      "title": "Creating a standard encrypted volume",
-      "parentTitle": "Veracrypt",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-5-veracrypt_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
       "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-5-veracrypt_1-standard-volume",
+      "type": "unit",
+      "title": "Creating a standard encrypted volume",
+      "parentTitle": "Veracrypt",
+      "locale": "en",
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
@@ -707,7 +674,7 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_3-windows-hygiene",
+      "slug": "tool-8-android-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
@@ -718,7 +685,7 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "slug": "tool-8-android-hygiene_3-windows-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
@@ -781,6 +748,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -847,39 +847,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {

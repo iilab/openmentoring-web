@@ -11,16 +11,6 @@ Steps to take after an emergency has taken place.
 - [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
-## Scenario
-Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
-
-![](scenario.png)
-<br>
-Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
-
-![](scenario.png)
-
-
 ## Revising emergency plans
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
@@ -52,6 +42,16 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
 ![](recap.png)
 
 
+## Scenario
+Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
+
+![](scenario.png)
+<br>
+Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
+
+![](scenario.png)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -68,6 +68,7 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
     </question>
 </quiz>
 
+## Next steps
 - [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)

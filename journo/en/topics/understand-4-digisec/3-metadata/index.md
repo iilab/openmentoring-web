@@ -1,8 +1,4 @@
 # Metadata
-## Getting started with metadata
-Understand what metadata is and why it is important.
-
-
 ## Learn about
 - What metadata is
 - Where you can find metadata
@@ -11,6 +7,10 @@ Understand what metadata is and why it is important.
 
 ## Scenario
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
+
+
+## Getting started with metadata
+Understand what metadata is and why it is important.
 
 
 ## What is metadata?
@@ -59,6 +59,7 @@ Even if the content of your emails is [encrypted](en/topics/understand-4-digisec
     </question>
 </quiz>
 
+## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

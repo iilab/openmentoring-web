@@ -3,27 +3,36 @@
 
 You can install Jitsi through the following seven steps:
 <br>
-**Step 1**: Download Jitsi through its [website](https://jitsi.org/Main/Download). 
+# Step 1: Download Jitsi
+Download Jitsi through its [website](https://jitsi.org/Main/Download).
 <br>
-**Step 2**: Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *"Run"* to activate the Windows Installer screen, followed by the *"Welcome to the Jitsi Setup Wizard"* window.
+# Step 2: Open Jitsi
+ Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *"Run"* to activate the Windows Installer screen, followed by the *"Welcome to the Jitsi Setup Wizard"* window.
 <br>
-**Step 3**: Click on **"Next"** to activate the "End User License Agreement" window; **check** the "I accept the terms in the License Agreement" option to enable the *Next* button, and then click on **"Next"** to activate the "Destination Folder" window.
+# Step 3: Agree to End User License Agreement
+Click on **"Next"** to activate the "End User License Agreement" window; **check** the "I accept the terms in the License Agreement" option to enable the *Next* button, and then click on **"Next"** to activate the "Destination Folder" window.
 <br>
-**Step 4**: Click on **"Next"** to activate the "Additional Tasks" window and accept the default settings as presented.
+# Step 4: Activate "Additional Tasks"
+Click on **"Next"** to activate the "Additional Tasks" window and accept the default settings as presented.
 <br>
 **Note:** Enabling the Auto-start when computer restarts or reboots option may slow down the overall function of your computer, especially if you already have multiple applications configured to run when your computer starts up.
 <br>
-**Step 5**: Click on **"Next"** to activate the "Ready to Install Jitsi" window, and then click on **"Install"** to activate the "Installing Jitsi" window displaying the installation progress bar.
+# Step 5: Install Jitsi
+Click on **"Next"** to activate the "Ready to Install Jitsi" window, and then click on **"Install"** to activate the "Installing Jitsi" window displaying the installation progress bar.
 <br>
-**Step 6**: Click on **"Finish"** to complete the installation process and automatically launch the "Jitsi Sign in" window as follows:
+# Step 6: Finish installation
+Click on **"Finish"** to complete the installation process and automatically launch the "Jitsi Sign in" window as follows:
 
-![]({{site.baseurl}}/https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-07.png)
+![](jitsi-en-win-07.png)
 <br>
-**Note:** In some instances, installing and launching Jitsi for the first time triggers a Windows Security Alert prompt screen. This alert is normal behaviour for the MS Windows operating system, it is ok to continue with using Jitsi. Even if you do not click on any of the buttons, and simply close the prompt window, Jitsi is still able to communicate through Facebook Chat. 
+**Note:** In some instances, installing and launching Jitsi for the first time triggers a Windows Security Alert prompt screen. This alert is normal behaviour for the MS Windows operating system, it is ok to continue with using Jitsi.
+<br>
+Even if you do not click on any of the buttons, and simply close the prompt window, Jitsi is still able to communicate through Facebook Chat.
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-08.png
+![](jitsi-en-win-08.png)
 <br>
-**Step 7**: Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
+# Step 7: Authorise Jitsi
+Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
 
 
 ## Encrypting Facebook instant messaging and voice calls
@@ -39,25 +48,43 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 ## Adding a Facebook account on Jitsi
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
-**Facebook Username**
-Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username. To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page. Your username is also included in your Facebook email address (e.g. username@facebook.com). 
+# Facebook Username
+Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username.
 <br>
-You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username. To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process. For more details see Facebook’s explanation of usernames.
+To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page.
 <br>
-**App Settings**
-Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat. Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”. 
+Your username is also included in your Facebook email address (e.g. username@facebook.com).
 <br>
-**Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers. This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends. After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use".
+You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username.
 <br>
-This setting allows you to hide some personal information from applications used by your friends. Unfortunately, Facebook does not offer settings to hide all personal information. Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s "application platform" is turned "on". It is up to you to determine whether this is an acceptable trade-off.
+To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process.
+<br>
+For more details see Facebook’s explanation of usernames.
+<br>
+# App Settings
+Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat.
+<br>
+Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”.
+<br>
+**Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers.
+<br>
+This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends.
+<br>
+After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use". This allows you to hide some personal information from applications used by your friends.
+<br>
+Unfortunately, Facebook does not offer settings to hide all personal information.
+<br.
+Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s "application platform" is turned "on". It is up to you to determine whether this is an acceptable trade-off.
 <br>
 Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
 
-**Step 1:** Select **File > Add New Account...** in the main menu bar of Jitsi.
+# Step 1: Add new Jitsi account
+Select **File > Add New Account...** in the main menu bar of Jitsi.
+<br>
+# Step 2: Add new Facebook account
+In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
-**Step 2:** In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
-
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-16.png
+![](jitsi-en-win-16.png)
 
 
 ## Encrypting your Facebook instant messages
@@ -135,32 +162,37 @@ https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Learn how to
+- [Undertand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
+- [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
+- [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
+- [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
+- [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
 ## Scenario
-Salome and Aine are human rights defenders in East Africa and communicate via Facebook. However, law enforcement agencies in their country are able to intercept their Facebook instant messages and calls because they are unencrypted. As a result, the local police is able to know of their activities in advance and to block them in various occassions.
-
-
-## Learn
-When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares/discloses your data to (ranging from other advertising companies to law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP). Not only can this potentially expose your data to breach, but also that of your contacts. 
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
 <br>
-To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption. This not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, but it also makes it inaccessible to the very companies that provide you the service (such as Facebook, if you are using Facebook Chat).
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
 
 
-## Introduction
+## Facebook communication basics
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with can have access to the content of your instant messages (IM) and voice calls (VoIP).
+<br>
+This includes ranges from other advertising companies to law enforcement agencies. Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
+<br>
+To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
+<br>
+OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
+
+
+## Communicate securely on Facebook
+Learn to encrypt your Facebook voice calls and instant messages.
+
+
 This section will describe how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do!
 <br>
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
-
-(1) [install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-(2) [add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-(3) [encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-(4) [encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
-
+To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following:
 
 
 ## Test you social networking knowledge!

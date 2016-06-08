@@ -17,7 +17,11 @@ Scenario text...
 ## Learn
 Learning text...
 
-## Test
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -32,9 +36,4 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 

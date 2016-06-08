@@ -12,7 +12,11 @@ Learn to identity threats and risks you may face as a journalist or human rights
 ## Scenario
 ![](scenario.png)
 
+Brenda is planning a new project and needs to complete a threat and risk assessment. Before she can, she needs to know the difference between risks and threats and also how to identify them.
+
+<br>
 ![](scenario.png)
+If she doesn't, she knows that she exposes herself to unnecessary and avoidable harm. She needs to know so she can start the project soon.
 
 
 ## Choose the right lesson
@@ -32,7 +36,13 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 
 
 ## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
+---
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
+---
+To learn more about dealing with emergencies, see also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-07T09:35:19.530Z",
+  "updatedAt": "2016-06-08T16:07:36.674Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -18,7 +18,7 @@
       "title": "Planning and Preparing",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -40,7 +40,7 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -90,17 +90,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail",
-      "type": "topic",
-      "title": "Using Enigmail",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx",
       "type": "topic",
       "title": "Using KeepassX",
@@ -120,6 +109,17 @@
       "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail",
+      "type": "topic",
+      "title": "Using Enigmail",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
   ,
     {
@@ -201,9 +201,9 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -212,9 +212,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Getting Started",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -267,9 +267,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-web-attack",
+      "slug": "practice-1-emergencies_6-after",
       "type": "unit",
-      "title": "Website under attack",
+      "title": "After an Emergency",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -278,9 +278,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_6-after",
+      "slug": "practice-1-emergencies_5-web-attack",
       "type": "unit",
-      "title": "After an Emergency",
+      "title": "Website under attack",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -300,17 +300,6 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-2-planning_1-threats",
       "type": "unit",
       "title": "Understanding Threats",
@@ -322,20 +311,20 @@
     }
   ,
     {
-      "slug": "practice-2-planning_3-assess-digital-risk",
+      "slug": "practice-2-planning_4-emergency-plan",
       "type": "unit",
-      "title": "Assessing Digital Security Risks",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
-      "categories": [ "profile:hrd"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
-      "slug": "practice-2-planning_4-emergency-plan",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -360,7 +349,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -371,7 +360,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo"],
+      "categories": [ "profile:hrd", "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -410,31 +399,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_4-who-controls",
+      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
       "type": "unit",
-      "title": "Who controls and owns your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_5-who-can-access",
-      "type": "unit",
-      "title": "Who can access your information on Social Networking platforms?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Browsing safely",
       "locale": "en",
       "categories": [],
@@ -443,9 +410,9 @@
     }
   ,
     {
-      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
+      "slug": "practice-5-browsing-safely_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Browsing safely",
       "locale": "en",
       "categories": [],
@@ -542,17 +509,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -605,6 +561,17 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
   ,
     {
@@ -663,7 +630,7 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_3-windows-hygiene",
+      "slug": "tool-7-computer-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Computer Hygiene",
@@ -674,7 +641,7 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_4-linux-hygiene",
+      "slug": "tool-7-computer-hygiene_3-windows-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Computer Hygiene",

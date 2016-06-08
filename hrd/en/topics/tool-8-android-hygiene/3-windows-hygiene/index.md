@@ -1,11 +1,11 @@
 # Preparing for emergencies with your contacts
+## Introduction
+
+
 ## Learn how to
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
-
-
-## Introduction
 
 
 ## Scenario

@@ -1,5 +1,4 @@
 # Your Well Being
-## Introduction
 Learn about ensuring your short and long term well-being.
 
 
@@ -341,6 +340,7 @@ PTSD can be successfully treated, even when it develops many years after a traum
 <br>
 
 
+## Build your emotional resilience
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br.
 This includes psychologists, counselors, journalists, nurses, paramedics, as well as police officers and other emergency personnel.

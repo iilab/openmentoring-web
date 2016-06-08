@@ -1,8 +1,9 @@
 # Preparing for emergencies with your contacts
 ## Introduction
+Learn to develop an emergency plan as a journalist.
 
 
-## Learn how to
+## Learn about
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
@@ -13,8 +14,9 @@ Jenny is about to start on a new assignment investigating government abuses of p
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
-## Learn
+
 > This section needs to be bulked up significantly
+
 
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
 <br>
