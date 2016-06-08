@@ -22,6 +22,21 @@ Breanda just received an email from her service provider alerting her that her s
 She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
+## Get back control of your account
+Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
+<br>
+Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
+<br>
+Change the passwords for all your other online accounts that are linked to your hijacked account. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+<br>
+Now time to confirm if your suspicions are founded? The next instructions will help you determine if your account has been hijacked.
+<br>
+Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+<br>
+![](recap.png)
+> Remember to change passwords for your linked accounts!
+
+
 ## Confirm if your account has been hijacked
 For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
 <br>
@@ -48,21 +63,6 @@ Also check email addresses or phone numbers listed when you're resetting your pa
 #Other account permissions
 
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
-
-
-## Get back control of your account
-Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
-<br>
-Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
-<br>
-Change the passwords for all your other online accounts that are linked to your hijacked account. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
-<br>
-Now time to confirm if your suspicions are founded? The next instructions will help you determine if your account has been hijacked.
-<br>
-Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
-<br>
-![](recap.png)
-> Remember to change passwords for your linked accounts!
 
 
 ## Deal with being locked out of your account
@@ -94,6 +94,7 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security

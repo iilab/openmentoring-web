@@ -3,16 +3,15 @@
 Learn about controlling access to your personal details on social networking sites.
 
 
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Learn how to
+- [Be careful in posting personal information to social networking sites](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
+- [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
 
 
 ## Scenario
 Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
-## Thing to think about when posting to social networking sites
+## What to post to social networking sites
 
 Social networking sites ask you for a good deal of data about yourself to make it easier for other users to find and connect to you.
 <br>
@@ -22,7 +21,7 @@ The more information about yourself you reveal online, the easier it becomes for
 <br>
 The online activities of diaspora activists from some countries have led to the targeting of their family members by the authorities in their homelands.
 <br>
-Before posting, think about whether it's necessary to post the following information online:
+Before posting, think about whether it's necessary to post:
  - birth dates
  - contact phone numbers
  - addresses
@@ -32,7 +31,7 @@ Before posting, think about whether it's necessary to post the following informa
  - education and employment history
 
 
-## Controlling personal information on your Facebook profile
+## Control access to personal information on your Facebook profile
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
 <br>
 Go to About > Contact & Basic Info you can see your date of birth:

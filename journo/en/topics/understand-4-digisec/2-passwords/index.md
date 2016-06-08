@@ -11,6 +11,9 @@ Learn about how to create strong and secure passwords
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## Password basics
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
 <br>
@@ -76,9 +79,6 @@ Take advantage of online services that offer two-factor authentication. These pr
 <br>
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

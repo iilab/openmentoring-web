@@ -5,19 +5,19 @@
 Learn about creating a security assessment
 
 
+## Learn how to
+* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
+* [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+
+
 ## Scenario
 ![](scenario.png)
 Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
 <br>
 ![](scenario.png)
 Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't  she won't be best prepared.
-
-
-## Learn how to
-* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
-* [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
 ## Learn

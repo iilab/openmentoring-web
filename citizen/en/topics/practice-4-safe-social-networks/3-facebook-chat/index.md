@@ -88,87 +88,101 @@ In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your us
 
 
 ## Encrypting your Facebook instant messages
-OTR is supported by Jitsi and can be used to encrypt your instant messages. You can enable the encryption of your instant messages through the following steps:
+# Step 1: Open security settings
+Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
+
+![](jitsi-en-win-35.png)
 <br>
-**Step 1:** Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
+# Step 2: Generate a key
+Click on the **"Generate"** button. As a result you will see the fingerprint of the key that has been generated:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-35.png 
-
-**Step 2:** Click on the **"Generate"** button. As a result you will see the fingerprint of the key that has been generated:
-
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-36.png 
-
+![](jitsi-en-win-36.png)
+<br>
 One key is generated for each account. You only need to do this again if you add a new account or install Jitsi on another device and do not move the existing keys to it.
-
+<br>
 You are now ready to communicate:
-<Br>
-**Step 3:** Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact's name) to open a text chat window:
+<br>
+# Step 3: Open a new chat
+Select a contact from the Jitsi main window and click on the *send message icon* (first from the left under the contact's name) to open a text chat window:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-37.png
-
+![](jitsi-en-win-37.png)
+<br>
 Note the Encrypt chat with OTR icon, the open padlock on the right-top side of the window. This inconspicuous symbol informs you whether the chat is encrypted or not. Now the lock is open (there is a tiny space between handle and the body of the lock!).
 <br>
-**Step 4:** Click on the Encrypt chat with OTR icon. Note the changes in the window:
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-38.png
+# Step 4: Encrypt the chat
+Click on the Encrypt chat with OTR icon. Note the changes in the window:
+![](jitsi-en-win-38.png)
 
 Observe that the padlock is now locked. This means that whatever messages you and your contact send to each other are encrypted. Note the message that this is an unverified private conversation and that you should authenticate your contact.
 <br>
-**Step 5:** click on the link authenticate sally.the.doer@jit.si to open the Authenticate Buddy window:
+# Step 5: Authenticate contact
+Click on the link authenticate sally.the.doer@jit.si to open the Authenticate Buddy window:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-39.png
-
-Note the message that encourages you to compare the fingerprints of your keys with your contact over another channel (not this text chat). In doing this, you can be more certain that you are communicating with your contact and not somebody else. A good choice for key comparisons is to do it face to face, or via video or voice communication as these provide easier means to authenticate the identity of the other person. After you compare fingerprints, select the option I have verified the fingerprint from the pull-down menu and click on Authenticate Buddy:
-
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-40.png 
+![](jitsi-en-win-39.png)
+<br>
+Note the message that encourages you to compare the fingerprints of your keys with your contact over another channel (not this text chat). In doing this, you can be more certain that you are communicating with your contact and not somebody else.
+<br>
+A good choice for key comparisons is to do it face to face, or via video or voice communication as these provide easier means to authenticate the identity of the other person.
+<br>
+After you compare fingerprints, select the option I have verified the fingerprint from the pull-down menu and click on Authenticate Buddy:
+![](jitsi-en-win-40.png)
 <br>
 Closing the Authenticate Buddy window returns you to the chat window:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-41.png 
-
-Note that padlock no longer includes the orange triangle with the white exclamation mark. This means that you have authenticated your contact. The authentication should be done only once per contact. If the triangle with exclamation mark returns, it means that you are chatting to somebody who you have not yet authenticated.
+![](jitsi-en-win-41.png)
+<br>
+Note that padlock no longer includes the orange triangle with the white exclamation mark. This means that you have authenticated your contact.
+<br>
+The authentication should be done only once per contact. If the triangle with exclamation mark returns, it means that you are chatting to somebody who you have not yet authenticated.
 <br>
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 
 
 ## Encrypting Facebook voice calls
-Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP. In order to initiate the chat you need to do the following 5 Steps:
+Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
 <br>
-**Step 1:** Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
+# Step 1: Select your contact
+Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-42.png
-
+![](jitsi-en-win-42.png)
+<br>
 Your contact will see incoming call notification:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-43.png
+![](jitsi-en-win-43.png)
 <br>
-**Step 2:** If your contact accepts the call you will receive information that you are connected:
+<br>
+# Step 2: Accept the call
+If your contact accepts the call you will receive information that you are connected:
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-44.png
+![](jitsi-en-win-44.png)
 
 Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
 <br>
-**Step 3:** Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment. If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption. You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
+# Step 3: wait
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-45.png
+Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment.
 <br>
-**Step 4:** Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
-
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-46.png
+If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption
 <br>
-**Step 5:** You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
+You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
 
-https://securityinabox.org/sites/siabnext.ttc.io/files/media/jitsi-en-win-47.png
+![](jitsi-en-win-45.png)
+<br>
+# Step 4:: Confirm encryption
+Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
+
+![](jitsi-en-win-46.png)
+<br>
+# Step 5: Close confirmation box
+You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
+
+![](jitsi-en-win-47.png)
 
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
 ## Communicate securely on Facebook
 Learn to encrypt your Facebook voice calls and instant messages.
-
-
-This section will describe how to encrypt your Facebook voice calls and instant messages. By doing so, you can enhance the privacy and security of your communications. The good news is that this is quite easy to do!
-<br>
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following:
 
 
 ## Scenario
@@ -178,9 +192,11 @@ They need to learn how to encrypt their communication. If they don't, they worry
 
 
 ## Facebook communication basics
-When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with can have access to the content of your instant messages (IM) and voice calls (VoIP).
+You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
-This includes ranges from other advertising companies to law enforcement agencies. Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP)
+<br>
+Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
 <br>
 To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
 <br>
@@ -188,7 +204,7 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 
 
 ## Learn how to
-- [Undertand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
+- [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
 - [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
 - [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
 - [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
@@ -199,10 +215,7 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 
 
 ## Next
-If you found this section useful, you might be interested in the following sections:
-- [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
-- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
-- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
-- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
-- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
+ See also:
+* Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+
 

@@ -58,6 +58,12 @@
   
   * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -70,12 +76,6 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
@@ -86,9 +86,9 @@
   
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
-  
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  
+  * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -114,9 +114,9 @@
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -129,14 +129,6 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -151,6 +143,14 @@
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

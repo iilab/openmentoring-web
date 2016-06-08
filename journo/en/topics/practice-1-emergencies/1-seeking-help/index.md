@@ -15,6 +15,16 @@ Establish secure communications when reaching out for help.
 <br>
 
 
+## Scenario
+![](scenario.png)
+
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+![](scenario.png)
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
 ## Unencrypted channels
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
@@ -23,17 +33,6 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 <br>
 ![](recap.png)
-
-
-## Dealing with insecure channels
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-<br>
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
-<br>
-If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
-<br>
-![](recap.png)
-> Share only limited information using code words.
 
 
 ## Encrypted channels
@@ -52,6 +51,17 @@ To learn more about communicating safely on a smartphone, refer to the [Safe Pho
 <br>
 ![](recap.png)
 > End to end better than end to server better than none.
+
+
+## Dealing with insecure channels
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+<br>
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
+<br>
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+<br>
+![](recap.png)
+> Share only limited information using code words.
 
 
 ## Establishing trust when reaching out
@@ -87,16 +97,6 @@ Providing digital emergency expertise:
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
 - Electronic Frontier Foundation: info@eff.org
-
-
-## Scenario
-![](scenario.png)
-
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-![](scenario.png)
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Test
