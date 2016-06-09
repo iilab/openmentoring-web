@@ -8,6 +8,11 @@
 - When to carry out your emergency plan
 
 
+## Scenario
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+
 ## Learn
 > This section needs to be bulked up significantly
 
@@ -41,11 +46,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
         <answer>No</answer>
     </question>
 </quiz>
-
-## Scenario
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 ## Next
 If you found this useful, you might be interested in the following:

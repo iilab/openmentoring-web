@@ -45,47 +45,46 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 (5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
-## Encrypting Facebook voice calls
-Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
+## Adding a Facebook account on Jitsi
+Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
-# Step 1: Select your contact
-Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
-
-![](jitsi-en-win-42.png)
+# Facebook Username
+Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username.
 <br>
-Your contact will see incoming call notification:
-
-![](jitsi-en-win-43.png)
+To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page.
 <br>
+Your username is also included in your Facebook email address (e.g. username@facebook.com).
 <br>
-# Step 2: Accept the call
-If your contact accepts the call you will receive information that you are connected:
-
-![](jitsi-en-win-44.png)
-
-Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
+You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username.
 <br>
-# Step 3: wait
-
-Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment.
+To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process.
 <br>
-If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption
+For more details see Facebook’s explanation of usernames.
 <br>
-You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
-
-![](jitsi-en-win-45.png)
+# App Settings
+Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat.
 <br>
-# Step 4:: Confirm encryption
-Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
-
-![](jitsi-en-win-46.png)
+Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”.
 <br>
-# Step 5: Close confirmation box
-You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
+**Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers.
+<br>
+This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends.
+<br>
+After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use". This allows you to hide some personal information from applications used by your friends.
+<br>
+Unfortunately, Facebook does not offer settings to hide all personal information.
+<br.
+Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s "application platform" is turned "on". It is up to you to determine whether this is an acceptable trade-off.
+<br>
+Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
 
-![](jitsi-en-win-47.png)
+# Step 1: Add new Jitsi account
+Select **File > Add New Account...** in the main menu bar of Jitsi.
+<br>
+# Step 2: Add new Facebook account
+In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
-Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
+![](jitsi-en-win-16.png)
 
 
 ## Encrypting your Facebook instant messages
@@ -139,46 +138,47 @@ The authentication should be done only once per contact. If the triangle with ex
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 
 
-## Adding a Facebook account on Jitsi
-Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
+## Encrypting Facebook voice calls
+Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
 <br>
-# Facebook Username
-Facebook requires a username for Jitsi to connect to Facebook chat. Many Facebook users already have a username.
-<br>
-To check your username, log in to your Facebook account: your username is what appears in the location bar of your browser after https://www.facebook.com/ when you view your Timeline or Page.
-<br>
-Your username is also included in your Facebook email address (e.g. username@facebook.com).
-<br>
-You can get a new Facebook username by going to your Account Settings > General section or by visiting https://www.facebook.com/username.
-<br>
-To set a new username Facebook might want to verify your account, which might require sending an SMS to a mobile phone number which you will need to provide to Facebook in the verification process.
-<br>
-For more details see Facebook’s explanation of usernames.
-<br>
-# App Settings
-Facebook’s “application platform” needs to be turned on before Jitsi can connect to Facebook Chat.
-<br>
-Visit your Facebook Account Settings > Apps section and check that the setting for “Apps you use” is turned “On”.
-<br>
-**Note:** Turning Facebook’s "application platform" on opens up much of your Facebook data to third-party application developers.
-<br>
-This data is available not only to the Facebook applications that you use, but also to the Facebook applications used by any of your friends.
-<br>
-After turning on Facebook’s "application platform", be sure to check the settings under "Apps others use". This allows you to hide some personal information from applications used by your friends.
-<br>
-Unfortunately, Facebook does not offer settings to hide all personal information.
-<br.
-Certain categories of information (like your friend list, gender, or info you have made public) are visible as long as Facebook’s "application platform" is turned "on". It is up to you to determine whether this is an acceptable trade-off.
-<br>
-Now you are prepared to add your Facebook account on Jitsi. To do this follow the steps below:
+# Step 1: Select your contact
+Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
 
-# Step 1: Add new Jitsi account
-Select **File > Add New Account...** in the main menu bar of Jitsi.
+![](jitsi-en-win-42.png)
 <br>
-# Step 2: Add new Facebook account
-In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
+Your contact will see incoming call notification:
 
-![](jitsi-en-win-16.png)
+![](jitsi-en-win-43.png)
+<br>
+<br>
+# Step 2: Accept the call
+If your contact accepts the call you will receive information that you are connected:
+
+![](jitsi-en-win-44.png)
+
+Note the red open padlock. This means that your call is not yet encrypted with ZRTP.
+<br>
+# Step 3: wait
+
+Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment.
+<br>
+If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption
+<br>
+You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
+
+![](jitsi-en-win-45.png)
+<br>
+# Step 4:: Confirm encryption
+Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters. Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it. You can click Confirm. The orange zrtp field will turn green:
+
+![](jitsi-en-win-46.png)
+<br>
+# Step 5: Close confirmation box
+You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
+
+![](jitsi-en-win-47.png)
+
+Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
 ## Communicate securely on Facebook
