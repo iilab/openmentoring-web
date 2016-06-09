@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-08T16:34:21.699Z",
+  "updatedAt": "2016-06-09T10:00:42.334Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -40,20 +40,9 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely",
-      "type": "topic",
-      "title": "Browsing safely",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
     }
   ,
     {
@@ -153,6 +142,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser",
+      "type": "topic",
+      "title": "Tor Browser",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -256,17 +256,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
-      "type": "unit",
-      "title": "Website under attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_5-web-attack",
       "type": "unit",
       "title": "Website under attack",
@@ -349,7 +338,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:journo", "profile:hrd","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -360,7 +349,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -396,39 +385,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
     }
   ,
     {
@@ -696,6 +652,28 @@
     }
   ,
     {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -707,9 +685,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_1-computers",
+      "slug": "understand-1-how-it-works_2-phones",
       "type": "unit",
-      "title": "Computers",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -718,9 +696,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_2-phones",
+      "slug": "understand-1-how-it-works_1-computers",
       "type": "unit",
-      "title": "Phones",
+      "title": "Computers",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -751,9 +729,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_1-your-security",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -762,9 +740,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_0-getting-started",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Getting Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -784,9 +762,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-story-journo",
+      "slug": "understand-2-security_4-your-sources-journo",
       "type": "unit",
-      "title": "Your Story",
+      "title": "Your Sources",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -795,9 +773,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_4-your-sources-journo",
+      "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
-      "title": "Your Sources",
+      "title": "Your Story",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

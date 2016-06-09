@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-08T16:34:16.559Z",
+  "updatedAt": "2016-06-09T10:00:37.164Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -40,20 +40,9 @@
       "title": "Safe Social Networks",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely",
-      "type": "topic",
-      "title": "Browsing safely",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
     }
   ,
     {
@@ -153,6 +142,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser",
+      "type": "topic",
+      "title": "Tor Browser",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -256,17 +256,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_5-ddos",
-      "type": "unit",
-      "title": "Website under attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_5-web-attack",
       "type": "unit",
       "title": "Website under attack",
@@ -360,7 +349,7 @@
       "title": "Getting started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo"],
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -396,39 +385,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_1-prevent-traffic-being-watched",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-5-browsing-safely_2-leave-no-traces",
-      "type": "unit",
-      "title": "How to leave less traces while browsing",
-      "parentTitle": "Browsing safely",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-5-browsing-safely/index.json.gz"
     }
   ,
     {
@@ -693,6 +649,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {

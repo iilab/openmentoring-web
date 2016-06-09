@@ -1,10 +1,4 @@
 # Seeking Remote Help
-## Introduction
-![](unit.png)
-
-Establish secure communications when reaching out for help.
-
-
 ## Learn how to
 - [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
@@ -99,15 +93,11 @@ Providing digital emergency expertise:
 - Electronic Frontier Foundation: info@eff.org
 
 
-## Test
-<quiz name="">
-    <question>
-        <p>Landlines are not encrypted but mobile phones are</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
+## Introduction
+![](unit.png)
+
+Establish secure communications when reaching out for help.
+
 
 ## Next
 ---
@@ -121,4 +111,13 @@ To learn more about dealing with emergencies, see also:
  * RiseUp [Communications Security](https://help.riseup.net/en/security)
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 
+
+<quiz name="">
+    <question>
+        <p>Landlines are not encrypted but mobile phones are</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
+    </question>
+</quiz>
 

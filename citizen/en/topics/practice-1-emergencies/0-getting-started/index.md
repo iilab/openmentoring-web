@@ -1,11 +1,4 @@
 # Getting Started
-## Getting Started
-
-![](unit.png)
-
-Learn how to recognise and deal with the most common types of digital threats.
-
-
 ## Learn how to
 - [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
 - [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
@@ -58,6 +51,13 @@ Is your website down? Has it been defaced?
 
 <br>
 ![](recap.png)
+
+
+## Getting Started
+
+![](unit.png)
+
+Learn how to recognise and deal with the most common types of digital threats.
 
 
 ## Next

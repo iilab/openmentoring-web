@@ -1,10 +1,4 @@
 # Hijacked Account
-## Introduction
-![](unit.png)
-
-Steps to take if you suspect your online accounts are hijacked.
-
-
 ## Learn how to
 
 - [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
@@ -76,6 +70,12 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
 <br>
 ![](recap.png)
 > Use the password reset link
+
+
+## Introduction
+![](unit.png)
+
+Steps to take if you suspect your online accounts are hijacked.
 
 
 ## Test

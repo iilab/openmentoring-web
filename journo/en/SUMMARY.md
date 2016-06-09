@@ -12,8 +12,6 @@
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
-  * [Website under attack](topics/practice-1-emergencies/5-ddos/index.md)
-  
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
@@ -43,14 +41,6 @@
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-* [Browsing safely](topics/practice-5-browsing-safely/index.md)
-  
-  * [Getting Started](topics/practice-5-browsing-safely/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/practice-5-browsing-safely/1-prevent-traffic-being-watched/index.md)
-  
-  * [How to leave less traces while browsing](topics/practice-5-browsing-safely/2-leave-no-traces/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -117,6 +107,12 @@
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
