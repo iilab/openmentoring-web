@@ -1,8 +1,4 @@
 # How to prevent your traffic from being watched
-## Connect to Tor
-Learn to connect to the Tor network to browse safely or circumvent internet censorship.
-
-
 ## Learn how to
 - [Connect to the Tor network](en/topics/tool-9-tor-browser/1-connect-to-tor/3-learn.md)
 
@@ -38,6 +34,10 @@ Turning the security slider to a high setting disables these features. This will
 Unfortunately, turning off these features can make some websites unusable. The default low setting is fine for everyday privacy protection, but you can set it to high if you are worried about sophisticated attackers, or if you don't mind if some websites do not display correctly.
 
 ![](013e.png)
+
+
+## Connect to Tor
+Learn to connect to the Tor network to browse safely or circumvent internet censorship.
 
 
 ## Test
