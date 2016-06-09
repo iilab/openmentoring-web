@@ -64,7 +64,7 @@ It is also crucially important to continually re-evaluate your security practice
 Keep checking sites like SSD, because we will update our advice to reflect changes in our understanding and the realities of digital security. Security is never a one-off act: it's a process.
 
 
-## Choosingthe right lesson
+## Choosing the right lesson
 To learn the basics of encryption and how it can help protect you and your network, choose the Encryption lesson:
 - [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
 <br>

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-09T14:08:02.163Z",
+  "updatedAt": "2016-06-09T14:54:02.698Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -566,7 +566,7 @@
     {
       "slug": "tool-7-computer-hygiene_0-getting-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Getting started with computer hygiene",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -575,31 +575,20 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_1-antivirus",
+      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
+      "type": "unit",
+      "title": "Getting started with computer hygiene",
+      "parentTitle": "Computer Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-7-computer-hygiene_2-antivirus",
       "type": "unit",
       "title": "Understanding Threats",
-      "parentTitle": "Computer Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-7-computer-hygiene_3-windows-hygiene",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Computer Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-7-computer-hygiene_4-linux-hygiene",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
