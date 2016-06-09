@@ -7,6 +7,22 @@ Learn about what the Tor browser bundle is and how you can use it to browse the 
 - [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
 
 
+## Scenario
+Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
+
+<br>
+
+The authorities in Uganda have not been able to shut down their website, because it is hosted in another country, but they have often tried to learn the identity of the blog's administrators from other journalists.
+
+<br>
+
+Henry and Grace are concerned that the authorities may be able to monitor their updates and learn who they are.
+
+<br>
+
+In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
+
+
 ## Learn
 
 Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
@@ -41,22 +57,6 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 - Proxy: A proxy is a software intermediary that runs on your computer, on your local network, or somewhere else on the Internet, that helps to relay your communication toward its final destination.
 <br>
 - Route: A route is the communication path on the Internet between your computer and the destination server.
-
-
-## Scenario
-Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
-
-<br>
-
-The authorities in Uganda have not been able to shut down their website, because it is hosted in another country, but they have often tried to learn the identity of the blog's administrators from other journalists.
-
-<br>
-
-Henry and Grace are concerned that the authorities may be able to monitor their updates and learn who they are.
-
-<br>
-
-In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
 
 
 ## Test
