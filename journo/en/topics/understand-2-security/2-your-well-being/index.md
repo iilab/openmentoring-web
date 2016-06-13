@@ -3,16 +3,13 @@
 Learn about ensuring your short and long term well-being.
 
 
-## Learn how to
-- [Gettto grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
-- [Identify and deal with chronic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
-- [Identify and deal with traumatic stress](en/topics/understand-2-security/2-your-well-being/3-4-learn.md)
-- [Identify and deal with post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
-- [Build your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
+## Learn about
+- [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
+- [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
+- [Stress following a traumatic event](en/topics/understand-2-security/2-your-well-being/3-4-learn.md)
+- [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
+- [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
 
-
-## Scenario
-Scenario text...
 
 ## Learn
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
@@ -298,10 +295,10 @@ The specific symptoms of PTSD can vary widely between individuals, but generally
 <br>
 These symptoms are often severe and persistent and enough to have a significant impact on the person’s day-to-day life.
 <br>
-**Re-experiencing**
+# Re-experiencing
 Re-experiencing is the most typical symptom of PTSD. This is when a person involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations.
 <br>
-This can even include physical sensations such s pain, sweating and trembling or negative thoughts about their experience.
+This can even include physical sensations such as pain, sweating and trembling or negative thoughts about their experience.
 <br>
 **Avoidance**
 Trying to avoid being reminded of the traumatic event is another key symptom of PTSD.

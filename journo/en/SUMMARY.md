@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -150,6 +150,8 @@
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
@@ -159,6 +161,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   

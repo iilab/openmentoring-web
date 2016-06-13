@@ -1,10 +1,4 @@
 # Your Security
-## Introduction
-![](recap.png)
-
-Learn about creating a security assessment
-
-
 ## Learn how to
 * [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
@@ -12,12 +6,18 @@ Learn about creating a security assessment
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
+## Introduction
+![](recap.png)
+
+Learn about creating a security assessment
+
+
 ## Scenario
 ![](scenario.png)
 Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
 <br>
 ![](scenario.png)
-Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't  she won't be best prepared.
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
 
 
 ## Learn
@@ -71,6 +71,11 @@ An independent journalist working without a relationship with a news organizatio
 ![](recap.png)
 
 
+## Next
+
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -86,9 +91,4 @@ An independent journalist working without a relationship with a news organizatio
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
-
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
-
 

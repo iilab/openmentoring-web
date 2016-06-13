@@ -1,6 +1,5 @@
 # Hijacked Account
 ## Introduction
-![](unit.png)
 
 Steps to take if you suspect your online accounts are hijacked.
 
@@ -37,17 +36,6 @@ Until you better understand the situation we recommend you stop using this accou
 > Remember to change passwords for your linked accounts!
 
 
-## Confirm if your account has been hijacked
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-<br>
-![](recap.png)
-> something suspicious in account activity details
-
-
 ## Other places to check for suspicious activity
 >Step 1
 #Email forwarding
@@ -63,6 +51,17 @@ Also check email addresses or phone numbers listed when you're resetting your pa
 #Other account permissions
 
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
+
+
+## Confirm if your account has been hijacked
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+<br>
+![](recap.png)
+> something suspicious in account activity details
 
 
 ## Deal with being locked out of your account

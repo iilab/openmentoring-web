@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-13T14:38:46.164Z",
+  "updatedAt": "2016-06-13T16:19:26.976Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -300,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_4-emergency-plan",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_4-emergency-plan",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -828,6 +828,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_1-encryption",
+      "type": "unit",
+      "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
       "title": "Passwords",
@@ -875,17 +886,6 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_1-encryption",
-      "type": "unit",
-      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

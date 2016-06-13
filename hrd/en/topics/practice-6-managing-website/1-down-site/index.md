@@ -1,8 +1,10 @@
 # Getting Started
-## Legal problem
+## Hosting problem
 ![](recap.png)
 
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+If your website is not loading at all, the company that hosts your website may be having problems.
+<br>
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 ## Questions for your webmaster
@@ -49,20 +51,18 @@ If your site is up but you cant see it, it might be a network problem. It could 
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
-## Hosting problem
-![](recap.png)
-
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
-
-
 ## Censorship problem
 ![](recap.png)
 
 Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
 <br>
 Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
+## Legal problem
+![](recap.png)
+
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 ## Software problem

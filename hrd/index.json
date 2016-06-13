@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-13T14:38:49.690Z",
+  "updatedAt": "2016-06-13T16:19:29.257Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -112,17 +112,6 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene",
-      "type": "topic",
-      "title": "Computer Hygiene",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-6-conversations",
       "type": "topic",
       "title": "Using Conversations",
@@ -131,6 +120,17 @@
       "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-7-computer-hygiene",
+      "type": "topic",
+      "title": "Computer Hygiene",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
     }
   ,
     {
@@ -355,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "slug": "practice-4-safe-social-networks_2-access-personal-details",
       "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
+      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -366,9 +366,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -531,39 +531,6 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_0-getting-started",
-      "type": "unit",
-      "title": "Getting started with computer hygiene",
-      "parentTitle": "Computer Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
-      "type": "unit",
-      "title": "Getting started with computer hygiene",
-      "parentTitle": "Computer Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-7-computer-hygiene_2-antivirus",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Computer Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-6-conversations_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -594,6 +561,39 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-7-computer-hygiene_0-getting-started",
+      "type": "unit",
+      "title": "Getting started with computer hygiene",
+      "parentTitle": "Computer Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
+      "type": "unit",
+      "title": "Getting started with computer hygiene",
+      "parentTitle": "Computer Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-7-computer-hygiene_2-antivirus",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Computer Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
     }
   ,
     {
