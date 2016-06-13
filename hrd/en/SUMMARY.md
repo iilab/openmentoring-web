@@ -80,14 +80,6 @@
   
   * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
-* [Using Conversations](topics/tool-6-conversations/index.md)
-  
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
@@ -95,6 +87,14 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+* [Using Conversations](topics/tool-6-conversations/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   

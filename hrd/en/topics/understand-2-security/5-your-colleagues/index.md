@@ -1,7 +1,7 @@
 # Your colleagues
 ## Your colleagues
 
-Learn about security practices for your colleagues.
+Learn about how to talk about security with your colleagues.
 
 
 ## Learn about
@@ -31,19 +31,29 @@ Scenario text...
 
 
 ## Sharing of information with your teams
-
-
->sharing of info/collaboration: generally it's important to think about what you share and what has been shared. on the one end sometimes you want your colelagues to continue investigation so giving them enough of information so they can access ... also a way of dealing with infiltration
-
-
->link here to operational security section and also to secure communication section
+It's important to think about what kinds of information you share with your colleagues and what information to keep private.
+<br>
+Sharing information with your colleagues about your sources and research means that they will be able to continue your important investigations should something unexpected arise.
+<br>
+On the other hand, sharing information only on a 'need to know' basis means you might be better able to prevent infiltration by adversaries.
+<br>
+Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
+<br>
+Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 
 ## Talking about security with your colleagues
-
->talking about security - impact things can have with your colleagues rather than putting on a brave face/pretending these risks do not exist. this promotes a culture of carelessness.
-
->talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
+Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
+<br>
+Sometimes, though, it can be hard to talk about security with your colleagues.
+<br>
+You might face opposition from those who feel talking about security takes away valuable time you could spend doing your jobs. Your colleagues might even put on a brave face and pretending these risks do not exist.
+<br>
+It's also possible you might feel this way yourself.
+<br>
+When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
+<br>
+To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
 
 ## Test

@@ -96,6 +96,16 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
   * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
@@ -151,14 +161,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
-  
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
