@@ -33,18 +33,6 @@ If your settings are not set to auto-update (mobile-based GSM data providers oft
 Alternatively, through the process above you can set Windows Update to inform you of available updates and let you decide whether to download them or not. This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
 
 
-## Open source software
-For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
-<br>
-Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
-<br>
-Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
-<br>
-Independent developers are also constantly developing digital security tools to add to FOSS software.
-<br>
-For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
-
-
 ## Keeping backups of information
 
 Loss of digital information from computer theft or collapse is fairly common in many countries. In some countries, confiscation and destruction of computers by government security agents is also something that you should be wary of.
@@ -61,6 +49,17 @@ External HDDs can offer storage space of up to 6TB. It is, however, recommended 
 Keep your backups in a separate location from your computer. This ensures that you do not lose both the files on your computer and your backup at the same time. Keeping a couple of backups in different locations is good practice, as long as these too are secured.
 <br>
 You can also store your backups on remote servers via the internet – on what is now known as the cloud. Ensure you choose a secure online storage service. Consider secure services like Tresorit and SpiderOak, which are both quite secure and reliable.
+
+
+For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
+<br>
+Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
+<br>
+Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
+<br>
+Independent developers are also constantly developing digital security tools to add to FOSS software.
+<br>
+For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
 ## Next

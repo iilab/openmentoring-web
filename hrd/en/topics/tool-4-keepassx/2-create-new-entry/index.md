@@ -1,12 +1,16 @@
 # How to have voice calls?
-## Create new KeePassX entries
-Learn how to create new KeePassX entries.
-
-
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+## Create new KeePassX entries
+Learn how to create new KeePassX entries.
+
+
+## Scenario
+Scenario text...
 
 
 ## Create a new entry
@@ -46,10 +50,6 @@ Option 3. Use the View/Edit Entry shortcut key combination: Command-E.
 Step 4. With an open entry, you can add new information or edit any existing information, including the password. (In this example, we’ll add some additional information to the Comment field.) To save your changes, click {OK}.
 
 Note: Remember that making changes to a KeePassX entry only updates that entry in your KeePassX database. It does not automatically update corresponding information elsewhere, such as a new password for an online account, or the same KeePassX entry in any copies or backups of your KeePassX database that you have saved elsewhere. Therefore, you will need to make any relevant updates to your account information, as well as new KeePassX database backups and copies seperately after editing your entry here.
-
-
-## Scenario
-Scenario text...
 
 
 ## Next

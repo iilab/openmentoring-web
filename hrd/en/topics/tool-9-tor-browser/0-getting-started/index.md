@@ -1,10 +1,10 @@
 # Getting Started
-## Learn about
-- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
-
-
 ## Getting started with Tor
 Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
+
+
+## Learn about
+- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
 
 
 ## Scenario

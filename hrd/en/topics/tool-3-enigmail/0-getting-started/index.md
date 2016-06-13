@@ -8,6 +8,12 @@ Learn how to install and use Enigmail, a free and open source Thunderbird add-on
  - [Where to find assistance installing and setting up Enigmail](en/topics/tool-3-enigmail/0-getting-started/3-2-learn.md)
 
 
+## Scenario
+Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
+<br>
+He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
+
+
 ## About Enigmail
 Enigmail is an interface that lets you use GnuPG encryption program from within Thunderbird. The Engimail interface is represented as Enigmail in the Thunderbird console tool bar.
 <br>
@@ -28,12 +34,6 @@ If you have a correspondent's public key, you can verify the digital signatures 
 
 ## Installing and setting up Enigmail
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
-
-
-## Scenario
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
-<br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
 ## Next
