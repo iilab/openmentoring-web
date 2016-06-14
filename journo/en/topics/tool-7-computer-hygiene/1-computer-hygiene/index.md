@@ -45,6 +45,7 @@ Independent developers are also constantly developing digital security tools to 
 For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
+## Keeping backups of information
 
 Loss of digital information from computer theft or collapse is fairly common in many countries. In some countries, confiscation and destruction of computers by government security agents is also something that you should be wary of.
 <br>

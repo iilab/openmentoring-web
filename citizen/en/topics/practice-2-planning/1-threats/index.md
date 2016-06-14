@@ -1,8 +1,4 @@
 # Understanding Threats
-## Threats
-Learn about identifying and dealing with threats
-
-
 ## Learn about
 - [What are threats?](en/topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)
@@ -10,6 +6,10 @@ Learn about identifying and dealing with threats
 
 ## Scenario
 Scenario text...
+
+## Threats
+Learn about identifying and dealing with threats
+
 
 ## What are threats?
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.

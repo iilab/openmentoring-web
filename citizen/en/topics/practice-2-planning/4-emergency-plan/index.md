@@ -33,6 +33,7 @@ Your emergency plan should include a detailed list of individuals and groups for
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
 
 
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -48,6 +49,7 @@ For more informanation on developing a security and emergency plan, refer to Pro
     </question>
 </quiz>
 
+## Next
 If you found this useful, you might be interested in the following:
 * [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)

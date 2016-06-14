@@ -12,6 +12,7 @@ Learn how to create new KeePassX entries.
 Scenario text...
 
 
+## Create a new entry
 # Step 1. Select New Entry
 In the KeePassX menu, select Entries, then Add New Entry. Or you can use the Add New Entry shortcut key combination: Command-Y.
 <br>

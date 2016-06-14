@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-14T14:01:52.064Z",
+  "updatedAt": "2016-06-14T14:59:16.159Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -415,7 +415,7 @@
       "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -443,9 +443,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
+      "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -454,9 +454,9 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
+      "slug": "tool-2-signal_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -531,9 +531,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_2-voice",
+      "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -542,9 +542,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_1-messaging",
+      "slug": "tool-6-conversations_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -597,9 +597,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_3-windows-hygiene",
+      "slug": "tool-8-android-hygiene_1-antivirus",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Understanding Threats",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_1-antivirus",
+      "slug": "tool-8-android-hygiene_3-windows-hygiene",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],

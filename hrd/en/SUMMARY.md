@@ -58,9 +58,9 @@
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -82,9 +82,9 @@
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -98,9 +98,9 @@
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   

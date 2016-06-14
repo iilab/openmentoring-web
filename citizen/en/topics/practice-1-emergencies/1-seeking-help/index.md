@@ -14,13 +14,6 @@ Establish secure communications when reaching out for help.
 <br>
 
 
-## Scenario
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
-<br>
-
-But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
-
-
 ## Learn
 # Normal communications
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
@@ -96,6 +89,13 @@ When you are initiating contact with third parties you might want to create a ne
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
 - Electronic Frontier Foundation: info@eff.org
+
+
+## Scenario
+Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+<br>
+
+But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
 ## Test

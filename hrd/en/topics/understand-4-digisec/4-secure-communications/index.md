@@ -8,6 +8,9 @@ This unit will provide an overview of secure communications. Much of this sectio
 - [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## Secure communication basics
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
 <br>
@@ -40,6 +43,7 @@ An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group
 It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
 
 
+## Secure communication tools
 For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
 
 # Pidgin and Adium
@@ -58,9 +62,6 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 <br>
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

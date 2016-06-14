@@ -3,6 +3,7 @@
 Learn how to create a standard volume using Veracrypt
 
 
+## Learn how to
 - [Create a standard encrypted volume using VeraCrypt](en/topics/tool-5-veracrypt/1-standard-volume/3-howto-standard.md)
 
 
@@ -13,6 +14,7 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
+## Creating a standard encrypted volume
 # Step 1. Open Veracrypt
 Launch VeraCrypt to open the main application window
 ![01.png](01.png)

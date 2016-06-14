@@ -1,8 +1,4 @@
 # Assessing Security Risks
-## Introduction
-Know what measures to take to understand risks faced as a journalist.
-
-
 ## Learn how to
 - [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
 - [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
@@ -118,6 +114,10 @@ In these cases it can be useful to think of the different threats in terms of th
 | Impact      | Low | Medium   | High                      | Catastrophic |
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
+
+
+## Introduction
+Know what measures to take to understand risks faced as a journalist.
 
 
 ## Test
