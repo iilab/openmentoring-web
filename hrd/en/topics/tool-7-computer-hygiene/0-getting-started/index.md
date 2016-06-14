@@ -1,10 +1,10 @@
 # Getting started with computer hygiene
+
+
+
 ## Getting Started
 
 Learn to implement common computer hygiene practices.
-
-
-
 
 
 ## Scenario
@@ -29,7 +29,6 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
-## Next
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...

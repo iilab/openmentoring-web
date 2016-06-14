@@ -211,11 +211,11 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 - [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
-## Test you social networking knowledge!
-
-
 ## Next
  See also:
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+
+
+## Test you social networking knowledge!
 
 

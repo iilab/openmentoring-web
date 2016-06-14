@@ -3,15 +3,15 @@
 Learn how to recognise and deal with the most common types of digital threats.
 
 
-## Learn how to
-- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
-- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
-
-
 ## A suspicious email...
 While working on a new story Brenda received an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>
 It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
+
+
+## Learn how to
+- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
+- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
 
 
 ## Verify if the problem is real

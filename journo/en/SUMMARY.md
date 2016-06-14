@@ -4,6 +4,8 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
@@ -11,8 +13,6 @@
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
@@ -32,25 +32,21 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
+* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  
+  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -70,16 +66,6 @@
   
   * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
   
-* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
-  
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
-  
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -98,9 +84,9 @@
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
-  
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
@@ -152,6 +138,8 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
@@ -160,5 +148,17 @@
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   

@@ -1,9 +1,4 @@
 # Your colleagues
-## Your colleagues
-
-The security of your colleagues is part of your own security.
-
-
 ## Learn about
 - Team configurations
 - [Sharing of information with your teams](en/topics/understand-2-security/5-your-colleagues/3-2-learn.md)
@@ -42,7 +37,6 @@ Whether you share much or little information with your colleagues, it is importa
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 
-## Talking about security with your colleagues
 Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
 <br>
 Sometimes, though, it can be hard to talk about security with your colleagues.
@@ -54,6 +48,11 @@ It's also possible you might feel this way yourself.
 When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
 <br>
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
+
+
+## Your colleagues
+
+The security of your colleagues is part of your own security.
 
 
 ## Test

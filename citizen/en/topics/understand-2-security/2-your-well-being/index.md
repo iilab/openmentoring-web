@@ -403,6 +403,7 @@ While the former may be difficult for many people due to the demands of their jo
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
 - (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
