@@ -19,7 +19,6 @@ Brenda is planning a new project and needs to complete a threat and risk assessm
 If she doesn't, she knows that she exposes herself to unnecessary and avoidable harm. She needs to know so she can start the project soon.
 
 
-## Choose the right lesson
 
 This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
 <br>

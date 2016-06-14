@@ -8,9 +8,9 @@
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   

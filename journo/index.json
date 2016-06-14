@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-13T16:20:22.709Z",
+  "updatedAt": "2016-06-14T11:07:51.172Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -234,9 +234,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "Malware",
+      "title": "Devices Seized",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -245,9 +245,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
-      "title": "Devices Seized",
+      "title": "Malware",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],

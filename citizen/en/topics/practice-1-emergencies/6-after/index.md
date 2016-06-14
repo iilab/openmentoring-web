@@ -67,7 +67,6 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
     </question>
 </quiz>
 
-## Next steps
 - [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)

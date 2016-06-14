@@ -1,12 +1,12 @@
 # Getting Started
+## Safe phones
+Learn the basics of using mobile phones security.
+
+
 ## Learn how to
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-## Safe phones
-Learn the basics of using mobile phones security.
 
 
 ## Scenario
@@ -27,11 +27,6 @@ RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but bo
 Orbot by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. It brings the features and functionality of Tor to the Android mobile operating system.
 
 
-## Next
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -47,4 +42,9 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 

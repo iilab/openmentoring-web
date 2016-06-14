@@ -1,12 +1,12 @@
 # How to have voice calls?
+## Create new KeePassX entries
+Learn how to create new KeePassX entries.
+
+
 ## Key takeaways
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-## Create new KeePassX entries
-Learn how to create new KeePassX entries.
 
 
 ## Scenario

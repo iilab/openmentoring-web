@@ -1,15 +1,5 @@
 # Summary
 
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
@@ -25,6 +15,16 @@
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -66,6 +66,12 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
+* [Using KeepassX](topics/tool-4-keepassx/index.md)
+  
+  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
+  
+  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
@@ -99,12 +105,6 @@
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
-  
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   

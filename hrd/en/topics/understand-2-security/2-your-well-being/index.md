@@ -21,6 +21,7 @@ When our "fear buttons" are pressed, our bodies are preparing to enact our insti
 
 This response involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed.
 <br>
+
 A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention.
 <br>
 ![](recap.png)
@@ -91,32 +92,39 @@ Dissociation is a sign of serious traumatization.
 
 ## Chronic stress
 # Identifying chronic stress
+> define chronic. 
+
 Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
 With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 <br>
+
 If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
 <br>
-Not only is this worse for the body physically and mentally, but chronic stress can also erode coping mechanisms.
+# Hard to deal with problems
+Not only is this worse for the body physically and mentally, but chronic stress can make it hard to deal with daily problems.
+
 <br>
 Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
 ![](recap.png)
 <br>
-# Effects of Chronic stress
-**Physical symptoms:**
--Exhaustion
--Hyperactivity
--Sleeping difficulties or excessive sleep
+# Physical symptoms
+- Exhaustion
+- Hyperactivity
+- Sleeping difficulties or excessive sleep
 <br>
+# Physical symptoms
 -Slight flu-like symptoms
 -Headaches
 -Heightened blood pressure and heart rate
 -Nausia or vomiting.
 <br>
-**Behavioural symptoms:**
+# Behavioral symptoms
 -Avoiding genuine social contact and relationships
 -Substance abuse (caffeine/alcohol/drugs)
 -A series of short and casual romantic/sexual relationships
+<br>
+# Behavioral symptoms:
 -Risk taking
 -Withdrawal
 -Irritability or a constant tendency to pick quarrels

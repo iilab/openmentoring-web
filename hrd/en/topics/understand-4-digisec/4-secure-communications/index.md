@@ -63,17 +63,6 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
 
-## Next
----
-- en/topics/understand-4-digisec/1-encryption/1-1-intro.md: Understand encryption
-- en/topics/understand-2-security/1-your-security/1-1-intro.md: Learn more about your security
-- en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Using Signal for secure messaging
----
-See also:
-- Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
-- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -89,4 +78,15 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+---
+- en/topics/understand-4-digisec/1-encryption/1-1-intro.md: Understand encryption
+- en/topics/understand-2-security/1-your-security/1-1-intro.md: Learn more about your security
+- en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Using Signal for secure messaging
+---
+See also:
+- Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
+
 

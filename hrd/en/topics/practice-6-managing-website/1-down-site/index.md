@@ -1,8 +1,8 @@
 # Getting Started
-## Billing problem
+## Legal problem
 ![](recap.png)
 
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 ## Questions for your webmaster
@@ -43,10 +43,10 @@ To see whether your web host is working but your website is unavailable, visit h
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
-## Legal problem
+## Billing problem
 ![](recap.png)
 
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 ## Hosting problem
