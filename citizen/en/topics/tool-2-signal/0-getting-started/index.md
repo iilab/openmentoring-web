@@ -1,4 +1,8 @@
 # Getting Started with Signal
+## Getting started with Signal
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+
+
 ## Learn how to
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
@@ -6,65 +10,10 @@
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
 
-## Getting started with Signal
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
-
-
 ## Scenario
 Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
 <br>
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
-
-
-## Learn
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
-<br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
-<br>
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
-<br>
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
-<br>
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
-
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-## Registering with Signal
-
-# Step 1: Register your phone number
-
-Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
->Registration screen
-
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
->Confirming number
-
-<br>
-# Step 2: Confirm registration
-Signal will send you an SMS message to confirm registration.
-<br>
-Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
-<Br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
-Registration completing
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
-Voice verification screens
 
 
 ## How-to
@@ -146,10 +95,60 @@ To enable encrypted storage, take the following 5 steps:
 > Signal timeout settings
 
 
+## Registering with Signal
+
+# Step 1: Register your phone number
+
+Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
+>Registration screen
+
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
+>Confirming number
+
+<br>
+# Step 2: Confirm registration
+Signal will send you an SMS message to confirm registration.
+<br>
+Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
+<Br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
+Registration completing
+<br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
+Voice verification screens
+
+
 ## Next
 ---
 - (en/topics/tool-2-signal/1-messaging/1-intro.md): Send encrypted messages to other Signal users via SMS or the internet (MMS).
 - (en/topics/tool-2-signal/2-voice/1-intro.md): Make encrypted voice calls to other Signal users.
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate 
+
+
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+<br>
+Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+<br>
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+<br>
+In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+<br>
+This means that When you use Signal, you can communicate with users using the following programs:
+ - Android: surespot, ChatSecure, Zom
+ - iOS: surespot, ChatSecure
+ - Microsoft Windows: Jitsi, Pidgin
+ - Mac OS: Jitsi, Adium
+ - Linux: Jitsi, Pidgin
+
+
+Things You Should Know About This Tool Before You Start
+ - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
+ - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+ - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
 

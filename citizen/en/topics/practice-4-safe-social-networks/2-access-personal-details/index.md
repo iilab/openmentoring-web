@@ -1,30 +1,11 @@
 # How to control access to your personal details?
-## Learn how to
-- [Be careful in posting personal information to social networking sites](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
-- [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
-
-
 ## Controlling access to your personal details
 Learn about controlling access to your personal details on social networking sites.
 
 
-## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-## Control access to personal information on your Facebook profile
-You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
-<br>
-Go to About > Contact & Basic Info you can see your date of birth:
-
-![Screen Shot 2015-11-20 at 16.54.51.png](Screen Shot 2015-11-20 at 16.54.51.png)
-<br>
-If you place your mouse cursor over it, you will see an icon which can be a globe (public), a group (friends of friends), a lock (only me) or possibly other images.
-
-![Screen Shot 2015-11-20 at 16.54.57.png](Screen Shot 2015-11-20 at 16.54.57.png)
-<br>
-Clicking on this icon will bring up a menu where you can change this setting:
-
-![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
+## Learn how to
+- [Be careful in posting personal information to social networking sites](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
+- [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
 
 
 ## What to post to social networking sites
@@ -45,6 +26,25 @@ Before posting, think about whether it's necessary to post:
  - details of family members
  - sexual orientation
  - education and employment history
+
+
+## Scenario
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+## Control access to personal information on your Facebook profile
+You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
+<br>
+Go to About > Contact & Basic Info you can see your date of birth:
+
+![Screen Shot 2015-11-20 at 16.54.51.png](Screen Shot 2015-11-20 at 16.54.51.png)
+<br>
+If you place your mouse cursor over it, you will see an icon which can be a globe (public), a group (friends of friends), a lock (only me) or possibly other images.
+
+![Screen Shot 2015-11-20 at 16.54.57.png](Screen Shot 2015-11-20 at 16.54.57.png)
+<br>
+Clicking on this icon will bring up a menu where you can change this setting:
+
+![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
 
 
 ## Test you social networking knowledge!

@@ -30,6 +30,18 @@ Scenario text...
 >give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
 
 
+## Sharing of information with your teams
+It's important to think about what kinds of information you share with your colleagues and what information to keep private.
+<br>
+Sharing information with your colleagues about your sources and research means that they will be able to continue your important investigations should something unexpected arise.
+<br>
+On the other hand, sharing information only on a 'need to know' basis means you might be better able to prevent infiltration by adversaries.
+<br>
+Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
+<br>
+Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
+
+
 ## Talking about security with your colleagues
 Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
 <br>
@@ -42,18 +54,6 @@ It's also possible you might feel this way yourself.
 When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
 <br>
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
-
-
-## Sharing of information with your teams
-It's important to think about what kinds of information you share with your colleagues and what information to keep private.
-<br>
-Sharing information with your colleagues about your sources and research means that they will be able to continue your important investigations should something unexpected arise.
-<br>
-On the other hand, sharing information only on a 'need to know' basis means you might be better able to prevent infiltration by adversaries.
-<br>
-Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
-<br>
-Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 
 ## Test
@@ -72,6 +72,7 @@ Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-com
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
 - (en/topics/understand-2-security/2-your-well-being/1-intro.md): Your well-being

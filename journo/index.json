@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-14T13:23:06.106Z",
+  "updatedAt": "2016-06-14T13:31:39.338Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -90,17 +90,6 @@
     }
   ,
     {
-      "slug": "tool-4-keepassx",
-      "type": "topic",
-      "title": "Using KeepassX",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-5-veracrypt",
       "type": "topic",
       "title": "Veracrypt",
@@ -109,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx",
+      "type": "topic",
+      "title": "Using KeepassX",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ,
     {
@@ -212,28 +212,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Hijacked Account",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
       "title": "Devices Seized",
@@ -245,9 +223,31 @@
     }
   ,
     {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
       "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_2-account-hijacked",
+      "type": "unit",
+      "title": "Hijacked Account",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -322,23 +322,23 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-3-safe-phones_1-instant-messaging",
       "type": "unit",
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -426,7 +426,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -476,28 +476,6 @@
     }
   ,
     {
-      "slug": "tool-4-keepassx_0-getting-started",
-      "type": "unit",
-      "title": "Using KeePassX",
-      "parentTitle": "Using KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-4-keepassx_2-create-new-entry",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-5-veracrypt_0-getting-started",
       "type": "unit",
       "title": "Using Veracrypt",
@@ -517,6 +495,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx_0-getting-started",
+      "type": "unit",
+      "title": "Using KeePassX",
+      "parentTitle": "Using KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx_2-create-new-entry",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ,
     {
@@ -718,17 +718,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
@@ -743,6 +732,17 @@
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -828,9 +828,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -839,9 +839,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

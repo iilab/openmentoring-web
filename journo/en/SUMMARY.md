@@ -4,13 +4,13 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -28,9 +28,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -66,17 +66,17 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
-  
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
-  
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  
+* [Using KeepassX](topics/tool-4-keepassx/index.md)
+  
+  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
+  
+  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -126,11 +126,11 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
@@ -150,9 +150,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

@@ -1,13 +1,13 @@
 # Encryption
+## Introduction
+Learn the basics of encryption and how it can help protect you and your network.
+
+
 ## Learn about
 - [What is encryption](en/topics/understand-4-digisec/1-encryption/3-1-learn.md)
 - [What are private and public keys](en/topics/understand-4-digisec/1-encryption/3-2-learn.md)
 - [What are security certificates](en/topics/understand-4-digisec/1-encryption/3-3-learn.md)
 - [What are key fingerprints](en/topics/understand-4-digisec/1-encryption/3-4-learn.md)
-
-
-## Introduction
-Learn the basics of encryption and how it can help protect you and your network.
 
 
 ## Scenario
@@ -37,16 +37,6 @@ A public key is a file that you can give to others or publish that allows people
 Private and public keys come in matched pairs, like the halves of a rock that has been split into two perfectly matching pieces, but they are not the same.
 
 
-## Key fingerprints
-The word "fingerprint" means lots of different things in the field of computer security.
-<br>
-One use of the term is a "key fingerprint," a string of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928" that should allow you to uniquely and securely check that someone on the Internet is using the right private key.
-<br>
-If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
-<br>
-But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
-
-
 ## Security certificates
 Another extremely valuable concept to understand is a security certificate.
 <br>
@@ -65,6 +55,16 @@ Unfortunately, it is extremely difficult to tell the difference between these ca
 This means you should never click past a certificate warning if it relates to a site where you have an account, or are reading any sensitive information.
 
 
+## Key fingerprints
+The word "fingerprint" means lots of different things in the field of computer security.
+<br>
+One use of the term is a "key fingerprint," a string of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928" that should allow you to uniquely and securely check that someone on the Internet is using the right private key.
+<br>
+If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
+<br>
+But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -81,6 +81,7 @@ This means you should never click past a certificate warning if it relates to a 
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
 - en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing

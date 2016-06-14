@@ -1,4 +1,14 @@
 # How to chat securely?
+## Encrypting Facebook instant messaging and voice calls
+To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
+
+(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
+(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
+(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
+(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
+
+
 ## Installing Jitsi
 
 You can install Jitsi through the following seven steps:
@@ -33,16 +43,6 @@ Even if you do not click on any of the buttons, and simply close the prompt wind
 <br>
 # Step 7: Authorise Jitsi
 Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
-
-
-## Encrypting Facebook instant messaging and voice calls
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
-
-(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
-(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
 ## Adding a Facebook account on Jitsi
@@ -185,6 +185,12 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 Learn to encrypt your Facebook voice calls and instant messages.
 
 
+## Scenario
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+<br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+
+
 ## Facebook communication basics
 You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
@@ -197,12 +203,6 @@ To enhance the privacy and security of your communications, you can install Jits
 OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
 
 
-## Scenario
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
-<br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
-
-
 ## Learn how to
 - [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
 - [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
@@ -211,11 +211,10 @@ They need to learn how to encrypt their communication. If they don't, they worry
 - [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
-## Next
+## Test you social networking knowledge!
+
+
  See also:
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
-
-
-## Test you social networking knowledge!
 
 

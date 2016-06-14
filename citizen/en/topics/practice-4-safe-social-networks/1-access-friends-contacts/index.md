@@ -1,15 +1,21 @@
 # How to control access to friends &amp; contacts?
-## Learn how to
-
-
 ## Control access to friends and contacts
 Learn to control access to friends and contacts.
+
+
+## Learn how to
 
 
 ## Scenario
 Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 ###give a different example here that highlights access to friends/contacts
+
+## How-to
+
+
+## Test you social networking knowledge!
+
 
 ## Security implications of using social networking sites
 
@@ -34,9 +40,6 @@ Remember that social networking sites are owned by private businesses, and that 
 When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
 
-## How-to
-
-
 ## Next
 If you found this section useful, you might be interested in the following sections:
 - [Getting started with Social Networks](en/topics/practice-4-safe-social-networks/0-getting-started/1-intro-hrd.md)
@@ -45,7 +48,4 @@ If you found this section useful, you might be interested in the following secti
 - [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
 - [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
 - [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
-
-## Test you social networking knowledge!
-
 

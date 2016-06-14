@@ -17,17 +17,6 @@ She needs to know if she still has access to the account, and if not, who she ca
 
 
 ## Learn
-# Review account history
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-# Unfamiliar location
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-# Are you using Tor?
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-## Learn
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
@@ -42,6 +31,17 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 <br>
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+
+
+## Learn
+# Review account history
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+# Unfamiliar location
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+# Are you using Tor?
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Other places to check for suspicious activity
@@ -91,6 +91,7 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
     </question>
 </quiz>
 
+## Next
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security

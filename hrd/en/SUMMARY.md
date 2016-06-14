@@ -94,21 +94,21 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -126,9 +126,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
@@ -154,9 +154,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
