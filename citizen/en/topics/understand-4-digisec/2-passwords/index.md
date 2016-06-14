@@ -13,6 +13,20 @@ Learn about how to create strong and secure passwords
 ## Scenario
 Scenario text...
 
+## Password basics
+# Protecting your information
+Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
+<br>
+# Passwords are important
+Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
+<br>
+# How passwords work
+In general, when you want to protect something - whether a house or an email account - you lock it up with a key. All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
+<br>
+# Use strong passwords
+You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
+
+
 ## Choosing a strong password
 # Use a password manager
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
@@ -51,20 +65,6 @@ To test your password, you can play around with the “How secure is my password
 <br>
 # Choose a new password
 But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
-
-
-## Password basics
-# Protecting your information
-Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
-<br>
-# Passwords are important
-Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
-<br>
-# How passwords work
-In general, when you want to protect something - whether a house or an email account - you lock it up with a key. All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
-<br>
-# Use strong passwords
-You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
 
 
 ## Two-factor authentication

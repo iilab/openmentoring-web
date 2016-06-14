@@ -2,19 +2,19 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -38,9 +38,9 @@
   
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -50,17 +50,17 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -98,9 +98,9 @@
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
@@ -112,9 +112,9 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
@@ -146,6 +146,8 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
@@ -153,8 +155,6 @@
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
