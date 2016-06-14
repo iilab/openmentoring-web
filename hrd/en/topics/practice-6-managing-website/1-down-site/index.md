@@ -49,6 +49,12 @@ If your website is not loading at all, the company that hosts your website may b
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
+## Censorship problem
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
 ## Software problem
 Are you seeing error messages? This could be a software problem.
 <br>
@@ -63,12 +69,6 @@ Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-l
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
 See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
-
-
-## Censorship problem
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Reasons your site may be down

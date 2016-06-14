@@ -185,12 +185,6 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 Learn to encrypt your Facebook voice calls and instant messages.
 
 
-## Scenario
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
-<br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
-
-
 ## Facebook communication basics
 You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
@@ -203,6 +197,12 @@ To enhance the privacy and security of your communications, you can install Jits
 OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
 
 
+## Scenario
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+<br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+
+
 ## Learn how to
 - [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
 - [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
@@ -211,11 +211,11 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 - [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
-## Test you social networking knowledge!
-
-
 ## Next
  See also:
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+
+
+## Test you social networking knowledge!
 
 

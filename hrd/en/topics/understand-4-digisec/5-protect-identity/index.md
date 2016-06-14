@@ -1,4 +1,7 @@
 # Protecting Identity
+## Introduction
+Introduction text...
+
 ## Key takeaways
 ## A New Post
 
@@ -7,9 +10,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## Scenario
 Scenario text...
-
-## Introduction
-Introduction text...
 
 ## Learn
 Learning text...

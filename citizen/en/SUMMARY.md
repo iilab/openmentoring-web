@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -96,13 +96,19 @@
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -116,15 +122,7 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
 * [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
@@ -132,25 +130,11 @@
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-* [Understanding Digital Security](topics/understand-4-digisec/index.md)
-  
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -159,4 +143,20 @@
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+* [Understanding Digital Security](topics/understand-4-digisec/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

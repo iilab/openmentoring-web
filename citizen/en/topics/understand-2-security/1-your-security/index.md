@@ -44,6 +44,19 @@ The assessment should include:
 
 
 ## Learn
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+![](recap.png)
+
+
+## Learn
 > Step 2
 # Address communications infrastructure
 
@@ -54,19 +67,6 @@ Are electricity, Internet access, and mobile and landline phone service availabl
 Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
 <br>
 Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
-<br>
-![](recap.png)
-
-
-## Learn
-> Step 3
-# Consult diverse sources
-
-Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
-<br>
-Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
-<br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 ![](recap.png)
 
@@ -87,7 +87,6 @@ An independent journalist working without a relationship with a news organizatio
     </question>
 </quiz>
 
-## Next
 
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
