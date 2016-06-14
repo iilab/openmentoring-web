@@ -25,9 +25,6 @@ Mansour is an investigative journalist who wants to share the app with his sourc
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
-## Share
-
-
 ## How-to
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
@@ -205,6 +202,9 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 ![18s.png](18s.png)
 Figure 16 & 17: Signal Export and Export confirmation screens
+
+
+## Share
 
 
 ## Next

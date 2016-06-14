@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-14T11:07:51.172Z",
+  "updatedAt": "2016-06-14T12:19:37.711Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -32,17 +32,6 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks",
-      "type": "topic",
-      "title": "Safe Social Networks",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:journo"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -109,6 +98,17 @@
       "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks",
+      "type": "topic",
+      "title": "Safe Social Networks",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -212,17 +212,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Hijacked Account",
@@ -259,6 +248,17 @@
       "slug": "practice-1-emergencies_5-web-attack",
       "type": "unit",
       "title": "Website under attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -341,50 +341,6 @@
       "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [ "profile:journo"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
-      "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
-      "type": "unit",
-      "title": "How to control access to your personal details?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
-      "type": "unit",
-      "title": "How to chat securely?",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -531,6 +487,50 @@
     }
   ,
     {
+      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "type": "unit",
+      "title": "How to control access to friends &amp; contacts?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "type": "unit",
+      "title": "How to control access to your personal details?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "type": "unit",
+      "title": "How to chat securely?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [ "profile:journo"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-6-conversations_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -597,9 +597,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_0-getting-started",
+      "slug": "tool-8-android-hygiene_1-antivirus",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Understanding Threats",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_1-antivirus",
+      "slug": "tool-8-android-hygiene_0-getting-started",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Getting Started",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -839,17 +839,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
-      "type": "unit",
-      "title": "Passwords",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
@@ -886,6 +875,17 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_2-passwords",
+      "type": "unit",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

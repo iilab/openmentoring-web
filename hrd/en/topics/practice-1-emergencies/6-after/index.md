@@ -12,43 +12,41 @@ Steps to take after an emergency has taken place.
 
 ## Scenario
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
-
-![](scenario.png)
 <br>
 Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
 
-![](scenario.png)
 
-
-## Revising emergency plans
+## Learn
+# What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
+# Improving organisational procedures
 When necessary, this is a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training).
 <br>
+# Remember all steps
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
-<br>
-![](recap.png)
 
 
-## Emergency funding
+## Learn
+# Reach out for help
 Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
 <br>
+# Funding organisations
 If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
 
-<br>
-![](recap.png)
 
-
-## Traumatic stress
+## Learn
+# Work related trauma
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
+# Recognising trauma symptoms
 It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
+# A normal reaction
 Traumatic Stress is a normal reaction to an abnormal situation. It's very possible that after an emergency, you or your colleagues may be suffering from traumatic stress.
 <br>
+# Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
-<br>
-![](recap.png)
 
 
 ## Test

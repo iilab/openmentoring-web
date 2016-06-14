@@ -43,7 +43,6 @@ The assessment should include:
  ![](recap.png)
 
 
-## Learn
 > Step 2
 # Address communications infrastructure
 
