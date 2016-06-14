@@ -80,17 +80,6 @@ Learn why your website might be down
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
-## Next
----
-- understand-2-security/0-getting-started
-- internal-...
----
-To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
- * ...
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -106,4 +95,15 @@ To learn more about XXX, see also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+---
+- understand-2-security/0-getting-started
+- internal-...
+---
+To learn more about XXX, see also:
+ * [An external resource to study next](en/topics/_topic/_unit/index.md)
+ * [Another resource](en/topics/_topic/_unit/index.md)
+ * ...
+
 

@@ -9,6 +9,12 @@ Understand security issues for your sources
 - [Techniques to protect you and your sources](en/topics/understand-2-security/4-your-sources-journo/3-3-learn.md)
 
 
+## Scenario
+Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
+<br>
+He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
+
+
 ## Why it&#39;s important to protect your sources
 Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
 <br>
@@ -29,12 +35,6 @@ In some nations, local journalists covering organized crime, national security, 
 It is important consider when and how to contact your sources:  whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
 <br>
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
-
-
-## Scenario
-Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
-<br>
-He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
 
 
 ## Test

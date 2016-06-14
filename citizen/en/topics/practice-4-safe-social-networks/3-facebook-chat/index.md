@@ -185,6 +185,12 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 Learn to encrypt your Facebook voice calls and instant messages.
 
 
+## Scenario
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+<br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+
+
 ## Facebook communication basics
 You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
@@ -195,12 +201,6 @@ Not only can insecure communication potentially expose your data to beach, but a
 To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
 <br>
 OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
-
-
-## Scenario
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
-<br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
 
 
 ## Learn how to
