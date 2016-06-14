@@ -1,4 +1,4 @@
 ## Introduction
 ![](recap.png)
 
-Learn about creating a security assessment
+Learn about your security and protecting yourself. 
