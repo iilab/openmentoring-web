@@ -27,7 +27,9 @@ Scenario text...
 
 ## Team configurations
 
->give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
+> security of colleagues - bring in links in a chain. security of one is department to all. if your colleagues have information they don’t need access to, they get beat up with a wrench.  “the security of your colleagues is part of your own security.
+
+> team configurations - stringers, people in field, think bout people’s infosec/opsec who you are working with. talk about the differnent roles that could exist and shed a security light on each these roles, from the stringer to the driver, to the journalist, editor, people in editing room,
 
 
 ## Sharing of information with your teams
@@ -40,6 +42,8 @@ On the other hand, sharing information only on a 'need to know' basis means you 
 Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
 <br>
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
+
+> sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
 
 
 ## Talking about security with your colleagues

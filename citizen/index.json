@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-06-14T15:07:59.302Z",
+  "updatedAt": "2016-06-14T16:26:29.143Z",
   "items": [
-    {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -199,84 +188,18 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
     
-    {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Hijacked Account",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_4-malware",
-      "type": "unit",
-      "title": "Malware",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_5-web-attack",
-      "type": "unit",
-      "title": "Website under attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_6-after",
-      "type": "unit",
-      "title": "After an Emergency",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
@@ -880,6 +803,83 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_2-account-hijacked",
+      "type": "unit",
+      "title": "Hijacked Account",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_4-malware",
+      "type": "unit",
+      "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_5-web-attack",
+      "type": "unit",
+      "title": "Website under attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_6-after",
+      "type": "unit",
+      "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ]  
 }

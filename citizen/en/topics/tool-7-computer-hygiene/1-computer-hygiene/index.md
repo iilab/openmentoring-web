@@ -4,13 +4,6 @@
 Learn to implement common computer hygiene practices.
 
 
-## Learn how to
-- [Protect your computer against malware](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-1-learn.md)
-- [Keeping your software up to date](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-2-learn.md)
-- [Use open source software](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-3-learn.md)
-- [Keep backups of information](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md)
-
-
 ## Protecting your computer against malware
 You will be better able to successfully implement some of the more sophisticated digital technologies and tactics if your computer is well protected from malware.
 <br>
@@ -61,6 +54,13 @@ External HDDs can offer storage space of up to 6TB. It is, however, recommended 
 Keep your backups in a separate location from your computer. This ensures that you do not lose both the files on your computer and your backup at the same time. Keeping a couple of backups in different locations is good practice, as long as these too are secured.
 <br>
 You can also store your backups on remote servers via the internet – on what is now known as the cloud. Ensure you choose a secure online storage service. Consider secure services like Tresorit and SpiderOak, which are both quite secure and reliable.
+
+
+## Learn how to
+- [Protect your computer against malware](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-1-learn.md)
+- [Keeping your software up to date](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-2-learn.md)
+- [Use open source software](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-3-learn.md)
+- [Keep backups of information](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md)
 
 
 ## Next

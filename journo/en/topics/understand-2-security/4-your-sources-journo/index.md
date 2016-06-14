@@ -20,6 +20,8 @@ Protecting sources is a cornerstone of journalism. This is especially important 
 <br>
 As a journalist, you need to know that this burden rests primarily with you. In some some countries, journalists working for established media houses also face risks.
 
+> sources - bring in that it’s part of ethics of journalism to protect your sources. and give an example. some of most prominent stories are possible because sources trusted journalists. it only takes one time for sources to be exposed for non of us to trust journalists anyomore. - society of protessional journalists. talk about a little history, bring in deep throat and watergate.
+
 
 ## Things to consider when offering sources confidentiality
 Never promise a source that you can keep their identity confidential until you weight possible consequences of doing so.
