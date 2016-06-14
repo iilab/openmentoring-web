@@ -14,6 +14,19 @@ Learn about how to create strong and secure passwords
 ## Scenario
 Scenario text...
 
+## Password basics
+Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
+<br>
+Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
+<br>
+In general, when you want to protect something - whether a house or an email account - you lock it up with a key.
+<br>
+All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
+<br>
+You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
+<br>
+
+
 ## Choosing a strong password
 
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
@@ -44,19 +57,6 @@ Password patterns can allow you to use very different but related phrases for al
 Repeating patterns will make your passwords easy to remember, though it can put you at risk if an adversary gains access to multiple passwords and recognizes the patterns.
 <br>
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
-
-
-## Password basics
-Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
-<br>
-Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
-<br>
-In general, when you want to protect something - whether a house or an email account - you lock it up with a key.
-<br>
-All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
-<br>
-You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
-<br>
 
 
 ## Use a password manager

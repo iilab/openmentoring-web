@@ -1,4 +1,7 @@
 # Your Story
+## Introduction
+Introduction text...
+
 ## Key takeaways
 ## A New Post
 
@@ -26,9 +29,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-## Introduction
-Introduction text...
 
 ## Next
 If you found this unit helpful, you might be interested in the following units:

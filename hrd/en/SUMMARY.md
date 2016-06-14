@@ -32,16 +32,6 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
-  
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
-  
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
-  
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
@@ -96,21 +86,21 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -126,17 +116,17 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -150,9 +140,9 @@
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
@@ -161,4 +151,14 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  
+  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   

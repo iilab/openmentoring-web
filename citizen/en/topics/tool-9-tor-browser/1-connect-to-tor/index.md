@@ -3,12 +3,12 @@
 Learn to connect to the Tor network to browse safely or circumvent internet censorship.
 
 
+## Scenario
+Scenario text...
+
 ## Learn how to
 - [Connect to the Tor network](en/topics/tool-9-tor-browser/1-connect-to-tor/3-learn.md)
 
-
-## Scenario
-Scenario text...
 
 ## Connect to the Tor network
 The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
