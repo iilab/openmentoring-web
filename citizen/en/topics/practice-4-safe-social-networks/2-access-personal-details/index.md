@@ -8,6 +8,9 @@ Learn about controlling access to your personal details on social networking sit
 - [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
 
 
+## Scenario
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
 ## What to post to social networking sites
 
 Social networking sites ask you for a good deal of data about yourself to make it easier for other users to find and connect to you.
@@ -27,9 +30,6 @@ Before posting, think about whether it's necessary to post:
  - sexual orientation
  - education and employment history
 
-
-## Scenario
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 ## Control access to personal information on your Facebook profile
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.

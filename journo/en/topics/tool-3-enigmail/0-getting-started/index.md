@@ -34,7 +34,6 @@ Enigmail also lets you attach digital signatures to your messages. The recipient
 If you have a correspondent's public key, you can verify the digital signatures on her signed messages.
 
 
-## Installing and setting up Enigmail
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
 
 

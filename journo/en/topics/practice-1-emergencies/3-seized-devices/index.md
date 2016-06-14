@@ -1,9 +1,20 @@
 # Devices Seized
+## Seized devices
+
+Learn what to do if your digital devices are taken.
+
+
 ## Learn how to
 - [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
 - [Identify content and documents on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 - [Identify contacts and linked accounts](en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)
 - [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
+
+
+## Scenario
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+<br>
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
 
 
 ## Learn
@@ -22,6 +33,20 @@ Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices
 
 
 ## Learn
+# What's missing?
+Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
+<br>
+# Is your missing information encrypted?
+If you had some of your information encrypted, think about where your encryption keys are and what content you encrypted. This will help you know more about who potentially could read the content of your files and documents.
+<br>
+# Did you use encrypted communication?
+Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if the content of your communications are secure or not.
+<br>
+# Reviewing your passwords
+Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+
+
+## Learn
 # Who is at risk?
 
 Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
@@ -34,17 +59,25 @@ Even if you use encryption tools for email or chat, the [metadata](en/topics/und
 
 
 ## Learn
-# What's missing?
-Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
+> Step 1
+# Remove authorization
+
+When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
 <br>
-# Is your missing information encrypted?
-If you had some of your information encrypted, think about where your encryption keys are and what content you encrypted. This will help you know more about who potentially could read the content of your files and documents.
+> Step 2
+# Change passwords
+
+Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
 <br>
-# Did you use encrypted communication?
-Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if the content of your communications are secure or not.
+> Step 3
+# Turn on 2-factor authentication
+
+Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
 <br>
-# Reviewing your passwords
-Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+> Step 4
+# Erase data from device
+
+If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
 
 
 ## Learn
@@ -81,38 +114,6 @@ Why would they want access to it? This will help you know whether the informatio
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
 
 
-> Step 1
-# Remove authorization
-
-When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
-<br>
-> Step 2
-# Change passwords
-
-Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
-<br>
-> Step 3
-# Turn on 2-factor authentication
-
-Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
-<br>
-> Step 4
-# Erase data from device
-
-If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
-
-
-## Scenario
-Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
-<br>
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
-
-
-## Seized devices
-
-Learn what to do if your digital devices are taken.
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -129,7 +130,6 @@ Learn what to do if your digital devices are taken.
     </question>
 </quiz>
 
-## Next
 * [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
 * [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
 <br>

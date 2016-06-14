@@ -17,14 +17,20 @@ She needs to know if she still has access to the account, and if not, who she ca
 
 
 ## Learn
-# Review account history
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+# Use a different computer
+Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
-# Unfamiliar location
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+# Change your password
+Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
 <br>
-# Are you using Tor?
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+# Change passwords for linked accounts
+Change the passwords for all your other online accounts that are linked to your hijacked account. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
+<br>
+# Is account hijacked?
+Now time to confirm if your suspicions are founded? The next instructions will help you determine if your account has been hijacked.
+<br>
+# Stop using account
+Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
 
 
 ## Other places to check for suspicious activity
@@ -45,20 +51,14 @@ Also look at the settings for the synchronisation to your phone, permissions to 
 
 
 ## Learn
-# Use a different computer
-Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
+# Review account history
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
 <br>
-# Change your password
-Log into your account from the new computer and change the password on your account. Changing your password is the fastest way to regain control of your account.
+# Unfamiliar location
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
 <br>
-# Change passwords for linked accounts
-Change the passwords for all your other online accounts that are linked to your hijacked account. For example, if you are looking at an email account and it is the recovery address for another account, change the password for that account as well.
-<br>
-# Is account hijacked?
-Now time to confirm if your suspicions are founded? The next instructions will help you determine if your account has been hijacked.
-<br>
-# Stop using account
-Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+# Are you using Tor?
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Learn

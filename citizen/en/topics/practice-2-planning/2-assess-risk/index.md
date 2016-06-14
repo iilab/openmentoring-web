@@ -103,6 +103,7 @@ It may be helpful for you to map them out on a matrix, like this:
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
 
 
+## Learn
 
 It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
 <br>
@@ -135,6 +136,7 @@ Once you have prioritised the risks to yourself and your work, you can then star
     </question>
 </quiz>
 
+## Next
 ---
 - (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
 - (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan

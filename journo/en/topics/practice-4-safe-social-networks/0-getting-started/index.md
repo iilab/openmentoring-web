@@ -1,11 +1,11 @@
 # Getting started with Social Networks
+## Safe social networks
+Learn how to use social networks safer.
+
+
 ## Learn how to
 - [Social networking basics](en/topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
 - [Choosing the right social networking lesson](en/topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
-
-
-## Safe social networks
-Learn how to use social networks safer.
 
 
 ## Scenario
@@ -75,6 +75,7 @@ Using social media but don't want your conversations to be read by the platform 
 ## Test you social networking knowledge!
 
 
+## Next
 If you found this section useful, you might be interested in the following sections:
 - [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
 - [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)

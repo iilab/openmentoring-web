@@ -71,26 +71,16 @@ Are you seeing a website that is not yours? Are you receiving a warning from you
 See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
 
+## Reasons your site may be down
+Learn why your website might be down
+
+
 ## Learn about
 [Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
-## Reasons your site may be down
-Learn why your website might be down
-
-
-## Next
----
-- understand-2-security/0-getting-started
-- internal-...
----
-To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
- * ...
-
-
+## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -105,4 +95,15 @@ To learn more about XXX, see also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+---
+- understand-2-security/0-getting-started
+- internal-...
+---
+To learn more about XXX, see also:
+ * [An external resource to study next](en/topics/_topic/_unit/index.md)
+ * [Another resource](en/topics/_topic/_unit/index.md)
+ * ...
+
 

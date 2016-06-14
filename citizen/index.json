@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-14T13:31:44.443Z",
+  "updatedAt": "2016-06-14T13:38:46.199Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -850,9 +850,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -861,9 +861,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
