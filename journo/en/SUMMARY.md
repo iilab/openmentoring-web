@@ -1,5 +1,21 @@
 # Summary
 
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -22,9 +38,9 @@
   
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -40,9 +56,9 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
@@ -62,8 +78,6 @@
   
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
-  * [How to have voice calls?](topics/tool-5-veracrypt/2-voice/index.md)
-  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -71,22 +85,6 @@
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   

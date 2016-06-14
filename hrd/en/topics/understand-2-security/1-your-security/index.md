@@ -12,6 +12,14 @@ Learn about creating a security assessment
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
+## Scenario
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
+<br>
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
+
+
 ## Learn
 Your security and well being are always more important than a story. To minimise potential risks, it is important to always prepare a security assessment.
 <br>
@@ -61,14 +69,6 @@ Editors working with staffers or freelancers should have substantial input into 
 An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 ![](recap.png)
-
-
-## Scenario
-![](scenario.png)
-Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
-<br>
-![](scenario.png)
-Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
 
 
 ## Test

@@ -10,6 +10,23 @@ Steps to take if you suspect your online accounts are hijacked.
 - [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 
 
+## Scenario
+Breanda just received an email from her service provider alerting her that her social media account password has recently changed. She suspects that her social media account has been hijacked.
+<br>
+She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
+
+
+## Learn
+# Review account history
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+# Unfamiliar location
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+# Are you using Tor?
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+
+
 ## Learn
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
@@ -25,17 +42,6 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 <br>
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
-
-
-## Learn
-# Review account history
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-# Unfamiliar location
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-# Are you using Tor?
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 
 
 ## Other places to check for suspicious activity
@@ -67,12 +73,6 @@ If these steps do not work and your account is being abused, contact the platfor
 <br>
 # Helpful organisations
 There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
-
-
-## Scenario
-Breanda just received an email from her service provider alerting her that her social media account password has recently changed. She suspects that her social media account has been hijacked.
-<br>
-She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
 ## Test

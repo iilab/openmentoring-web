@@ -25,11 +25,6 @@ talking about that it's courageous to bring this subject up and when other peopl
 ## Scenario
 Scenario text...
 
-## Team configurations
-
->give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
-
-
 ## Sharing of information with your teams
 It's important to think about what kinds of information you share with your colleagues and what information to keep private.
 <br>
@@ -40,6 +35,11 @@ On the other hand, sharing information only on a 'need to know' basis means you 
 Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
 <br>
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
+
+
+## Team configurations
+
+>give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
 
 
 ## Talking about security with your colleagues

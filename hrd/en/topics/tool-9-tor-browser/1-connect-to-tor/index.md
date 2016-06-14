@@ -56,7 +56,6 @@ Unfortunately, turning off these features can make some websites unusable. The d
     </question>
 </quiz>
 
-## Next
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security

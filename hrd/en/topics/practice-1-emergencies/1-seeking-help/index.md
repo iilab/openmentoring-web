@@ -64,20 +64,6 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 
 
-## Learn
-# Always establish trust
-Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
-<br>
-# Watch out for bad advice
-It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
-<br>
-# Have a video or phone call
-If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
-<br>
-# Use a new email account
-When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
-
-
 ## Organisations you may reach out to
 # Dealing with digital emergencies:
 - Digital Security Helpline (Access Now): help@accessnow.org
@@ -96,6 +82,20 @@ When you are initiating contact with third parties you might want to create a ne
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
 - Electronic Frontier Foundation: info@eff.org
+
+
+## Learn
+# Always establish trust
+Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
+<br>
+# Watch out for bad advice
+It might be safer to presume that an adversary may have access to all your account details as well as your communications when seeking help and might be attempting to provide specific, bad advice.
+<br>
+# Have a video or phone call
+If you know the party you're reaching out to, using a video call or a phone call will help establish that you're really in contact with them.
+<br>
+# Use a new email account
+When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
 
 
 ## Test

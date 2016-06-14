@@ -1,4 +1,8 @@
 # Encryption
+## Introduction
+Learn the basics of encryption and how it can help protect you and your network.
+
+
 ## Learn about
 - [What is encryption](en/topics/understand-4-digisec/1-encryption/3-1-learn.md)
 - [What are private and public keys](en/topics/understand-4-digisec/1-encryption/3-2-learn.md)
@@ -59,10 +63,6 @@ One use of the term is a "key fingerprint," a string of characters like "342e 23
 If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
 <br>
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
-
-
-## Introduction
-Learn the basics of encryption and how it can help protect you and your network.
 
 
 ## Test
