@@ -1,50 +1,4 @@
 # How to chat securely?
-## Installing Jitsi
-
-You can install Jitsi through the following seven steps:
-<br>
-# Step 1: Download Jitsi
-Download Jitsi through its [website](https://jitsi.org/Main/Download).
-<br>
-# Step 2: Open Jitsi
- Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *"Run"* to activate the Windows Installer screen, followed by the *"Welcome to the Jitsi Setup Wizard"* window.
-<br>
-# Step 3: Agree to End User License Agreement
-Click on **"Next"** to activate the "End User License Agreement" window; **check** the "I accept the terms in the License Agreement" option to enable the *Next* button, and then click on **"Next"** to activate the "Destination Folder" window.
-<br>
-# Step 4: Activate "Additional Tasks"
-Click on **"Next"** to activate the "Additional Tasks" window and accept the default settings as presented.
-<br>
-**Note:** Enabling the Auto-start when computer restarts or reboots option may slow down the overall function of your computer, especially if you already have multiple applications configured to run when your computer starts up.
-<br>
-# Step 5: Install Jitsi
-Click on **"Next"** to activate the "Ready to Install Jitsi" window, and then click on **"Install"** to activate the "Installing Jitsi" window displaying the installation progress bar.
-<br>
-# Step 6: Finish installation
-Click on **"Finish"** to complete the installation process and automatically launch the "Jitsi Sign in" window as follows:
-
-![](jitsi-en-win-07.png)
-<br>
-**Note:** In some instances, installing and launching Jitsi for the first time triggers a Windows Security Alert prompt screen. This alert is normal behaviour for the MS Windows operating system, it is ok to continue with using Jitsi.
-<br>
-Even if you do not click on any of the buttons, and simply close the prompt window, Jitsi is still able to communicate through Facebook Chat.
-
-![](jitsi-en-win-08.png)
-<br>
-# Step 7: Authorise Jitsi
-Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
-
-
-## Encrypting Facebook instant messaging and voice calls
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
-
-(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
-(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
-
-
 ## Adding a Facebook account on Jitsi
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
@@ -85,6 +39,52 @@ Select **File > Add New Account...** in the main menu bar of Jitsi.
 In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
 ![](jitsi-en-win-16.png)
+
+
+## Encrypting Facebook instant messaging and voice calls
+To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
+
+(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
+(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
+(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
+(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
+
+
+## Installing Jitsi
+
+You can install Jitsi through the following seven steps:
+<br>
+# Step 1: Download Jitsi
+Download Jitsi through its [website](https://jitsi.org/Main/Download).
+<br>
+# Step 2: Open Jitsi
+ Double click on the downloaded Jitsi file; the Open File - Security Warning dialogue box might appear. If it does, click on *"Run"* to activate the Windows Installer screen, followed by the *"Welcome to the Jitsi Setup Wizard"* window.
+<br>
+# Step 3: Agree to End User License Agreement
+Click on **"Next"** to activate the "End User License Agreement" window; **check** the "I accept the terms in the License Agreement" option to enable the *Next* button, and then click on **"Next"** to activate the "Destination Folder" window.
+<br>
+# Step 4: Activate "Additional Tasks"
+Click on **"Next"** to activate the "Additional Tasks" window and accept the default settings as presented.
+<br>
+**Note:** Enabling the Auto-start when computer restarts or reboots option may slow down the overall function of your computer, especially if you already have multiple applications configured to run when your computer starts up.
+<br>
+# Step 5: Install Jitsi
+Click on **"Next"** to activate the "Ready to Install Jitsi" window, and then click on **"Install"** to activate the "Installing Jitsi" window displaying the installation progress bar.
+<br>
+# Step 6: Finish installation
+Click on **"Finish"** to complete the installation process and automatically launch the "Jitsi Sign in" window as follows:
+
+![](jitsi-en-win-07.png)
+<br>
+**Note:** In some instances, installing and launching Jitsi for the first time triggers a Windows Security Alert prompt screen. This alert is normal behaviour for the MS Windows operating system, it is ok to continue with using Jitsi.
+<br>
+Even if you do not click on any of the buttons, and simply close the prompt window, Jitsi is still able to communicate through Facebook Chat.
+
+![](jitsi-en-win-08.png)
+<br>
+# Step 7: Authorise Jitsi
+Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
 
 
 ## Encrypting your Facebook instant messages
@@ -185,12 +185,6 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 Learn to encrypt your Facebook voice calls and instant messages.
 
 
-## Scenario
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
-<br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
-
-
 ## Facebook communication basics
 You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
@@ -209,6 +203,12 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 - [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
 - [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
 - [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+
+
+## Scenario
+Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+<br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
 
 
 ## Test you social networking knowledge!

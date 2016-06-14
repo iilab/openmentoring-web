@@ -22,17 +22,6 @@ But Isaac thinks that he might be at risk if he reveals too much about his situa
 
 
 ## Learn
-# Normal communications
-As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
-<br>
-# Eavesdropping on phone calls
-Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.
-<br>
-# Sending a postcard
-Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
-
-
-## Learn
 # Secret postcard
 Sending encrypted communication is like placing the postcard inside a locked box, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -62,6 +51,17 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 <br>
 # Use alternate devices
 If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+
+
+## Learn
+# Normal communications
+As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
+<br>
+# Eavesdropping on phone calls
+Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.
+<br>
+# Sending a postcard
+Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
 ## Learn

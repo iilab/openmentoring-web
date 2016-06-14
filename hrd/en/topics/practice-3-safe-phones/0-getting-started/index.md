@@ -3,14 +3,14 @@
 Learn the basics of using mobile phones security.
 
 
+## Scenario
+Scenario text...
+
 ## Learn how to
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-
-## Scenario
-Scenario text...
 
 ## Safer commmunication on a smart phone
 

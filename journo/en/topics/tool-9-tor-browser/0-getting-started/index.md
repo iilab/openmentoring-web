@@ -3,10 +3,6 @@
 Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
 
 
-## Learn about
-- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
-
-
 ## Scenario
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
@@ -73,6 +69,10 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 - Route: A route is the communication path on the Internet between your computer and the destination server.
 
 
+## Learn about
+- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -89,7 +89,6 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
     </question>
 </quiz>
 
-## Next
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
