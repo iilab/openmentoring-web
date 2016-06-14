@@ -1,33 +1,17 @@
 # Preparing for emergencies with your contacts
+## Introduction
+
+
 ## Learn how to
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
 
-## Introduction
-
-
 ## Scenario
 Jenny is about to start on a new assignment investigating government abuses of power.
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
-
-## Test
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
 
 ## Learn
 > This section needs to be bulked up significantly
@@ -46,6 +30,22 @@ Your emergency plan should include a detailed list of individuals and groups for
 <br>
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
 
+
+## Test
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
 
 ## Next
 If you found this useful, you might be interested in the following:

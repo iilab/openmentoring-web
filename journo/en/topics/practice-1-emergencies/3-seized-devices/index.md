@@ -4,17 +4,17 @@
 Learn what to do if your digital devices are taken.
 
 
-## Scenario
-Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
-<br>
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
-
-
 ## Learn how to
 - [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
 - [Identify content and documents on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
 - [Identify contacts and linked accounts](en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)
 - [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
+
+
+## Scenario
+Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+<br>
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
 
 
 ## Learn
@@ -33,18 +33,6 @@ Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices
 
 
 ## Learn
-# Who is at risk?
-
-Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
-<br>
-# Removing linked accounts
-What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-# Hidden stories of metadata
-Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
-
-
-## Learn
 # What's missing?
 Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
 <br>
@@ -56,6 +44,18 @@ Did you use encryption tools for email or chat (such as PGP and OTR)? This will 
 <br>
 # Reviewing your passwords
 Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+
+
+## Learn
+# Who is at risk?
+
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+# Hidden stories of metadata
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
 
 
 ## Learn

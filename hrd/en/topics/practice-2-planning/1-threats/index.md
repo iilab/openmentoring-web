@@ -8,6 +8,9 @@ Learn about identifying and dealing with threats
 - [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## What are threats?
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
 <br>
@@ -75,9 +78,6 @@ Based on the results of your [risk analysis](en/topics/practice-2-planning/2-ass
 <br>
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
-
-## Scenario
-Scenario text...
 
 ## Test
 If you want to keep your house and possessions safe, here are a few questions you might ask:

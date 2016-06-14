@@ -33,6 +33,7 @@ Remember, if you forget your passphrase, you will lose access to your data! Ther
 For detailed instructions on installing and using VeraCrypt, Tactical Technology Collective put together [a helpful guide](https://securityinabox.org/en/guide/veracrypt-new/windows).
 
 
+## Next
 ---
 - (en/topics/understand-4-digisec/2-passwords/1-1-intro.md): Learn how to create strong passphrases
 - (en/topics/understand-2-security/1-your-security/1-1-intro.md): Understanding your security

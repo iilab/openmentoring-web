@@ -72,6 +72,12 @@
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -103,12 +109,6 @@
   * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
   * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
-  
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   

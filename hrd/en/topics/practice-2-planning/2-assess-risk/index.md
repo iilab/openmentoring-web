@@ -11,6 +11,9 @@ Know what measures to take to understand risks faced as a journalist.
 - [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## Understand risk
 Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
 <br>
@@ -116,9 +119,6 @@ In these cases it can be useful to think of the different threats in terms of th
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

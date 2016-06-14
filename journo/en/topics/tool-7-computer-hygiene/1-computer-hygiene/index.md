@@ -11,6 +11,14 @@ Learn to implement common computer hygiene practices.
 - [Keep backups of information](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md)
 
 
+## Protecting your computer against malware
+You will be better able to successfully implement some of the more sophisticated digital technologies and tactics if your computer is well protected from malware.
+<br>
+Malware is the general name for any malicious and undesirable software that attacks your computer and prevents it from working correctly.
+<br>
+To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
+
+
 ## Keeping your software up to date
 It is critical to always update your computer’s software regularly and ensure that you have the latest version available. Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
 <br>
@@ -25,14 +33,6 @@ If your settings are not set to auto-update (mobile-based GSM data providers oft
 Alternatively, through the process above you can set Windows Update to inform you of available updates and let you decide whether to download them or not. This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
 
 
-## Protecting your computer against malware
-You will be better able to successfully implement some of the more sophisticated digital technologies and tactics if your computer is well protected from malware.
-<br>
-Malware is the general name for any malicious and undesirable software that attacks your computer and prevents it from working correctly.
-<br>
-To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
-
-
 ## Open source software
 For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
 <br>
@@ -45,7 +45,6 @@ Independent developers are also constantly developing digital security tools to 
 For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
-## Keeping backups of information
 
 Loss of digital information from computer theft or collapse is fairly common in many countries. In some countries, confiscation and destruction of computers by government security agents is also something that you should be wary of.
 <br>
