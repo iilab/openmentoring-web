@@ -256,26 +256,26 @@ Not only is chronic stress harmful for the body physically and mentally, it can 
 Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
 
 
-## Identifying traumatic stress
-# Traumatic stress is common
+## Identifying traumata
+# Trauma stress is common
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
 # Recognise symptoms
 It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
 # Normal reaction to abnormal situation
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
+Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
 <br>
 # How you respond
-Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 
 
-## Effects of traumatic stress
+## Effects of trauma
 # Immediate numbness
-At the time of a traumatic event, the person experiencing the event might feel numb and unable to respond.
+At the time you experience a traumatic event, you might feel numb and unable to respond.
 <br>
 # Shock
-Immediately after a traumatic event, it is common for people to feel shocked, or dazed, or unable to process their own feelings.
+Immediately after a traumatic event, it is common to feel shocked, or dazed, or unable to process your own feelings.
 <br>
 # Other feelings
 Over several hours or days, the feelings of shock and denial gradually fade, and other thoughts and feelings take their place.
@@ -332,34 +332,34 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 ## Dealing with traumatic
 # Use your own strategy
-Everyone has natural ways of coping. Encourage people to use their own positive coping strategies. This will help them feel stronger and regain a sense of control.
+Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
 <br>
 # Possible strategies
-Adapt the following suggestions to take account of the person and what is possible after the crisis.
+Adapt the following suggestions to take account of what is possible after the crisis.
 <br>
 # Encourage positive coping strategies
 - Get enough rest
 - Eat as regularly as possible and drink water
 - Talk and spend time with family and friends.
 <br>
-# Encourage positive coping strategies
+# Use positive coping strategies
 - Discuss problems with someone you trust.
 - Do activities that help you relax (walk, sing, pray, play with children).
 - Do physical exercise
 - Find safe ways to help others in the crisis and get involved in community activities.
 <br>
-# Discourage negative coping strategies
+# Don't use negative coping strategies
 - Don’t take drugs, smoke or drink alcohol
 - Don’t sleep all day
 - Don’t work all the time without any rest or relation
 <br>
-# Discourage negative coping strategies
+# Don't use negative coping strategies
 - Don't isolate yourself from friends and loved ones.
 - Don’t neglect basic personal hygiene
 - Don’t be violent
 <br>
 # Weeks and months after
-Keep an eye out for changes in personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
 
 
 ## Identifying post-traumatic stress
@@ -375,16 +375,16 @@ In most cases, PTSD develops during the first month after a traumatic event. How
 
 ## Effects of post-traumatic stress
 # Symptoms vary widely
-The specific symptoms of PTSD can vary widely between individuals, but generally fall into the categories described in the following cards.
+The specific symptoms of PTSD can vary widely between people, but generally fall into the following categories:
 <br>
 # Severe and persistent
-These symptoms are often severe and persistent and enough to have a significant impact on the person’s day-to-day life.
+These symptoms are often severe and persistent and enough to have a significant impact on your day-to-day life.
 <br>
 # Re-experiencing
-Re-experiencing is the most typical symptom of PTSD. This is when a person involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations.
+Re-experiencing is the most typical symptom of PTSD. This is when you involuntarily and vividly re-lives the traumatic event in the form of flashbacks, nightmares or repetitive and distressing images or sensations.
 <br>
 # Physical sensations
-This can even include physical sensations such as pain, sweating and trembling or negative thoughts about their experience.
+This can even include physical sensations such as pain, sweating and trembling or negative thoughts about your experience.
 <br>
 # Avoidance
 Trying to avoid being reminded of the traumatic event is another key symptom of PTSD.
@@ -393,13 +393,13 @@ Trying to avoid being reminded of the traumatic event is another key symptom of 
 This usually means avoiding certain people or places that remind you of the trauma, or avoiding talking to anyone about your experience. Many people with PTSD try distraction themselves with work or hobbies.
 <br>
 # Becoming withdrawn
-Some people attempt to deal with their feelings by trying not to feel anything at all, which can lead to the person becoming isolated and withdrawn.
+Some people attempt to deal with their feelings by trying not to feel anything at all, which can lead you to becoming isolated and withdrawn.
 <br>
 # Feeling on edge
-Someone with PTSD may be very anxious and find it difficult to relax. They may be constantly aware of threats and easily startled.
+Someone with PTSD may be very anxious and find it difficult to relax. You might feel constantly aware of threats and easily startled.
 <br>
 # Hyper-arousal
-This state of mind is known s hyper-arousal. Hyper-arousal often leads to irritability, angry outburst, sleeping problems (insomnia) and difficulty concentrating.
+This state of mind is known as hyper-arousal. Hyper-arousal often leads to irritability, angry outburst, sleeping problems (insomnia) and difficulty concentrating.
 <br>
 # Other effects
 - depression, anxiety and phobias

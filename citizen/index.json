@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-14T16:37:24.513Z",
+  "updatedAt": "2016-06-15T10:37:24.219Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -828,9 +828,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_3-metadata",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Metadata",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -839,9 +839,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Metadata",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
