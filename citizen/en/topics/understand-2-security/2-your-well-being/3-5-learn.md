@@ -1,4 +1,4 @@
-## Identifying traumata
+## Identifying trauma
 # Trauma stress is common
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>

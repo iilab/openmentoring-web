@@ -1,42 +1,83 @@
 # Your Well Being
-## Dealing with chronic stress
-# Stress management
-Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
+## Symptoms of chronic stress
+# Physical
+- Exhaustion
+- Hyperactivity
+- Sleeping difficulties or excessive sleep
 <br>
-# Take care of yourself
-It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+# Physical
+-Slight flu-like symptoms
+-Headaches
+-Heightened blood pressure and heart rate
+-Nausia or vomiting.
 <br>
-# Learn about stress.
-Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+# Behavioral
+-Avoiding genuine social contact and relationships
+-Substance abuse (caffeine/alcohol/drugs)
+-A series of short and casual romantic/sexual relationships
 <br>
-# Know yourself
-Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+# Behavioral
+-Risk taking
+-Withdrawal
+-Irritability or a constant tendency to pick quarrels
+-Aggression
 <br>
-# Eat well and exercise
-Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+# Work-related:
+-Working very long hours
+-Lateness/not coming in to work
+-Poor work performance
 <br>
-# Get rest and relaxation
-Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+# Work-related:
+-Loss of perspective
+-Pre-occupation with an idea, even if it is old or ineffective
+-Deterioration in judgment and logical thinking
+-Reduced creativity
+-Deteriorating communication
 <br>
-# Practice belief systems
-Maintain spiritual health consistent with your personal beliefs.
+# Emotional:
+-Low morale
+-Pessimism and cynicism
+-Anxiety
 <br>
-# Maintain a sense of humour
-Try to have contact with others outside of the work environment to maintain perspective
+# Emotional
+-Guilt
+-Depression
+-Excitement/hyper-activity
 <br>
-# Be informed
-Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
+# Emotional
+-A feeling of power and invulnerability
+-Intense identification with, OR lack of compassion for those you work with
+-Nightmares or flashbacks
 <br>
-# Talk to others
-Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
+# Emotional
+-Tendency to avoid/repress intense thoughts or feelings
+-Questioning of major life areas
 <br>
-# Change a stressful environment as much as possible
-Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
-<br>
-# Think positive!
+# Consequences:
+Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
 
 
-## Build your emotional resilience
+## Learn
+# Basics
+Every person has a level of challenge or threat that stimulates them to a point of maximum productivity and well-being.
+<br>
+# Benefits of stress
+If there is not enough stimulation and challenge in our lives, we feel bored and become unproductive, even depressed.
+<br>
+# Too much is overwhelming
+If there is too much challenge or threat, we start to become overwhelmed.
+<br>
+# A natural response
+When we feel overwhelmed by the challenges in our work and home lives, or when we have been working too hard, for too long and without enough rest, our bodies naturally start to behave differently.
+<br>
+# Rest is important
+Stress and fatigue can result in us identifying and responding to threats in the wrong way. If you are exhausted, burnt out or depressed, you are unlikely to be as secure or effective as you would be if you were healthier or better rested.
+<br>
+# Self care is empowering
+Being sensitive towards ourselves and handling our emotional and physical vulnerabilities with care may contribute to our security as much as it might prove a source of inspiration and power.
+
+
+## Learn
 # Dealing with trauma
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br>
@@ -103,6 +144,22 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+
+
+## Dealing with unfounded fears
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
 ## Learn
@@ -198,65 +255,44 @@ Chronic stress occurs regularly among journalists and human rights defenders, ye
 Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
-## Symptoms of chronic stress
-# Physical
-- Exhaustion
-- Hyperactivity
-- Sleeping difficulties or excessive sleep
+## Dealing with chronic stress
+# Stress management
+Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
 <br>
-# Physical
--Slight flu-like symptoms
--Headaches
--Heightened blood pressure and heart rate
--Nausia or vomiting.
+# Take care of yourself
+It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
 <br>
-# Behavioral
--Avoiding genuine social contact and relationships
--Substance abuse (caffeine/alcohol/drugs)
--A series of short and casual romantic/sexual relationships
+# Learn about stress.
+Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
 <br>
-# Behavioral
--Risk taking
--Withdrawal
--Irritability or a constant tendency to pick quarrels
--Aggression
+# Know yourself
+Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
 <br>
-# Work-related:
--Working very long hours
--Lateness/not coming in to work
--Poor work performance
+# Eat well and exercise
+Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
 <br>
-# Work-related:
--Loss of perspective
--Pre-occupation with an idea, even if it is old or ineffective
--Deterioration in judgment and logical thinking
--Reduced creativity
--Deteriorating communication
+# Get rest and relaxation
+Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
 <br>
-# Emotional:
--Low morale
--Pessimism and cynicism
--Anxiety
+# Practice belief systems
+Maintain spiritual health consistent with your personal beliefs.
 <br>
-# Emotional
--Guilt
--Depression
--Excitement/hyper-activity
+# Maintain a sense of humour
+Try to have contact with others outside of the work environment to maintain perspective
 <br>
-# Emotional
--A feeling of power and invulnerability
--Intense identification with, OR lack of compassion for those you work with
--Nightmares or flashbacks
+# Be informed
+Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
 <br>
-# Emotional
--Tendency to avoid/repress intense thoughts or feelings
--Questioning of major life areas
+# Talk to others
+Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
 <br>
-# Consequences:
-Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
+# Change a stressful environment as much as possible
+Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
+<br>
+# Think positive!
 
 
-## Identifying traumata
+## Identifying trauma
 # Trauma stress is common
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -369,7 +405,7 @@ Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experi
 # Factors that increase PTSD
 Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
 <br>
-# When PTSD occcurs
+# When PTSD occurs
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
@@ -413,11 +449,13 @@ Learn about ensuring your short and long term well-being.
 
 
 ## Learn about
-- [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
-- [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
-- [Stress following a traumatic event](en/topics/understand-2-security/2-your-well-being/3-4-learn.md)
-- [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
-- [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
+- [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
+- [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
+- [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-2-learn.md)
+- [Stress following trauma](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
+- [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
+- [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+- [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 
 
 ## Test
