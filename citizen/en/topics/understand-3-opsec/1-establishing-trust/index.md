@@ -1,15 +1,12 @@
 # Establishing Trust
-## Introduction
-Introduction text...
-
-## Key takeaways
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Establishing trust
+Learn about the importance of building trust with your teams and how to do it.
 
 
-## Scenario
-Scenario text...
+## Learn about
+- [The importance of establishing trust within your teams](en/topics/understand-3-opsec/1-establishing-trust/3-1-learn.md)
+- [Building trust within your teams](en/topics/understand-3-opsec/1-establishing-trust/3-2-learn.md)
+
 
 ## Learn
 # "Be careful with each other..."
@@ -50,6 +47,9 @@ There are several ways we can work on increasing trust within a team:
 # Trust in managing information
 Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
 
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

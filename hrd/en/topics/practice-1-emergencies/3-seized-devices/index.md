@@ -114,15 +114,6 @@ Why would they want access to it? This will help you know whether the informatio
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
 
 
-## Next
-* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
-* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
-See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
-
-
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -138,4 +129,13 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+## Next
+* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
+
 

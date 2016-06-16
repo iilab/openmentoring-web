@@ -3,6 +3,10 @@
 Learn how to use KeePassX for securely managing passwords for multiple accounts.
 
 
+## Learn about how
+ - [KeePassX can manage passphrases for multiple accounts](en/topics/tool-4-keepassx/0-getting-started/3-learn.md)
+
+
 ## Using KeepassX
 # What is KeepassX
 Password managers are considered to be the most secure way to use complex and varying passwords and still remember them. KeePassX is an open-source password manager, and once you've set your master password, it creates and saves passwords for you.
@@ -12,10 +16,6 @@ To enhance convenience, you can synchronise your password database - for example
 <br>wa
 # Setting up KeePassX
 Refer to [the guide](https://securityinabox.org/en/guide/keepassx/os-x) Tactical Technology Collective has created for assistance in downloading, installing, and using KeePassX.
-
-
-## Learn about how
- - [KeePassX can manage passphrases for multiple accounts](en/topics/tool-4-keepassx/0-getting-started/3-learn.md)
 
 
 ## Next

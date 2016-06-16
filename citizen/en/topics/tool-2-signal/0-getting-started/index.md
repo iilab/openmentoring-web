@@ -1,8 +1,4 @@
 # Getting Started with Signal
-## Getting started with Signal
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
-
-
 ## Learn how to
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
@@ -37,6 +33,10 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+
+
+## Getting started with Signal
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
 ## How-to

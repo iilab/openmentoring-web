@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-16T16:09:35.334Z",
+  "updatedAt": "2016-06-16T16:24:07.544Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -817,6 +817,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_1-encryption",
+      "type": "unit",
+      "title": "Encryption",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
       "title": "Passwords",
@@ -864,17 +875,6 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_1-encryption",
-      "type": "unit",
-      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
