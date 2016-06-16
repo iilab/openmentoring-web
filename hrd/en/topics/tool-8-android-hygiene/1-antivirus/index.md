@@ -3,13 +3,13 @@
 Anti-virus software is a valuable tool against non-targeted but still dangerous malware.
 
 
+## Scenario
+Scenario text...
+
 ## Learn about
 - [Recommended anti-virus software](en/topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Using anti-virus software](en/topics/practice-2-planning/1-threats/3-2-learn.md)
 
-
-## Scenario
-Scenario text...
 
 ## Recommended anti-virus software
 - Microsoft Safety Scanner (Windows)
@@ -39,11 +39,11 @@ When you run anti-virus software, ensure that it is up to date.
 We recommend using anti-virus software because it is a valuable tool against non-targeted but still dangerous malware.
 
 
-## Test
-
-
 ## Next
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
+
+## Test
 
 

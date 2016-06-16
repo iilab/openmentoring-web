@@ -10,9 +10,6 @@ Learn the basics of encryption and how it can help protect you and your network.
 - [What are key fingerprints](en/topics/understand-4-digisec/1-encryption/3-4-learn.md)
 
 
-## Scenario
-Scenario text...
-
 ## What is encryption
 Encryption is the mathematical science of codes, ciphers, and secret messages.
 <br>
@@ -102,4 +99,6 @@ But it's not perfect, because if the keys are copied or stolen someone else woul
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
 
+
+Scenario text...
 
