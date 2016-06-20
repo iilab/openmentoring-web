@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-06-20T16:55:51.183Z",
+  "updatedAt": "2016-06-20T17:07:57.291Z",
   "items": [
-    {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -90,17 +79,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail",
-      "type": "topic",
-      "title": "Using Enigmail",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx",
       "type": "topic",
       "title": "Using KeepassX",
@@ -156,6 +134,17 @@
     }
   ,
     {
+      "slug": "tool-3-enigmail",
+      "type": "topic",
+      "title": "Using Enigmail",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-9-tor-browser",
       "type": "topic",
       "title": "Tor Browser",
@@ -167,17 +156,6 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works",
-      "type": "topic",
-      "title": "How does it work?",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security",
       "type": "topic",
       "title": "Understand Security",
@@ -186,6 +164,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works",
+      "type": "topic",
+      "title": "How does it work?",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -210,84 +199,18 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
     
-    {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
-      "type": "unit",
-      "title": "Seeking Remote Help",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_2-account-hijacked",
-      "type": "unit",
-      "title": "Hijacked Account",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_4-malware",
-      "type": "unit",
-      "title": "Malware",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_5-web-attack",
-      "type": "unit",
-      "title": "Website under attack",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_6-after",
-      "type": "unit",
-      "title": "After an Emergency",
-      "parentTitle": "Dealing with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
@@ -487,39 +410,6 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Enigmail",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-3-enigmail_1-new-key",
-      "type": "unit",
-      "title": "Generate a new key pair using Enigmail",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-3-enigmail_2-encrypt-decrypt",
-      "type": "unit",
-      "title": "Encrypt and decrypt messages using Enigmail",
-      "parentTitle": "Using Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -652,6 +542,17 @@
     }
   ,
     {
+      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-8-android-hygiene_3-windows-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
@@ -663,14 +564,36 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "slug": "tool-3-enigmail_0-getting-started",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Android Hygiene",
+      "title": "Getting Started with Enigmail",
+      "parentTitle": "Using Enigmail",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_1-new-key",
+      "type": "unit",
+      "title": "Generate a new key pair using Enigmail",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_2-encrypt-decrypt",
+      "type": "unit",
+      "title": "Encrypt and decrypt messages using Enigmail",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
     }
   ,
     {
@@ -693,61 +616,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_1-computers",
-      "type": "unit",
-      "title": "Computers",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_2-phones",
-      "type": "unit",
-      "title": "Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_3-smartphones",
-      "type": "unit",
-      "title": "Smart Phones",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-1-how-it-works_4-internet",
-      "type": "unit",
-      "title": "Internet",
-      "parentTitle": "How does it work?",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -814,6 +682,61 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_1-computers",
+      "type": "unit",
+      "title": "Computers",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_2-phones",
+      "type": "unit",
+      "title": "Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_3-smartphones",
+      "type": "unit",
+      "title": "Smart Phones",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works_4-internet",
+      "type": "unit",
+      "title": "Internet",
+      "parentTitle": "How does it work?",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -924,6 +847,83 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seeking-help",
+      "type": "unit",
+      "title": "Seeking Remote Help",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_2-account-hijacked",
+      "type": "unit",
+      "title": "Hijacked Account",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_4-malware",
+      "type": "unit",
+      "title": "Malware",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_5-web-attack",
+      "type": "unit",
+      "title": "Website under attack",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_6-after",
+      "type": "unit",
+      "title": "After an Emergency",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ]  
 }

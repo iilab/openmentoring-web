@@ -10,6 +10,12 @@ Steps to take after an emergency has taken place.
 - [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
+## Scenario
+Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
+<br>
+Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
+
+
 ## Learn
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
@@ -41,12 +47,6 @@ Traumatic Stress is a normal reaction to an abnormal situation. It's very possib
 <br>
 # Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
-
-
-## Scenario
-Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
-<br>
-Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
 
 
 ## Test

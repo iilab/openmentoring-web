@@ -14,14 +14,6 @@ Know what measures to take to understand risks faced as a journalist.
 ## Scenario
 Scenario text...
 
-## Understand risk
-Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
-<br>
-Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
-<br>
-The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
-
-
 ## Actor mapping
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -79,6 +71,14 @@ An example might be knowing how to create and store long, complex and varied pas
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
+## Understand risk
+Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
+<br>
+Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
+<br>
+The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
+
+
 ## Mapping threats, capacities, and vulnerabilities
 
 It may be helpful for you to map them out on a matrix, like this:
@@ -120,7 +120,6 @@ In these cases it can be useful to think of the different threats in terms of th
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -136,7 +135,6 @@ Once you have prioritised the risks to yourself and your work, you can then star
     </question>
 </quiz>
 
-## Next
 ---
 - (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
 - (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan

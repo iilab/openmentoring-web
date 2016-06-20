@@ -26,6 +26,12 @@
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
+  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
@@ -35,12 +41,6 @@
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -60,9 +60,9 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   

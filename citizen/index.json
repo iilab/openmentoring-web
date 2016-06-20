@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-06-20T16:55:56.112Z",
+  "updatedAt": "2016-06-20T17:08:03.136Z",
   "items": [
-    {
-      "slug": "practice-1-emergencies",
-      "type": "topic",
-      "title": "Dealing with Emergencies",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-2-planning",
       "type": "topic",
@@ -21,6 +10,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies",
+      "type": "topic",
+      "title": "Dealing with Emergencies",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
     }
   ,
     {
@@ -212,6 +212,50 @@
   ,
     
     {
+      "slug": "practice-2-planning_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_1-threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_2-assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -286,50 +330,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_1-threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -707,9 +707,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_1-computers",
+      "slug": "understand-1-how-it-works_2-phones",
       "type": "unit",
-      "title": "Computers",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -718,9 +718,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_2-phones",
+      "slug": "understand-1-how-it-works_1-computers",
       "type": "unit",
-      "title": "Phones",
+      "title": "Computers",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
