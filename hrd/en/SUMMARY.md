@@ -16,16 +16,6 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
@@ -54,6 +44,10 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -64,11 +58,11 @@
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
-  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
+  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
   
-  * [Getting Started with Signal](topics/tool-3-enigmail/1-new-key/index.md)
+  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
-  * [Getting Started with Signal](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -113,6 +107,16 @@
   * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
   * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   

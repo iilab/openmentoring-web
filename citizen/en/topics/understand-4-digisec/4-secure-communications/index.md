@@ -9,6 +9,9 @@ Learn about using secure communications.
 - [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
 
+## Scenario
+Scenario text...
+
 ## Secure communication basics
 # Protecting your content
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
@@ -70,9 +73,6 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 # Using a smartphone
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
-
-## Scenario
-Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">
