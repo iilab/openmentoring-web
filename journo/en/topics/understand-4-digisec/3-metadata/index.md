@@ -3,11 +3,6 @@
 Understand what metadata is and why it is important to digital security
 
 
-## Learn about
-- [What metadata is](en/topics/understand-4-digisec/3-metadata/3-1-learn.md)
-- [How metadata can expose you or your connections](en/topics/understand-4-digisec/3-metadata/3-2-learn.md)
-
-
 ## Scenario
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
 
@@ -46,6 +41,11 @@ Emails contain metadata as well. The author of the email, the email recipient, s
 <br>
 # Metadata can reveal your communication
 Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
+
+
+## Learn about
+- [What metadata is](en/topics/understand-4-digisec/3-metadata/3-1-learn.md)
+- [How metadata can expose you or your connections](en/topics/understand-4-digisec/3-metadata/3-2-learn.md)
 
 
 ## Test

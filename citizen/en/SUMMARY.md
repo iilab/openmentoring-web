@@ -154,9 +154,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

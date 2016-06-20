@@ -42,17 +42,25 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -67,14 +75,6 @@
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
@@ -144,9 +144,9 @@
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
@@ -154,9 +154,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
