@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-16T16:24:04.366Z",
+  "updatedAt": "2016-06-20T12:31:02.811Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -443,17 +443,6 @@
     }
   ,
     {
-      "slug": "tool-2-signal_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
@@ -465,7 +454,40 @@
     }
   ,
     {
+      "slug": "tool-2-signal_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-3-enigmail_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_1-new-key",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_2-encrypt-decrypt",
       "type": "unit",
       "title": "Getting Started with Signal",
       "parentTitle": "Using Enigmail",
@@ -729,9 +751,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Story",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -740,9 +762,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-story-journo",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Story",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

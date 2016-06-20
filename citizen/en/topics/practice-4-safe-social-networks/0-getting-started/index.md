@@ -1,6 +1,6 @@
 # Getting started with Social Networks
 ## Safe social networks
-Learn how to use social networks safer.
+Learn how to use social networks more safely.
 
 
 ## Learn how to

@@ -34,9 +34,12 @@ When developing a security plan with your colleagues, be sure to include people 
 <br>
 # Positions to include
 For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
+<br>
+# See also
+- opsec - information compartmentalisation.
 
 
-## Sharing of information
+## Information compartmentalisation
 # Information security
 Think about what kinds of information you share with your colleagues and what information to keep private.
 <br>
@@ -44,7 +47,7 @@ Think about what kinds of information you share with your colleagues and what in
 Sharing information with your colleagues about your sources and research means that they will be able to continue your important investigations should something unexpected arise.
 <br>
 # 'Need to know' basis
-On the other hand, sharing information only on a 'need to know' basis means you might be better able to prevent infiltration by adversaries.
+On the other hand, sharing information only on a 'need to know' basis means you might be better able to protect people and prevent [infiltration by adversaries](link to future lesson).
 <br>
 # Sharing security
 Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
@@ -53,6 +56,46 @@ Whether you share much or little information with your colleagues, it is importa
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 > sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
+
+
+## Learn
+# "Be careful with each other..."
+The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
+<br>
+# Productivity and security
+Trusting your team is important both your organisations productivity and overall security. Building  trust  within  a  team  is  not  a  trivial  task - it  involves  investment  and  taking risks.
+<br>
+# Trying new tactics
+Trust allows for trying new organisational security tactics, especially if you could not be, or were not involved in making decisions about it before.
+<br>
+# Sharing mistakes
+It also creates an atmosphere of openness where you feel more comfortable sharing your security incidents, information you feel is important, and also your mistakes.
+<br>
+# Increased confidence
+Trust gives team members confidence to know whom to talk to about which aspects of security.
+
+
+## Learn
+# Increasing trust in a team
+There are several ways we can work on increasing trust within a team:
+<br>
+# Getting to knew each other
+- Getting  to  know  each  other  outside  the  professional  or  activist  context,  e.g. through out-of-work activities, socialising and having fun.
+<br>
+# Checking on well-being of others
+- Check in regularly (e.g. before a meeting) on  your team's  stress levels, general mood, and what they are bringing to their activism from their personal lives.
+<br>
+# Organisational Transparency
+- Transparency about hierarchies and decision-making structures.
+<br>
+# Clear security strategies
+- Clear strategies for how to deal with personal or sensitive issues that may arise including (but not limited to) security incidents, threats and so on.
+<br>
+# Access to a counsellor
+- Having access to a counsellor or trusted psychologist.
+<br>
+# Trust in managing information
+Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
 
 
 ## Talking about security with your colleagues
@@ -67,6 +110,13 @@ You might face opposition from those who feel talking about security takes away 
 <br>
 # Putting on a brave face
 Your colleagues might even put on a brave face and pretending these risks do not exist. It's also possible you might feel this way yourself.
+
+
+# Tips to bringing up security with your colleagues
+- incorporating into meetings
+- find pragmatic path to bringing it up. converting a culture of good risk planning - this is good for everyone.
+- tips are start with colleagues that would be mmore receptive, see if they can also talk to others they have good contact with about these issues. share the app.
+- if the time arrises to bring this up in a team setting, bring up with manager in terms of what it will bring to the organisation -
 <br>
 # Responsible
 When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.

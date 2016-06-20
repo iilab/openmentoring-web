@@ -409,7 +409,6 @@ Certain factors can make you more susceptible to developing PTSD after a traumat
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
-## Effects of post-traumatic stress
 # Symptoms vary widely
 The specific symptoms of PTSD can vary widely between people, but generally fall into the following categories:
 <br>
@@ -449,13 +448,16 @@ Learn about ensuring your short and long term well-being.
 
 
 ## Learn about
+# stress and security
 - [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
 - [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
 - [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-2-learn.md)
+
+# dealing with shocking events
 - [Stress following trauma](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
-- [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
+- [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
 
 
 ## Test

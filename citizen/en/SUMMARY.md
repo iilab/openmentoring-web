@@ -34,9 +34,9 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
@@ -66,6 +66,10 @@
   
   * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
   
+  * [Getting Started with Signal](topics/tool-3-enigmail/1-new-key/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
@@ -74,9 +78,9 @@
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   

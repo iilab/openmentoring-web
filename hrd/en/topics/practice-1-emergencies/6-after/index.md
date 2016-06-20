@@ -17,6 +17,14 @@ Brenda suggests they re-evaluate their emergency and security procedures. If the
 
 
 ## Learn
+# Reach out for help
+Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
+<br>
+# Funding organisations
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+
+
+## Learn
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
@@ -25,14 +33,6 @@ When necessary, this is a good time to try to improve your organisational proced
 <br>
 # Remember all steps
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
-
-
-## Learn
-# Reach out for help
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-<br>
-# Funding organisations
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
 
 
 ## Learn

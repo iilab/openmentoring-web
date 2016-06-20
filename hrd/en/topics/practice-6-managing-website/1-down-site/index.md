@@ -3,26 +3,6 @@
 If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
-## Learn
-# Who built website
-1. Who built your website? Are they available to help?
-<br>
-# Hosting provider
-2. Who is your web hosting provider? This is the company that provides the server where your website lives.
-<br>
-# Account details
-3. Do you have your account log in details for this hosting provider?
-<br>
-# Domain name
-4. Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
-<br>
-# Recovering your site
-5. Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
-<br>
-# Who else knows details?
-6. Who else knows or may have access to these account details?
-
-
 ## Poor site performance
 Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
 <br>
@@ -41,6 +21,26 @@ If your site is up but you cant see it, it might be a network problem. It could 
 
 ## Billing problem
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
+
+
+## Learn
+# Who built website
+1. Who built your website? Are they available to help?
+<br>
+# Hosting provider
+2. Who is your web hosting provider? This is the company that provides the server where your website lives.
+<br>
+# Account details
+3. Do you have your account log in details for this hosting provider?
+<br>
+# Domain name
+4. Where did you purchase your domain name? In some cases this is also your website host, but it could also be another company.
+<br>
+# Recovering your site
+5. Do you have the log in details for the domain name service? If not, finding these is your first step to recovering your site
+<br>
+# Who else knows details?
+6. Who else knows or may have access to these account details?
 
 
 ## Hosting problem

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-16T16:24:07.544Z",
+  "updatedAt": "2016-06-20T12:31:06.708Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -344,23 +344,23 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
-      "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [ "profile:journo"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
       "type": "unit",
       "title": "How to control access to friends &amp; contacts?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "type": "unit",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -476,6 +476,28 @@
     }
   ,
     {
+      "slug": "tool-3-enigmail_1-new-key",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-3-enigmail_2-encrypt-decrypt",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-4-keepassx_0-getting-started",
       "type": "unit",
       "title": "Using KeePassX",
@@ -498,9 +520,9 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-getting-started",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "Using Veracrypt",
+      "title": "Creating a standard encrypted volume",
       "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": [],
@@ -509,9 +531,9 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-standard-volume",
+      "slug": "tool-5-veracrypt_0-getting-started",
       "type": "unit",
-      "title": "Creating a standard encrypted volume",
+      "title": "Using Veracrypt",
       "parentTitle": "Veracrypt",
       "locale": "en",
       "categories": [],
