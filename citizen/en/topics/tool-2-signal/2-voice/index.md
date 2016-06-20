@@ -18,12 +18,6 @@ In this section, you will learn how to:
 
 
 
-## Scenario
-
-Scenario text...
-
-
-
 ## How-to
 
 To make a call
@@ -44,6 +38,12 @@ Say one word to your friend and ask them to say the other world.
 This makes sure you are both who you say you are.
 
 ![11s.png](11s.png)
+
+
+
+## Scenario
+
+Scenario text...
 
 
 

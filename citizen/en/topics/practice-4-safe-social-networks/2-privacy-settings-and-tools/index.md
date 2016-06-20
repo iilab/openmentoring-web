@@ -70,6 +70,11 @@ Click Edit on the first two options and ensure that only Friends can search for 
 
 
 
+## Test you social networking knowledge!
+
+
+
+
 ## Control access to personal information on your Facebook profile
 
 You can control who can see various elements of your profile. This doesn't happen in the main privacy settings but directly when editing your profile.
@@ -85,11 +90,6 @@ If you place your mouse cursor over it, you will see an icon which can be a glob
 Clicking on this icon will bring up a menu where you can change this setting:
 
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
-
-
-
-## Test you social networking knowledge!
-
 
 
 

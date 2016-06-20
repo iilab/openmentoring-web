@@ -55,19 +55,19 @@ Make sure your billing information is up to date and that there is no outstandin
 
 
 
-## Censorship problem
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
-
-
-
 ## Hosting problem
 
 If your website is not loading at all, the company that hosts your website may be having problems.
 <br>
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+
+
+
+## Censorship problem
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 
@@ -91,16 +91,16 @@ See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for
 
 
 
+## Reasons your site may be down
+
+Learn why your website might be down
+
+
+
 ## Learn about
 
 [Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
-
-
-
-## Reasons your site may be down
-
-Learn why your website might be down
 
 
 

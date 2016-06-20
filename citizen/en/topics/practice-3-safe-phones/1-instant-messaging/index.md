@@ -1,7 +1,7 @@
 # Instant Messaging on Smart Phones
 ## Scenario
 
-Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
+Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
@@ -17,7 +17,7 @@ They plan to use Twitter during the march to give updates on the progress of the
 
 ## Scenario
 
-Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
+Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
@@ -167,6 +167,33 @@ Figure 11: Signal timeout settings
 
 
 
+
+
+
+
+
+## How-to
+
+Make a call
+
+Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
+
+Call your contact. 
+When your contact answers you'll see two words.
+Say one word to your friend and ask them to say the other word. 
+This makes sure you are both who you say you are.
+
+![10s.png]({{site.baseurl}}/media/10s.png)
+
+Take a call
+
+When you get a signal call, you'll see on your screen "SIGNAL CALL"
+
+When you answer you'll see two words. 
+Say one word to your friend and ask them to say the other world. 
+This makes sure you are both who you say you are.
+
+![11s.png]({{site.baseurl}}/media/11s.png)
 
 
 
@@ -354,33 +381,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-
-
-
-
-
-## How-to
-
-Make a call
-
-Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
-
-Call your contact. 
-When your contact answers you'll see two words.
-Say one word to your friend and ask them to say the other word. 
-This makes sure you are both who you say you are.
-
-![10s.png]({{site.baseurl}}/media/10s.png)
-
-Take a call
-
-When you get a signal call, you'll see on your screen "SIGNAL CALL"
-
-When you answer you'll see two words. 
-Say one word to your friend and ask them to say the other world. 
-This makes sure you are both who you say you are.
-
-![11s.png]({{site.baseurl}}/media/11s.png)
 
 
 

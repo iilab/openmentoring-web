@@ -58,20 +58,6 @@ Do your accounts have saved passwords or automatically log in when you turn your
 
 ## Learn
 
-# Who is at risk?
-
-Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
-<br>
-# Removing linked accounts
-What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-# Hidden stories of metadata
-Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
-
-
-
-## Learn
-
 > Step 1
 # Remove authorization
 
@@ -91,6 +77,20 @@ Turn on 2-factor authentication for all accounts that were accessible by this de
 # Erase data from device
 
 If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
+
+
+
+## Learn
+
+# Who is at risk?
+
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+# Hidden stories of metadata
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
 
 
 

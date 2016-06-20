@@ -1,10 +1,4 @@
 # Assessing Security Risks
-## Introduction
-
-Know what measures to take to understand risks faced as a journalist.
-
-
-
 ## Learn how to
 
 - [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
@@ -12,6 +6,12 @@ Know what measures to take to understand risks faced as a journalist.
 - [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
 - [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
 - [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
+
+
+
+## Introduction
+
+Know what measures to take to understand risks faced as a journalist.
 
 
 
@@ -68,29 +68,6 @@ Due to the large amount of information they collect about your activities, they 
 
 
 
-## Understand threats, capacities, and vulnerabilities
-
-Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
-<br>
-# Threats
-Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
-<br>
-An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
-<br>
-# Vulnerabilities
-Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
-<br>
-An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
-<br>
-# Capacities
-Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
-<br>
-An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
-<br>
-It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
-
-
-
 ## Mapping threats, capacities, and vulnerabilities
 
 
@@ -117,6 +94,29 @@ This example is merely for demonstrative purposes and may have nothing in common
 
 
 
+## Understand threats, capacities, and vulnerabilities
+
+Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
+<br>
+# Threats
+Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
+<br>
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+<br>
+# Vulnerabilities
+Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
+<br>
+An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
+<br>
+# Capacities
+Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
+<br>
+An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+<br>
+It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
+
+
+
 ## Learn
 
 
@@ -136,6 +136,21 @@ Once you have prioritised the risks to yourself and your work, you can then star
 
 
 
+## Next
+
+---
+- (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
+- (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan
+---
+See also:
+ * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+ * Protection International: [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
+ * Front Line Defenders: [Workbook on Security for Human Rights Defenders](https://frontlinedefenders.org/en/resource-publication/protection-handbook-human-rights-defenders)
+ * Front Line Defenders, Kvinna till Kvinna and Urgent Action Fund: [Insiste, Resiste, Persiste, Existe - Women Human Rights Defenders Security Strategies](http://www.frontlinedefenders.org/files/en/Insiste%20Resiste%20Persiste%20Existe.pdf)
+ * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -152,20 +167,5 @@ Once you have prioritised the risks to yourself and your work, you can then star
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
----
-- (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
-- (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan
----
-See also:
- * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
- * Protection International: [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
- * Front Line Defenders: [Workbook on Security for Human Rights Defenders](https://frontlinedefenders.org/en/resource-publication/protection-handbook-human-rights-defenders)
- * Front Line Defenders, Kvinna till Kvinna and Urgent Action Fund: [Insiste, Resiste, Persiste, Existe - Women Human Rights Defenders Security Strategies](http://www.frontlinedefenders.org/files/en/Insiste%20Resiste%20Persiste%20Existe.pdf)
- * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
-
 
 

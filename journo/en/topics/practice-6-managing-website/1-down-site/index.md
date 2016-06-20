@@ -27,14 +27,6 @@ If your website is taken down due to a legal issue, the resources provided by [E
 
 
 
-## Poor site performance
-
-Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
-<br>
-This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
-
-
-
 ## None of these?
 
 If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
@@ -46,6 +38,14 @@ If you have determined that none of these are at fault, you may be suffering fro
 To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
 <br>
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
+
+
+
+## Poor site performance
+
+Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
 
 
 
@@ -122,8 +122,6 @@ Learn why your website might be down
 </quiz>
 
 
-## Next
-
 ---
 - understand-2-security/0-getting-started
 - internal-...
@@ -132,6 +130,5 @@ To learn more about XXX, see also:
  * [An external resource to study next](en/topics/_topic/_unit/index.md)
  * [Another resource](en/topics/_topic/_unit/index.md)
  * ...
-
 
 
