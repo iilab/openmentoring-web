@@ -1,12 +1,12 @@
 # Preparing for emergencies with your contacts
-## Introduction
-Learn to develop an emergency plan as a journalist.
-
-
 ## Learn about
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
+
+
+## Introduction
+Learn to develop an emergency plan as a journalist.
 
 
 ## Scenario

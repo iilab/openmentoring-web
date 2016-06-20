@@ -1,11 +1,4 @@
 # Getting Started
-## Getting Started
-
-![](unit.png)
-
-Learn to identity threats and risks you may face as a journalist or human rights defender.
-
-
 
 
 
@@ -13,6 +6,13 @@ Learn to identity threats and risks you may face as a journalist or human rights
 ![](scenario.png)
 
 ![](scenario.png)
+
+
+## Getting Started
+
+![](unit.png)
+
+Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 
 ## Choose the right lesson

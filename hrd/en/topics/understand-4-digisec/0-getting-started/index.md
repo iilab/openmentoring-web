@@ -101,7 +101,6 @@ To learn about why secure communication is important and tools you should use to
 </quiz>
 
 
-## Next
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with security
 - en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md: Using KeepassX to manage passwords security

@@ -34,19 +34,13 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  
   * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
   
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -54,19 +48,33 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
+* [Managing your website](topics/practice-6-managing-website/index.md)
   
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/1-new-key/index.md)
+  
+  * [Getting Started with Signal](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
@@ -76,19 +84,19 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
+  
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
-  
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -122,9 +130,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
@@ -136,9 +144,9 @@
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
@@ -146,21 +154,13 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/0-getting-started/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/1-new-key/index.md)
-  
-  * [Getting Started with Signal](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   

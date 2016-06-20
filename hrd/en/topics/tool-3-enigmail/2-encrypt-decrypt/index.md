@@ -1,11 +1,11 @@
 # Getting Started with Signal
 ## Getting started with Enigmail
-Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
+Learn to encrypt and decrypt messages using Enigmail
 
 
-## Learn about
- - [What the Enigmail extension is and how you can use it to protect your email communication](en/topics/tool-3-enigmail/0-getting-started/3-1-learn.md)
- - [Where to find assistance installing and setting up Enigmail](en/topics/tool-3-enigmail/0-getting-started/3-2-learn.md)
+## Learn how to
+ - [Encrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
+ - [Decrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-2-learn.md)
 
 
 ## Encrypt a message
@@ -42,6 +42,7 @@ Using PGP/MIME ensures that all email text, attached files and their names are e
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
 
 
+## Next
 ---
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
 - (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics
