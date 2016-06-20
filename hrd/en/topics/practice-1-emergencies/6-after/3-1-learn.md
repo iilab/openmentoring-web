@@ -1,4 +1,5 @@
 ## Learn
+
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
@@ -7,3 +8,4 @@ When necessary, this is a good time to try to improve your organisational proced
 <br>
 # Remember all steps
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
+

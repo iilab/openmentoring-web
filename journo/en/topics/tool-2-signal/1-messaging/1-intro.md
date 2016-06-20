@@ -1,4 +1,5 @@
 ## Using Signal for encrypted messaging
+
 This section will provide an overview of how to use the app Signal for encrypted messaging.
 <br>
 Key takeaways from this section include learning how to do the following:
@@ -9,3 +10,4 @@ Key takeaways from this section include learning how to do the following:
  - Read fingerprints
  - Scan fingerprints
  - Export your messages
+

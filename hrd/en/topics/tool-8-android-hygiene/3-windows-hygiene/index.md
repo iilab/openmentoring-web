@@ -2,18 +2,25 @@
 ## Introduction
 
 
+
+
 ## Learn how to
+
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
 
+
 ## Scenario
+
 Jenny is about to start on a new assignment investigating government abuses of power.
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
+
 ## Learn
+
 > This section needs to be bulked up significantly
 
 Now that you have drawn the map of stakeholders in protection, determined the field forces, assessed your risk, recognised your strategies already in place, and established your strategy, it should not be difficult to draft a security and emergency plan.
@@ -31,7 +38,9 @@ Your emergency plan should include a detailed list of individuals and groups for
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -47,11 +56,14 @@ For more informanation on developing a security and emergency plan, refer to Pro
     </question>
 </quiz>
 
+
 ## Next
+
 If you found this useful, you might be interested in the following:
 * [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
 * [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
 * [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
 * [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 
 

@@ -1,9 +1,12 @@
 # Getting Started
 ## Getting Started
+
 Learn how to recognise and deal with the most common types of security concerns.
 
 
+
 ## Learn how to
+
 Key takeaways from this topic include lessons on the following:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
@@ -13,7 +16,9 @@ Key takeaways from this topic include lessons on the following:
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
 
 
+
 ## Scenario
+
 
 
 Scenario text...
@@ -25,7 +30,9 @@ Scenario text...
 
 
 
+
 ## Choosing the right lesson
+
 To minimise potential risks, it is important to always prepare a security assessment. Learn how to do so in the Your Security lesson.
 * [Your Security](en/topics/understand-2-security/1-your-security/1-intro.md)
 
@@ -42,7 +49,9 @@ What kind of information you should share, and how to talk about security issues
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 
 
+
 ## Next
+
 ---
 - understand-2-security/0-getting-started
 - internal-...
@@ -51,5 +60,6 @@ To learn more about XXX, see also:
  * [An external resource to study next](en/topics/_topic/_unit/index.md)
  * [Another resource](en/topics/_topic/_unit/index.md)
  * ...
+
 
 

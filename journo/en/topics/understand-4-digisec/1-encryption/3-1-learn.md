@@ -1,4 +1,5 @@
 ## What is encryption
+
 Encryption is the mathematical science of codes, ciphers, and secret messages.
 <br>
 # Encryption is old
@@ -12,3 +13,4 @@ Today, encryption can be used for more elaborate purposes, for example to verify
 <br>
 # Understanding encryption
 Under some circumstances, encryption can be fairly automatic and simple. But there are ways encryption can go wrong, and the more you understand it, the safer you will be against such situations.
+

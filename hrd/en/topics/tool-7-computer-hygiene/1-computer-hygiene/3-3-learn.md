@@ -1,4 +1,5 @@
 ## Open source software
+
 # Updating software is constantly
 For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
 <br>
@@ -13,3 +14,4 @@ Independent developers are also constantly developing digital security tools to 
 <br>
 # Recommended free and open source software
 For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
+

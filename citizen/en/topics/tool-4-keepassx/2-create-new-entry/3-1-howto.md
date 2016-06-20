@@ -1,4 +1,5 @@
 ## Create a new entry
+
 # Step 1. Select New Entry
 In the KeePassX menu, select Entries, then Add New Entry. Or you can use the Add New Entry shortcut key combination: Command-Y.
 <br>
@@ -19,3 +20,4 @@ Create a new KeePassX entry for your RiseUp account within the Internet Group in
 <br>
 # Step 4: Save your changes
 Click {OK} to save your changes to the Add Entry screen.
+

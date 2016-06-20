@@ -1,4 +1,5 @@
 ## What are threats?
+
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
 <br>
 For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
@@ -8,3 +9,4 @@ There is no single solution for keeping yourself safe online. Digital security i
 To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
 <br>
 In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
+

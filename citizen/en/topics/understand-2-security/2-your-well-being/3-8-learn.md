@@ -1,4 +1,5 @@
 ## Identifying post-traumatic stress
+
 # PTSD is common
 Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
 <br>
@@ -7,3 +8,4 @@ Certain factors can make you more susceptible to developing PTSD after a traumat
 <br>
 # When PTSD occurs
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+

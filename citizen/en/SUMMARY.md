@@ -96,9 +96,9 @@
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
-  
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
+  
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   

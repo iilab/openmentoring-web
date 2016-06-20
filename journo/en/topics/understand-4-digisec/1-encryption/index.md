@@ -1,19 +1,26 @@
 # Encryption
 ## Introduction
+
 Learn the basics of encryption and how it can help protect you and your network.
 
 
+
 ## Learn about
+
 - [What is encryption](en/topics/understand-4-digisec/1-encryption/3-1-learn.md)
 - [What are private and public keys](en/topics/understand-4-digisec/1-encryption/3-2-learn.md)
 - [What are security certificates](en/topics/understand-4-digisec/1-encryption/3-3-learn.md)
 - [What are key fingerprints](en/topics/understand-4-digisec/1-encryption/3-4-learn.md)
 
 
+
 ## Scenario
+
 Scenario text...
 
+
 ## What is encryption
+
 Encryption is the mathematical science of codes, ciphers, and secret messages.
 <br>
 # Encryption is old
@@ -29,7 +36,9 @@ Today, encryption can be used for more elaborate purposes, for example to verify
 Under some circumstances, encryption can be fairly automatic and simple. But there are ways encryption can go wrong, and the more you understand it, the safer you will be against such situations.
 
 
+
 ## Private and public keys
+
 # Keys
 One of the most important concepts to understand in encryption is a key.
 <br>
@@ -46,7 +55,9 @@ A public key is a file that you can give to others or publish that allows people
 Private and public keys come in matched pairs, like the halves of a rock that has been split into two perfectly matching pieces, but they are not the same.
 
 
+
 ## Security certificates
+
 # Encryption with HTTPS
 The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org).
 <br>
@@ -66,7 +77,9 @@ Occasionally, however, it is because a hacker, thief, police agency, or spy agen
 This means you should never click past a certificate warning if it relates to a site where you have an account, or are reading any sensitive information.
 
 
+
 ## Key fingerprints
+
 # Verifying identity
 "Key fingerprints," are strings of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928" that allow you to uniquely and securely check that someone on the Internet is using the right private key.
 <br>
@@ -77,7 +90,9 @@ If you check that someone's key fingerprint is correct, that gives you a higher 
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -93,7 +108,9 @@ But it's not perfect, because if the keys are copied or stolen someone else woul
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
 - en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing
@@ -101,5 +118,6 @@ But it's not perfect, because if the keys are copied or stolen someone else woul
 ---
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
+
 
 

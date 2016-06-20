@@ -1,22 +1,29 @@
 # After an Emergency
 ## After an emergency
+![](unit.png)
 
 Steps to take after an emergency has taken place.
 
 
+
 ## Learn how to
+
 - [Re-evaluate your emergency and security plans](en/topics/practice-1-emergencies/6-after/3-learn.md)
 - [Apply for emergency funds for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
 - [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
 
 
+
 ## Scenario
+
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>
 Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
 
 
+
 ## Learn
+
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
 <br>
@@ -27,7 +34,9 @@ When necessary, this is a good time to try to improve your organisational proced
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 
 
+
 ## Learn
+
 # Reach out for help
 Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
 <br>
@@ -35,7 +44,9 @@ Some organisations offer funding to individuals or groups who have encountered a
 If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
 
 
+
 ## Learn
+
 # Work related trauma
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -49,7 +60,9 @@ Traumatic Stress is a normal reaction to an abnormal situation. It's very possib
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -65,7 +78,9 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
     </question>
 </quiz>
 
+
 ## Next steps
+
 - [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
 - [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
 - [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
@@ -73,5 +88,6 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
 
 See also:
 * [Protection International: Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
+
 
 

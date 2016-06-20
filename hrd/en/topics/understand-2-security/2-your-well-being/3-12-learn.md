@@ -1,4 +1,5 @@
 ## Learn
+
 # Fear is natural
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
 <br>
@@ -72,3 +73,4 @@ You might see this in your work if someone experiencing great distress becomes e
 <br>
 # 7. Dissociation
 Dissociation is a sign of serious traumatization.
+

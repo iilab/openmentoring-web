@@ -1,18 +1,25 @@
 # Secure Communications
 ## Introduction
+
 Learn about using secure communications.
 
 
+
 ## Learn about
+
 - [Wecure communication basics](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 - [What to do if you believe your communication channels have been compromised?](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 - [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
 
+
 ## Scenario
+
 Scenario text...
 
+
 ## Secure communication basics
+
 # Protecting your content
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
 <br>
@@ -29,7 +36,9 @@ A communication tool that provides end-to-end encryption (such a PGP-encrypted e
 Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
 
 
+
 ## If your communications are compromised
+
 # Consider the consequences
 In your communications are compromised, case you have to consider the consequence for yourself and your contact to reveal information about the emergency.
 <br>
@@ -52,7 +61,9 @@ An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group
 It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
 
 
+
 ## Secure communication tools
+
 For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
 
 # Pidgin and Adium
@@ -74,7 +85,9 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -90,7 +103,9 @@ For detailed instructions on communicating safely on a smartphone, refer to the 
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/understand-4-digisec/1-encryption/1-1-intro.md: Understand encryption
 - en/topics/understand-2-security/1-your-security/1-1-intro.md: Learn more about your security
@@ -99,5 +114,6 @@ For detailed instructions on communicating safely on a smartphone, refer to the 
 See also:
 - Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
+
 
 

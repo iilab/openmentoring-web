@@ -1,4 +1,5 @@
 ## Effects of post-traumatic stress
+
 # Symptoms vary widely
 The specific symptoms of PTSD can vary widely between people, but generally fall into the following categories:
 <br>
@@ -31,3 +32,4 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 - drug misuse or alcohol misuse
 - headaches, dizziness, chest pains and stomach aches
 - PTSD sometimes leads to work-related problems and the breakdown of relationships.
+

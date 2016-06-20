@@ -1,22 +1,29 @@
 # Getting Started with Signal
 ## Getting started with Signal
+
 Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
+
 ## Learn how to
+
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
  - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
 
 
+
 ## Scenario
+
 Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
 <br>
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
+
 ## Learn
+
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
@@ -39,7 +46,9 @@ Things You Should Know About This Tool Before You Start
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
 
+
 ## How-to
+
 Install Signal by following the following 3 steps:
 
 # Step 1. Download Signal
@@ -69,7 +78,9 @@ If you do not agree with the permissions allowed, press the back button and the 
 Tap Open to run the app for the first time
 
 
+
 ## Registering with Signal
+
 
 # Step 1: Register your phone number
 
@@ -97,7 +108,9 @@ Registration completing
 Voice verification screens
 
 
+
 ## Configure Signal
+
 # Importing Messages
 
 Signal can securely store your SMS messages, so it is recommended that you import the messages from your current SMS app.
@@ -146,10 +159,13 @@ To enable encrypted storage, take the following 5 steps:
 > Signal timeout settings
 
 
+
 ## Next
+
 ---
 - (en/topics/tool-2-signal/1-messaging/1-intro.md): Send encrypted messages to other Signal users via SMS or the internet (MMS).
 - (en/topics/tool-2-signal/2-voice/1-intro.md): Make encrypted voice calls to other Signal users.
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate 
+
 
 

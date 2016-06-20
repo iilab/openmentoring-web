@@ -1,20 +1,27 @@
 # Getting Started
 ## Introduction
+
 Learn how to recognise and deal with the most common types of digital threats.
 
 
+
 ## Learn how to
+
 - [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
 - [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
 
 
+
 ## A suspicious email...
+
 While working on a new story Brenda received an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>
 It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
 
+
 ## Verify if the problem is real
+
 # Assess the situation
 You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.
 <br>
@@ -25,7 +32,9 @@ Make sure you verify where the information is coming from. Was it via email? Did
 Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
 
 
+
 ## Choose the right lesson
+
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
 
@@ -52,7 +61,9 @@ Is your website down? Has it been defaced?
 You've just learned the different lessons available for **Dealing with emergencies**
 
 
+
 ## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
 - en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
@@ -61,5 +72,6 @@ You've just learned the different lessons available for **Dealing with emergenci
 To learn more about dealing with emergencies, see also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

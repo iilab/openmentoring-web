@@ -1,4 +1,5 @@
 ## If your communications are compromised
+
 # Consider the consequences
 In your communications are compromised, case you have to consider the consequence for yourself and your contact to reveal information about the emergency.
 <br>
@@ -19,3 +20,4 @@ An alternative to Google is [Riseup](https://www.riseup.net/), a volunteer group
 <br>
 # Using Riseup
 It is important to note that Riseup does not have the resources of Google. That said, depending on your situation, Riseup may be more appropriate.
+

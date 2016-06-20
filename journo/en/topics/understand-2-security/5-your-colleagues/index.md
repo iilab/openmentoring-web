@@ -1,10 +1,13 @@
 # Your colleagues
 ## Your colleagues
 
+
 The security of your colleagues is part of your own security.
 
 
+
 ## Learn about
+
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
 - [Sharing of information with your teams](en/topics/understand-2-security/5-your-colleagues/3-2-learn.md)
 - [Talking about security with your team](en/topics/understand-2-security/5-your-colleagues/3-3-learn.md)
@@ -22,7 +25,14 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
+
+## Scenario
+
+Scenario text...
+
+
 ## Learn
+
 # Weakest link
 As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
 <br>
@@ -36,7 +46,9 @@ For journalists, this means developing information and operational security stra
 - opsec - information compartmentalisation.
 
 
+
 ## Information compartmentalisation
+
 # Information security
 Think about what kinds of information you share with your colleagues and what information to keep private.
 <br>
@@ -55,7 +67,9 @@ Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-com
 > sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
 
 
+
 ## Learn
+
 # "Be careful with each other..."
 The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
 <br>
@@ -72,7 +86,9 @@ It also creates an atmosphere of openness where you feel more comfortable sharin
 Trust gives team members confidence to know whom to talk to about which aspects of security.
 
 
+
 ## Learn
+
 # Increasing trust in a team
 There are several ways we can work on increasing trust within a team:
 <br>
@@ -95,7 +111,9 @@ There are several ways we can work on increasing trust within a team:
 Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
 
 
+
 ## Talking about security with your colleagues
+
 # Security is courageous
 Talking about security is courageous. Failing to talk about security, or or pretending risks do not exist, promotes a culture of carelessness.
 <br>
@@ -122,10 +140,9 @@ When you or other people bring it up, it is important not to take this as a weak
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
 
-## Scenario
-Scenario text...
 
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -141,7 +158,9 @@ Scenario text...
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - (en/topics/understand-3-opsec/0-getting-started/1-1-intro.md): Operational Security
 - (en/topics/practice-2-planning/0-getting-started/1-1-intro.md): Planning and Preparing
@@ -149,5 +168,6 @@ Scenario text...
 ---
 See also:
 - Internews: [SaferJourno: Digital Security Resources for Media Trainers](saferjourno.internews.org/pdf/SaferJourno_Guide.pdf)
+
 
 

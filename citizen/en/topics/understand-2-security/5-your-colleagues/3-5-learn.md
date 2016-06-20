@@ -1,4 +1,5 @@
 ## Learn
+
 # Increasing trust in a team
 There are several ways we can work on increasing trust within a team:
 <br>
@@ -19,3 +20,4 @@ There are several ways we can work on increasing trust within a team:
 <br>
 # Trust in managing information
 Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
+

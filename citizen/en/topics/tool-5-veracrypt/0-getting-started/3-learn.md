@@ -1,4 +1,5 @@
 ## Things you should know about VeraCrypt
+
 # About VeraCrypt
 VeraCrypt works like an electronic safe in which you can securely store your files.
 <br>
@@ -22,3 +23,4 @@ Remember, if you forget your passphrase, you will lose access to your data! Ther
 <br>
 # Installing VeraCrypt
 For detailed instructions on installing and using VeraCrypt, Tactical Technology Collective put together [a helpful guide](https://securityinabox.org/en/guide/veracrypt-new/windows).
+

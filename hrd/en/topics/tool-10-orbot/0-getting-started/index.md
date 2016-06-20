@@ -1,18 +1,19 @@
 # Getting Started
 ## Getting started with Orbot
+
 Learn to use Orbot, the Android-platform app created by the Guardian Project, designed to increase the anonymity of your activities on the Internet.
 
 
+
 ## Learn about
+
 - [Installing and configuring Orbot](en/topics/tool-10-orbot/0-getting-started/3-1-learn.md)
 -
 
 
-## Installing and configuring Orbot
-To learn how to install and configure Orbot, refer to the [detailed guide put together](https://securityinabox.org/en/women-hrds/orbot/android) by the Tactical Technology Collective.
-
 
 ## Use Orbot to remain anonymous online
+
 # Step 1: Start Orbot
 Touch and hold the grey Orbot icon in the centre of the screen until it turns yellow and says Orbot is starting.
 ![orbot-and-014.png](orbot-and-014.png)
@@ -41,7 +42,15 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 ![orbot-and-022.png](orbot-and-022.png)
 
 
+
+## Installing and configuring Orbot
+
+To learn how to install and configure Orbot, refer to the [detailed guide put together](https://securityinabox.org/en/women-hrds/orbot/android) by the Tactical Technology Collective.
+
+
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -57,7 +66,9 @@ The image will briefly spin and then display You've switched to a new Tor Identi
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -66,5 +77,6 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

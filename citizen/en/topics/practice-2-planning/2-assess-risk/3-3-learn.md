@@ -1,4 +1,5 @@
 ## Actor mapping
+
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
 We might consider dividing them into three categories: resisting forces, supporting forces, and unknown forces.
@@ -32,3 +33,4 @@ An example may be your Internet Service Provider (ISP) or companies such as Face
 An ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails.
 <br>
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
+

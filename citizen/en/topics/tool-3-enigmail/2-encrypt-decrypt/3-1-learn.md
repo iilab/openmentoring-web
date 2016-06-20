@@ -1,4 +1,5 @@
 ## Encrypt a message
+
 Once both you and your correspondent have successfully imported and validated and signed each other's public keys, you are ready to begin sending encrypted messages and decrypting received ones.
 <br>
 # Step 1. Open Thunderbird
@@ -26,3 +27,4 @@ If you are attaching any file to your message, you may need to select the option
 <br>
 
 Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](en/topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers
+

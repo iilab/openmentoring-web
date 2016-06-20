@@ -1,21 +1,28 @@
 # Getting Started
 ## Getting Started
 
+
 ![](unit.png)
 
 Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 
 
+## Takeaways
+
+
 
 
 ## Scenario
+
 ![](scenario.png)
 
 ![](scenario.png)
+
 
 
 ## Choose the right lesson
+
 
 This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
 <br>
@@ -31,8 +38,11 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
+
 ## Next
+
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
 

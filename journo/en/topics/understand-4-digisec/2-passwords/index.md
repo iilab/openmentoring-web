@@ -1,19 +1,26 @@
 # Passwords
 ## Getting started with passwords
+
 Learn about how to create strong and secure passwords
 
 
+
 ## Learn how to
+
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
 - [Test the strength of your password](en/topics/understand-4-digisec/2-passwords/3-3-learn.md)
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
 
 
+
 ## Scenario
+
 Scenario text...
 
+
 ## Password basics
+
 # Protecting your information
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
 <br>
@@ -27,7 +34,9 @@ In general, when you want to protect something - whether a house or an email acc
 You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
 
 
+
 ## Choosing a strong password
+
 # Use a password manager
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
 <br>
@@ -59,7 +68,9 @@ Repeating patterns will make your passwords easy to remember, though it can put 
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
 
 
+
 ## Test your password strength
+
 # How secure if your password?
 To test your password, you can play around with the “How secure is my password?” tool. This site will calculate how quickly a desktop PC could crack your password. “Hello12,” for example, would take about 19 seconds.
 <br>
@@ -67,7 +78,9 @@ To test your password, you can play around with the “How secure is my password
 But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
 
 
+
 ## Two-factor authentication
+
 # What is it?
 Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
 <br>
@@ -75,7 +88,9 @@ Take advantage of online services that offer two-factor authentication. These pr
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -91,8 +106,11 @@ You input the code to verify that you are indeed the person trying to access the
     </question>
 </quiz>
 
+
 ## Next
+
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
 

@@ -1,4 +1,5 @@
 ## Keeping backups of information
+
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.
 <br>
@@ -28,3 +29,4 @@ You can also store your backups on remote servers via the internet – on what i
 <br>
 # Recommended remote backup services
 Consider secure services like [Tresorit](https://tresorit.com) and [SpiderOak](https://spideroak.com/), which are both quite secure and reliable.
+

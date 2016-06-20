@@ -1,14 +1,19 @@
 # Getting Started with Enigmail
 ## Getting started with Enigmail
+
 Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
 
 
+
 ## Learn about
+
  - [What the Enigmail extension is and how you can use it to protect your email communication](en/topics/tool-3-enigmail/0-getting-started/3-1-learn.md)
  - [Where to find assistance installing and setting up Enigmail](en/topics/tool-3-enigmail/0-getting-started/3-2-learn.md)
 
 
+
 ## About Enigmail
+
 # What is Enigmail
 Enigmail is an interface that lets you use GnuPG encryption program from within Thunderbird. The Engimail interface is represented as Enigmail in the Thunderbird console tool bar.
 <br>
@@ -34,15 +39,20 @@ Enigmail also lets you attach digital signatures to your messages. The recipient
 If you have a correspondent's public key, you can verify the digital signatures on her signed messages.
 
 
+
 ## Installing and setting up Enigmail
+
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
 
 
+
 ## Next
+
 ---
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
 - (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics
 ---
 Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
+
 
 

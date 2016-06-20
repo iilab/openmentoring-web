@@ -1,18 +1,25 @@
 # Getting Started
 ## Introduction
+
 Learn to identity threats and risks you may face as a journalist or human rights defender.
 
+
+
+## Takeaways
 
 
 
 
 ## Scenario
+
 Brenda is planning a new project and needs to complete a threat and risk assessment. Before she can, she needs to know the difference between risks and threats and also how to identify them.
 <br>
 If she doesn't, she knows that she exposes herself to unnecessary and avoidable harm. She needs to know so she can start the project soon.
 
 
+
 ## Choose the right lesson
+
 
 This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
 <br>
@@ -28,7 +35,7 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
-## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
 - en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means

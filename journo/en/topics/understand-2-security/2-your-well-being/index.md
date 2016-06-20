@@ -1,5 +1,6 @@
 # Your Well Being
 ## Identifying Traumatic stress
+
 #
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -13,7 +14,9 @@ Traumatic stress usually produces a very intense response, including fear and/or
 ![](recap.png)
 
 
+
 ## Learn
+
 # Basics
 Every person has a level of challenge or threat that stimulates them to a point of maximum productivity and well-being.
 <br>
@@ -33,7 +36,9 @@ Stress and fatigue can result in us identifying and responding to threats in the
 Being sensitive towards ourselves and handling our emotional and physical vulnerabilities with care may contribute to our security as much as it might prove a source of inspiration and power.
 
 
+
 ## Learn
+
 # Dealing with trauma
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br>
@@ -83,7 +88,9 @@ While the former may be difficult for many people due to the demands of their jo
 If you are suffering from vicarious traumatisation, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
 
 
+
 ## Dealing with post-traumatic stress
+
 # Improving naturally
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -102,7 +109,9 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Antidepressant medication
 
 
+
 ## Dealing with unfounded fears
+
 # Unfounded fears are normal
 Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
 <br>
@@ -118,7 +127,9 @@ For example, fears of surveillance could be clarified by taking the time to lear
 Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
+
 ## Learn
+
 # Fear is natural
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
 <br>
@@ -194,7 +205,9 @@ You might see this in your work if someone experiencing great distress becomes e
 Dissociation is a sign of serious traumatization.
 
 
+
 ## Identifying chronic stress
+
 # Healthy levels of stress
 With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 <br>
@@ -211,7 +224,9 @@ Chronic stress occurs regularly among journalists and human rights defenders, ye
 Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
+
 ## Dealing with chronic stress
+
 # Stress management
 Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
 <br>
@@ -248,7 +263,9 @@ Refuse to see yourself as a helpless victim of circumstance. When faced with a d
 # Think positive!
 
 
+
 ## Identifying trauma
+
 # Trauma stress is common
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -262,7 +279,9 @@ Any event which is very distressing and outside of the realm of normal human exp
 Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 
 
+
 ## Effects of trauma
+
 # Immediate numbness
 At the time you experience a traumatic event, you might feel numb and unable to respond.
 <br>
@@ -322,7 +341,9 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
 
 
+
 ## Dealing with traumatic
+
 # Use your own strategy
 Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
 <br>
@@ -354,7 +375,9 @@ Adapt the following suggestions to take account of what is possible after the cr
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
 
 
+
 ## Identifying post-traumatic stress
+
 # PTSD is common
 Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
 <br>
@@ -365,7 +388,9 @@ Certain factors can make you more susceptible to developing PTSD after a traumat
 In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
+
 ## Effects of post-traumatic stress
+
 # Symptoms vary widely
 The specific symptoms of PTSD can vary widely between people, but generally fall into the following categories:
 <br>
@@ -400,11 +425,15 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 - PTSD sometimes leads to work-related problems and the breakdown of relationships.
 
 
+
 ## Introduction
+
 Learn about ensuring your short and long term well-being.
 
 
+
 ## Learn about
+
 # stress and security
 - [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
 - [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
@@ -417,7 +446,9 @@ Learn about ensuring your short and long term well-being.
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -433,7 +464,9 @@ Learn about ensuring your short and long term well-being.
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
 - (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
@@ -446,5 +479,6 @@ See also:
 - De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
 - Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
 - [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
+
 
 

@@ -1,16 +1,21 @@
 # Getting started with computer hygiene
 ## Getting Started
+
 Learn to use common computer hygiene practices.
 
 
+
 ## Learn how to
+
 - [Protect your computer against malware](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-1-learn.md)
 - [Keeping your software up to date](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-2-learn.md)
 - [Use open source software](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-3-learn.md)
 - [Keep backups of information](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md)
 
 
+
 ## Protecting your computer against malware
+
 # Importance of protection
 You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
 <br>
@@ -21,7 +26,9 @@ Malware is the general name for any malicious and undesirable software that atta
 To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
 
 
+
 ## Keeping your software up to date
+
 # Limit software weakness and vulnerabilities
 Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
 <br>
@@ -44,7 +51,9 @@ Alternatively, through the process above you can set Windows Update to inform yo
 This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
 
 
+
 ## Open source software
+
 # Updating software is constantly
 For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
 <br>
@@ -61,7 +70,9 @@ Independent developers are also constantly developing digital security tools to 
 For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
+
 ## Keeping backups of information
+
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.
 <br>
@@ -93,12 +104,15 @@ You can also store your backups on remote servers via the internet – on what i
 Consider secure services like [Tresorit](https://tresorit.com) and [SpiderOak](https://spideroak.com/), which are both quite secure and reliable.
 
 
+
 ## Next
+
 ---
 - en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with digital security
 - en/topics/practice-1-emergencies/3-seized-devices/1-1-intro.md: What to do if your device is seized
 ---
 See also:
 - Tactical Technology Collective: [Basic computer hygiene](https://securityinabox.org/en/eco-rights-africa/computer-hygiene)
+
 
 

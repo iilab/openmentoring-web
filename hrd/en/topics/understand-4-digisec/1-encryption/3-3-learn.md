@@ -1,4 +1,5 @@
 ## Security certificates
+
 # Encryption with HTTPS
 The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org).
 <br>
@@ -16,3 +17,4 @@ Occasionally, however, it is because a hacker, thief, police agency, or spy agen
 <br>
 # Be careful with sensitive information
 This means you should never click past a certificate warning if it relates to a site where you have an account, or are reading any sensitive information.
+

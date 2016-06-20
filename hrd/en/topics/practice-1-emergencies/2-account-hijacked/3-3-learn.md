@@ -1,4 +1,5 @@
 ## Other places to check for suspicious activity
+
 > Step 1
 # Email forwarding
 
@@ -13,3 +14,4 @@ Also check email addresses or phone numbers listed when you're resetting your pa
 # Other account permissions
 
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
+

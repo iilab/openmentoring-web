@@ -1,4 +1,5 @@
 ## Learn
+
 > Step 2
 # Address communications infrastructure
 
@@ -11,3 +12,4 @@ Is a generator or a car battery with a DC adaptor needed to power one’s comput
 Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
 <br>
 ![](recap.png)
+

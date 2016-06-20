@@ -1,4 +1,5 @@
 ## Adding a Facebook account on Jitsi
+
 # Two settings to change
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
@@ -49,3 +50,4 @@ Select **File > Add New Account...** in the main menu bar of Jitsi.
 In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
 ![](jitsi-en-win-16.png)
+

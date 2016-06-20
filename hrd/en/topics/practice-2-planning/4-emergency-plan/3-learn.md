@@ -1,4 +1,5 @@
 
+
 > This section needs to be bulked up significantly
 
 
@@ -15,3 +16,4 @@ In the event you or a colleague of yours becomes out of touch, the plan should s
 Your emergency plan should include a detailed list of individuals and groups for editors and loved ones to contact or call locally, regionally and internationally.
 <br>
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
+

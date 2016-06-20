@@ -1,13 +1,18 @@
 # How to prevent your traffic from being watched
 ## Connect to Tor
+
 Learn to connect to the Tor network to browse safely or circumvent internet censorship.
 
 
+
 ## Learn how to
+
 - [Connect to the Tor network](en/topics/tool-9-tor-browser/1-connect-to-tor/3-learn.md)
 
 
+
 ## Connect to the Tor network
+
 # For the first time
 The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
 
@@ -43,7 +48,9 @@ Unfortunately, turning off these features can make some websites unusable. The d
 ![](013e.png)
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -59,7 +66,9 @@ Unfortunately, turning off these features can make some websites unusable. The d
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -68,5 +77,6 @@ Unfortunately, turning off these features can make some websites unusable. The d
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

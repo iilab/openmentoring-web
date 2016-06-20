@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-20T17:59:50.989Z",
+  "updatedAt": "2016-06-20T18:10:19.490Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -597,7 +597,7 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_0-getting-started",
+      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
       "type": "unit",
       "title": "Getting started with computer hygiene",
       "parentTitle": "Computer Hygiene",
@@ -608,7 +608,7 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
+      "slug": "tool-7-computer-hygiene_0-getting-started",
       "type": "unit",
       "title": "Getting started with computer hygiene",
       "parentTitle": "Computer Hygiene",

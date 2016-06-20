@@ -1,45 +1,60 @@
 # Instant Messaging on Smart Phones
 ## Scenario
+
 Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+
 ## Scenario
+
 Mansour and Magda are human rights defenders from Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest in attending the event could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+
 ## Scenario
+
 Mansour and Magda are journalists from north Africa. They are covering a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
+
 ## Instant messaging on phones
+
 Learn to instant message securely on a smart phone.
 
 
+
 ## Introduction
+
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
 <br>
 Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 
+
 ## Introduction
+
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 <br>
 Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
+
 ## Learn how to
+
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
+
 ## Learn
+
 
 If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 <br>
@@ -55,10 +70,14 @@ Although these networks can be very useful, and promote social interaction both 
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to third party advertisers. When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site. Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. Essentially you are giving all your data over to the owners and trusting them with it.
 
 
+
 ## Test you social networking knowledge!
 
 
+
+
 ## How-to
+
 This how to will go through the following steps 
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
@@ -152,7 +171,9 @@ Figure 11: Signal timeout settings
 
 
 
+
 ## How-to
+
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -337,7 +358,9 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
+
 ## How-to
+
 Make a call
 
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
@@ -362,11 +385,14 @@ This makes sure you are both who you say you are.
 
 
 
+
 ## Next
+
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
 

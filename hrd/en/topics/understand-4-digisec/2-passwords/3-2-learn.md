@@ -1,4 +1,5 @@
 ## Choosing a strong password
+
 # Use a password manager
 A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
 <br>
@@ -28,3 +29,4 @@ Repeating patterns will make your passwords easy to remember, though it can put 
 <br>
 # Use a new pattern
 Of course, any pattern model becomes ineffective as soon as it is written or suggested anywhere online (so never use the one we just suggested).
+

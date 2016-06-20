@@ -1,6 +1,7 @@
 # How to chat securely?
 ## Installing Jitsi
 
+
 You can install Jitsi through the following seven steps:
 <br>
 # Step 1: Download Jitsi
@@ -35,7 +36,9 @@ Even if you do not click on any of the buttons, and simply close the prompt wind
 Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
 
 
+
 ## Encrypting Facebook instant messaging and voice calls
+
 To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
 
 (1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
@@ -45,7 +48,9 @@ To encrypt the content of your Facebook instant messages and voice calls, you fi
 (5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
+
 ## Adding a Facebook account on Jitsi
+
 # Two settings to change
 Facebook has two settings that you might need to change before Jitsi can connect to your Facebook Chat.
 <br>
@@ -98,7 +103,9 @@ In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your us
 ![](jitsi-en-win-16.png)
 
 
+
 ## Encrypting your Facebook instant messages
+
 # Step 1: Open security settings
 Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
 
@@ -159,7 +166,9 @@ The authentication should be done only once per contact. If the triangle with ex
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
 
 
+
 ## Encrypting Facebook voice calls
+
 # Using Jitsi
 Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
 <br>
@@ -211,17 +220,23 @@ You may close the black confirmation section of the window by clicking on the wh
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
+
 ## Communicate securely on Facebook
+
 Learn to encrypt your Facebook voice calls and instant messages.
 
 
+
 ## Scenario
+
 Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
 <br>
 They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
 
 
+
 ## Facebook communication basics
+
 You can easily enhance the privacy and security of your Facebook communications by using encryption.
 <br>
 When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP)
@@ -233,7 +248,9 @@ To enhance the privacy and security of your communications, you can install Jits
 OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
 
 
+
 ## Learn how to
+
 - [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
 - [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
 - [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
@@ -241,11 +258,16 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 - [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
+
 ## Test you social networking knowledge!
 
 
+
+
 ## Next
+
  See also:
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+
 
 

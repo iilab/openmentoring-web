@@ -1,5 +1,6 @@
 ## Mapping threats, capacities, and vulnerabilities
 
+
 It may be helpful for you to map them out on a matrix, like this:
 
 | Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
@@ -20,3 +21,4 @@ It may be helpful for you to map them out on a matrix, like this:
 |                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
 
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+

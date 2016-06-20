@@ -1,4 +1,5 @@
 ## Learn
+
 # Dealing with trauma
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br>
@@ -46,3 +47,4 @@ While the former may be difficult for many people due to the demands of their jo
 <br>
 #  Seek out counseling
 If you are suffering from vicarious traumatisation, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
+

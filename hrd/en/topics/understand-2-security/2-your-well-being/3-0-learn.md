@@ -1,4 +1,5 @@
 ## Learn
+
 # Basics
 Every person has a level of challenge or threat that stimulates them to a point of maximum productivity and well-being.
 <br>
@@ -16,3 +17,4 @@ Stress and fatigue can result in us identifying and responding to threats in the
 <br>
 # Self care is empowering
 Being sensitive towards ourselves and handling our emotional and physical vulnerabilities with care may contribute to our security as much as it might prove a source of inspiration and power.
+

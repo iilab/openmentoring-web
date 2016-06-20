@@ -1,9 +1,14 @@
 # Your Story
 ## Your story
+
 Learn the basics about security of your story
 
 
+
 ## Learn about
+
+
+
 
 
 
@@ -15,7 +20,9 @@ Keep your documents in a safe place and have backups
 > check out saferjourno toolkit - internees. sharing files can put lives at risk. loose lips and open devices.   keeping data safe. case study - spy who came in from the code. put this in your story. also look at researching security.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -31,12 +38,15 @@ Keep your documents in a safe place and have backups
     </question>
 </quiz>
 
+
 ## Next
+
 If you found this unit helpful, you might be interested in the following units:
 - [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
 - [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
 
 

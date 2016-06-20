@@ -1,9 +1,12 @@
 # 
 ## Seeking help
+
 Establish secure communications when reaching out for help.
 
 
+
 ## Learn how to
+
 - [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
@@ -13,14 +16,18 @@ Establish secure communications when reaching out for help.
 <br>
 
 
+
 ## Seeking help...
+
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
 
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
+
 ## Unencrypted channels
+
 # Normal communications
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
@@ -31,7 +38,9 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
+
 ## Encrypted channels
+
 # Secret postcard
 Sending encrypted communication is like placing the postcard inside a locked box, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -52,7 +61,9 @@ To learn more about communicating safely on a computer, refer to the [Safe Email
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
 
+
 ## Dealing with insecure channels
+
 # Reaching out for help
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
@@ -63,7 +74,9 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 
 
+
 ## Establishing trust when reaching out
+
 # Always establish trust
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>
@@ -77,7 +90,9 @@ If you know the party you're reaching out to, using a video call or a phone call
 When you are initiating contact with third parties you might want to create a new email account from a trusted device. If possible, do not rely on unknown people you find online.
 
 
+
 ## Organisations you may reach out to
+
 # Dealing with digital emergencies:
 - Digital Security Helpline (Access Now): help@accessnow.org
 <br>
@@ -97,7 +112,9 @@ When you are initiating contact with third parties you might want to create a ne
 - Electronic Frontier Foundation: info@eff.org
 
 
+
 ## Test
+
 <quiz name="">
     <question>
         <p>Landlines are not encrypted but mobile phones are</p>
@@ -107,7 +124,9 @@ When you are initiating contact with third parties you might want to create a ne
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
@@ -118,5 +137,6 @@ When you are initiating contact with third parties you might want to create a ne
 To learn more about dealing with emergencies, see also:
  * RiseUp [Communications Security](https://help.riseup.net/en/security)
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
+
 
 

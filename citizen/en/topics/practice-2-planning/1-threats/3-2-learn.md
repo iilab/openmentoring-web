@@ -1,5 +1,6 @@
 ## Five steps to Conducting a threat assessment
 
+
 > Step 1.
 # What do you want to protect?
 
@@ -52,3 +53,4 @@ Many people find certain threats unacceptable no matter what the risk, because t
 Based on the results of your [risk analysis](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md), you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
 <br>
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
+

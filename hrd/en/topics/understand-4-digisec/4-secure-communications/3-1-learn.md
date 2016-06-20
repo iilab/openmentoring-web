@@ -1,4 +1,5 @@
 ## Secure communication basics
+
 # Protecting your content
 Secure communication is always a trade-off between security and convenience. When communicating there are different levels of security. This section focuses on protecting the content of your communications.
 <br>
@@ -13,3 +14,4 @@ A communication tool that provides end-to-end encryption (such a PGP-encrypted e
 <br>
 # Anonymisation
 Anonymisation is another component of secure communications. Anonymisation tools hide the sender and recipient of a message and will protect the identity of the participants in a communication.
+

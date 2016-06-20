@@ -1,18 +1,19 @@
 # Encrypt and decrypt messages using Enigmail
 ## Getting started with Enigmail
+
 Learn to encrypt and decrypt messages using Enigmail
 
 
+
 ## Learn how to
+
  - [Encrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
  - [Decrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-2-learn.md)
 
 
-## Installing and setting up Enigmail
-Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
-
 
 ## Encrypt a message
+
 Once both you and your correspondent have successfully imported and validated and signed each other's public keys, you are ready to begin sending encrypted messages and decrypting received ones.
 <br>
 # Step 1. Open Thunderbird
@@ -42,11 +43,20 @@ If you are attaching any file to your message, you may need to select the option
 Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](en/topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers
 
 
+
+## Installing and setting up Enigmail
+
+Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
+
+
+
 ## Next
+
 ---
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
 - (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics
 ---
 Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
+
 
 

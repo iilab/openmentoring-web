@@ -1,9 +1,12 @@
 # Assessing Security Risks
 ## Introduction
+
 Know what measures to take to understand risks faced as a journalist.
 
 
+
 ## Learn how to
+
 - [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
 - [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
 - [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
@@ -11,10 +14,14 @@ Know what measures to take to understand risks faced as a journalist.
 - [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
+
 ## Scenario
+
 Scenario text...
 
+
 ## Understand risk
+
 Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
 <br>
 Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
@@ -22,7 +29,9 @@ Perhaps without realising, we take decisions based on risk analyses every day. Y
 The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
 
 
+
 ## Actor mapping
+
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
 We might consider dividing them into three categories: resisting forces, supporting forces, and unknown forces.
@@ -58,7 +67,9 @@ An ISP, social network or e-mail provider could be legally pressured by a govern
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
 
 
+
 ## Understand threats, capacities, and vulnerabilities
+
 Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
 <br>
 # Threats
@@ -79,7 +90,9 @@ An example might be knowing how to create and store long, complex and varied pas
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
+
 ## Mapping threats, capacities, and vulnerabilities
+
 
 It may be helpful for you to map them out on a matrix, like this:
 
@@ -103,7 +116,9 @@ It may be helpful for you to map them out on a matrix, like this:
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
 
 
+
 ## Learn
+
 
 It may be that you find there are a lot of threats to your work, and it can be difficult to get some perspective on where to begin.
 <br>
@@ -120,7 +135,9 @@ In these cases it can be useful to think of the different threats in terms of th
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -136,7 +153,9 @@ Once you have prioritised the risks to yourself and your work, you can then star
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
 - (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan
@@ -147,5 +166,6 @@ See also:
  * Front Line Defenders: [Workbook on Security for Human Rights Defenders](https://frontlinedefenders.org/en/resource-publication/protection-handbook-human-rights-defenders)
  * Front Line Defenders, Kvinna till Kvinna and Urgent Action Fund: [Insiste, Resiste, Persiste, Existe - Women Human Rights Defenders Security Strategies](http://www.frontlinedefenders.org/files/en/Insiste%20Resiste%20Persiste%20Existe.pdf)
  * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
+
 
 

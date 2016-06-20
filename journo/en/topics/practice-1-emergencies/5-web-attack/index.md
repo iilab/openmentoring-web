@@ -1,23 +1,30 @@
 # Website under attack
 ## Malware
+![](unit.png)
 
 Recover from having your website from being attacked or defaced.
 
 
+
 ## Learn how to
+
 - [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
 - [Deal with a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
 - [Deal with website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
 
 
+
 ## Scenario
+
 Brenda published a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
 <br>
 Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
 
 
+
 ## Learn
+
 # Silencing your voice
 A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
 <br>
@@ -28,7 +35,9 @@ In many cases, this maybe an innocent and frustrating problem. But on occasion, 
 A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
 
 
+
 ## Learn
+
 # Programming or technical problems
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 <br>
@@ -39,7 +48,9 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
 
 
+
 ## Learn
+
 > Step 1
 # Talk to your webmaster
 
@@ -68,7 +79,9 @@ If you are doing this yourself [refer to the guide Electronic Frontier Foundatio
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 
 
+
 ## Learn
+
 > Step 1
 # Verify you website is defaced
 
@@ -117,7 +130,9 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -133,10 +148,13 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
     </question>
 </quiz>
 
+
 ## Next
+
  See also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
 * Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
+
 
 

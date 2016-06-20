@@ -1,17 +1,24 @@
 # Understanding Threats
 ## Threats
+
 Learn about identifying and dealing with threats
 
 
+
 ## Learn about
+
 - [What are threats?](en/topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Conducting a threat assessment](en/topics/practice-2-planning/1-threats/3-2-learn.md)
 
 
+
 ## Scenario
+
 Scenario text...
 
+
 ## What are threats?
+
 A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
 <br>
 For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
@@ -23,7 +30,9 @@ To become more secure, you must determine what you need to protect, and whom you
 In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
 
 
+
 ## Five steps to Conducting a threat assessment
+
 
 > Step 1.
 # What do you want to protect?
@@ -79,7 +88,9 @@ Based on the results of your [risk analysis](en/topics/practice-2-planning/2-ass
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
+
 ## Test
+
 If you want to keep your house and possessions safe, here are a few questions you might ask:
 
 -Should I lock my door?
@@ -94,7 +105,7 @@ If you want to keep your house and possessions safe, here are a few questions yo
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
-## Next
+
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 

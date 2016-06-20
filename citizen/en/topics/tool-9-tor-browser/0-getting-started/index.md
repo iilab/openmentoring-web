@@ -1,13 +1,18 @@
 # Getting Started
 ## Getting started with Tor
+
 Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
 
 
+
 ## Learn about
+
 - [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
 
 
+
 ## Scenario
+
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
 <br>
@@ -23,7 +28,9 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
 
 
+
 ## Learn
+
 # Protecting your browsing
 Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
 <br>
@@ -73,6 +80,9 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 - Route: A route is the communication path on the Internet between your computer and the destination server.
 
 
+
+## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -88,7 +98,9 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
     </question>
 </quiz>
 
+
 ## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -97,5 +109,6 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

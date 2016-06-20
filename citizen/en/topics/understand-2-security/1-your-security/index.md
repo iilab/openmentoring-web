@@ -1,18 +1,23 @@
 # Your Security
 ## Introduction
+
 ![](recap.png)
 
 Learn about your security and protecting yourself. 
 
 
+
 ## Learn how to
+
 * [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
+
 ## Scenario
+
 ![](scenario.png)
 Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
 <br>
@@ -20,7 +25,9 @@ Brenda is writing a story about gold mining and needs to conduct some interviews
 Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
 
 
+
 ## Learn
+
 > security - make it more about what are the components that would go into your security - maybe kind of a getting started. your security is physical safety (what people would think of), emphasise this,but also security of information….your sources, your well being is important (give a concrete example here - if you are depressed or shocked you won’t be able to continue your job. it’s part of your security think about your well being and those of moths.
 
 > explain in your security and well being are more important than story - that this is true and will allow you to continue doing your work.
@@ -122,7 +129,9 @@ The assessment should include:
  ![](recap.png)
 
 
+
 ## Learn
+
 > Step 2
 # Address communications infrastructure
 
@@ -137,7 +146,9 @@ Basic needs such as nourishment and medical care must be addressed as well. Are 
 ![](recap.png)
 
 
+
 ## Learn
+
 > Step 3
 # Consult diverse sources
 
@@ -150,7 +161,9 @@ An independent journalist working without a relationship with a news organizatio
 ![](recap.png)
 
 
+
 ## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -166,8 +179,11 @@ An independent journalist working without a relationship with a news organizatio
     </question>
 </quiz>
 
+
 ## Next
 
+
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 
 

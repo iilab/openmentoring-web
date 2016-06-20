@@ -1,4 +1,5 @@
 ## Learn
+
 # Password reset
 If you cannot log into your account, use the password reset or recovery link.
 <br>
@@ -10,3 +11,4 @@ If these steps do not work and your account is being abused, contact the platfor
 <br>
 # Helpful organisations
 There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
+

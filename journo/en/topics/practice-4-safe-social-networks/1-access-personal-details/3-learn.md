@@ -1,4 +1,5 @@
 ## What to post to social networking sites
+
 # Be careful with what information you give
 Social networking sites ask you for a good deal of data about yourself to make it easier for other users to find and connect to you.
 <br>
@@ -21,3 +22,4 @@ Before posting, think about whether it's necessary to post:
  - details of family members
  - sexual orientation
  - education and employment history
+

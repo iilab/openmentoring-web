@@ -1,4 +1,5 @@
 ## Identifying chronic stress
+
 # Healthy levels of stress
 With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 <br>
@@ -13,3 +14,4 @@ Chronic stress occurs regularly among journalists and human rights defenders, ye
 <br>
 # Hard to deal with problems
 Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
+

@@ -1,4 +1,5 @@
 ## Hidden stories in metadata
+
 # Picture metadata
 When you take a picture with your digital camera, what happens? If your camera or phone knows where you are, then that information (in the form of GPS coordinates) can be saved in the metadata of the file.
 <br>
@@ -19,3 +20,4 @@ Emails contain metadata as well. The author of the email, the email recipient, s
 <br>
 # Metadata can reveal your communication
 Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
+
