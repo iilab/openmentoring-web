@@ -1,4 +1,4 @@
-# 
+# Seeking Remote Help
 ## Seeking help
 
 Establish secure communications when reaching out for help.

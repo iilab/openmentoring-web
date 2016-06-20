@@ -2,15 +2,15 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
-  * [](topics/practice-1-emergencies/1-seeking-help/index.md)
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -22,15 +22,15 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -38,9 +38,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
+  
+  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -114,9 +114,9 @@
   
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
   * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   

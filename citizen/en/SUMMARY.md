@@ -4,17 +4,17 @@
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [](topics/practice-1-emergencies/1-seeking-help/index.md)
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -28,9 +28,9 @@
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -58,6 +58,14 @@
   
   * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
@@ -65,14 +73,6 @@
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -164,7 +164,7 @@
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
-  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

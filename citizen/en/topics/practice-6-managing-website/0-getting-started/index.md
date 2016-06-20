@@ -35,6 +35,11 @@ In addition,they want to prepare for when the government eventually filters thei
 
 
 
+## Learn
+
+Learning text...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -51,11 +56,6 @@ In addition,they want to prepare for when the government eventually filters thei
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Learn
-
-Learning text...
 
 
 ## Next

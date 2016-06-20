@@ -6,19 +6,19 @@ Steps to take after an emergency has taken place.
 
 
 
-## Scenario
-
-Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
-<br>
-Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
-
-
-
 ## Learn how to
 
 - [Re-evaluate your emergency and security plans](en/topics/practice-1-emergencies/6-after/3-learn.md)
 - [Apply for emergency funds for journalists and human rights defenders](en/topics/practice-1-emergencies/6-after/3-1-learn.md)
 - [Address traumatic stress after an emergency](en/topics/practice-1-emergencies/6-after/3-2-learn.md)
+
+
+
+## Scenario
+
+Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
+<br>
+Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
 
 
 
