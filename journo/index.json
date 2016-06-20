@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-20T17:21:39.904Z",
+  "updatedAt": "2016-06-20T17:30:01.098Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -225,7 +225,7 @@
     {
       "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],

@@ -38,6 +38,7 @@ If you have a correspondent's public key, you can verify the digital signatures 
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
 
 
+## Next
 ---
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
 - (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics

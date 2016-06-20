@@ -1,60 +1,16 @@
 # Your Well Being
-## Symptoms of chronic stress
-# Physical
-- Exhaustion
-- Hyperactivity
-- Sleeping difficulties or excessive sleep
+## Identifying Traumatic stress
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Physical
--Slight flu-like symptoms
--Headaches
--Heightened blood pressure and heart rate
--Nausia or vomiting.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Behavioral
--Avoiding genuine social contact and relationships
--Substance abuse (caffeine/alcohol/drugs)
--A series of short and casual romantic/sexual relationships
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# Behavioral
--Risk taking
--Withdrawal
--Irritability or a constant tendency to pick quarrels
--Aggression
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Work-related:
--Working very long hours
--Lateness/not coming in to work
--Poor work performance
-<br>
-# Work-related:
--Loss of perspective
--Pre-occupation with an idea, even if it is old or ineffective
--Deterioration in judgment and logical thinking
--Reduced creativity
--Deteriorating communication
-<br>
-# Emotional:
--Low morale
--Pessimism and cynicism
--Anxiety
-<br>
-# Emotional
--Guilt
--Depression
--Excitement/hyper-activity
-<br>
-# Emotional
--A feeling of power and invulnerability
--Intense identification with, OR lack of compassion for those you work with
--Nightmares or flashbacks
-<br>
-# Emotional
--Tendency to avoid/repress intense thoughts or feelings
--Questioning of major life areas
-<br>
-# Consequences:
-Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
+![](recap.png)
 
 
 ## Learn
@@ -162,23 +118,6 @@ For example, fears of surveillance could be clarified by taking the time to lear
 Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
-## Identifying chronic stress
-# Healthy levels of stress
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-<br>
-# Chronic stress
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
-<br>
-# Chronic stress and burnout
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
-<br>
-# A common problem
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-<br>
-# Hard to deal with problems
-Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
-
-
 ## Learn
 # Fear is natural
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
@@ -253,6 +192,23 @@ You might see this in your work if someone experiencing great distress becomes e
 <br>
 # 7. Dissociation
 Dissociation is a sign of serious traumatization.
+
+
+## Identifying chronic stress
+# Healthy levels of stress
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+<br>
+# Chronic stress
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
+<br>
+# Chronic stress and burnout
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
+<br>
+# A common problem
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+<br>
+# Hard to deal with problems
+Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
 ## Dealing with chronic stress
@@ -366,17 +322,6 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
 
 
-## Identifying post-traumatic stress
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
-
-
 ## Dealing with traumatic
 # Use your own strategy
 Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
@@ -384,7 +329,7 @@ Everyone has natural ways of coping. Use your own positive coping strategies to 
 # Possible strategies
 Adapt the following suggestions to take account of what is possible after the crisis.
 <br>
-# Encourage positive coping strategies
+# Use positive coping strategies
 - Get enough rest
 - Eat as regularly as possible and drink water
 - Talk and spend time with family and friends.
@@ -395,18 +340,29 @@ Adapt the following suggestions to take account of what is possible after the cr
 - Do physical exercise
 - Find safe ways to help others in the crisis and get involved in community activities.
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don’t take drugs, smoke or drink alcohol
 - Don’t sleep all day
 - Don’t work all the time without any rest or relation
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don't isolate yourself from friends and loved ones.
 - Don’t neglect basic personal hygiene
 - Don’t be violent
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+
+
+## Identifying post-traumatic stress
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 ## Effects of post-traumatic stress

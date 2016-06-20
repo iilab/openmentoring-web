@@ -1,60 +1,16 @@
 # Your Well Being
-## Symptoms of chronic stress
-# Physical
-- Exhaustion
-- Hyperactivity
-- Sleeping difficulties or excessive sleep
+## Identifying Traumatic stress
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Physical
--Slight flu-like symptoms
--Headaches
--Heightened blood pressure and heart rate
--Nausia or vomiting.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Behavioral
--Avoiding genuine social contact and relationships
--Substance abuse (caffeine/alcohol/drugs)
--A series of short and casual romantic/sexual relationships
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# Behavioral
--Risk taking
--Withdrawal
--Irritability or a constant tendency to pick quarrels
--Aggression
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Work-related:
--Working very long hours
--Lateness/not coming in to work
--Poor work performance
-<br>
-# Work-related:
--Loss of perspective
--Pre-occupation with an idea, even if it is old or ineffective
--Deterioration in judgment and logical thinking
--Reduced creativity
--Deteriorating communication
-<br>
-# Emotional:
--Low morale
--Pessimism and cynicism
--Anxiety
-<br>
-# Emotional
--Guilt
--Depression
--Excitement/hyper-activity
-<br>
-# Emotional
--A feeling of power and invulnerability
--Intense identification with, OR lack of compassion for those you work with
--Nightmares or flashbacks
-<br>
-# Emotional
--Tendency to avoid/repress intense thoughts or feelings
--Questioning of major life areas
-<br>
-# Consequences:
-Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
+![](recap.png)
 
 
 ## Learn
@@ -373,7 +329,7 @@ Everyone has natural ways of coping. Use your own positive coping strategies to 
 # Possible strategies
 Adapt the following suggestions to take account of what is possible after the crisis.
 <br>
-# Encourage positive coping strategies
+# Use positive coping strategies
 - Get enough rest
 - Eat as regularly as possible and drink water
 - Talk and spend time with family and friends.
@@ -384,12 +340,12 @@ Adapt the following suggestions to take account of what is possible after the cr
 - Do physical exercise
 - Find safe ways to help others in the crisis and get involved in community activities.
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don’t take drugs, smoke or drink alcohol
 - Don’t sleep all day
 - Don’t work all the time without any rest or relation
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don't isolate yourself from friends and loved ones.
 - Don’t neglect basic personal hygiene
 - Don’t be violent

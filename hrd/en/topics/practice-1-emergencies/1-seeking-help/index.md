@@ -1,5 +1,5 @@
-# Seeking Remote Help
-## Introduction
+# 
+## Seeking help
 Establish secure communications when reaching out for help.
 
 
@@ -13,14 +13,14 @@ Establish secure communications when reaching out for help.
 <br>
 
 
-## Scenario
+## Seeking help...
 Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
 
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
 
 
-## Learn
+## Unencrypted channels
 # Normal communications
 As a general rule, it is important to understand that most ‘normal’ communications tools are not very secure against eavesdropping.
 <br>
@@ -31,7 +31,7 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
 
 
-## Learn
+## Encrypted channels
 # Secret postcard
 Sending encrypted communication is like placing the postcard inside a locked box, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -52,7 +52,7 @@ To learn more about communicating safely on a computer, refer to the [Safe Email
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
 
 
-## Learn
+## Dealing with insecure channels
 # Reaching out for help
 Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
 <br>
@@ -63,7 +63,7 @@ In many cases, it is better to reach out for help insecurely than not to reach o
 If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 
 
-## Learn
+## Establishing trust when reaching out
 # Always establish trust
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>

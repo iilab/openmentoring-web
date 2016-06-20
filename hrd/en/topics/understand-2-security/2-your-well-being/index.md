@@ -1,60 +1,16 @@
 # Your Well Being
-## Symptoms of chronic stress
-# Physical
-- Exhaustion
-- Hyperactivity
-- Sleeping difficulties or excessive sleep
+## Identifying Traumatic stress
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Physical
--Slight flu-like symptoms
--Headaches
--Heightened blood pressure and heart rate
--Nausia or vomiting.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Behavioral
--Avoiding genuine social contact and relationships
--Substance abuse (caffeine/alcohol/drugs)
--A series of short and casual romantic/sexual relationships
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# Behavioral
--Risk taking
--Withdrawal
--Irritability or a constant tendency to pick quarrels
--Aggression
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Work-related:
--Working very long hours
--Lateness/not coming in to work
--Poor work performance
-<br>
-# Work-related:
--Loss of perspective
--Pre-occupation with an idea, even if it is old or ineffective
--Deterioration in judgment and logical thinking
--Reduced creativity
--Deteriorating communication
-<br>
-# Emotional:
--Low morale
--Pessimism and cynicism
--Anxiety
-<br>
-# Emotional
--Guilt
--Depression
--Excitement/hyper-activity
-<br>
-# Emotional
--A feeling of power and invulnerability
--Intense identification with, OR lack of compassion for those you work with
--Nightmares or flashbacks
-<br>
-# Emotional
--Tendency to avoid/repress intense thoughts or feelings
--Questioning of major life areas
-<br>
-# Consequences:
-Engaging in some of these types of behaviours are security risks in and of themselves, so it is very important to both the individual affected and your organisation that it is dealt with properly.
+![](recap.png)
 
 
 ## Learn
@@ -127,22 +83,6 @@ While the former may be difficult for many people due to the demands of their jo
 If you are suffering from vicarious traumatisation, counseling is recommended. If you do not seek counseling, you might not make the most of your time off, resolve the vicarious trauma, or rest.
 
 
-## Dealing with unfounded fears
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
-
-
 ## Dealing with post-traumatic stress
 # Improving naturally
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
@@ -160,6 +100,22 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
+
+
+## Dealing with unfounded fears
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
 ## Learn
@@ -373,7 +329,7 @@ Everyone has natural ways of coping. Use your own positive coping strategies to 
 # Possible strategies
 Adapt the following suggestions to take account of what is possible after the crisis.
 <br>
-# Encourage positive coping strategies
+# Use positive coping strategies
 - Get enough rest
 - Eat as regularly as possible and drink water
 - Talk and spend time with family and friends.
@@ -384,12 +340,12 @@ Adapt the following suggestions to take account of what is possible after the cr
 - Do physical exercise
 - Find safe ways to help others in the crisis and get involved in community activities.
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don’t take drugs, smoke or drink alcohol
 - Don’t sleep all day
 - Don’t work all the time without any rest or relation
 <br>
-# Don't use negative coping strategies
+# Avoid negative coping strategies
 - Don't isolate yourself from friends and loved ones.
 - Don’t neglect basic personal hygiene
 - Don’t be violent
