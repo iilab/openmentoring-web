@@ -1,6 +1,5 @@
 # Seeking Remote Help
 ## Introduction
-
 Establish secure communications when reaching out for help.
 
 

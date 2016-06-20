@@ -162,6 +162,23 @@ For example, fears of surveillance could be clarified by taking the time to lear
 Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
+## Identifying chronic stress
+# Healthy levels of stress
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+<br>
+# Chronic stress
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
+<br>
+# Chronic stress and burnout
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
+<br>
+# A common problem
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+<br>
+# Hard to deal with problems
+Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
+
+
 ## Learn
 # Fear is natural
 Our survival response as humans is hardwired into special structures within our brains designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear.
@@ -236,23 +253,6 @@ You might see this in your work if someone experiencing great distress becomes e
 <br>
 # 7. Dissociation
 Dissociation is a sign of serious traumatization.
-
-
-## Identifying chronic stress
-# Healthy levels of stress
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
-<br>
-# Chronic stress
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
-<br>
-# Chronic stress and burnout
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
-<br>
-# A common problem
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
-<br>
-# Hard to deal with problems
-Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
 ## Dealing with chronic stress
@@ -366,6 +366,17 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
 
 
+## Identifying post-traumatic stress
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+
+
 ## Dealing with traumatic
 # Use your own strategy
 Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
@@ -396,17 +407,6 @@ Adapt the following suggestions to take account of what is possible after the cr
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-## Identifying post-traumatic stress
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 ## Effects of post-traumatic stress
