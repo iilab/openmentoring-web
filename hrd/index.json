@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-20T12:50:15.780Z",
+  "updatedAt": "2016-06-20T14:58:41.498Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -355,9 +355,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_1-access-friends-contacts",
+      "slug": "practice-4-safe-social-networks_1-access-personal-details",
       "type": "unit",
-      "title": "How to control access to friends &amp; contacts?",
+      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -366,7 +366,7 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-access-personal-details",
+      "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
       "type": "unit",
       "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",

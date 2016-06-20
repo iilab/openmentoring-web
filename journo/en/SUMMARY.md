@@ -36,9 +36,9 @@
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
@@ -48,6 +48,12 @@
   
   * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -55,12 +61,6 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -130,9 +130,9 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   

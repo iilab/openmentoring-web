@@ -36,9 +36,9 @@
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
-  * [How to control access to friends &amp; contacts?](topics/practice-4-safe-social-networks/1-access-friends-contacts/index.md)
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-access-personal-details/index.md)
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   

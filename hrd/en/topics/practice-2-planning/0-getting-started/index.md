@@ -28,6 +28,7 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
 
+## Next
 ---
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
 - en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
