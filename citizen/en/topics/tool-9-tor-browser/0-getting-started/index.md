@@ -73,7 +73,6 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 - Route: A route is the communication path on the Internet between your computer and the destination server.
 
 
-## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>

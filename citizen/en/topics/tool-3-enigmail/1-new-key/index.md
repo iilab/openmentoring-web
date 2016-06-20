@@ -7,6 +7,7 @@ Learn how to create a new PGP key using Enigmail.
  - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
 
 
+## Generate a key pair
 # Step 1: Open the Setup Wizard
 Select Enigmail > Setup Wizard to open the Enigmail Setup Wizard screen as follows:
 

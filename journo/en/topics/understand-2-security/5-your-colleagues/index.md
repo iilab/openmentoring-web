@@ -22,9 +22,6 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
 
-## Scenario
-Scenario text...
-
 ## Learn
 # Weakest link
 As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
@@ -124,6 +121,9 @@ When you or other people bring it up, it is important not to take this as a weak
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
+
+## Scenario
+Scenario text...
 
 ## Test
 <quiz name="Gitbook Quiz">

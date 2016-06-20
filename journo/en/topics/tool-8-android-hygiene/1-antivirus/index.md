@@ -11,15 +11,6 @@ Anti-virus software is a valuable tool against non-targeted but still dangerous 
 ## Scenario
 Scenario text...
 
-## Recommended anti-virus software
-- Microsoft Safety Scanner (Windows)
-- F-Secure
-- Kaspersky
-- ClamXav (Mac OS X)
-- TrendMicro
-- ClamAV (Windows and Linux)
-
-
 ## Using anti-virus software
 When you run anti-virus software, ensure that it is up to date.
 <br>
@@ -33,6 +24,15 @@ When you run anti-virus software, ensure that it is up to date.
 <br>
 >Step 3
 # Following the guidelines in the [Safer Communication](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) section, send the screenshot to a trusted person with security expertise
+
+
+## Recommended anti-virus software
+- Microsoft Safety Scanner (Windows)
+- F-Secure
+- Kaspersky
+- ClamXav (Mac OS X)
+- TrendMicro
+- ClamAV (Windows and Linux)
 
 
 ## Anti-virus software
