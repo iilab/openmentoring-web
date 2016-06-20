@@ -1,4 +1,5 @@
 ## Organisations you may reach out to
+
 # Dealing with digital emergencies:
 - Digital Security Helpline (Access Now): help@accessnow.org
 <br>
@@ -16,3 +17,4 @@
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
 - Electronic Frontier Foundation: info@eff.org
+

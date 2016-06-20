@@ -1,4 +1,5 @@
 ## How-to
+
 This how to will go through the following steps 
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
@@ -85,6 +86,7 @@ Step 5: Tap Timeout interval and in the next screen enter after what time you wa
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 Figure 11: Signal timeout settings
+
 
 
 

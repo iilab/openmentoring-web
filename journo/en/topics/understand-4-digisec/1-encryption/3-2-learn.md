@@ -1,4 +1,5 @@
 ## Private and public keys
+
 # Keys
 One of the most important concepts to understand in encryption is a key.
 <br>
@@ -13,3 +14,4 @@ A public key is a file that you can give to others or publish that allows people
 <br>
 # Matching keys
 Private and public keys come in matched pairs, like the halves of a rock that has been split into two perfectly matching pieces, but they are not the same.
+

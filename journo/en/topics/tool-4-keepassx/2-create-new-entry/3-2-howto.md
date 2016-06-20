@@ -1,4 +1,5 @@
 ## Edit an existing entry
+
 # Step 1. Select 'Internet' group
 Select the ’Internet’ Group in the database menu on the left side of the window to see the entries associated with it.
 <br>
@@ -25,3 +26,4 @@ Note: Remember that making changes to a KeePassX entry only updates that entry i
 <br>
 # Update relevant account information
 Therefore, you will need to make any relevant updates to your account information, as well as new KeePassX database backups and copies seperately after editing your entry here.
+

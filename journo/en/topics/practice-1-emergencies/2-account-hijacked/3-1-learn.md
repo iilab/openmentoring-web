@@ -1,4 +1,5 @@
 ## Learn
+
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
 <br>
@@ -13,3 +14,4 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 <br>
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+

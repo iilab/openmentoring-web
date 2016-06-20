@@ -1,5 +1,6 @@
 ## Installing Jitsi
 
+
 You can install Jitsi through the following seven steps:
 <br>
 # Step 1: Download Jitsi
@@ -32,3 +33,4 @@ Even if you do not click on any of the buttons, and simply close the prompt wind
 <br>
 # Step 7: Authorise Jitsi
 Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
+

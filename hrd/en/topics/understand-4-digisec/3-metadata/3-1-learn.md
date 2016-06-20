@@ -1,4 +1,5 @@
 ## What is metadata?
+
 # About metadata
 Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
 <br>
@@ -9,3 +10,4 @@ This information can include the time and date a file was created, the username 
 <br>
 # Learning from metadata
 As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
+

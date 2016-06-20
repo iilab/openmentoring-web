@@ -1,4 +1,5 @@
 ## Password basics
+
 # Protecting your information
 Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
 <br>
@@ -10,3 +11,4 @@ In general, when you want to protect something - whether a house or an email acc
 <br>
 # Use strong passwords
 You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
+

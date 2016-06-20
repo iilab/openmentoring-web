@@ -1,4 +1,5 @@
 ## How-to
+
 Install Signal by following the following 3 steps:
 
 # Step 1. Download Signal
@@ -26,3 +27,4 @@ If you do not agree with the permissions allowed, press the back button and the 
 <br>
 # Step 3. Run Signal
 Tap Open to run the app for the first time
+

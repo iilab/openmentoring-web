@@ -1,4 +1,5 @@
 ## Understand threats, capacities, and vulnerabilities
+
 Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
 <br>
 # Threats
@@ -17,3 +18,4 @@ Capacities refer to abilities and resources which improve our security. The high
 An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
 <br>
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
+

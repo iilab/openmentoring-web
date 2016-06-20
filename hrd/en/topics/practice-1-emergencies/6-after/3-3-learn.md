@@ -1,4 +1,5 @@
 ## Learn
+
 # Work related trauma
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -10,3 +11,4 @@ Traumatic Stress is a normal reaction to an abnormal situation. It's very possib
 <br>
 # Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
+

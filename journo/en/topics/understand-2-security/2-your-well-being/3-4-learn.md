@@ -1,4 +1,5 @@
 ## Dealing with chronic stress
+
 # Stress management
 Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
 <br>
@@ -33,3 +34,4 @@ Sharing a problem with others may help you find a solution and will make you fee
 Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 # Think positive!
+

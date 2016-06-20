@@ -1,4 +1,5 @@
 ## How-to
+
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - [Sending and Receiving messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
@@ -175,3 +176,4 @@ Note: While Signal allows you to export your messages, the messages in the backu
 
 ![18s.png](18s.png)
 Figure 16 & 17: Signal Export and Export confirmation screens
+

@@ -1,4 +1,5 @@
 ## Dealing with traumatic
+
 # Use your own strategy
 Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
 <br>
@@ -28,3 +29,4 @@ Adapt the following suggestions to take account of what is possible after the cr
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+

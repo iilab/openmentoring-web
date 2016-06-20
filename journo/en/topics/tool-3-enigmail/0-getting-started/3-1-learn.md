@@ -1,4 +1,5 @@
 ## About Enigmail
+
 # What is Enigmail
 Enigmail is an interface that lets you use GnuPG encryption program from within Thunderbird. The Engimail interface is represented as Enigmail in the Thunderbird console tool bar.
 <br>
@@ -22,3 +23,4 @@ Enigmail also lets you attach digital signatures to your messages. The recipient
 <br>
 # Verifying digital signatures
 If you have a correspondent's public key, you can verify the digital signatures on her signed messages.
+

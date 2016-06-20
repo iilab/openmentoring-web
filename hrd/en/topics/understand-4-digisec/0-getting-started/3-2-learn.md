@@ -1,4 +1,5 @@
 ## Choosing the right lesson
+
 To learn the basics of encryption and how it can help protect you and your network, choose the Encryption lesson:
 - [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
 <br>
@@ -10,3 +11,4 @@ To understand what metadata is and how it can leave you and your network vulnera
 <br>
 To learn about why secure communication is important and tools you should use to communicate safely, choose the Secure communications lesson:
 - [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-intro.md)
+

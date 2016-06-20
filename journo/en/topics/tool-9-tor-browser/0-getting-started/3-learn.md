@@ -1,4 +1,5 @@
 ## Learn
+
 # Protecting your browsing
 Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
 <br>
@@ -46,3 +47,4 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
 <br>
 # Definitions
 - Route: A route is the communication path on the Internet between your computer and the destination server.
+

@@ -1,4 +1,5 @@
 ## Effects of trauma
+
 # Immediate numbness
 At the time you experience a traumatic event, you might feel numb and unable to respond.
 <br>
@@ -56,3 +57,4 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 <br>
 # Physical
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
+

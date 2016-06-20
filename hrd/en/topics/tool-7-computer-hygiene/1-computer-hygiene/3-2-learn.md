@@ -1,4 +1,5 @@
 ## Keeping your software up to date
+
 # Limit software weakness and vulnerabilities
 Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
 <br>
@@ -19,3 +20,4 @@ Alternatively, through the process above you can set Windows Update to inform yo
 <br>
 # Download when ready
 This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
+

@@ -1,4 +1,5 @@
 ## Save a new KeePassX database
+
 # Step 1. Save your KeePassX database
 In the KeePassX menu, select File > Save Database As.
 <br>
@@ -27,3 +28,4 @@ Tip: If your Finder Preferences (Finder Preferences > Advanced) are set to ‘Sh
 <br>
 # Remember your password
 Tip: If you were unable to open your database because you forgot the master password, there is no way to open your data base, and there is no way to reset or retrieve your master password. If you are unable to remember it, you can create a new database and delete the first one.
+

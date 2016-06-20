@@ -1,5 +1,6 @@
 ## Learn
 
+
 # Appropriate response
 How did you lose your device? Was it stolen by another person, taken by a state authority, or did you simply lose track of it? If this is an adversary you need to develop [an appropriate response](en/topics/practice-2-planning/1-threats/1-1-intro.md).
 <br>
@@ -11,3 +12,4 @@ Were there any [strong security protections](en/topics/understand-4-digisec/0-ge
 <br>
 # Device missing or returned
 Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)) or [has it been returned](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)? Be careful as you do not know who has had access to your device. Possibly treat it as if it is now untrusted or compromised.
+

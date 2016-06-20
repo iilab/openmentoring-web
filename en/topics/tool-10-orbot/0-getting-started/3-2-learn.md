@@ -1,4 +1,5 @@
 ## Use Orbot to remain anonymous online
+
 # Step 1: Start Orbot
 Touch and hold the grey Orbot icon in the centre of the screen until it turns yellow and says Orbot is starting.
 ![orbot-and-014.png](orbot-and-014.png)
@@ -25,3 +26,4 @@ If at any stage you want to appear to come from a new location, you can get a ne
 # Recieve confirmation
 The image will briefly spin and then display You've switched to a new Tor Identity.
 ![orbot-and-022.png](orbot-and-022.png)
+

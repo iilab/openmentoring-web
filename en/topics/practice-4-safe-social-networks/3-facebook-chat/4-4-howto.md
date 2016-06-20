@@ -1,4 +1,5 @@
 ## Encrypting your Facebook instant messages
+
 # Step 1: Open security settings
 Select **Tools > Options** from the Jitsi menu and subsequently select the **Security** tab and its **Chat** sub-tab. You will then see a window similar to one shown in the image below:
 
@@ -57,3 +58,4 @@ The authentication should be done only once per contact. If the triangle with ex
 <br>
 # Re-authenticate contacts
 This can happen when your contact moves to another device with another encryption key (another installation of Jitsi, or another OTR enabled program, etc.). In this case you will need to re-authenticate each other again to be sure of the identity of person with whom you communicate.
+

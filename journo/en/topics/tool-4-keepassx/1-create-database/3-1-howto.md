@@ -1,4 +1,5 @@
 ## Steps to create a KeepassX database
+
 # Step 1.
 In the KeePassX menu, select File, then New Database.
 <br>
@@ -18,3 +19,4 @@ Enter your chosen master passphrase a second time to make sure you got it right.
 <br>
 # Step 6. (Optional)
 If the two entries don't match, click {Back} and re-enter your password, then follow steps 3 through 5.
+
