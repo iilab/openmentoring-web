@@ -1,4 +1,4 @@
-## Learn
+## Establishing trust when reaching out
 # Always establish trust
 Whether you are helping someone remotely or seeking help from a third party, establishing trust is very important.
 <br>

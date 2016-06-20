@@ -1,4 +1,4 @@
-## Learn
+## Encrypted channels
 # Secret postcard
 Sending encrypted communication is like placing the postcard inside a locked box, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
