@@ -1,6 +1,14 @@
 # Getting Started
-## Legal problem
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+## Hosting problem
+If your website is not loading at all, the company that hosts your website may be having problems.
+<br>
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+
+
+## Poor site performance
+Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
 
 
 ## Learn
@@ -23,12 +31,6 @@ If your website is taken down due to a legal issue, the resources provided by [E
 6. Who else knows or may have access to these account details?
 
 
-## Poor site performance
-Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
-<br>
-This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
-
-
 ## None of these?
 If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
 
@@ -43,10 +45,8 @@ If your site is up but you cant see it, it might be a network problem. It could 
 Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
-## Hosting problem
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+## Legal problem
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 ## Censorship problem
@@ -80,6 +80,17 @@ Learn why your website might be down
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
+## Next
+---
+- understand-2-security/0-getting-started
+- internal-...
+---
+To learn more about XXX, see also:
+ * [An external resource to study next](en/topics/_topic/_unit/index.md)
+ * [Another resource](en/topics/_topic/_unit/index.md)
+ * ...
+
+
 ## Test
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -95,15 +106,4 @@ Learn why your website might be down
         <answer>No</answer>
     </question>
 </quiz>
-
-## Next
----
-- understand-2-security/0-getting-started
-- internal-...
----
-To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
- * ...
-
 

@@ -8,6 +8,10 @@ Learn how to create new KeePassX entries.
 - [Edit an existing entry in your database](en/topics/tool-4-keepassx/2-create-new-entry/3-1-howto.md)
 
 
+## Scenario
+Scenario text...
+
+
 ## Create a new entry
 # Step 1. Select New Entry
 In the KeePassX menu, select Entries, then Add New Entry. Or you can use the Add New Entry shortcut key combination: Command-Y.
@@ -58,10 +62,6 @@ Note: Remember that making changes to a KeePassX entry only updates that entry i
 <br>
 # Update relevant account information
 Therefore, you will need to make any relevant updates to your account information, as well as new KeePassX database backups and copies seperately after editing your entry here.
-
-
-## Scenario
-Scenario text...
 
 
 ## Next

@@ -3,6 +3,10 @@
 Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
 
 
+## Learn about
+- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
+
+
 ## Scenario
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
@@ -17,10 +21,6 @@ Henry and Grace are concerned that the authorities may be able to monitor their 
 <br>
 
 In addition,they want to prepare for when the government eventually filters their website so that they can continue updating it and also provide good circumvention advice to readers all over the country who would otherwise lose access to the blog.
-
-
-## Learn about
-- [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
 
 
 ## Learn

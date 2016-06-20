@@ -69,7 +69,6 @@ If you do not agree with the permissions allowed, press the back button and the 
 Tap Open to run the app for the first time
 
 
-## Registering with Signal
 
 # Step 1: Register your phone number
 
