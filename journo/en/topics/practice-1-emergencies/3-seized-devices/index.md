@@ -1,9 +1,4 @@
 # Devices Seized
-## Seized devices
-
-Learn what to do if your digital devices are taken.
-
-
 ## Learn how to
 - [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
 - [Identify content and documents on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
@@ -112,6 +107,11 @@ Why would they want access to it? This will help you know whether the informatio
 # 4. Was it tampered?
 
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
+
+
+## Seized devices
+
+Learn what to do if your digital devices are taken.
 
 
 ## Test

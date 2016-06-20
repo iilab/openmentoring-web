@@ -14,14 +14,6 @@ Know what measures to take to understand risks faced as a journalist.
 ## Scenario
 Scenario text...
 
-## Understand risk
-Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
-<br>
-Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
-<br>
-The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
-
-
 ## Actor mapping
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
 <br>
@@ -56,6 +48,14 @@ An example may be your Internet Service Provider (ISP) or companies such as Face
 An ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails.
 <br>
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
+
+
+## Understand risk
+Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
+<br>
+Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
+<br>
+The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
 
 
 ## Understand threats, capacities, and vulnerabilities

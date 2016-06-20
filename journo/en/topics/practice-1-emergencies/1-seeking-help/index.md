@@ -1,9 +1,4 @@
 # Seeking Remote Help
-## Introduction
-
-Establish secure communications when reaching out for help.
-
-
 ## Learn how to
 - [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
@@ -19,6 +14,11 @@ Isaac is worried that his computer might have been hacked into. He wants to reac
 <br>
 
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
+
+
+## Introduction
+
+Establish secure communications when reaching out for help.
 
 
 ## Learn
