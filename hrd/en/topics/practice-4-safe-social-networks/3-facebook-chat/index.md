@@ -259,15 +259,15 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 
 
 
-## Test you social networking knowledge!
-
-
-
-
 ## Next
 
  See also:
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+
+
+
+## Test you social networking knowledge!
+
 
 
 

@@ -13,6 +13,11 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Safer commmunication on a smart phone
 
 
@@ -28,11 +33,6 @@ RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but bo
 <br>
 Orbot by The Guardian Project and the Tor Project is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. It brings the features and functionality of Tor to the Android mobile operating system.
 
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Test
