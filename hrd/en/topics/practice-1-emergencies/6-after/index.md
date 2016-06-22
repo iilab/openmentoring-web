@@ -1,4 +1,11 @@
 # After an Emergency
+## After an emergency
+
+
+Steps to take after an emergency has taken place.
+
+
+
 ## Learn how to
 
 - [Re-evaluate your emergency and security plans](en/topics/practice-1-emergencies/6-after/3-learn.md)
@@ -12,13 +19,6 @@
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>
 Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
-
-
-
-## After an emergency
-
-
-Steps to take after an emergency has taken place.
 
 
 

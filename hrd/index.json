@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T13:45:32.296Z",
+  "updatedAt": "2016-06-22T14:03:41.003Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -773,9 +773,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-story-journo",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Story",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -784,9 +784,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Story",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

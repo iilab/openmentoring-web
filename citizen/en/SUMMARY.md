@@ -10,11 +10,11 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -50,9 +50,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -88,11 +88,11 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
-  
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -101,12 +101,6 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
-  
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -118,15 +112,21 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [How does it work?](topics/understand-1-how-it-works/index.md)
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
+* [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
@@ -138,11 +138,11 @@
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -154,13 +154,13 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
