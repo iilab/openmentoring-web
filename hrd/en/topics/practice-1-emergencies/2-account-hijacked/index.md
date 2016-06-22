@@ -16,13 +16,13 @@ Steps to take if you suspect your online accounts are hijacked.
 
 ## Scenario
 
-Breanda just received an email from her service provider alerting her that her social media account password has recently changed. She suspects that her social media account has been hijacked.
+Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
 <br>
 She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
 
-## Learn
+## Get back control of your account
 
 # Use a different computer
 Move to a different computer that you believe to be safe or uncompromised. If you continue using an unsafe computer, you risk putting yourself and others at harm.
@@ -41,7 +41,7 @@ Until you better understand the situation we recommend you stop using this accou
 
 
 
-## Learn
+## Confirm if your account has been hijacked
 
 # Review account history
 For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
@@ -56,19 +56,13 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 
 ## Other places to check for suspicious activity
 
-> Step 1
-# Email forwarding
-
+# Step 1: Email forwarding
 Check for suspicious addresses which your email might be automatically forwarding your emails to.
 <br>
-> Step 2
-# Password recovery
-
+# Step 2: Password recovery
 Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
 <br>
-> Step 3
-# Other account permissions
-
+# Step 3: Other account permissions
 Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
 
 

@@ -1,4 +1,4 @@
-## Learn
+## Traumatic stress
 
 # Work related trauma
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.

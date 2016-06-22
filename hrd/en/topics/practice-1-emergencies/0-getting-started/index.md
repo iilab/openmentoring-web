@@ -14,7 +14,7 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 ## A suspicious email...
 
-While working on a new story Brenda received an email about suspicious activity on her account. She wants to find out if this is a real threat.
+While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>
 It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
@@ -55,7 +55,7 @@ Is your website down? Has it been defaced?
 * Choose the [DDOS Attack](topics/practice-1-emergencies/ddos.md) lesson.
 
 <br>
-* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) section explains how to prepare so you are ready for the next time.
+* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.
 
 <br>
 You've just learned the different lessons available for **Dealing with emergencies**
@@ -69,7 +69,7 @@ You've just learned the different lessons available for **Dealing with emergenci
 - en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
 - en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 ---
-To learn more about dealing with emergencies, see also:
+See also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
 

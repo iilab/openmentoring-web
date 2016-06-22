@@ -1,5 +1,5 @@
 # Your Story
-## Your story
+## Security of your story
 
 Learn the basics about security of your story
 
@@ -10,14 +10,65 @@ Learn the basics about security of your story
 
 
 
+## The spy who came in through the code
 
+>
 
-Part of having a security plan for your story means making sure your story can continue without you.
+# Introduction
+Even experienced journalists can lose their phones or computers to theft, natural disasters or confiscation by authorities. When this happens, journalists don’t just lose their important data, but also put their sources at risk.
 <br>
-Keep your documents in a safe place and have backups
-> security - your story - about information security from the angle of reporting and investigating. making sure your story can carry on, keep you documents in safe places, have backups, think about how others could keep up if something happens to you. your story is bigger than you sometimes - not just about security of people involved, but also about security of information you are accumulating. direct people to other things on infosec - tor, encryption, communications,
+# Story:
+In the fall of 2011, Dlshad Othman, a young Kurdish Syrian activist and IT specialist living in Damascus, Syria was contacted by the British journalist and filmmaker Sean McAllister.
+<br>
+McAllister was shooting a documentary for the UK’s Channel 4 television about Syrian underground activists and enlisted Othman’s help to make contacts.
+<br>
+McAllister is an award-winning filmmaker, with film credits from other conflict zones, including Yemen and Iraq, and had managed to get into the country undercover, even though the Syrian government had stopped issuing visas to international journalists.
+<br>
+Othman was helping reporters, human rights activists and the resistance with secure communications tools, and organizing VPN servers outside the country.
+<br>
+Othman and his fellow activists were careful with their security and took measures such as encrypting their communications, using anonymizing tools, and encrypting their storage, etc.
+<br>
+As President Bashar al-Assad’s regime had started to crack down on political activists, Othman felt McAllister would get the story to the outside world and agreed to be interviewed about his work.
+<br>
+When he sat for an on-camera interview with McAllister, the filmmaker assured Othman that he would protect his identity and in the produced piece blur his face so he would not be identified.
+<br>
+Othman also put McAllister in touch with other activists. However, as Othman observed McAllister at work, he remembers feeling uneasy with McAllister’s professional practices.
+<br>
+Othman noticed McAllister was using his mobile and SMS without encryption and was leaving his unencrypted data, including raw footage of interviews with activists the Syrian regime was hunting, in his apartment.
+<br>
+Othman also felt that McAllister did not appreciate how aggressive the Syrian regime’s surveillance was, how much risk the activists were putting themselves into when they agreed to talk to him, and what the consequences of being “outed” would be for the activists.
+<br>
+A few days after McAllister’s interview with Othman, Othman heard that Syrian security agents had raided McAllister’s hotel, arrested him, and seized his laptop, mobile phone, camera, raw foot- age and research, including the names and contact details of his sources.
+<br>
+Othman turned off his mobile phone, took out the SIM card from his mobile, and left the country soon after. Other activists McAllister had contacted also fled.
+<br>
+Several who did not leave, or were unable to, were arrested, including the activist Omar al-Baroudi, who had been interviewed on camera and whose number was on McAllister’s phone. Baroudi disappeared the next day and has not been heard from since.
+<br>
+The Syrian regime also supports a pro-regime hacker organization called the Syrian Electronic Army (SEA). The hacktivists of SEA have attacked online platforms of the Washington Post, Al Jazeera, and other outlets.
+<br>
+They also flooded the Twitter accounts of BBC Weather and the Associated Press with pro-regime propaganda.
+<br>
+Earlier this year, the SEA attacked the New York Times’ website and rendered it offline for almost 20 hours.
 
-> check out saferjourno toolkit - internees. sharing files can put lives at risk. loose lips and open devices.   keeping data safe. case study - spy who came in from the code. put this in your story. also look at researching security.
+
+
+## Steps to secure information for your story
+
+Sometimes your story is bigger than you. You have a responsibility to protect the people involved and the information you are accumulating.
+<br>
+Sharing files or communicating insecurely can put lives at risk. Be sure to take all appropriate steps to protect you, your information, and others involve in the story.
+<br>
+Keep your documents in a safe place and have backups of important documents. Refer to the [Computer Hygiene](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md) section to learn how to do so.
+<br>
+Remember to store your backups securely. Refer to the [Veracrypt](en/topics/tool-5-veracrypt/0-getting-started/1-1-intro.md) lesson to learn how to do so.
+<br>
+Communicate securely with people involved, such as sources, and editors. Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Encryption](en/topics/understand-4-digisec/1-encryption/1-1-intro.md) lessons to learn how to do so.
+<br>
+If you research your stories online, you may be leaving a record of your activities on your PCs and on the Web which can potentially compromise your safety – and that of your  sources – when investigating stories that others are trying to suppress.
+<br>
+Refer to the [Tor Browser lesson](en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md) to learn how to conduct internet research safely.
+<br>
+Prepare a plan for how others can continue working on your story if something happens to you. Refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) section to learn how to do so.
 
 
 
@@ -41,12 +92,14 @@ Keep your documents in a safe place and have backups
 
 ## Next
 
-If you found this unit helpful, you might be interested in the following units:
-- [Your security](en/topics/understand-2-security/1-your-security/1-intro.md)
-- [Your well-being](en/topics/understand-2-security/2-your-well-being/1-intro.md)
-- [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
-- [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
-- [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+---
+- (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
+- (en/topics/tool-5-veracrypt/0-getting-started/1-1-intro.md): Safely store backups of your information with Veracrypt
+- (en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md): Conduct internet research safely using the Tor Browser
+- (en/topics/practice-2-planning/0-getting-started/1-1-intro.md): Learn how to plan and prepare for emergencies
+---
+See also:
+- Internews: [SaferJourno](https://www.internews.org/saferjourno-toolkit-provides-digital-and-online-safety-resources-journalism-and-media-trainers)
 
 
 

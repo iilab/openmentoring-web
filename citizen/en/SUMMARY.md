@@ -10,9 +10,9 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -34,9 +34,9 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
@@ -66,14 +66,6 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
-  
-  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
-  
-  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
@@ -101,6 +93,14 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
+  
+  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
+  
+  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -160,9 +160,9 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   

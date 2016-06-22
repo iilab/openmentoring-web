@@ -1,6 +1,6 @@
 # Devices Seized
 ## Seized devices
-![](unit.png)
+
 
 Learn what to do if your digital devices are taken.
 
@@ -17,25 +17,9 @@ Learn what to do if your digital devices are taken.
 
 ## Scenario
 
-Brenda returned to her office, only to find her laptop missing. She is worried that her laptop contains information that could put her sources at risk.
+Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
 <br>
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda is worried that if she doesn't have a clear view of the damage done, she isn't able to start recovering.
-
-
-
-## Learn
-
-# What's missing?
-Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
-<br>
-# Is your missing information encrypted?
-If you had some of your information encrypted, think about where your encryption keys are and what content you encrypted. This will help you know more about who potentially could read the content of your files and documents.
-<br>
-# Did you use encrypted communication?
-Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if the content of your communications are secure or not.
-<br>
-# Reviewing your passwords
-Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
 
 
 
@@ -53,6 +37,22 @@ Were there any [strong security protections](en/topics/understand-4-digisec/0-ge
 <br>
 # Device missing or returned
 Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)) or [has it been returned](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)? Be careful as you do not know who has had access to your device. Possibly treat it as if it is now untrusted or compromised.
+
+
+
+## Learn
+
+# What's missing?
+Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
+<br>
+# Is your missing information encrypted?
+If you had some of your information encrypted, think about where your encryption keys are and what content you encrypted. This will help you know more about who potentially could read the content of your files and documents.
+<br>
+# Did you use encrypted communication?
+Did you use encryption tools for email or chat (such as PGP and OTR)? This will help you learn if the content of your communications are secure or not.
+<br>
+# Reviewing your passwords
+Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
 
 
 

@@ -16,12 +16,6 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -32,11 +26,11 @@
   
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
   
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -48,6 +42,12 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
@@ -58,6 +58,14 @@
   
   * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
@@ -65,14 +73,6 @@
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -82,9 +82,17 @@
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+* [Using Conversations](topics/tool-6-conversations/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -104,13 +112,11 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [Using Conversations](topics/tool-6-conversations/index.md)
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
   
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
-  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -124,21 +130,9 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
 * [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
@@ -150,7 +144,13 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
@@ -162,9 +162,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

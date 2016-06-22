@@ -13,13 +13,12 @@ Establish secure communications when reaching out for help.
 - [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
 - [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
 - [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
-<br>
 
 
 
 ## Seeking help...
 
-Isaac is worried that his computer might have been hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
+Isaac worries his computer might be hacked into. He wants to reach out to his friend Brenda who he thinks can advise her.
 <br>
 
 But Isaac thinks that he might be at risk if he reveals too much about his situation, or worse, that he could put Brenda herself at risk if he doesn't use secure communications to reach out to her.
@@ -57,8 +56,8 @@ If an end-to-end encrypted tool is not available, use tools that encrypt message
 This, in turn, is better than using unencrypted communications (such as your phone or text messages). Do the best that you can with the resources and skills available.
 <br>
 # Communicating safely
-To learn more about communicating safely on a computer, refer to the [Safe Emailing](link needed here!) section.
-To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md)section.
+To learn more about communicating safely on a computer, refer to the [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
 
 
 
@@ -134,7 +133,7 @@ When you are initiating contact with third parties you might want to create a ne
 - en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
 - en/topics/tool-1-signal/0-getting-started: Find out about Signal for your encrypted communications
 ---
-To learn more about dealing with emergencies, see also:
+See also:
  * RiseUp [Communications Security](https://help.riseup.net/en/security)
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 

@@ -31,17 +31,17 @@ Learn to instant message securely on a smart phone.
 
 ## Introduction
 
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
 <br>
-Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 
 
 ## Introduction
 
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
 <br>
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+Journalists need to make sure that themselves and their sources are aware of the dangers of social networking sites and need to be extremely careful about the information they reveal.
 
 
 
@@ -386,10 +386,13 @@ This makes sure you are both who you say you are.
 
 
 
+## Next
+
 
  * [Who can access the information I am putting online?](safe-social-networks-who-can-access)
  * [Who controls and owns the information I put into a social networking site?](safe-social-networks-who-controls)
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
 

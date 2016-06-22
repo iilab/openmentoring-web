@@ -1,5 +1,5 @@
-## Learn
-
+## Getting your site back up
+![](recap3.svg)
 > Step 1
 # Talk to your webmaster
 

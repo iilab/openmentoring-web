@@ -1,6 +1,6 @@
 # After an Emergency
 ## After an emergency
-![](unit.png)
+
 
 Steps to take after an emergency has taken place.
 
@@ -14,7 +14,7 @@ Steps to take after an emergency has taken place.
 
 
 
-## Scenario
+## Re-evaluating emergency plans
 
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>
@@ -22,7 +22,7 @@ Brenda suggests they re-evaluate their emergency and security procedures. If the
 
 
 
-## Learn
+## Revising emergency plans
 
 # What worked and what didn't?
 Now is a good time to go back to your emergency and security plans to see what worked and what did not.
@@ -35,7 +35,7 @@ Think about the best way to either respond or not to potential emergencies in al
 
 
 
-## Learn
+## Emergency funding
 
 # Reach out for help
 Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
@@ -45,7 +45,7 @@ If you are in need of emergency funding, consider reaching out to [Frontline Def
 
 
 
-## Learn
+## Traumatic stress
 
 # Work related trauma
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
@@ -79,13 +79,14 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
 </quiz>
 
 
-## Next steps
+## Next
 
-- [Chronic stress](en/topics/understand-2-security/2-your-well-being/3-learn.md)
-- [Traumatic stress](en/topics/understand-2-security/2-your-well-being/3-3-learn.md)
-- [Post-traumatic stress](en/topics/understand-2-security/2-your-well-being/3-6-learn.md)
-- [Making and emergency plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
+---
+- (en/topics/understand-2-security/2-your-well-being/3-3-learn.md): Dealing with a traumatic event
+- (en/topics/understand-2-security/2-your-well-being/3-6-learn.md): Post-traumatic stress
+- (en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md): Making an emergency plan
 
+---
 See also:
 * [Protection International: Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
 

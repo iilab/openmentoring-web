@@ -1,6 +1,6 @@
 # Website under attack
 ## Malware
-![](unit.png)
+
 
 Recover from having your website from being attacked or defaced.
 
@@ -17,14 +17,14 @@ Recover from having your website from being attacked or defaced.
 
 ## Scenario
 
-Brenda published a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
+Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
 <br>
 Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
 
 
 
-## Learn
-
+## What is a DDOS attack?
+![](recap1.svg)
 # Silencing your voice
 A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
 <br>
@@ -36,8 +36,8 @@ A DDOS attack is when an attacker uses thousands of machines and possibly automa
 
 
 
-## Learn
-
+## Rule out other reasons
+![](recap2.svg)
 # Programming or technical problems
 To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
 <br>
@@ -49,8 +49,8 @@ If you don't have someone in charge of your website, read the lesson on [other r
 
 
 
-## Learn
-
+## Getting your site back up
+![](recap3.svg)
 > Step 1
 # Talk to your webmaster
 
@@ -80,8 +80,8 @@ As soon as you have regained control, review your needs and decide between a sec
 
 
 
-## Learn
-
+## Is your website defaced?
+![](recap4.svg)
 > Step 1
 # Verify you website is defaced
 
@@ -93,7 +93,7 @@ To prevent this, it is very important to keep payments for your domain name in o
 > Step 2
 # Regain control of your website
 
-If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section for help.
+If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) lesson for help.
 <br>
 > Step 3
 # Make a backup of the defaced website

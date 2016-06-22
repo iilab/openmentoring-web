@@ -1,4 +1,4 @@
-## Learn
+## Emergency funding
 
 # Reach out for help
 Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
