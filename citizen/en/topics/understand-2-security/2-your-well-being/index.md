@@ -1,17 +1,20 @@
 # Your Well Being
-## Identifying Traumatic stress
+## Identifying chronic stress
 
-#
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+# Healthy levels of stress
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 <br>
-#
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+# Chronic stress
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
 <br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
+# Chronic stress and burnout
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
 <br>
-Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+# A common problem
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
-![](recap.png)
+# Hard to deal with problems
+Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
 
@@ -206,22 +209,19 @@ Dissociation is a sign of serious traumatization.
 
 
 
-## Identifying chronic stress
+## Identifying Traumatic stress
 
-# Healthy levels of stress
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Chronic stress
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Chronic stress and burnout
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# A common problem
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Hard to deal with problems
-Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
+![](recap.png)
 
 
 
@@ -426,12 +426,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
-## Introduction
-
-Learn about ensuring your short and long term well-being.
-
-
-
 ## Learn about
 
 # stress and security
@@ -444,6 +438,12 @@ Learn about ensuring your short and long term well-being.
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+
+
+
+## Introduction
+
+Learn about ensuring your short and long term well-being.
 
 
 

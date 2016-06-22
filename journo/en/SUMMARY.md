@@ -80,12 +80,6 @@
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
-  
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -93,6 +87,12 @@
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
+  
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -124,17 +124,17 @@
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

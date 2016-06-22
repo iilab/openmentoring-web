@@ -1,5 +1,21 @@
 # Summary
 
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -25,12 +41,6 @@
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
-  
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -78,22 +88,6 @@
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
@@ -104,9 +98,9 @@
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
@@ -117,6 +111,18 @@
   * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
   * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -156,15 +162,9 @@
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
-* [How does it work?](topics/understand-1-how-it-works/index.md)
+* [Managing your website](topics/practice-6-managing-website/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   

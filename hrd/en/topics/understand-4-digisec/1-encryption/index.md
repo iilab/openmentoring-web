@@ -14,11 +14,6 @@ Learn the basics of encryption and how it can help protect you and your network.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## What is encryption
 
 Encryption is the mathematical science of codes, ciphers, and secret messages.
@@ -89,6 +84,11 @@ If you check that someone's key fingerprint is correct, that gives you a higher 
 # Fingerprints aren't perfect verifier
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Test

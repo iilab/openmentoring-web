@@ -27,4 +27,5 @@ If you are doing this yourself [refer to the guide Electronic Frontier Foundatio
 
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 <br>
+> DDoS mitigation services protect your website from being overloaded
 

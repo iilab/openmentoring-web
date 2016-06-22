@@ -6,16 +6,16 @@ Learn to implement common computer hygiene practices.
 
 
 
-## Takeaways
-
-
-
-
 ## Scenario
 
 ![](scenario.png)
 
 ![](scenario.png)
+
+
+
+## Takeaways
+
 
 
 

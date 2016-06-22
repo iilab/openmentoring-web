@@ -1,10 +1,4 @@
 # Getting started with computer hygiene
-## Getting Started
-
-Learn to use common computer hygiene practices.
-
-
-
 ## Learn how to
 
 - [Protect your computer against malware](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-1-learn.md)
@@ -14,6 +8,14 @@ Learn to use common computer hygiene practices.
 
 
 
+## Getting Started
+
+Learn to use common computer hygiene practices.
+
+
+
+## Protecting your computer against malware
+
 # Importance of protection
 You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
 <br>
@@ -22,6 +24,7 @@ Malware is the general name for any malicious and undesirable software that atta
 <br>
 # See also
 To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
+
 
 
 ## Keeping your software up to date

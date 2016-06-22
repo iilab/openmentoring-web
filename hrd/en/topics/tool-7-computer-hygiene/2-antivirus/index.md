@@ -1,14 +1,14 @@
 # Understanding Threats
-## Anti-virus software
-
-Anti-virus software is a valuable tool against non-targeted but still dangerous malware.
-
-
-
 ## Learn about
 
 - [Recommended anti-virus software](en/topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Using anti-virus software](en/topics/practice-2-planning/1-threats/3-2-learn.md)
+
+
+
+## Anti-virus software
+
+Anti-virus software is a valuable tool against non-targeted but still dangerous malware.
 
 
 
@@ -45,10 +45,7 @@ Following the guidelines in the [Safer Communication](en/topics/understand-4-dig
 
 
 
-## Next
-
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
 
 

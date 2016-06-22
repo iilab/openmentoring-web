@@ -31,6 +31,19 @@ Scenario text...
 
 
 
+## Next
+
+---
+- understand-2-security/0-getting-started
+- internal-...
+---
+To learn more about XXX, see also:
+ * [An external resource to study next](en/topics/_topic/_unit/index.md)
+ * [Another resource](en/topics/_topic/_unit/index.md)
+ * ...
+
+
+
 ## Choosing the right lesson
 
 To minimise potential risks, it is important to always prepare a security assessment. Learn how to do so in the Your Security lesson.
@@ -47,19 +60,6 @@ What kind of information you should share, and how to talk about security issues
 
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-
-
-
-## Next
-
----
-- understand-2-security/0-getting-started
-- internal-...
----
-To learn more about XXX, see also:
- * [An external resource to study next](en/topics/_topic/_unit/index.md)
- * [Another resource](en/topics/_topic/_unit/index.md)
- * ...
 
 
 
