@@ -16,18 +16,6 @@ Learn the basics about securing your Android device
 
 
 
-## Device encryption
-
-# Turn on
-If your device uses Android version 4.0 or newer, you should turn on device encryption. This can be done in *Settings -> Personal -> Security -> Encryption.*
-<br>
-# Set a screen lock password
-Before you can utilise device encryption, however, you will be required to set a screen lock password.
-<br>
-**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
-
-
-
 ## Access to your phone
 
 # Enable Lock SIM card
@@ -50,6 +38,18 @@ You can specify a value which suits you, depending on how regularly you are will
 
 
 
+## Device encryption
+
+# Turn on
+If your device uses Android version 4.0 or newer, you should turn on device encryption. This can be done in *Settings -> Personal -> Security -> Encryption.*
+<br>
+# Set a screen lock password
+Before you can utilise device encryption, however, you will be required to set a screen lock password.
+<br>
+**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
+
+
+
 ## Network settings
 
 # Turn off Wi-Fi and Bluetooth by default.
@@ -60,12 +60,6 @@ If your device supports Near Field Communication (NFC), this will be switched on
 
 
 
-## Caller identity
-
-If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
-
-
-
 ## Location settings
 
 # Turn off Wireless and GPS location
@@ -73,6 +67,12 @@ Switch off Wireless and GPS location (under Location Services) and mobile data (
 <br>
 # Importance of turning off
 Turning off Wireless and GPS location reduces the risk of location tracking, saves battery power, and reduces unwanted data streams initiated by applications running in the background or remotely by your mobile carrier.
+
+
+
+## Caller identity
+
+If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
 
 
 

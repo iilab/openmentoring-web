@@ -54,6 +54,10 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
+  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -61,10 +65,6 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -138,9 +138,9 @@
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
@@ -154,9 +154,9 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
-  
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   

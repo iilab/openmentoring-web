@@ -28,23 +28,6 @@ Brenda needs to create a security assessment. If she doesn't get input from her 
 
 ## Learn
 
-> Step 2
-# Address communications infrastructure
-
-Address the communications infrastructure in the reporting area and identify any contingency equipment you may need.
-<br>
-Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so? This will help you make prepared choices in choosing communications backups.
-<br>
-Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
-<br>
-Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
-<br>
-![](recap.png)
-
-
-
-## Learn
-
 > security - make it more about what are the components that would go into your security - maybe kind of a getting started. your security is physical safety (what people would think of), emphasise this,but also security of information….your sources, your well being is important (give a concrete example here - if you are depressed or shocked you won’t be able to continue your job. it’s part of your security think about your well being and those of moths.
 
 > explain in your security and well being are more important than story - that this is true and will allow you to continue doing your work.
@@ -149,6 +132,23 @@ The assessment should include:
 
 ## Learn
 
+> Step 2
+# Address communications infrastructure
+
+Address the communications infrastructure in the reporting area and identify any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so? This will help you make prepared choices in choosing communications backups.
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
+<br>
+![](recap.png)
+
+
+
+## Learn
+
 > Step 3
 # Consult diverse sources
 
@@ -159,13 +159,6 @@ Editors working with staffers or freelancers should have substantial input into 
 An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 ![](recap.png)
-
-
-
-## Next
-
-
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
 
 
@@ -185,5 +178,12 @@ For more information on conducting a risk assessment, refer to the [Planning and
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 
 

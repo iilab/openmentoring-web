@@ -4,14 +4,14 @@
 Introduction text...
 
 
-## Learn
-
-Learning text...
-
-
 ## Scenario
 
 Scenario text...
+
+
+## Learn
+
+Learning text...
 
 
 ## Test
@@ -32,7 +32,10 @@ Scenario text...
 </quiz>
 
 
+## Next
+
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
 

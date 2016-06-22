@@ -1,40 +1,17 @@
 # Your Well Being
-## Dealing with chronic stress
+## Identifying Traumatic stress
 
-# Stress management
-Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Take care of yourself
-It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Learn about stress.
-Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# Know yourself
-Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Eat well and exercise
-Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
-<br>
-# Get rest and relaxation
-Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
-<br>
-# Practice belief systems
-Maintain spiritual health consistent with your personal beliefs.
-<br>
-# Maintain a sense of humour
-Try to have contact with others outside of the work environment to maintain perspective
-<br>
-# Be informed
-Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
-<br>
-# Talk to others
-Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
-<br>
-# Change a stressful environment as much as possible
-Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
-<br>
-# Think positive!
+![](recap.png)
 
 
 
@@ -133,6 +110,24 @@ PTSD can be successfully treated, even when it develops many years after a traum
 
 
 
+## Dealing with unfounded fears
+
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
+
+
+
 ## Learn
 
 # Fear is natural
@@ -211,24 +206,6 @@ Dissociation is a sign of serious traumatization.
 
 
 
-## Dealing with unfounded fears
-
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
-
-
-
 ## Identifying chronic stress
 
 # Healthy levels of stress
@@ -248,19 +225,42 @@ Not only is chronic stress harmful for the body physically and mentally, it can 
 
 
 
-## Identifying Traumatic stress
+## Dealing with chronic stress
 
-#
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+# Stress management
+Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
 <br>
-#
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+# Take care of yourself
+It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
 <br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
+# Learn about stress.
+Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
 <br>
-Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+# Know yourself
+Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
 <br>
-![](recap.png)
+# Eat well and exercise
+Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+<br>
+# Get rest and relaxation
+Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+<br>
+# Practice belief systems
+Maintain spiritual health consistent with your personal beliefs.
+<br>
+# Maintain a sense of humour
+Try to have contact with others outside of the work environment to maintain perspective
+<br>
+# Be informed
+Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
+<br>
+# Talk to others
+Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
+<br>
+# Change a stressful environment as much as possible
+Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
+<br>
+# Think positive!
 
 
 
@@ -277,40 +277,6 @@ Any event which is very distressing and outside of the realm of normal human exp
 <br>
 # How you respond
 Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-
-
-
-## Dealing with traumatic
-
-# Use your own strategy
-Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
-<br>
-# Possible strategies
-Adapt the following suggestions to take account of what is possible after the crisis.
-<br>
-# Use positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-# Use positive coping strategies
-- Discuss problems with someone you trust.
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-# Avoid negative coping strategies
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-- Don’t work all the time without any rest or relation
-<br>
-# Avoid negative coping strategies
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-# Weeks and months after
-Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
 
 
 
@@ -376,6 +342,40 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 
 
+## Dealing with traumatic
+
+# Use your own strategy
+Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
+<br>
+# Possible strategies
+Adapt the following suggestions to take account of what is possible after the crisis.
+<br>
+# Use positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+# Use positive coping strategies
+- Discuss problems with someone you trust.
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+# Avoid negative coping strategies
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+- Don’t work all the time without any rest or relation
+<br>
+# Avoid negative coping strategies
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+# Weeks and months after
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+
+
+
 ## Identifying post-traumatic stress
 
 # PTSD is common
@@ -426,6 +426,12 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
+## Introduction
+
+Learn about ensuring your short and long term well-being.
+
+
+
 ## Learn about
 
 # stress and security
@@ -438,12 +444,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
-
-
-
-## Introduction
-
-Learn about ensuring your short and long term well-being.
 
 
 
@@ -465,6 +465,8 @@ Learn about ensuring your short and long term well-being.
 </quiz>
 
 
+## Next
+
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
 - (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
@@ -477,5 +479,6 @@ See also:
 - De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
 - Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
 - [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
+
 
 

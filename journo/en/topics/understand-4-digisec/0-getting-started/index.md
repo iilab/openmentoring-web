@@ -5,16 +5,16 @@ Learn the basics of digital security in order to start using your devices more s
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn about
 
 - [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
 - [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Seven Steps to Digital security

@@ -5,19 +5,19 @@ Learn to develop an emergency plan as a journalist.
 
 
 
-## Scenario
-
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
-
-
 ## Learn about
 
 - What should go into an emergency plan
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
+
+
+## Scenario
+
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 
 
@@ -41,16 +41,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
 
 
 
-## Next
-
-If you found this useful, you might be interested in the following:
-* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
-* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
-* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
-* [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -67,5 +57,15 @@ If you found this useful, you might be interested in the following:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+If you found this useful, you might be interested in the following:
+* [What are threats](en/topics/practice-2-planning/1-threats/1-intro.md)
+* [Learn how to assess Risk](en/topics/practice-2-planning/2-assess-risk/1-intro.md)
+* [Learn how to assess Digital Risk](en/topics/practice-2-planning/3-assess-digital-risk/1-intro-hrd.md)
+* [Electronic Frontier Foundation: Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 
 

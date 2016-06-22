@@ -19,6 +19,22 @@ Learn about how to create strong and secure passwords
 Scenario text...
 
 
+## Password basics
+
+# Protecting your information
+Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
+<br>
+# Passwords are important
+Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
+<br>
+# How passwords work
+In general, when you want to protect something - whether a house or an email account - you lock it up with a key. All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
+<br>
+# Use strong passwords
+You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
+
+
+
 ## Choosing a strong password
 
 # Use a password manager
@@ -53,22 +69,6 @@ Of course, any pattern model becomes ineffective as soon as it is written or sug
 
 
 
-## Password basics
-
-# Protecting your information
-Passwords are often the first and only barrier between your information and anyone who might want to read, use, or destroy it without your mission
-<br>
-# Passwords are important
-Passwords are important for both online security and privacy. Bad passwords can easily nullify most of your other efforts.
-<br>
-# How passwords work
-In general, when you want to protect something - whether a house or an email account - you lock it up with a key. All keys, physical and electronic, have one thing in common: they open their locks just as effectively in the hands of somebody else.
-<br>
-# Use strong passwords
-You can use the most advanced security tools, but if your password is week, or if you allow it to fall into the wrong hands, they will not do you any good.
-
-
-
 ## Test your password strength
 
 # How secure if your password?
@@ -89,8 +89,6 @@ You input the code to verify that you are indeed the person trying to access the
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -106,8 +104,10 @@ You input the code to verify that you are indeed the person trying to access the
     </question>
 </quiz>
 
+## Next
 
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
 

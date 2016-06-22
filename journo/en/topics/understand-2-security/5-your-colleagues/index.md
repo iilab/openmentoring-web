@@ -6,11 +6,6 @@ The security of your colleagues is part of your own security.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn about
 
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
@@ -29,6 +24,11 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Learn
@@ -87,6 +87,31 @@ Trust gives team members confidence to know whom to talk to about which aspects 
 
 
 
+## Learn
+
+# Increasing trust in a team
+There are several ways we can work on increasing trust within a team:
+<br>
+# Getting to knew each other
+- Getting  to  know  each  other  outside  the  professional  or  activist  context,  e.g. through out-of-work activities, socialising and having fun.
+<br>
+# Checking on well-being of others
+- Check in regularly (e.g. before a meeting) on  your team's  stress levels, general mood, and what they are bringing to their activism from their personal lives.
+<br>
+# Organisational Transparency
+- Transparency about hierarchies and decision-making structures.
+<br>
+# Clear security strategies
+- Clear strategies for how to deal with personal or sensitive issues that may arise including (but not limited to) security incidents, threats and so on.
+<br>
+# Access to a counsellor
+- Having access to a counsellor or trusted psychologist.
+<br>
+# Trust in managing information
+Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
+
+
+
 ## Talking about security with your colleagues
 
 # Security is courageous
@@ -113,31 +138,6 @@ When you or other people bring it up, it is important not to take this as a weak
 <br>
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
-
-
-
-## Learn
-
-# Increasing trust in a team
-There are several ways we can work on increasing trust within a team:
-<br>
-# Getting to knew each other
-- Getting  to  know  each  other  outside  the  professional  or  activist  context,  e.g. through out-of-work activities, socialising and having fun.
-<br>
-# Checking on well-being of others
-- Check in regularly (e.g. before a meeting) on  your team's  stress levels, general mood, and what they are bringing to their activism from their personal lives.
-<br>
-# Organisational Transparency
-- Transparency about hierarchies and decision-making structures.
-<br>
-# Clear security strategies
-- Clear strategies for how to deal with personal or sensitive issues that may arise including (but not limited to) security incidents, threats and so on.
-<br>
-# Access to a counsellor
-- Having access to a counsellor or trusted psychologist.
-<br>
-# Trust in managing information
-Aside from trust in one another, we can also build trust in our strategies for managing sensitive information, clear channels and create means for communication about it.
 
 
 

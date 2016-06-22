@@ -14,8 +14,8 @@ Steps to take if you suspect your online accounts are hijacked.
 
 
 
-## Scenario
-
+## A suspicious email...
+![](scenario1.svg,scenario2.svg)
 Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
 <br>
 She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
@@ -67,7 +67,7 @@ Also look at the settings for the synchronisation to your phone, permissions to 
 
 
 
-## Learn
+## Deal with being locked out of your account
 
 # Password reset
 If you cannot log into your account, use the password reset or recovery link.
@@ -83,8 +83,6 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -99,7 +97,6 @@ There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 
