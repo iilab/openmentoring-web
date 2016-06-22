@@ -41,9 +41,19 @@ In some nations, local journalists covering organized crime, national security, 
 
 
 
+## Techniques to protect you and your sources
+
 It is important consider when and how to contact your sources:  whether to call them on a landline or cell phone, whether to visit them in their office or home, and whether to use open or secure email or chat message.
 <br>
 Consider using simple code or pseudonyms to hide your source’s identity in written or electronic files. Physically secure written files and [communicate security](en/topics/understand-4-digisec/4-secure-communications/1-intro.md) with your sources
+
+
+
+## Next steps
+
+# See also:
+Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
 
 
 ## Test
@@ -62,12 +72,5 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next steps
-
-# See also:
-Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
 
 

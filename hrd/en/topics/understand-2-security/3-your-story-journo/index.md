@@ -1,4 +1,10 @@
 # Your Story
+## Security of your story
+
+Learn the basics about security of your story
+
+
+
 ## Learn about
 
 
@@ -66,12 +72,6 @@ Prepare a plan for how others can continue working on your story if something ha
 
 
 
-## Security of your story
-
-Learn the basics about security of your story
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -90,6 +90,8 @@ Learn the basics about security of your story
 </quiz>
 
 
+## Next
+
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Your security
 - (en/topics/tool-5-veracrypt/0-getting-started/1-1-intro.md): Safely store backups of your information with Veracrypt
@@ -98,5 +100,6 @@ Learn the basics about security of your story
 ---
 See also:
 - Internews: [SaferJourno](https://www.internews.org/saferjourno-toolkit-provides-digital-and-online-safety-resources-journalism-and-media-trainers)
+
 
 

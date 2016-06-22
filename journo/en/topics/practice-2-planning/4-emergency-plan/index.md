@@ -1,10 +1,4 @@
 # Preparing for emergencies with your contacts
-## Introduction
-
-Learn to develop an emergency plan as a journalist.
-
-
-
 ## Learn about
 
 - What should go into an emergency plan
@@ -13,11 +7,10 @@ Learn to develop an emergency plan as a journalist.
 
 
 
-## Scenario
+## Introduction
 
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+Learn to develop an emergency plan as a journalist.
+
 
 
 
@@ -39,6 +32,13 @@ Your emergency plan should include a detailed list of individuals and groups for
 <br>
 For more informanation on developing a security and emergency plan, refer to Protection International's [New Protection Manual for Human Rights Defenders](http://protectioninternational.org/wp-content/uploads/2012/04/1-7_Manual_English_3rdEd.pdf).
 
+
+
+## Scenario
+
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 
 ## Test

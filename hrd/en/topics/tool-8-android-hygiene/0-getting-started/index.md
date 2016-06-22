@@ -5,17 +5,6 @@ Learn the basics about securing your Android device
 
 
 
-## Takeaways
-
-- [Restrict access to your phone](en/topics/tool-8-android-hygiene/0-getting-started/3-1-learn.md)
-- [Encrypt your device](en/topics/tool-8-android-hygiene/0-getting-started/3-2-learn.md)
-- [Adjust network settings](en/topics/tool-8-android-hygiene/0-getting-started/3-3-learn.md)
-- [Turn off location tracking](en/topics/tool-8-android-hygiene/0-getting-started/3-4-learn.md)
-- [Turn on caller-ID](en/topics/tool-8-android-hygiene/0-getting-started/3-5-learn.md)
-- [Update your operating system and software](en/topics/tool-8-android-hygiene/0-getting-started/3-6-learn.md)
-
-
-
 ## Access to your phone
 
 # Enable Lock SIM card
@@ -70,12 +59,6 @@ Turning off Wireless and GPS location reduces the risk of location tracking, sav
 
 
 
-## Caller identity
-
-If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
-
-
-
 ## Software updates
 
 # Update regularly
@@ -88,6 +71,23 @@ The phone operating system: go to: *settings -> About phone -> updates -> check 
 Apps you have installed: Open the Play store app, from the side menu select My Apps.
 <br>
 **Note:** When updating your phones software it is important to do it from a trusted location such as your internet connection at home instead of somewhere like an internet cafe or coffee shop.
+
+
+
+## Caller identity
+
+If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
+
+
+
+## Takeaways
+
+- [Restrict access to your phone](en/topics/tool-8-android-hygiene/0-getting-started/3-1-learn.md)
+- [Encrypt your device](en/topics/tool-8-android-hygiene/0-getting-started/3-2-learn.md)
+- [Adjust network settings](en/topics/tool-8-android-hygiene/0-getting-started/3-3-learn.md)
+- [Turn off location tracking](en/topics/tool-8-android-hygiene/0-getting-started/3-4-learn.md)
+- [Turn on caller-ID](en/topics/tool-8-android-hygiene/0-getting-started/3-5-learn.md)
+- [Update your operating system and software](en/topics/tool-8-android-hygiene/0-getting-started/3-6-learn.md)
 
 
 

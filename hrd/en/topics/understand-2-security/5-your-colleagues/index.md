@@ -26,6 +26,11 @@ talking about that it's courageous to bring this subject up and when other peopl
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Learn
 
 # Weakest link
@@ -134,11 +139,6 @@ When you or other people bring it up, it is important not to take this as a weak
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Test

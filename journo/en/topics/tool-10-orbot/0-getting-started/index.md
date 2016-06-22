@@ -49,8 +49,6 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -65,7 +63,6 @@ The image will briefly spin and then display You've switched to a new Tor Identi
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 

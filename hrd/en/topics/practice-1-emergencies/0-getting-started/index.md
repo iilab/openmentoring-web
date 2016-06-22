@@ -5,6 +5,13 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
+## Learn how to
+
+- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
+- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
+
+
+
 ## A suspicious email...
 
 While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
@@ -66,9 +73,5 @@ See also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
 
-
-
-- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
-- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
 
 

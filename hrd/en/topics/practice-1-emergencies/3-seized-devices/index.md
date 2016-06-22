@@ -37,6 +37,7 @@ Were there any [strong security protections](en/topics/understand-4-digisec/0-ge
 <br>
 # Device missing or returned
 Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)) or [has it been returned](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)? Be careful as you do not know who has had access to your device. Possibly treat it as if it is now untrusted or compromised.
+<br>
 
 
 
@@ -53,6 +54,22 @@ Did you use encryption tools for email or chat (such as PGP and OTR)? This will 
 <br>
 # Reviewing your passwords
 Do your accounts have saved passwords or automatically log in when you turn your device on? Are your passwords saved in your web browser instead of a password manager like KeePassX? If you do, be sure to change you passwords immediately and refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lesson.
+<br>
+
+
+
+## Contacts and linked accounts
+
+# Who is at risk?
+
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+# Hidden stories of metadata
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
+<br>
 
 
 
@@ -77,8 +94,11 @@ Turn on 2-factor authentication for all accounts that were accessible by this de
 # Erase data from device
 
 If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
+<br>
 
 
+
+## If you get the device back
 
 
 Ask yourself the following 4 questions and [assess the risk](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) that your device has been compromised:
@@ -111,17 +131,8 @@ Why would they want access to it? This will help you know whether the informatio
 # 4. Was it tampered?
 
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
-
-
-# Who is at risk?
-
-Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
 <br>
-# Removing linked accounts
-What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-# Hidden stories of metadata
-Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
+
 
 
 ## Test

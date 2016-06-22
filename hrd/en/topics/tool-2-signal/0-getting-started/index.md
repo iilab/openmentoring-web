@@ -14,6 +14,14 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
 
 
 
+## Scenario
+
+Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
+<br>
+He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
+
+
+
 ## Learn
 
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
@@ -36,14 +44,6 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-
-## Scenario
-
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
-<br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
 
 
 

@@ -18,6 +18,21 @@ The reason, he learned, was that shared photos included metadata, revealing the 
 
 
 
+## What is metadata?
+
+# About metadata
+Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
+<br>
+In many cases, metadata tells a story just as interesting as the content itself.
+<br>
+# Metadata information
+This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
+<br>
+# Learning from metadata
+As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
+
+
+
 ## Hidden stories in metadata
 
 # Picture metadata
@@ -40,21 +55,6 @@ Emails contain metadata as well. The author of the email, the email recipient, s
 <br>
 # Metadata can reveal your communication
 Even if the content of your emails is [encrypted](en/topics/understand-4-digisec/1-encryption/1-1-intro.md), metadata from email communication can be used to identity who you are communicating with and when.
-
-
-
-## What is metadata?
-
-# About metadata
-Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
-<br>
-In many cases, metadata tells a story just as interesting as the content itself.
-<br>
-# Metadata information
-This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
-<br>
-# Learning from metadata
-As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
 
 
 

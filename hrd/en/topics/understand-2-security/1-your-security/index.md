@@ -147,6 +147,8 @@ Basic needs such as nourishment and medical care must be addressed as well. Are 
 
 
 
+## Learn
+
 > Step 3
 # Consult diverse sources
 
@@ -157,6 +159,7 @@ Editors working with staffers or freelancers should have substantial input into 
 An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 ![](recap.png)
+
 
 
 ## Test
