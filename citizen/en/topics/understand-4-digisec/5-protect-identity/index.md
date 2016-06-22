@@ -1,8 +1,5 @@
 # Protecting Identity
-## Introduction
-
 Introduction text...
-
 
 ## Key takeaways
 

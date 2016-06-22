@@ -40,9 +40,6 @@ Following the guidelines in the [Safer Communication](en/topics/understand-4-dig
 
 
 
-## Test
-
-
 
 
 ## Next
