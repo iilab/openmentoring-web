@@ -94,8 +94,6 @@ To learn about why secure communication is important and tools you should use to
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -110,7 +108,6 @@ To learn about why secure communication is important and tools you should use to
         <answer>No</answer>
     </question>
 </quiz>
-
 
 
 ## Next

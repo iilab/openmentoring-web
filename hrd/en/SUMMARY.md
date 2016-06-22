@@ -10,9 +10,9 @@
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   

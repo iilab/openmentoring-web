@@ -66,6 +66,12 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
+* [Using KeepassX](topics/tool-4-keepassx/index.md)
+  
+  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
+  
+  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
@@ -73,12 +79,6 @@
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
-  
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
@@ -162,9 +162,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

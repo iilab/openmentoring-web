@@ -5,6 +5,14 @@ If your website is taken down due to a legal issue, the resources provided by [E
 
 
 
+## Poor site performance
+
+Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
+
+
+
 ## Learn
 
 # Who built website
@@ -24,14 +32,6 @@ If your website is taken down due to a legal issue, the resources provided by [E
 <br>
 # Who else knows details?
 6. Who else knows or may have access to these account details?
-
-
-
-## Poor site performance
-
-Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
-<br>
-This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
 
 
 
