@@ -1,4 +1,9 @@
 # Smart Phones
+## Introduction
+
+Introduction text...
+
+
 ## Scenario
 
 Scenario text...
@@ -33,6 +38,4 @@ Learning text...
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
 
-
-Introduction text...
 

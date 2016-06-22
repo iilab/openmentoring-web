@@ -2,9 +2,9 @@
 
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
@@ -42,17 +42,11 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -65,6 +59,12 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -80,12 +80,6 @@
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
-  
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -93,6 +87,12 @@
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
+  
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -108,9 +108,9 @@
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
@@ -132,9 +132,9 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
@@ -158,11 +158,11 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   

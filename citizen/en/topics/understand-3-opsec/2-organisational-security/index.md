@@ -12,6 +12,11 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Learn
 
 Learning text...
@@ -33,11 +38,6 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Next

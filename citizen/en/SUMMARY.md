@@ -1,21 +1,5 @@
 # Summary
 
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
@@ -31,6 +15,22 @@
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
@@ -82,9 +82,9 @@
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
   * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -96,9 +96,9 @@
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
-  
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
+  
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
