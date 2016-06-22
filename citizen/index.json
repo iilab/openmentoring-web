@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T15:58:33.483Z",
+  "updatedAt": "2016-06-22T16:01:40.534Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -35,17 +35,6 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website",
-      "type": "topic",
-      "title": "Managing your website",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks",
       "type": "topic",
       "title": "Safe Social Networks",
@@ -54,6 +43,17 @@
       "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-managing-website",
+      "type": "topic",
+      "title": "Managing your website",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
     }
   ,
     {
@@ -355,25 +355,14 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website_0-getting-started",
+      "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Managing your website",
+      "title": "Getting started with Social Networks",
+      "parentTitle": "Safe Social Networks",
       "locale": "en",
-      "categories": [],
+      "categories": [ "profile:journo"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-managing-website_1-down-site",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Managing your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
   ,
     {
@@ -410,14 +399,25 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "slug": "practice-6-managing-website_0-getting-started",
       "type": "unit",
-      "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
+      "title": "Getting Started",
+      "parentTitle": "Managing your website",
       "locale": "en",
-      "categories": [ "profile:journo"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-managing-website_1-down-site",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Managing your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
     }
   ,
     {
@@ -564,6 +564,17 @@
     }
   ,
     {
+      "slug": "tool-6-conversations_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with Signal",
+      "parentTitle": "Using Conversations",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
@@ -581,17 +592,6 @@
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-6-conversations_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with Signal",
-      "parentTitle": "Using Conversations",
-      "locale": "en",
-      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
     }
@@ -630,6 +630,17 @@
     }
   ,
     {
+      "slug": "tool-8-android-hygiene_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-8-android-hygiene_1-antivirus",
       "type": "unit",
       "title": "Understanding Threats",
@@ -655,17 +666,6 @@
       "slug": "tool-8-android-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-8-android-hygiene_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -872,6 +872,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_2-passwords",
+      "type": "unit",
+      "title": "Passwords",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
@@ -908,17 +919,6 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_2-passwords",
-      "type": "unit",
-      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

@@ -22,6 +22,8 @@ He needs to be careful to share the app and its content in ways that doesn't all
 
 
 
+## Learn
+
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
 Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
@@ -42,6 +44,7 @@ Things You Should Know About This Tool Before You Start
  - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
  - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
  - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+
 
 
 ## How-to

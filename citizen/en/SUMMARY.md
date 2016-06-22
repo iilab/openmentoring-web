@@ -32,13 +32,9 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
+  
+  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
@@ -46,7 +42,11 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -88,11 +88,11 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
-  
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -104,13 +104,13 @@
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
@@ -158,6 +158,8 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
@@ -165,6 +167,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
