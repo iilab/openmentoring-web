@@ -35,6 +35,8 @@ Mobile and landline phone communication is not encrypted and can be listened to 
 <br>
 # Sending a postcard
 Sending unencrypted communication is like sending a postcard, anyone who has access to the postcard can read the message.
+<br>
+> Normal communications are insecure against eavesdropping
 
 
 
@@ -58,6 +60,8 @@ This, in turn, is better than using unencrypted communications (such as your pho
 # Communicating safely
 To learn more about communicating safely on a computer, refer to the [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
+<br>
+> Use encrypted channels when possible
 
 
 

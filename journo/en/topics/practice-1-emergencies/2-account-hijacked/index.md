@@ -38,6 +38,8 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 <br>
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+<br>
+> Change your password
 
 
 
@@ -51,6 +53,8 @@ Check to see if your account was accessed at a time when you were not online or 
 <br>
 # Are you using Tor?
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+<br>
+> Review our account activity
 
 
 

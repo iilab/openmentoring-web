@@ -1,14 +1,6 @@
 # Instant Messaging on Smart Phones
 ## Scenario
 
-Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
-<br>
-They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-
-
-## Scenario
-
 Mansour and Magda are human rights defenders from Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest in attending the event could be traced.
 <br>
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
@@ -23,17 +15,19 @@ They plan to use Twitter during the march to give updates on the progress of the
 
 
 
-## Instant messaging on phones
+## Scenario
 
-Learn to instant message securely on a smart phone.
-
-
-
-## Introduction
-
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
+Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+
+
+## Learn how to
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 
@@ -45,11 +39,17 @@ Journalists need to make sure that themselves and their sources are aware of the
 
 
 
-## Learn how to
+## Instant messaging on phones
 
-## A New Post
+Learn to instant message securely on a smart phone.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+## Introduction
+
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be aware of the privacy and security issues that they raise.
+<br>
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
 
 
 

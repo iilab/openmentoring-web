@@ -32,21 +32,27 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
-  
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+* [Managing your website](topics/practice-6-managing-website/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -60,19 +66,19 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
   
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+  
+  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
+  
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -88,35 +94,23 @@
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
-  
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
-  
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -130,19 +124,25 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -154,11 +154,11 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   

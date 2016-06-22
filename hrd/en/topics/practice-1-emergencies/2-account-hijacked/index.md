@@ -38,6 +38,8 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 <br>
 # Stop using account
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
+<br>
+> Change your password
 
 
 
@@ -51,19 +53,8 @@ Check to see if your account was accessed at a time when you were not online or 
 <br>
 # Are you using Tor?
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-
-
-
-## Other places to check for suspicious activity
-
-# Step 1: Email forwarding
-Check for suspicious addresses which your email might be automatically forwarding your emails to.
 <br>
-# Step 2: Password recovery
-Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
-<br>
-# Step 3: Other account permissions
-Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
+> Review our account activity
 
 
 
@@ -80,6 +71,19 @@ If these steps do not work and your account is being abused, contact the platfor
 <br>
 # Helpful organisations
 There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
+
+
+
+## Other places to check for suspicious activity
+
+# Step 1: Email forwarding
+Check for suspicious addresses which your email might be automatically forwarding your emails to.
+<br>
+# Step 2: Password recovery
+Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
+<br>
+# Step 3: Other account permissions
+Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
 
 
 

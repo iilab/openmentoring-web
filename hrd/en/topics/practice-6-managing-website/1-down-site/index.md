@@ -91,16 +91,16 @@ See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for
 
 
 
-## Reasons your site may be down
-
-Learn why your website might be down
-
-
-
 ## Learn about
 
 [Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
+
+
+
+## Reasons your site may be down
+
+Learn why your website might be down
 
 
 

@@ -62,8 +62,6 @@ It is important to note that Riseup does not have the resources of Google. That 
 
 
 
-## Secure communication tools
-
 For end-to-end security, there are many tools with strong encryption you can use. Here are a few recommendations:
 
 # Pidgin and Adium
@@ -83,7 +81,6 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 <br>
 # Using a smartphone
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
-
 
 
 ## Test

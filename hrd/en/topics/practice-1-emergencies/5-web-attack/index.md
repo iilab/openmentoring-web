@@ -80,8 +80,6 @@ As soon as you have regained control, review your needs and decide between a sec
 
 
 
-## Is your website defaced?
-![](recap4.svg)
 > Step 1
 # Verify you website is defaced
 
@@ -128,7 +126,6 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 <br>
 # Detecting and preventing attacks
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
-
 
 
 ## Test

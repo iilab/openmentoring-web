@@ -22,19 +22,6 @@ Brenda suggests they re-evaluate their emergency and security procedures. If the
 
 
 
-## Revising emergency plans
-
-# What worked and what didn't?
-Now is a good time to go back to your emergency and security plans to see what worked and what did not.
-<br>
-# Improving organisational procedures
-When necessary, this is a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training).
-<br>
-# Remember all steps
-Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
-
-
-
 ## Emergency funding
 
 # Reach out for help
@@ -58,6 +45,19 @@ Traumatic Stress is a normal reaction to an abnormal situation. It's very possib
 <br>
 # Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
+
+
+
+## Revising emergency plans
+
+# What worked and what didn't?
+Now is a good time to go back to your emergency and security plans to see what worked and what did not.
+<br>
+# Improving organisational procedures
+When necessary, this is a good time to try to improve your organisational procedures (e.g. procedures when on a mission or when organising a training).
+<br>
+# Remember all steps
+Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 
 
 
