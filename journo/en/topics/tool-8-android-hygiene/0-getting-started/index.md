@@ -16,6 +16,18 @@ Learn the basics about securing your Android device
 
 
 
+## Device encryption
+
+# Turn on
+If your device uses Android version 4.0 or newer, you should turn on device encryption. This can be done in *Settings -> Personal -> Security -> Encryption.*
+<br>
+# Set a screen lock password
+Before you can utilise device encryption, however, you will be required to set a screen lock password.
+<br>
+**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
+
+
+
 ## Access to your phone
 
 # Enable Lock SIM card
@@ -38,18 +50,6 @@ You can specify a value which suits you, depending on how regularly you are will
 
 
 
-## Device encryption
-
-# Turn on
-If your device uses Android version 4.0 or newer, you should turn on device encryption. This can be done in *Settings -> Personal -> Security -> Encryption.*
-<br>
-# Set a screen lock password
-Before you can utilise device encryption, however, you will be required to set a screen lock password.
-<br>
-**Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
-
-
-
 ## Network settings
 
 # Turn off Wi-Fi and Bluetooth by default.
@@ -57,6 +57,12 @@ Ensure that Tethering and Portable Hotspots, under Wireless and Network Settings
 <br>
 # Manually switch off Near Field Communication
 If your device supports Near Field Communication (NFC), this will be switched on by default, and so must be switched off manually.
+
+
+
+## Caller identity
+
+If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
 
 
 
@@ -70,15 +76,18 @@ Turning off Wireless and GPS location reduces the risk of location tracking, sav
 
 
 
-## Caller identity
+## Software updates
 
-If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
-
-
-
-## Caller identity
-
-If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
+# Update regularly
+To ensure that you phone remains secure, it is strongly recommended to keep your software updated. There are two types of updates that need to be checked:
+<br>
+# Operating system
+The phone operating system: go to: *settings -> About phone -> updates -> check for updates*.
+<br>
+# Apps you have installed
+Apps you have installed: Open the Play store app, from the side menu select My Apps.
+<br>
+**Note:** When updating your phones software it is important to do it from a trusted location such as your internet connection at home instead of somewhere like an internet cafe or coffee shop.
 
 
 

@@ -11,6 +11,14 @@ Learn to implement common computer hygiene practices.
 
 
 
+## Scenario
+
+![](scenario.png)
+
+![](scenario.png)
+
+
+
 ## Choose the right lesson
 
 
@@ -26,14 +34,6 @@ Want to see how possible events can result in harm, and know the right measures 
 
 Not sure how to turn risk assessment and threat model into real action? Check out the Emergency Plan lesson:
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
-
-
-
-## Scenario
-
-![](scenario.png)
-
-![](scenario.png)
 
 
 

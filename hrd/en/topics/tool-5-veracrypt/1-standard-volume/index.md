@@ -20,8 +20,6 @@ He needs to be careful to share the app and its content in ways that doesn't all
 
 
 
-## Creating a standard encrypted volume
-
 # Step 1. Open Veracrypt
 Launch VeraCrypt to open the main application window
 ![01.png](01.png)
@@ -132,6 +130,5 @@ Click [Exit] to close the VeraCrypt Volume Creation Wizard and return to VeraCry
 <br>
 # Done!
 You should now see your 250 MB container file in the location you chose in Step 6.
-
 
 
