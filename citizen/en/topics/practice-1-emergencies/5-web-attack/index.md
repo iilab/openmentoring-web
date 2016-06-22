@@ -33,6 +33,7 @@ In many cases, this maybe an innocent and frustrating problem. But on occasion, 
 <br>
 # Overloading the website
 A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
+<br>
 
 
 
@@ -46,6 +47,7 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 <br>
 # Fixing it yourself
 If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
+<br>
 
 
 
@@ -77,6 +79,7 @@ If you are doing this yourself [refer to the guide Electronic Frontier Foundatio
 # Review your needs
 
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
+<br>
 
 
 
@@ -128,6 +131,7 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 <br>
 # Detecting and preventing attacks
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
+<br>
 
 
 

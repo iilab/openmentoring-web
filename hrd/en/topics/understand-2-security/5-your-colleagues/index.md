@@ -6,8 +6,6 @@ The security of your colleagues is part of your own security.
 
 
 
-## Learn about
-
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
 - [Sharing of information with your teams](en/topics/understand-2-security/5-your-colleagues/3-2-learn.md)
 - [Talking about security with your team](en/topics/understand-2-security/5-your-colleagues/3-3-learn.md)
@@ -23,7 +21,6 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 
 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
-
 
 
 ## Scenario
@@ -141,8 +138,6 @@ To learn how to develop security with your colleagues, refer to the [Operational
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -157,7 +152,6 @@ To learn how to develop security with your colleagues, refer to the [Operational
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 
