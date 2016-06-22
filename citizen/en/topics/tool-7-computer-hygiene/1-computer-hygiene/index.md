@@ -14,19 +14,6 @@ Learn to use common computer hygiene practices.
 
 
 
-## Protecting your computer against malware
-
-# Importance of protection
-You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
-<br>
-# What is malware?
-Malware is the general name for any malicious and undesirable software that attacks your computer and prevents it from working correctly.
-<br>
-# See also
-To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
-
-
-
 ## Keeping your software up to date
 
 # Limit software weakness and vulnerabilities
@@ -49,6 +36,19 @@ Alternatively, through the process above you can set Windows Update to inform yo
 <br>
 # Download when ready
 This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
+
+
+
+## Protecting your computer against malware
+
+# Importance of protection
+You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
+<br>
+# What is malware?
+Malware is the general name for any malicious and undesirable software that attacks your computer and prevents it from working correctly.
+<br>
+# See also
+To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
 
 
 

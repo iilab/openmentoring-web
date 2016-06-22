@@ -23,9 +23,11 @@ They plan to use Twitter during the march to give updates on the progress of the
 
 
 
-## Instant messaging on phones
+## Learn how to
 
-Learn to instant message securely on a smart phone.
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 
@@ -45,11 +47,9 @@ Journalists need to make sure that themselves and their sources are aware of the
 
 
 
-## Learn how to
+## Instant messaging on phones
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Learn to instant message securely on a smart phone.
 
 
 
