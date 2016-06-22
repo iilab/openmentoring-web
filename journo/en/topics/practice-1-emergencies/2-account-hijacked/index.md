@@ -1,4 +1,12 @@
 # Hijacked Account
+## Learn how to
+
+- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
+- [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+
+
+
 ## Introduction
 
 
@@ -6,11 +14,11 @@ Steps to take if you suspect your online accounts are hijacked.
 
 
 
-## Learn how to
-
-- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
-- [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+## A suspicious email...
+![](scenario1.svg,scenario2.svg)
+Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
+<br>
+She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
 
@@ -72,14 +80,6 @@ If these steps do not work and your account is being abused, contact the platfor
 <br>
 # Helpful organisations
 There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
-
-
-
-## A suspicious email...
-![](scenario1.svg,scenario2.svg)
-Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
-<br>
-She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
 

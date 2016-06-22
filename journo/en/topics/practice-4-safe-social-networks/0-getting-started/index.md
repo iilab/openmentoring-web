@@ -5,6 +5,15 @@ Learn how to use social networks more safely.
 
 
 
+## Learn how to
+
+- [Social networking basics](en/topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
+- [Who can access your social networking data?](en/topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
+- [Who owns your social networking data](en/topics/practice-4-safe-social-networks/0-getting-started/3-3-learn.md))
+- [Choosing the right social networking lesson](en/topics/practice-4-safe-social-networks/0-getting-started/3-4-learn.md)
+
+
+
 ## Scenario
 
 Mansour and Magda are journalists from north Africa covering a march. They want to use Facebook to publicise the event.
@@ -22,15 +31,6 @@ They want to use Facebook to publicise the event. They are worried that the auth
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
 <br>
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-
-
-## Learn how to
-
-- [Social networking basics](en/topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
-- [Who can access your social networking data?](en/topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
-- [Who owns your social networking data](en/topics/practice-4-safe-social-networks/0-getting-started/3-3-learn.md))
-- [Choosing the right social networking lesson](en/topics/practice-4-safe-social-networks/0-getting-started/3-4-learn.md)
 
 
 

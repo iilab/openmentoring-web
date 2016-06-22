@@ -35,13 +35,6 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
 
 
 
-## Next
-
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -58,5 +51,12 @@ Orbot by The Guardian Project and the Tor Project is an application that allows 
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 

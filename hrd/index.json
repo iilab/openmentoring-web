@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T14:51:08.142Z",
+  "updatedAt": "2016-06-22T14:54:33.376Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -212,9 +212,9 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Getting Started",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -652,7 +652,7 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_3-windows-hygiene",
+      "slug": "tool-8-android-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
@@ -663,7 +663,7 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "slug": "tool-8-android-hygiene_3-windows-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
@@ -872,17 +872,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
-      "type": "unit",
-      "title": "Passwords",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
@@ -897,6 +886,17 @@
       "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
       "title": "Secure Communications",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_2-passwords",
+      "type": "unit",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

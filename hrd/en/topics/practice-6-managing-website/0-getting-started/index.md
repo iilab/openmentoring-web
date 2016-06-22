@@ -1,12 +1,4 @@
 # Getting Started
-## Key takeaways
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-
 ## Introduction
 
 Your government and hackers around the world are increasingly interested in knowing exactly what you’re up to when you browse the web. This may present a serious risk to journalists and human rights defenders looking to access information, protect their sources, and communicate securely.
@@ -63,5 +55,10 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 

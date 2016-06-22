@@ -63,14 +63,6 @@ Visit the website of your hosting company and look for a 'status' blog. Alternat
 
 
 
-## Censorship problem
-
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
-
-
-
 ## Software problem
 
 Are you seeing error messages? This could be a software problem.
@@ -80,6 +72,14 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+
+
+
+## Censorship problem
+
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 

@@ -110,6 +110,24 @@ PTSD can be successfully treated, even when it develops many years after a traum
 
 
 
+## Dealing with unfounded fears
+
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
+
+
+
 ## Learn
 
 # Fear is natural
@@ -185,24 +203,6 @@ You might see this in your work if someone experiencing great distress becomes e
 <br>
 # 7. Dissociation
 Dissociation is a sign of serious traumatization.
-
-
-
-## Dealing with unfounded fears
-
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
 
@@ -447,6 +447,23 @@ Learn about ensuring your short and long term well-being.
 
 
 
+## Next
+
+---
+- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
+- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
+- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
+- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
+- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
+---
+See also:
+- Security First: [Umbrella](https://secfirst.org/index.html)
+- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
+- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
+- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -463,22 +480,5 @@ Learn about ensuring your short and long term well-being.
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
----
-- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
-- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
-- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
-- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
-- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
----
-See also:
-- Security First: [Umbrella](https://secfirst.org/index.html)
-- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
-- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
-- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
-
 
 

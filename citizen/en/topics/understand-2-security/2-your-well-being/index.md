@@ -110,6 +110,24 @@ PTSD can be successfully treated, even when it develops many years after a traum
 
 
 
+## Dealing with unfounded fears
+
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
+
+
+
 ## Learn
 
 # Fear is natural
@@ -188,24 +206,6 @@ Dissociation is a sign of serious traumatization.
 
 
 
-## Dealing with unfounded fears
-
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
-
-
-
 ## Identifying chronic stress
 
 # Healthy levels of stress
@@ -280,40 +280,6 @@ Trauma usually produces a very intense response, including fear and/or helplessn
 
 
 
-## Dealing with traumatic
-
-# Use your own strategy
-Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
-<br>
-# Possible strategies
-Adapt the following suggestions to take account of what is possible after the crisis.
-<br>
-# Use positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-# Use positive coping strategies
-- Discuss problems with someone you trust.
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-# Avoid negative coping strategies
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-- Don’t work all the time without any rest or relation
-<br>
-# Avoid negative coping strategies
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-# Weeks and months after
-Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
 ## Effects of trauma
 
 # Immediate numbness
@@ -373,6 +339,40 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 <br>
 # Physical
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
+
+
+
+## Dealing with traumatic
+
+# Use your own strategy
+Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
+<br>
+# Possible strategies
+Adapt the following suggestions to take account of what is possible after the crisis.
+<br>
+# Use positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+# Use positive coping strategies
+- Discuss problems with someone you trust.
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+# Avoid negative coping strategies
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+- Don’t work all the time without any rest or relation
+<br>
+# Avoid negative coping strategies
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+# Weeks and months after
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
 
 
 

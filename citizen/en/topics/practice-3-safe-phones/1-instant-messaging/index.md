@@ -359,8 +359,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-## How-to
-
 Make a call
 
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
@@ -381,7 +379,6 @@ Say one word to your friend and ask them to say the other world.
 This makes sure you are both who you say you are.
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
-
 
 
 

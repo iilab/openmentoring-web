@@ -94,8 +94,6 @@ If you have a tool installed on your lost devices that allows you to erase the d
 
 
 
-## If you get the device back
-
 
 Ask yourself the following 4 questions and [assess the risk](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) that your device has been compromised:
 <br>
@@ -127,7 +125,6 @@ Why would they want access to it? This will help you know whether the informatio
 # 4. Was it tampered?
 
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
-
 
 
 ## Test
