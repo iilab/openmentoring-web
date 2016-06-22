@@ -1,14 +1,14 @@
 # How to control access to your personal details?
-## Getting started with Facebook privacy tools
-
-Learn about controlling access to your personal details on Facebook.
-
-
-
 ## Learn how to
 
 - [Be careful in posting personal information to social networking sites](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
 - [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
+
+
+
+## Getting started with Facebook privacy tools
+
+Learn about controlling access to your personal details on Facebook.
 
 
 
