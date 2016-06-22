@@ -47,25 +47,6 @@ For journalists, this means developing information and operational security stra
 
 
 
-## Learn
-
-# "Be careful with each other..."
-The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
-<br>
-# Productivity and security
-Trusting your team is important both your organisations productivity and overall security. Building  trust  within  a  team  is  not  a  trivial  task - it  involves  investment  and  taking risks.
-<br>
-# Trying new tactics
-Trust allows for trying new organisational security tactics, especially if you could not be, or were not involved in making decisions about it before.
-<br>
-# Sharing mistakes
-It also creates an atmosphere of openness where you feel more comfortable sharing your security incidents, information you feel is important, and also your mistakes.
-<br>
-# Increased confidence
-Trust gives team members confidence to know whom to talk to about which aspects of security.
-
-
-
 ## Information compartmentalisation
 
 # Information security
@@ -84,6 +65,25 @@ Whether you share much or little information with your colleagues, it is importa
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 > sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
+
+
+
+## Learn
+
+# "Be careful with each other..."
+The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
+<br>
+# Productivity and security
+Trusting your team is important both your organisations productivity and overall security. Building  trust  within  a  team  is  not  a  trivial  task - it  involves  investment  and  taking risks.
+<br>
+# Trying new tactics
+Trust allows for trying new organisational security tactics, especially if you could not be, or were not involved in making decisions about it before.
+<br>
+# Sharing mistakes
+It also creates an atmosphere of openness where you feel more comfortable sharing your security incidents, information you feel is important, and also your mistakes.
+<br>
+# Increased confidence
+Trust gives team members confidence to know whom to talk to about which aspects of security.
 
 
 
@@ -159,6 +159,8 @@ To learn how to develop security with your colleagues, refer to the [Operational
 </quiz>
 
 
+## Next
+
 ---
 - (en/topics/understand-3-opsec/0-getting-started/1-1-intro.md): Operational Security
 - (en/topics/practice-2-planning/0-getting-started/1-1-intro.md): Planning and Preparing
@@ -166,5 +168,6 @@ To learn how to develop security with your colleagues, refer to the [Operational
 ---
 See also:
 - Internews: [SaferJourno: Digital Security Resources for Media Trainers](saferjourno.internews.org/pdf/SaferJourno_Guide.pdf)
+
 
 

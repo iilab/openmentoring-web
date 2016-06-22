@@ -71,6 +71,11 @@ Remember that social networking sites are owned by private businesses, and that 
 
 
 
+## Test you social networking knowledge!
+
+
+
+
 ## How-to
 
 This how to will go through the following steps 
@@ -377,11 +382,6 @@ This makes sure you are both who you say you are.
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
 
-
-
-
-
-## Test you social networking knowledge!
 
 
 

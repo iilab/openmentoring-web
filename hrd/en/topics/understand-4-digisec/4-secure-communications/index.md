@@ -13,11 +13,6 @@ Learn about using secure communications.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Secure communication basics
 
 # Protecting your content
@@ -84,6 +79,11 @@ For detailed instructions on using the Tor Browser Bundle, refer to the [Using t
 # Using a smartphone
 For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Test

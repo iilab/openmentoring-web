@@ -1,13 +1,18 @@
 # Getting Started
+## Introduction
+
+How it works
+
+
+
 ## Scenario
 
 Scenario text...
 
 
-## Introduction
+## Learn
 
-How it works
-
+Learning text...
 
 
 ## Test
@@ -26,11 +31,6 @@ How it works
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Learn
-
-Learning text...
 
 
 ## Next

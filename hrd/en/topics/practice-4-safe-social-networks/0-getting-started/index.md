@@ -34,19 +34,6 @@ Mansour and Magda plan how to share photos and videos of the march without revea
 
 
 
-## Who can access
-
-# Protect sensitive information
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-# Protect content and connections
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
-<br>
-# Protect yourself and your colleagues
-Before you use any social networking site it is important to understand how they make you vulnerable, and take steps to protect yourself and the people you work with.
-
-
-
 ## Social networking basics
 
 # What it does
@@ -57,6 +44,19 @@ These functions are not new or unique – any of these actions can also be perfo
 <br>
 # Potentially exposing
 Although these networks can be very useful, and promote social interaction both online and offline, when using them you may be making information available to people who want to abuse it.
+
+
+
+## Who can access
+
+# Protect sensitive information
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+# Protect content and connections
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+<br>
+# Protect yourself and your colleagues
+Before you use any social networking site it is important to understand how they make you vulnerable, and take steps to protect yourself and the people you work with.
 
 
 
@@ -73,8 +73,6 @@ Privacy settings are only meant to protect you from other members of the social 
 
 
 
-## Choose the right lesson
-
 Not sure where to start on controlling which people can see who you are connected to on social media?
 * Choose the [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson
 
@@ -85,7 +83,6 @@ Don't know the right questions to ask to protect your personal details?
 <br>
 Using social media but don't want your conversations to be read by the site owners or others?
 * Choose the [Learning to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
-
 
 
 ## Test you social networking knowledge!

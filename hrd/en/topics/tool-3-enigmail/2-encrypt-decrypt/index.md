@@ -6,6 +6,12 @@
 
 
 
+## Getting started with Enigmail
+
+Learn to encrypt and decrypt messages using Enigmail
+
+
+
 ## Encrypt a message
 
 Once both you and your correspondent have successfully imported and validated and signed each other's public keys, you are ready to begin sending encrypted messages and decrypting received ones.
@@ -52,8 +58,5 @@ Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/wi
 ---
 Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
 
-
-
-Learn to encrypt and decrypt messages using Enigmail
 
 

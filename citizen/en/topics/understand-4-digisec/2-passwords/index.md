@@ -1,16 +1,16 @@
 # Passwords
+## Getting started with passwords
+
+Learn about how to create strong and secure passwords
+
+
+
 ## Learn how to
 
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
 - [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
 - [Test the strength of your password](en/topics/understand-4-digisec/2-passwords/3-3-learn.md)
 - [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
-
-
-
-## Getting started with passwords
-
-Learn about how to create strong and secure passwords
 
 
 
@@ -69,16 +69,6 @@ Of course, any pattern model becomes ineffective as soon as it is written or sug
 
 
 
-## Two-factor authentication
-
-# What is it?
-Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
-<br>
-# Input your code
-You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
-
-
-
 ## Test your password strength
 
 # How secure if your password?
@@ -86,6 +76,16 @@ To test your password, you can play around with the “How secure is my password
 <br>
 # Choose a new password
 But caution: after you enter your password into this public site, it might not be a bad idea to change it. And if you really believe that you are up against advanced adversaries, keep in mind that they’ll have much more computing power than a normal desktop PC.
+
+
+
+## Two-factor authentication
+
+# What is it?
+Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
+<br>
+# Input your code
+You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
 
 
 

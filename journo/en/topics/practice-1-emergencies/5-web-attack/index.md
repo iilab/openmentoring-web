@@ -23,19 +23,6 @@ Before she can be sure the site is under attack, Brenda needs to rule out other 
 
 
 
-## What is a DDOS attack?
-![](recap1.svg)
-# Silencing your voice
-A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
-<br>
-# Website takeover
-In many cases, this maybe an innocent and frustrating problem. But on occasion, it may be due to a distributed ‘denial of service’ (DDOS) attack or a website takeover.
-<br>
-# Overloading the website
-A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
-
-
-
 ## Rule out other reasons
 ![](recap2.svg)
 # Programming or technical problems
@@ -46,6 +33,19 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 <br>
 # Fixing it yourself
 If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
+
+
+
+## What is a DDOS attack?
+![](recap1.svg)
+# Silencing your voice
+A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
+<br>
+# Website takeover
+In many cases, this maybe an innocent and frustrating problem. But on occasion, it may be due to a distributed ‘denial of service’ (DDOS) attack or a website takeover.
+<br>
+# Overloading the website
+A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
 
 
 

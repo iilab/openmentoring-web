@@ -7,6 +7,15 @@ Learn about your security and protecting yourself.
 
 
 
+## Learn how to
+
+* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
+* [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+
+
+
 ## Scenario
 
 ![](scenario.png)
@@ -14,15 +23,6 @@ Brenda is writing a story about gold mining and needs to conduct some interviews
 <br>
 ![](scenario.png)
 Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
-
-
-
-## Learn how to
-
-* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
-* [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
 
@@ -162,13 +162,6 @@ An independent journalist working without a relationship with a news organizatio
 
 
 
-## Next
-
-
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -185,5 +178,12 @@ For more information on conducting a risk assessment, refer to the [Planning and
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 
 
