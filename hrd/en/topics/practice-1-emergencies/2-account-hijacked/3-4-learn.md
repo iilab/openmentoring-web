@@ -1,4 +1,4 @@
-## Learn
+## Deal with being locked out of your account
 
 # Password reset
 If you cannot log into your account, use the password reset or recovery link.
