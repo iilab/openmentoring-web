@@ -1,4 +1,4 @@
-## Scenario
+## Re-evaluating emergency plans
 
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>

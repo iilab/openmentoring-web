@@ -1,5 +1,5 @@
-## Learn
-
+## What is a DDOS attack?
+![](recap1.svg)
 # Silencing your voice
 A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
 <br>
