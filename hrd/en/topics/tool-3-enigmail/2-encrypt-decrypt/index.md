@@ -44,10 +44,7 @@ Using PGP/MIME ensures that all email text, attached files and their names are e
 
 
 
-## Installing and setting up Enigmail
-
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
-
 
 
 ## Next

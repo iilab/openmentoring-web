@@ -16,6 +16,14 @@ Learn how to use social networks more safely.
 
 ## Scenario
 
+Mansour and Magda are journalists from north Africa covering a march. They want to use Facebook to publicise the event.
+<br>
+They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to share photos and videos of the march without revealing people's identities to protect participants from persecution.
+
+
+
+## Scenario
+
 Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city.
 <br>
 They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
@@ -23,14 +31,6 @@ They want to use Facebook to publicise the event. They are worried that the auth
 They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
 <br>
 Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-
-
-## Scenario
-
-Mansour and Magda are journalists from north Africa covering a march. They want to use Facebook to publicise the event.
-<br>
-They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to share photos and videos of the march without revealing people's identities to protect participants from persecution.
 
 
 
@@ -60,6 +60,19 @@ Before you use any social networking site it is important to understand how they
 
 
 
+## Who owns your data?
+
+# Private businesses
+Social networking sites are owned by private businesses who make their money by collecting data about people and selling that data on, particularly to third party advertisers.
+<br>
+# Rules of site owners
+When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site.
+<br>
+# Privacy settings
+Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. This means that you are giving all your data over to the owners and trusting them with it.
+
+
+
 ## Choose the right lesson
 
 Not sure where to start on controlling which people can see who you are connected to on social media?
@@ -72,19 +85,6 @@ Don't know the right questions to ask to protect your personal details?
 <br>
 Using social media but don't want your conversations to be read by the site owners or others?
 * Choose the [Learning to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
-
-
-
-## Who owns your data?
-
-# Private businesses
-Social networking sites are owned by private businesses who make their money by collecting data about people and selling that data on, particularly to third party advertisers.
-<br>
-# Rules of site owners
-When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site.
-<br>
-# Privacy settings
-Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. This means that you are giving all your data over to the owners and trusting them with it.
 
 
 

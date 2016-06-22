@@ -1,10 +1,4 @@
 # Getting Started
-## Introduction
-
-Learn to identity threats and risks you may face as a journalist or human rights defender.
-
-
-
 ## Takeaways
 
 
@@ -46,6 +40,12 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
 To learn more about dealing with emergencies, see also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
+
+
+## Introduction
+
+Learn to identity threats and risks you may face as a journalist or human rights defender.
 
 
 

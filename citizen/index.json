@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T13:21:55.162Z",
+  "updatedAt": "2016-06-22T13:45:36.328Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -145,17 +145,6 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene",
-      "type": "topic",
-      "title": "Android Hygiene",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-9-tor-browser",
       "type": "topic",
       "title": "Tor Browser",
@@ -164,6 +153,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-8-android-hygiene",
+      "type": "topic",
+      "title": "Android Hygiene",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
     }
   ,
     {
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_4-emergency-plan",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -322,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_4-emergency-plan",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -630,6 +630,28 @@
     }
   ,
     {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-8-android-hygiene_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -671,28 +693,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {

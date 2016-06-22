@@ -1,10 +1,4 @@
 # Preparing for emergencies with your contacts
-## Introduction
-
-Learn to develop an emergency plan as a journalist.
-
-
-
 ## Learn about
 
 - What should go into an emergency plan
@@ -18,6 +12,12 @@ Learn to develop an emergency plan as a journalist.
 Jenny is about to start on a new assignment investigating government abuses of power.
 <br>
 Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
+
+
+## Introduction
+
+Learn to develop an emergency plan as a journalist.
+
 
 
 
@@ -41,8 +41,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -57,7 +55,6 @@ For more informanation on developing a security and emergency plan, refer to Pro
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 

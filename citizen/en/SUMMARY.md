@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
   * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -102,6 +102,12 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
@@ -111,12 +117,6 @@
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   

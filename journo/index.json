@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T13:21:49.998Z",
+  "updatedAt": "2016-06-22T13:45:28.262Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -112,17 +112,6 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt",
-      "type": "topic",
-      "title": "Veracrypt",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-6-conversations",
       "type": "topic",
       "title": "Using Conversations",
@@ -131,6 +120,17 @@
       "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-5-veracrypt",
+      "type": "topic",
+      "title": "Veracrypt",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
@@ -542,28 +542,6 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-getting-started",
-      "type": "unit",
-      "title": "Using Veracrypt",
-      "parentTitle": "Veracrypt",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-5-veracrypt_1-standard-volume",
-      "type": "unit",
-      "title": "Creating a standard encrypted volume",
-      "parentTitle": "Veracrypt",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-6-conversations_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
@@ -594,6 +572,28 @@
       "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-5-veracrypt_0-getting-started",
+      "type": "unit",
+      "title": "Using Veracrypt",
+      "parentTitle": "Veracrypt",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-5-veracrypt_1-standard-volume",
+      "type": "unit",
+      "title": "Creating a standard encrypted volume",
+      "parentTitle": "Veracrypt",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
