@@ -11,9 +11,12 @@ Learn to implement common computer hygiene practices.
 
 
 
+## Scenario
+
 ![](scenario.png)
 
 ![](scenario.png)
+
 
 
 ## Choose the right lesson
