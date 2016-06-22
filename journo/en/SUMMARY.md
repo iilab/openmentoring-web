@@ -1,21 +1,5 @@
 # Summary
 
-* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
-  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
 * [Planning and Preparing](topics/practice-2-planning/index.md)
   
   * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
@@ -80,6 +64,12 @@
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -88,11 +78,21 @@
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
+* [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -124,17 +124,17 @@
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   

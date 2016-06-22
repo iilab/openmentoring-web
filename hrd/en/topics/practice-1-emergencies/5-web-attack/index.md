@@ -6,20 +6,20 @@ Recover from having your website from being attacked or defaced.
 
 
 
-## A down website
-![](scenario1.svg,scenario2.svg)
-Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
-<br>
-Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
-
-
-
 ## Learn how to
 
 - [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
 - [Deal with a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
 - [Deal with website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
+
+
+
+## A down website
+![](scenario1.svg,scenario2.svg)
+Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
+<br>
+Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
 
 
 

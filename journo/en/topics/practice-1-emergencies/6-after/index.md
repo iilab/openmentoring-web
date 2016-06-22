@@ -33,6 +33,19 @@ When necessary, this is a good time to try to improve your organisational proced
 # Remember all steps
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 <br>
+> Improve the way you protect your files and sensitive information
+
+
+
+## Emergency funding
+
+# Reach out for help
+Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
+<br>
+# Funding organisations
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+<br>
+> Funding can improve organisational security practices
 
 
 
@@ -45,22 +58,12 @@ Journalists and human rights defenders do difficult and challenging work, and se
 It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
 # A normal reaction
-Traumatic Stress is a normal reaction to an abnormal situation. It's very possible that after an emergency, you or your colleagues may be suffering from traumatic stress.
+Traumatic stress is a normal reaction to an abnormal situation. It's very possible that after an emergency, you or your colleagues may be suffering from traumatic stress.
 <br>
 # Learn more
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
 <br>
-
-
-
-## Emergency funding
-
-# Reach out for help
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-<br>
-# Funding organisations
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-<br>
+> Stress after trauma is a normal reaction to an abnormal situation.
 
 
 

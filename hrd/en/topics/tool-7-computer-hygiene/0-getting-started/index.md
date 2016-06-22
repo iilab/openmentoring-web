@@ -19,13 +19,6 @@ Learn to implement common computer hygiene practices.
 
 
 
-## Next
-
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
-
 ## Choose the right lesson
 
 
@@ -42,5 +35,12 @@ Want to see how possible events can result in harm, and know the right measures 
 Not sure how to turn risk assessment and threat model into real action? Check out the Emergency Plan lesson:
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
 
+
+
+## Next
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 
