@@ -1,4 +1,10 @@
 # Getting Started with Signal
+## Getting started with Signal
+
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+
+
+
 ## Learn how to
 
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
@@ -13,12 +19,6 @@
 Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
 <br>
 He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
-
-
-
-## Getting started with Signal
-
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
 
@@ -160,12 +160,9 @@ To enable encrypted storage, take the following 5 steps:
 
 
 
-## Next
-
 ---
 - (en/topics/tool-2-signal/1-messaging/1-intro.md): Send encrypted messages to other Signal users via SMS or the internet (MMS).
 - (en/topics/tool-2-signal/2-voice/1-intro.md): Make encrypted voice calls to other Signal users.
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate 
-
 
 

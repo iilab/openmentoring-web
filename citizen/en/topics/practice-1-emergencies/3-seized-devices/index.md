@@ -15,7 +15,7 @@ Learn what to do if your digital devices are taken.
 
 
 
-## Scenario
+## A missing laptop...
 
 Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
 <br>
@@ -23,7 +23,7 @@ She needs to know what was on the device before it went missing and what securit
 
 
 
-## Learn
+## Assess the situation
 
 
 # Appropriate response
@@ -40,7 +40,7 @@ Is the device [still missing]((en/topics/practice-1-emergencies/3-seized-devices
 
 
 
-## Learn
+## Content and documents
 
 # What's missing?
 Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
@@ -56,7 +56,7 @@ Do your accounts have saved passwords or automatically log in when you turn your
 
 
 
-## Learn
+## Contacts and linked accounts
 
 # Who is at risk?
 
@@ -70,7 +70,7 @@ Even if you use encryption tools for email or chat, the [metadata](en/topics/und
 
 
 
-## Learn
+## If your device is still missing
 
 > Step 1
 # Remove authorization
@@ -94,7 +94,7 @@ If you have a tool installed on your lost devices that allows you to erase the d
 
 
 
-## Learn
+## If you get the device back
 
 
 Ask yourself the following 4 questions and [assess the risk](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md) that your device has been compromised:

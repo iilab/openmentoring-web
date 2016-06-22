@@ -21,16 +21,6 @@ He needs some techniques on how to protect the identity of his sources. If he do
 
 
 
-## Why it&#39;s important to protect your sources
-
-Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
-<br>
-As a journalist, you need to know that this burden rests primarily with you. In some some countries, journalists working for established media houses also face risks.
-
-> sources - bring in that it’s part of ethics of journalism to protect your sources. and give an example. some of most prominent stories are possible because sources trusted journalists. it only takes one time for sources to be exposed for non of us to trust journalists anyomore. - society of protessional journalists. talk about a little history, bring in deep throat and watergate.
-
-
-
 ## Things to consider when offering sources confidentiality
 
 Never promise a source that you can keep their identity confidential until you weight possible consequences of doing so.
@@ -38,6 +28,16 @@ Never promise a source that you can keep their identity confidential until you w
 Media houses require often journalists to provide the editor with the name of sources, however this is not always the case.
 <br>
 In some nations, local journalists covering organized crime, national security, or armed conflict are especially vulnerable to imprisonment, torture, coercion, or attack related to the use of confidential information.
+
+
+
+## Why it&#39;s important to protect your sources
+
+Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
+<br>
+As a journalist, you need to know that this burden rests primarily with you. In some some countries, journalists working for established media houses also face risks.
+
+> sources - bring in that it’s part of ethics of journalism to protect your sources. and give an example. some of most prominent stories are possible because sources trusted journalists. it only takes one time for sources to be exposed for non of us to trust journalists anyomore. - society of protessional journalists. talk about a little history, bring in deep throat and watergate.
 
 
 

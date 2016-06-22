@@ -1,17 +1,7 @@
 # Smart Phones
-## Introduction
-
-Introduction text...
-
-
 ## Scenario
 
 Scenario text...
-
-
-## Learn
-
-Learning text...
 
 
 ## Test
@@ -38,4 +28,11 @@ Learning text...
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
 
+
+## Learn
+
+Learning text...
+
+
+Introduction text...
 

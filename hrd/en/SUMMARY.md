@@ -66,14 +66,6 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
-  
-  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
-  
-  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
-  
-  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
@@ -101,6 +93,14 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+* [Using Enigmail](topics/tool-3-enigmail/index.md)
+  
+  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
+  
+  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+  
+  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -146,11 +146,11 @@
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

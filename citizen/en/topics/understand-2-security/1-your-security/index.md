@@ -7,6 +7,16 @@ Learn about your security and protecting yourself.
 
 
 
+## Scenario
+
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
+<br>
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
+
+
+
 ## Learn how to
 
 * [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
@@ -152,13 +162,10 @@ An independent journalist working without a relationship with a news organizatio
 
 
 
-## Scenario
+## Next
 
-![](scenario.png)
-Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
-<br>
-![](scenario.png)
-Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
+
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
 
 
@@ -178,12 +185,5 @@ Brenda needs to create a security assessment. If she doesn't get input from her 
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
-
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
-
 
 

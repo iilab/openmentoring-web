@@ -12,6 +12,16 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
+## Scenario
+
+Scenario text...
+
+
+## Learn
+
+Learning text...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -36,11 +46,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
 
-
-## Learn
-
-Learning text...
-
-
-Scenario text...
 

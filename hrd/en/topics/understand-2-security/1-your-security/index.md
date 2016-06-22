@@ -1,18 +1,18 @@
 # Your Security
+## Introduction
+
+![](recap.png)
+
+Learn about your security and protecting yourself. 
+
+
+
 ## Learn how to
 
 * [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-
-
-
-## Introduction
-
-![](recap.png)
-
-Learn about your security and protecting yourself. 
 
 
 
@@ -23,6 +23,23 @@ Brenda is writing a story about gold mining and needs to conduct some interviews
 <br>
 ![](scenario.png)
 Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
+
+
+
+## Learn
+
+> Step 2
+# Address communications infrastructure
+
+Address the communications infrastructure in the reporting area and identify any contingency equipment you may need.
+<br>
+Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so? This will help you make prepared choices in choosing communications backups.
+<br>
+Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
+<br>
+Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
+<br>
+![](recap.png)
 
 
 
@@ -132,23 +149,6 @@ The assessment should include:
 
 ## Learn
 
-> Step 2
-# Address communications infrastructure
-
-Address the communications infrastructure in the reporting area and identify any contingency equipment you may need.
-<br>
-Are electricity, Internet access, and mobile and landline phone service available? Are they likely to remain so? This will help you make prepared choices in choosing communications backups.
-<br>
-Is a generator or a car battery with a DC adaptor needed to power one’s computer? Should a satellite phone be used?
-<br>
-Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
-<br>
-![](recap.png)
-
-
-
-## Learn
-
 > Step 3
 # Consult diverse sources
 
@@ -180,7 +180,10 @@ An independent journalist working without a relationship with a news organizatio
 </quiz>
 
 
+## Next
+
 
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 
 

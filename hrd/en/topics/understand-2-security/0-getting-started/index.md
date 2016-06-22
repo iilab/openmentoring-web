@@ -1,4 +1,10 @@
 # Getting Started
+## Getting Started
+
+Learn how to recognise and deal with the most common types of security concerns.
+
+
+
 ## Learn how to
 
 Key takeaways from this topic include lessons on the following:
@@ -8,26 +14,6 @@ Key takeaways from this topic include lessons on the following:
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
-
-
-
-## Getting Started
-
-Learn how to recognise and deal with the most common types of security concerns.
-
-
-
-## Scenario
-
-
-
-Scenario text...
-
-    Putting the reader in the situation where they're facing a problem.
-    Proposing an aim or aspiration. Motivate a way to adress the problem.
-    What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
-    What are the risks?
-
 
 
 
@@ -47,6 +33,20 @@ What kind of information you should share, and how to talk about security issues
 
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
+
+
+
+## Scenario
+
+
+
+Scenario text...
+
+    Putting the reader in the situation where they're facing a problem.
+    Proposing an aim or aspiration. Motivate a way to adress the problem.
+    What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
+    What are the risks?
+
 
 
 

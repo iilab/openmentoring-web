@@ -110,24 +110,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 
 
 
-## Dealing with unfounded fears
-
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
-
-
-
 ## Learn
 
 # Fear is natural
@@ -206,6 +188,24 @@ Dissociation is a sign of serious traumatization.
 
 
 
+## Dealing with unfounded fears
+
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
+
+
+
 ## Identifying chronic stress
 
 # Healthy levels of stress
@@ -261,22 +261,6 @@ Sharing a problem with others may help you find a solution and will make you fee
 Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 # Think positive!
-
-
-
-## Identifying trauma
-
-# Trauma stress is common
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
-<br>
-# Recognise symptoms
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-# Normal reaction to abnormal situation
-Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
-<br>
-# How you respond
-Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 
 
 
@@ -342,6 +326,22 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 
 
+## Identifying trauma
+
+# Trauma stress is common
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+<br>
+# Recognise symptoms
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+# Normal reaction to abnormal situation
+Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
+<br>
+# How you respond
+Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+
+
+
 ## Dealing with traumatic
 
 # Use your own strategy
@@ -373,19 +373,6 @@ Adapt the following suggestions to take account of what is possible after the cr
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 
@@ -426,9 +413,16 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
-## Introduction
+## Identifying post-traumatic stress
 
-Learn about ensuring your short and long term well-being.
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 
@@ -444,6 +438,12 @@ Learn about ensuring your short and long term well-being.
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+
+
+
+## Introduction
+
+Learn about ensuring your short and long term well-being.
 
 
 
@@ -465,8 +465,6 @@ Learn about ensuring your short and long term well-being.
 </quiz>
 
 
-## Next
-
 ---
 - (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
 - (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
@@ -479,6 +477,5 @@ See also:
 - De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
 - Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
 - [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
-
 
 

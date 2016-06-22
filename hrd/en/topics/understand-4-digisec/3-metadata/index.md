@@ -12,6 +12,12 @@ Understand what metadata is and why it is important to digital security
 
 
 
+## Scenario
+
+The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
+
+
+
 ## What is metadata?
 
 # About metadata
@@ -52,12 +58,6 @@ Even if the content of your emails is [encrypted](en/topics/understand-4-digisec
 
 
 
-## Scenario
-
-The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -76,10 +76,7 @@ The reason, he learned, was that shared photos included metadata, revealing the 
 </quiz>
 
 
-## Next
-
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
 
