@@ -447,8 +447,6 @@ Learn about ensuring your short and long term well-being.
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -463,7 +461,6 @@ Learn about ensuring your short and long term well-being.
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 
