@@ -1,4 +1,10 @@
 # How to control access to your personal details?
+## Controlling access to your personal details
+
+Learn about controlling access to your personal details on social networking sites.
+
+
+
 ## Learn how to
 
 - [Be careful in posting personal information to social networking sites](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
@@ -6,10 +12,9 @@
 
 
 
-## Controlling access to your personal details
+## Scenario
 
-Learn about controlling access to your personal details on social networking sites.
-
+Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 ## What to post to social networking sites
@@ -37,11 +42,6 @@ Before posting, think about whether it's necessary to post:
  - sexual orientation
  - education and employment history
 
-
-
-## Scenario
-
-Mansour and Magda are human rights defenders from north Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 ## Control access to personal information on your Facebook profile

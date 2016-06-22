@@ -1,13 +1,13 @@
 # Generate a new key pair using Enigmail
-## Learn how to
-
- - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
-
-
-
 ## Make a new PGP key
 
 Learn how to create a new PGP key using Enigmail.
+
+
+
+## Learn how to
+
+ - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
 
 
 
@@ -76,13 +76,10 @@ Click "Next" to complete generating both a key pair and revocation certificate.
 
 
 
-## Next
-
 ---
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate
 - (en/topics/understand-4-digisec/1-encryption/1-1-intro.md): Learn about encryption basics
 ---
 Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
-
 
 

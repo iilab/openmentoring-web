@@ -67,8 +67,6 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 </quiz>
 
 
-## Next
-
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -77,6 +75,5 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
-
 
 
