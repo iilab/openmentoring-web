@@ -1,10 +1,4 @@
 # Getting Started
-## Getting Started
-
-Learn how to recognise and deal with the most common types of security concerns.
-
-
-
 ## Learn how to
 
 Key takeaways from this topic include lessons on the following:
@@ -14,6 +8,12 @@ Key takeaways from this topic include lessons on the following:
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
 - [Your sources](en/topics/understand-2-security/4-your-sources-journo/1-intro.md)
 - [Your colleagues](en/topics/understand-2-security/5-your-colleagues/1-intro.md)
+
+
+
+## Getting Started
+
+Learn how to recognise and deal with the most common types of security concerns.
 
 
 

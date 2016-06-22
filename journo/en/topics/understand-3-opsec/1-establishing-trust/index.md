@@ -5,8 +5,11 @@ Learn about the importance of building trust with your teams and how to do it.
 
 
 
+## Learn about
+
 - [The importance of establishing trust within your teams](en/topics/understand-3-opsec/1-establishing-trust/3-1-learn.md)
 - [Building trust within your teams](en/topics/understand-3-opsec/1-establishing-trust/3-2-learn.md)
+
 
 
 ## Scenario
