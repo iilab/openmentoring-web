@@ -1,4 +1,4 @@
-## Learn
+## Content and documents
 
 # What's missing?
 Make an inventory of *what information* was on your seized device. Examples may include files, location data, credit card data and more. This will help you learn about what may have been exposed or stolen.
