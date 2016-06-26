@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T16:21:02.626Z",
+  "updatedAt": "2016-06-26T12:56:11.924Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -236,7 +236,7 @@
     {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Hijacked Account",
+      "title": "",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -349,7 +349,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:journo", "profile:hrd", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -641,9 +641,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_3-windows-hygiene",
+      "slug": "tool-8-android-hygiene_1-antivirus",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Understanding Threats",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -652,9 +652,9 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_1-antivirus",
+      "slug": "tool-8-android-hygiene_3-windows-hygiene",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -861,9 +861,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
+      "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
-      "title": "Passwords",
+      "title": "Encryption",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -872,9 +872,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_1-encryption",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Encryption",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

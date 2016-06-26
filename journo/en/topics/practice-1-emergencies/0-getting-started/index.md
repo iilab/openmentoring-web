@@ -30,6 +30,7 @@ Make sure you verify where the information is coming from. Was it via email? Did
 <br>
 # Do you trust the source?
 Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
+<br>
 
 
 
@@ -58,7 +59,7 @@ Is your website down? Has it been defaced?
 * Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.
 
 <br>
-You've just learned the different lessons available for **Dealing with emergencies**
+> You've just learned the different lessons available for **Dealing with emergencies**
 
 
 

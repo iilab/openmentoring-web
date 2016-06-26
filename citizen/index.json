@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-22T16:21:08.833Z",
+  "updatedAt": "2016-06-26T12:56:16.852Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -236,7 +236,7 @@
     {
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Hijacked Account",
+      "title": "",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],

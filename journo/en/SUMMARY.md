@@ -6,7 +6,7 @@
   
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  * [](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
@@ -106,9 +106,9 @@
   
   * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
@@ -156,9 +156,9 @@
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
