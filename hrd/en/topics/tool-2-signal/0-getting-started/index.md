@@ -14,25 +14,31 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
 
 
 
-## Scenario
+## Signal basics
 
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
-<br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
-
-
-
-## Learn
-
+# Messaging app
 Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
 <br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+# Encrypted content
+Using Signal will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
 <br>
+# Contacts visible
+Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+<br>
+# Think about the risks
+In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+<br>
+# Installation guide
+Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
+<br>
+# Requirements
 To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
 <br>
+# Android versions
 In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
 <br>
-This means that When you use Signal, you can communicate with users using the following programs:
+# Communicate with
+When you use Signal you can communicate with users using the following programs:
  - Android: surespot, ChatSecure, Zom
  - iOS: surespot, ChatSecure
  - Microsoft Windows: Jitsi, Pidgin
@@ -40,19 +46,10 @@ This means that When you use Signal, you can communicate with users using the fo
  - Linux: Jitsi, Pidgin
 
 
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
 
-
-
-## How-to
-
-Install Signal by following the following 3 steps:
+## Installing Signal in 3 steps
 
 # Step 1. Download Signal
-
 On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
 <br>
 
@@ -60,14 +57,16 @@ On your Android device, download and install the app from the Google Play store 
 >Signal on the Google Play Store
 
 <br>
+# Alternate download
 Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
 <br>
 # Step 2: Review permissions
-
 Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
 <br>
-Once your are happy with the permissions allowed, press and the installation will complete.
+# Complete the installation
+Once your are happy with the permissions allowed, press 'Next' and the installation will complete.
 <br>
+# Canceling the installation
 If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
@@ -81,9 +80,9 @@ Tap Open to run the app for the first time
 
 ## Registering with Signal
 
+> Put in note here about being able to register Signal without tying it to your phone if you use a disposable SIM card, or if you download it from f-droid..but then you can't make calls.
 
 # Step 1: Register your phone number
-
 Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
 <br>
 

@@ -14,23 +14,11 @@ Learn how to use social networks more safely.
 
 
 
-## Scenario
+## Publicising a march...
 
-Mansour and Magda are journalists from north Africa covering a march. They want to use Facebook to publicise the event.
+Brenda and Isaac are going to a march and want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
-They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced. They plan to share photos and videos of the march without revealing people's identities to protect participants from persecution.
-
-
-
-## Scenario
-
-Mansour and Magda are from north Africa. They are going to a march, to take place in the middle of a large city.
-<br>
-They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
-<br>
-They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? 
-<br>
-Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+They plan to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 
@@ -93,15 +81,12 @@ Using social media but don't want your conversations to be read by the site owne
 
 
 
-## Next
-
-If you found this section useful, you might be interested in the following sections:
-- [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md)
-- [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
-<br>
-- [Learing to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
-- [Who controls and owns your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/4-who-controls/1-intro.md)
-- [Who can access your information on Social Networking platforms?](en/topics/practice-4-safe-social-networks/5-who-can-access/1-intro.md)
-
+---
+- en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Learn digital security basics
+- en/topics/understand-3-opsec/0-getting-started/1-1-intro.md: Basics of security for your organisation.
+---
+See also:
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+- [Zen and the art of making Tech Work for you](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
 
 

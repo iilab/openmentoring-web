@@ -1,9 +1,49 @@
 # How to chat securely?
-## Installing Jitsi
+## Communicate securely on Facebook
+
+Learn to encrypt your Facebook voice calls and instant messages.
 
 
-You can install Jitsi through the following seven steps:
+
+## Learn how to
+
+- [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
+- [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
+- [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
+- [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
+- [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+
+
+
+## A safe conversation...
+
+Brenda and Isaac are journalists communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
 <br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+
+
+
+## Facebook communication basics
+
+# Encryption is safe
+You can easily enhance the privacy and security of your Facebook communications by using encryption.
+<br>
+# Unencrypted communication is dangerous
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP).
+<br>
+# Protect your network
+Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
+<br>
+# Use Jitsi
+To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
+<br>
+# Protect the content of your conversations
+OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
+
+
+
+## Installing Jitsi in 7 steps
+
 # Step 1: Download Jitsi
 Download Jitsi through its [website](https://jitsi.org/Main/Download).
 <br>
@@ -34,18 +74,6 @@ Even if you do not click on any of the buttons, and simply close the prompt wind
 <br>
 # Step 7: Authorise Jitsi
 Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
-
-
-
-## Encrypting Facebook instant messaging and voice calls
-
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
-
-(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
-(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
 
@@ -101,60 +129,6 @@ Select **File > Add New Account...** in the main menu bar of Jitsi.
 In the "Add New Account" dialogue, *Network* menu choose Facebook, enter your username and password and Click **"Add"**.
 
 ![](jitsi-en-win-16.png)
-
-
-
-## Encrypting Facebook voice calls
-
-# Using Jitsi
-Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
-<br>
-# Step 1: Select your contact
-Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
-
-![](jitsi-en-win-42.png)
-<br>
-# Receive a call notification
-Your contact will see incoming call notification:
-
-![](jitsi-en-win-43.png)
-<br>
-# Step 2: Accept the call
-If your contact accepts the call you will receive information that you are connected:
-
-![](jitsi-en-win-44.png)
-<br>
-**Note the red open padlock.** This means that your call is not yet encrypted with ZRTP.
-<br>
-# Step 3: wait
-Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment.
-<br>
-# Determine if encrypted or not
-If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption
-<br>
-# Call again if problem encrypting
-You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
-
-![](jitsi-en-win-45.png)
-<br>
-# Step 4:: Confirm encryption
-Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters.
-<br>
-# Verify four characters
-Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it.
-<br>
-# Confirm call is encrypted
-You can click Confirm. The orange zrtp field will turn green:
-
-![](jitsi-en-win-46.png)
-<br>
-# Step 5: Close confirmation box
-You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
-
-![](jitsi-en-win-47.png)
-<br>
-# Encrypted group calls 
-Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
 
@@ -221,41 +195,57 @@ This can happen when your contact moves to another device with another encryptio
 
 
 
-## Communicate securely on Facebook
+## Encrypting Facebook voice calls
 
-Learn to encrypt your Facebook voice calls and instant messages.
-
-
-
-## Scenario
-
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
+# Using Jitsi
+Jitsi offers voice and video chats which can be independently encrypted with open standard called ZRTP.
 <br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+# Step 1: Select your contact
+Click on the contact in Jitsi contact list and click on the voice (second icon from the left under the contact's name) or video (third) icon - see figure 5 above. A new window will appear indicating that Jitsi is establishing the connection:
 
-
-
-## Facebook communication basics
-
-You can easily enhance the privacy and security of your Facebook communications by using encryption.
+![](jitsi-en-win-42.png)
 <br>
-When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP)
+# Receive a call notification
+Your contact will see incoming call notification:
+
+![](jitsi-en-win-43.png)
 <br>
-Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
+# Step 2: Accept the call
+If your contact accepts the call you will receive information that you are connected:
+
+![](jitsi-en-win-44.png)
 <br>
-To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
+**Note the red open padlock.** This means that your call is not yet encrypted with ZRTP.
 <br>
-OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
+# Step 3: wait
+Wait... Your and your contact's programs are establishing an encrypted connection, which may take a moment.
+<br>
+# Determine if encrypted or not
+If they succeed you will see the letters zrtp appear against an orange backgrond with a closed padlock like below. If they don't succeed in establishing a connection, you still can chat but without encryption
+<br>
+# Call again if problem encrypting
+You can disconnect, restart Jitsi and try again to see if this time the programs will connect with encryption. ZRTP may not work in calls between accounts from different providers (such as between Google and Jit.si).
 
+![](jitsi-en-win-45.png)
+<br>
+# Step 4:: Confirm encryption
+Observe the section under the letters zrtp and padlock with the message "Compare with partner" followed by 4 characters.
+<br>
+# Verify four characters
+Read these letters to your contact and ask if she sees the same characters. If she does, it means that your communication is encrypted and nobody is interfering with it.
+<br>
+# Confirm call is encrypted
+You can click Confirm. The orange zrtp field will turn green:
 
+![](jitsi-en-win-46.png)
+<br>
+# Step 5: Close confirmation box
+You may close the black confirmation section of the window by clicking on the white x sign on upper-right part of the black section:
 
-## Learn how to
-
-- [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
-- [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-- [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-- [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-- [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+![](jitsi-en-win-47.png)
+<br>
+# Encrypted group calls
+Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
 
 
 
@@ -267,7 +257,7 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 ## Next
 
  See also:
-* Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
 
 
 

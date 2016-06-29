@@ -1,9 +1,49 @@
 # How to chat securely?
-## Installing Jitsi
+## Communicate securely on Facebook
+
+Learn to encrypt your Facebook voice calls and instant messages.
 
 
-You can install Jitsi through the following seven steps:
+
+## Learn how to
+
+- [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
+- [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
+- [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
+- [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
+- [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
+
+
+
+## A safe conversation...
+
+Brenda and Isaac are journalists communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
 <br>
+They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
+
+
+
+## Facebook communication basics
+
+# Encryption is safe
+You can easily enhance the privacy and security of your Facebook communications by using encryption.
+<br>
+# Unencrypted communication is dangerous
+When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP).
+<br>
+# Protect your network
+Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
+<br>
+# Use Jitsi
+To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
+<br>
+# Protect the content of your conversations
+OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
+
+
+
+## Installing Jitsi in 7 steps
+
 # Step 1: Download Jitsi
 Download Jitsi through its [website](https://jitsi.org/Main/Download).
 <br>
@@ -34,18 +74,6 @@ Even if you do not click on any of the buttons, and simply close the prompt wind
 <br>
 # Step 7: Authorise Jitsi
 Select both Private and Public networks check-boxes, and then click Allow access to see the Jitsi Sign in window or main user interface window.
-
-
-
-## Encrypting Facebook instant messaging and voice calls
-
-To encrypt the content of your Facebook instant messages and voice calls, you first need to install Jitsi: a client which supports both Facebook and the Off-the-Record (OTR) protocol for encryption. This section shows you how to do the following: 
-
-(1) [Install Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-(2) [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-(3) [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-(4) [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
-(5) [Next Steps](en/topics/practice-4-safe-social-networks/3-facebook-chat/6-next.md)
 
 
 
@@ -216,46 +244,8 @@ You may close the black confirmation section of the window by clicking on the wh
 
 ![](jitsi-en-win-47.png)
 <br>
-# Encrypted group calls 
+# Encrypted group calls
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
-
-
-
-## Communicate securely on Facebook
-
-Learn to encrypt your Facebook voice calls and instant messages.
-
-
-
-## Scenario
-
-Brenda and Isaac journalists in Uganda communicating via Facebook. They know that law enforcement agencies are able to intercept their Facebook messages because they are unencrypted.
-<br>
-They need to learn how to encrypt their communication. If they don't, they worry the content of their communications will be used against them.
-
-
-
-## Facebook communication basics
-
-You can easily enhance the privacy and security of your Facebook communications by using encryption.
-<br>
-When you communicate over Facebook without the use of encryption, the company and all other third parties it potentially shares your data with (including other advertising companies and law enforcement agencies) can have access to the content of your instant messages (IM) and voice calls (VoIP)
-<br>
-Not only can insecure communication potentially expose your data to beach, but also that of your contacts.
-<br>
-To enhance the privacy and security of your communications, you can install Jitsi: a client which supports the Off-the-Record (OTR) protocol for IM encryption and ZRTP for VoIP encryption.
-<br>
-OTR clients like Jitsi not only makes the content of your communications inaccessible to various third parties, such as governments and corporations, it also makes it inaccessible to Facebook.
-
-
-
-## Learn how to
-
-- [Understand Facebook communication basics](en/topics/practice-4-safe-social-networks/3-facebook-chat/3-learn.md)
-- [Install the messaging application Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-2-howto.md)
-- [Add your Facebook account on Jitsi](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-3-howto.md)
-- [Encrypt your Facebook instant messages](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-4-howto.md)
-- [Encrypt your Facebook voice calls](en/topics/practice-4-safe-social-networks/3-facebook-chat/4-5-howto.md)
 
 
 
@@ -267,7 +257,7 @@ OTR clients like Jitsi not only makes the content of your communications inacces
 ## Next
 
  See also:
-* Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
 
 
 

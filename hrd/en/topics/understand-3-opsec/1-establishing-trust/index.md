@@ -17,6 +17,13 @@ Learn about the importance of building trust with your teams and how to do it.
 Scenario text...
 
 
+## Next
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -33,12 +40,5 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
 
 

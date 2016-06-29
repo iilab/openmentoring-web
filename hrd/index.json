@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-06-26T12:56:14.376Z",
+  "updatedAt": "2016-06-29T21:07:46.358Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -29,7 +29,7 @@
       "title": "Safe Phones",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "categories": [ "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -37,10 +37,10 @@
     {
       "slug": "practice-4-safe-social-networks",
       "type": "topic",
-      "title": "Safe Social Networks",
+      "title": "",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:journo"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -349,7 +349,7 @@
       "title": "Instant Messaging on Smart Phones",
       "parentTitle": "Safe Phones",
       "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -358,9 +358,9 @@
       "slug": "practice-4-safe-social-networks_0-getting-started",
       "type": "unit",
       "title": "Getting started with Social Networks",
-      "parentTitle": "Safe Social Networks",
+      "parentTitle": "",
       "locale": "en",
-      "categories": [ "profile:journo"],
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
     }
@@ -369,7 +369,7 @@
       "slug": "practice-4-safe-social-networks_1-access-personal-details",
       "type": "unit",
       "title": "How to control access to your personal details?",
-      "parentTitle": "Safe Social Networks",
+      "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -380,7 +380,7 @@
       "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
       "type": "unit",
       "title": "How to control access to your personal details?",
-      "parentTitle": "Safe Social Networks",
+      "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -391,7 +391,7 @@
       "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
       "title": "How to chat securely?",
-      "parentTitle": "Safe Social Networks",
+      "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",

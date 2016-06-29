@@ -4,14 +4,6 @@
 Introduction text...
 
 
-## Key takeaways
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-
 ## Scenario
 
 Scenario text...
@@ -45,5 +37,13 @@ Learning text...
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+
+## Key takeaways
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
 
 
