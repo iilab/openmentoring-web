@@ -1,4 +1,4 @@
-## Creating a standard encrypted volume
+## Create a standard encrypted volume
 
 # Step 1. Open Veracrypt
 Launch VeraCrypt to open the main application window

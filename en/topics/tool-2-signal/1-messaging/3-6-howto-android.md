@@ -1,4 +1,4 @@
-## Scanning fingerprints
+## Scan fingerprints
 
 **Note:** To verify fingerprints by scanning you need to have Barcode Scanner installed on your phone. If it is not available on your phone at the time of scanning Signal will download and install the app for you.
 <br>
