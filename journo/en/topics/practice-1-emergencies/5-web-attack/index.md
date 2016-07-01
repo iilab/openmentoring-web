@@ -23,21 +23,6 @@ Before she can be sure the site is under attack, Brenda needs to rule out other 
 
 
 
-## What is a DDOS attack?
-
-# Silencing your voice
-A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
-<br>
-# Website takeover
-In many cases, this maybe an innocent and frustrating problem. But on occasion, it may be due to a distributed ‘denial of service’ (DDOS) attack or a website takeover.
-<br>
-# Overloading the website
-A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
-<br>
-> DDOS attacks repeatedly view a webpage to overload the server
-
-
-
 ## Rule out other reasons
 ![](recap2.svg)
 # Programming or technical problems
@@ -50,6 +35,21 @@ Sometimes, other things like legal challenges can cause a host to turn a site of
 If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
 <br>
 > Fixing your website yourself can be difficult
+
+
+
+## What is a DDOS attack?
+
+# Silencing your voice
+A threat faced by many independent journalists, news sites and bloggers is being silenced because their website is down or defaced.  
+<br>
+# Website takeover
+In many cases, this maybe an innocent and frustrating problem. But on occasion, it may be due to a distributed ‘denial of service’ (DDOS) attack or a website takeover.
+<br>
+# Overloading the website
+A DDOS attack is when an attacker uses thousands of machines and possibly automated tools to repeatedly and rapidly view a webpage in order to crowd out normal readers.
+<br>
+> DDOS attacks repeatedly view a webpage to overload the server
 
 
 
@@ -157,12 +157,9 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
 </quiz>
 
 
-## Next
-
  See also:
 * Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
 * Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
 * Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
-
 
 

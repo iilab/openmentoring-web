@@ -38,9 +38,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
-  
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
@@ -90,9 +90,9 @@
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   

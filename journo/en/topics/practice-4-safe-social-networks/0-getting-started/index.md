@@ -14,14 +14,6 @@ Learn how to use social networks more safely.
 
 
 
-## Publicising a march...
-
-Brenda and Isaac are going to a march and want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
-<br>
-They plan to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
-
-
-
 ## Social networking basics
 
 # What it does
@@ -48,6 +40,21 @@ Before you use any social networking site it is important to understand how they
 
 
 
+## Choose the right lesson
+
+Not sure where to start on controlling which people can see who you are connected to on social media?
+* Choose the [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson
+
+<br>
+Don't know the right questions to ask to protect your personal details?
+* Choose the [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
+
+<br>
+Using social media but don't want your conversations to be read by the site owners or others?
+* Choose the [Learning to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+
+
+
 ## Who owns your data?
 
 # Private businesses
@@ -61,18 +68,11 @@ Privacy settings are only meant to protect you from other members of the social 
 
 
 
-## Choose the right lesson
+## Publicising a march...
 
-Not sure where to start on controlling which people can see who you are connected to on social media?
-* Choose the [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson
-
+Brenda and Isaac are going to a march and want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
 <br>
-Don't know the right questions to ask to protect your personal details?
-* Choose the [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
-
-<br>
-Using social media but don't want your conversations to be read by the site owners or others?
-* Choose the [Learning to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+They plan to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 

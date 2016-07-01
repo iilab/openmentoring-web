@@ -150,6 +150,33 @@ Figure 11: Signal timeout settings
 
 ## How-to
 
+Make a call
+
+Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
+
+Call your contact. 
+When your contact answers you'll see two words.
+Say one word to your friend and ask them to say the other word. 
+This makes sure you are both who you say you are.
+
+![10s.png]({{site.baseurl}}/media/10s.png)
+
+Take a call
+
+When you get a signal call, you'll see on your screen "SIGNAL CALL"
+
+When you answer you'll see two words. 
+Say one word to your friend and ask them to say the other world. 
+This makes sure you are both who you say you are.
+
+![11s.png]({{site.baseurl}}/media/11s.png)
+
+
+
+
+
+## How-to
+
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -330,33 +357,6 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 
 
 
-
-
-
-
-
-## How-to
-
-Make a call
-
-Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
-
-Call your contact. 
-When your contact answers you'll see two words.
-Say one word to your friend and ask them to say the other word. 
-This makes sure you are both who you say you are.
-
-![10s.png]({{site.baseurl}}/media/10s.png)
-
-Take a call
-
-When you get a signal call, you'll see on your screen "SIGNAL CALL"
-
-When you answer you'll see two words. 
-Say one word to your friend and ask them to say the other world. 
-This makes sure you are both who you say you are.
-
-![11s.png]({{site.baseurl}}/media/11s.png)
 
 
 

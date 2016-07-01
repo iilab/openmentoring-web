@@ -98,9 +98,9 @@
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -120,29 +120,15 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -158,13 +144,27 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   

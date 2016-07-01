@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T11:55:55.011Z",
+  "updatedAt": "2016-07-01T12:02:33.235Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -377,9 +377,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "How to chat securely?",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -388,9 +388,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "How to control access to your personal details?",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_1-messaging",
+      "slug": "tool-6-conversations_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -586,9 +586,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_2-voice",
+      "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],

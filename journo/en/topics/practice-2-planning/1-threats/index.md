@@ -17,20 +17,6 @@ Learn about identifying and dealing with threats
 Scenario text...
 
 
-## What are threats?
-
-A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
-<br>
-For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
-<br>
-There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats.
-<br>
-To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
-<br>
-In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
-
-
-
 ## Five steps to Conducting a threat assessment
 
 
@@ -86,6 +72,20 @@ Many people find certain threats unacceptable no matter what the risk, because t
 Based on the results of your [risk analysis](en/topics/practice-2-planning/2-assess-risk/1-1-intro.md), you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
 <br>
 Make sure to include responses to threats in your [emergency plan.](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
+
+
+
+## What are threats?
+
+A threat is something bad that can happen to an asset. There are numerous ways that an adversary can threaten your data.
+<br>
+For example, an adversary can read your private communications as they pass through the network, or they can delete or corrupt your data. An adversary could also disable your access to your own data.
+<br>
+There is no single solution for keeping yourself safe online. Digital security isn’t about which tools you use; rather, it’s about understanding the threats you face and how you can counter those threats.
+<br>
+To become more secure, you must determine what you need to protect, and whom you need to protect it from. Threats can change depending on where you’re located, what you’re doing, and whom you’re working with.
+<br>
+In order to determine what solutions will be best for you, you should conduct a threat modeling assessment.
 
 
 
