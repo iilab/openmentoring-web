@@ -5,6 +5,15 @@ Learn the basics of encryption and how it can help protect you and your network.
 
 
 
+## Learn about
+
+- [What is encryption](en/topics/understand-4-digisec/1-encryption/3-1-learn.md)
+- [What are private and public keys](en/topics/understand-4-digisec/1-encryption/3-2-learn.md)
+- [What are security certificates](en/topics/understand-4-digisec/1-encryption/3-3-learn.md)
+- [What are key fingerprints](en/topics/understand-4-digisec/1-encryption/3-4-learn.md)
+
+
+
 ## Scenario
 
 Scenario text...
@@ -82,27 +91,6 @@ But it's not perfect, because if the keys are copied or stolen someone else woul
 
 
 
-## Learn about
-
-- [What is encryption](en/topics/understand-4-digisec/1-encryption/3-1-learn.md)
-- [What are private and public keys](en/topics/understand-4-digisec/1-encryption/3-2-learn.md)
-- [What are security certificates](en/topics/understand-4-digisec/1-encryption/3-3-learn.md)
-- [What are key fingerprints](en/topics/understand-4-digisec/1-encryption/3-4-learn.md)
-
-
-
-## Next
-
----
-- en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
-- en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing
-- en/topics/practice-4-safe-social-networks/3-facebook-chat/1-1-intro.md: Chatting securely on social networks
----
-See also:
-- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -119,5 +107,17 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+---
+- en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
+- en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing
+- en/topics/practice-4-safe-social-networks/3-facebook-chat/1-1-intro.md: Chatting securely on social networks
+---
+See also:
+- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
+
 
 

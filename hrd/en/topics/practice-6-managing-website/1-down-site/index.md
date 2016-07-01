@@ -44,13 +44,6 @@ If you have determined that none of these are at fault, you may be suffering fro
 
 
 
-## Billing problem
-
-# Outstanding balance
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
-
-
-
 ## Network problem
 
 # Unavailable website
@@ -61,13 +54,10 @@ If your site is up but you cant see it, it might be a network problem. It could 
 
 
 
-## Censorship problem
+## Billing problem
 
-# Similar sites down?
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-# Circumvent it!
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+# Outstanding balance
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 
@@ -78,6 +68,16 @@ If your website is not loading at all, the company that hosts your website may b
 <br>
 # Look up status
 Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+
+
+
+## Censorship problem
+
+# Similar sites down?
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+# Circumvent it!
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 
@@ -107,16 +107,16 @@ See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for
 
 
 
-## Reasons your site may be down
-
-Learn why your website might be down.
-
-
-
 ## Learn about
 
 [Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
 [Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
+
+
+
+## Reasons your site may be down
+
+Learn why your website might be down.
 
 
 
@@ -138,6 +138,8 @@ Learn why your website might be down.
 </quiz>
 
 
+## Next
+
 ---
 - en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md: What to do if your account has been hijacked
 - en/topics/practice-1-emergencies/1-seeking-help/1-1-intro.md: Seeking help safely after an emergency
@@ -145,5 +147,6 @@ Learn why your website might be down.
 ---
 See also:
 - Electronic Frontier Foundation: Security Self Defense
+
 
 

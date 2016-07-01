@@ -47,11 +47,6 @@ Before posting, think about whether it's necessary to post:
 
 
 
-## Test you social networking knowledge!
-
-
-
-
 ## Control access to personal information on your Facebook profile
 
 # Editing your profile
@@ -71,6 +66,11 @@ If you place your mouse cursor over it, you will see an icon which can be a glob
 Clicking on this icon will bring up a menu where you can change this setting:
 
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
+
+
+
+## Test you social networking knowledge!
+
 
 
 

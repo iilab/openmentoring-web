@@ -1,4 +1,10 @@
 # Getting Started
+## Getting started with Tor
+
+Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
+
+
+
 ## Learn about
 
 - [What the Tor Browser Bundle is](en/topics/tool-9-tor-browser/0-getting-started/3-learn.md)
@@ -91,12 +97,6 @@ When browsing the Web, you typically use port 80 for unsecured sites (http://mai
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Getting started with Tor
-
-Learn about what the Tor browser bundle is and how you can use it to browse the Internet safely.
-
 
 
 ## Next

@@ -1,11 +1,6 @@
 # Instant Messaging on Smart Phones
-## Learn
+## Test you social networking knowledge!
 
-> rewrite this section
-
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
 
 
 
@@ -44,11 +39,6 @@ They plan to use Twitter during the march to give updates on the progress of the
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-
-## Test you social networking knowledge!
-
 
 
 
@@ -370,5 +360,12 @@ This makes sure you are both who you say you are.
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
+
+> rewrite this section
+
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
 
 

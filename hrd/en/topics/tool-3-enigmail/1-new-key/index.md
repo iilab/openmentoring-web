@@ -1,4 +1,10 @@
 # Generate a new key pair using Enigmail
+## Learn how to
+
+ - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
+
+
+
 ## Make a new PGP key
 
 Learn how to create a new PGP key using Enigmail.
@@ -67,12 +73,6 @@ You will be asked to type in the password that you associated with your newly cr
 <br>
 # Step 13. Complete generation of key pair and revocation certificate
 Click "Next" to complete generating both a key pair and revocation certificate.
-
-
-
-## Learn how to
-
- - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
 
 
 

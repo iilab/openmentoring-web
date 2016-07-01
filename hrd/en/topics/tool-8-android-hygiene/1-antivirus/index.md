@@ -12,9 +12,15 @@ Anti-virus software is a valuable tool against non-targeted but still dangerous 
 
 
 
-## Scenario
+## Recommended anti-virus software
 
-Scenario text...
+- Microsoft Safety Scanner (Windows)
+- F-Secure
+- Kaspersky
+- ClamXav (Mac OS X)
+- TrendMicro
+- ClamAV (Windows and Linux)
+
 
 
 ## Using anti-virus software
@@ -34,21 +40,15 @@ When you run anti-virus software, ensure that it is up to date.
 
 
 
-## Recommended anti-virus software
-
-- Microsoft Safety Scanner (Windows)
-- F-Secure
-- Kaspersky
-- ClamXav (Mac OS X)
-- TrendMicro
-- ClamAV (Windows and Linux)
-
-
-
 ## Anti-virus software
 
 We recommend using anti-virus software because it is a valuable tool against non-targeted but still dangerous malware.
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Test

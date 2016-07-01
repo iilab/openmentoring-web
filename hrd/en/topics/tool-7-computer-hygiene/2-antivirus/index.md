@@ -12,6 +12,18 @@ Anti-virus software is a valuable tool against non-targeted but still dangerous 
 
 
 
+## Recommended anti-virus software
+
+<br>
+- Microsoft Safety Scanner (Windows)
+- F-Secure
+- Kaspersky
+- ClamXav (Mac OS X)
+- TrendMicro
+- ClamAV (Windows and Linux)
+
+
+
 ## Using anti-virus software
 
 When you run anti-virus software, ensure that it is up to date.
@@ -28,24 +40,15 @@ Following the guidelines in the [Safer Communication](en/topics/understand-4-dig
 
 
 
-## Recommended anti-virus software
+## Next
 
-<br>
-- Microsoft Safety Scanner (Windows)
-- F-Secure
-- Kaspersky
-- ClamXav (Mac OS X)
-- TrendMicro
-- ClamAV (Windows and Linux)
+See also:
+* Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 
 
 ## Test
 
 
-
-
-See also:
-* Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
 
 

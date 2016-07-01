@@ -1,5 +1,15 @@
 # Summary
 
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
@@ -16,22 +26,6 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
-  
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
-  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
 * [](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
@@ -47,12 +41,6 @@
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
-  
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -86,6 +74,12 @@
   
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
@@ -112,12 +106,6 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
@@ -129,6 +117,12 @@
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
+  
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -167,4 +161,10 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  
+  * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   

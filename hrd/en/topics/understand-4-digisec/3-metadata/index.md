@@ -1,10 +1,4 @@
 # Metadata
-## Getting started with metadata
-
-Understand what metadata is and why it is important to digital security
-
-
-
 ## Learn about
 
 - [What metadata is](en/topics/understand-4-digisec/3-metadata/3-1-learn.md)
@@ -12,9 +6,30 @@ Understand what metadata is and why it is important to digital security
 
 
 
+## Getting started with metadata
+
+Understand what metadata is and why it is important to digital security
+
+
+
 ## Scenario
 
 The reason, he learned, was that shared photos included metadata, revealing the time and location of wild animals. Poachers had been found to be using social media to illegally wildlife and evade detection by wildlife officials.
+
+
+
+## What is metadata?
+
+# About metadata
+Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
+<br>
+In many cases, metadata tells a story just as interesting as the content itself.
+<br>
+# Metadata information
+This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
+<br>
+# Learning from metadata
+As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
 
 
 
@@ -43,21 +58,6 @@ Even if the content of your emails is [encrypted](en/topics/understand-4-digisec
 
 
 
-## What is metadata?
-
-# About metadata
-Metadata is data about data. It is information about a file (such as a word document, a PDF, a picture, music file etc.) that is stored within the file itself.
-<br>
-In many cases, metadata tells a story just as interesting as the content itself.
-<br>
-# Metadata information
-This information can include the time and date a file was created, the username of the people who created or edited it, information about the device that created it, and other kinds of information.
-<br>
-# Learning from metadata
-As a result of this, the metadata in a file could tell someone who created a file, on what computer or device, when, and in what location.
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -76,7 +76,10 @@ As a result of this, the metadata in a file could tell someone who created a fil
 </quiz>
 
 
+## Next
+
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
 
