@@ -42,17 +42,17 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
-  
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
 * [Managing your website](topics/practice-6-managing-website/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
   
   * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -60,11 +60,11 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
+  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
@@ -88,9 +88,9 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   

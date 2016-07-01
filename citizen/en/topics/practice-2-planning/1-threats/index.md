@@ -89,6 +89,8 @@ Make sure to include responses to threats in your [emergency plan.](en/topics/pr
 
 
 
+## Test
+
 If you want to keep your house and possessions safe, here are a few questions you might ask:
 
 -Should I lock my door?
@@ -102,6 +104,7 @@ If you want to keep your house and possessions safe, here are a few questions yo
   -What is the actual risk of someone breaking in? Is it likely?
 <br>
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
+
 
 ## Next
 

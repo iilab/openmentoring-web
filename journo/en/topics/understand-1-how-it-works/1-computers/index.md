@@ -1,9 +1,4 @@
 # Computers
-## Introduction
-
-Introduction text...
-
-
 ## Scenario
 
 Scenario text...
@@ -12,6 +7,11 @@ Scenario text...
 ## Learn
 
 Learning text...
+
+
+## Introduction
+
+Introduction text...
 
 
 ## Test

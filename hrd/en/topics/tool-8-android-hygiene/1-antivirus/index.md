@@ -12,6 +12,11 @@ Anti-virus software is a valuable tool against non-targeted but still dangerous 
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Recommended anti-virus software
 
 - Microsoft Safety Scanner (Windows)
@@ -44,11 +49,6 @@ When you run anti-virus software, ensure that it is up to date.
 
 We recommend using anti-virus software because it is a valuable tool against non-targeted but still dangerous malware.
 
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Test

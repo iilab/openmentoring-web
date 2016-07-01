@@ -12,6 +12,11 @@ Learn the basics of digital security in order to start using your devices more s
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Seven Steps to Digital security
 
 # 1. Knowledge is Power
@@ -87,11 +92,6 @@ To understand what metadata is and how it can leave you and your network vulnera
 To learn about why secure communication is important and tools you should use to communicate safely, choose the Secure communications lesson:
 - [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-intro.md)
 
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Test

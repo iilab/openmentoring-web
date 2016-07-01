@@ -35,19 +35,6 @@ Although these networks can be very useful, and promote social interaction both 
 
 
 
-## Who can access
-
-# Protect sensitive information
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-# Protect content and connections
-Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
-<br>
-# Protect yourself and your colleagues
-Before you use any social networking site it is important to understand how they make you vulnerable, and take steps to protect yourself and the people you work with.
-
-
-
 ## Who owns your data?
 
 # Private businesses
@@ -58,6 +45,19 @@ When you enter a social networking site, you are leaving the freedoms of the int
 <br>
 # Privacy settings
 Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. This means that you are giving all your data over to the owners and trusting them with it.
+
+
+
+## Who can access
+
+# Protect sensitive information
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+# Protect content and connections
+Human rights advocates are particularly vulnerable to the dangers of social networking sites and need to be extremely careful about the information they reveal about themselves AND about the people they work with.
+<br>
+# Protect yourself and your colleagues
+Before you use any social networking site it is important to understand how they make you vulnerable, and take steps to protect yourself and the people you work with.
 
 
 

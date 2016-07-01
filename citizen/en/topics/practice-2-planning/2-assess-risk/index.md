@@ -1,4 +1,10 @@
 # Assessing Security Risks
+## Introduction
+
+Know what measures to take to understand risks faced as a journalist.
+
+
+
 ## Learn how to
 
 - [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
@@ -12,12 +18,6 @@
 ## Scenario
 
 Scenario text...
-
-
-## Introduction
-
-Know what measures to take to understand risks faced as a journalist.
-
 
 
 ## Understand risk
