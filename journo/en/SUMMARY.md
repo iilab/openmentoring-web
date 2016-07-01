@@ -54,10 +54,6 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
-  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
@@ -65,6 +61,10 @@
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   

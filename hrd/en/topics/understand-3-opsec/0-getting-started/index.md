@@ -4,16 +4,6 @@
 Introduction text...
 
 
-## Scenario
-
-Scenario text...
-
-
-## Learn
-
-Learning text...
-
-
 ## Key takeaways
 
 ## A New Post
@@ -22,11 +12,14 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-## Next
+## Scenario
 
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
+Scenario text...
+
+
+## Learn
+
+Learning text...
 
 
 ## Test
@@ -45,5 +38,12 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 

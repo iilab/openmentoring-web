@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T10:32:00.925Z",
+  "updatedAt": "2016-07-01T10:32:46.377Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -608,9 +608,9 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_2-antivirus",
+      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Getting started with computer hygiene",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -619,9 +619,9 @@
     }
   ,
     {
-      "slug": "tool-7-computer-hygiene_1-computer-hygiene",
+      "slug": "tool-7-computer-hygiene_2-antivirus",
       "type": "unit",
-      "title": "Getting started with computer hygiene",
+      "title": "Understanding Threats",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -718,9 +718,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_2-phones",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -729,9 +729,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_2-phones",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Phones",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
