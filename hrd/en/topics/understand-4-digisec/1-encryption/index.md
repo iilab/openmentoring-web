@@ -1,5 +1,5 @@
 # Encryption
-## Introduction
+## Getting started with encryption
 
 Learn the basics of encryption and how it can help protect you and your network.
 
@@ -14,13 +14,9 @@ Learn the basics of encryption and how it can help protect you and your network.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## What is encryption
 
+# Basics
 Encryption is the mathematical science of codes, ciphers, and secret messages.
 <br>
 # Encryption is old

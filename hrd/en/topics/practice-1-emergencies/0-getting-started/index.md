@@ -12,9 +12,12 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
+## A suspicious email...
+
 While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
 <br>
 It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
+
 
 
 ## Verify if the problem is real

@@ -13,11 +13,6 @@ Learn about using secure communications.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Secure communication basics
 
 # Protecting your content
@@ -116,4 +111,6 @@ See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
 
 
+
+Scenario text...
 
