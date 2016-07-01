@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T17:09:00.299Z",
+  "updatedAt": "2016-07-01T17:10:20.307Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -43,6 +43,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-manage-website",
+      "type": "topic",
+      "title": "Manage your website",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
@@ -101,14 +112,14 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website",
+      "slug": "tool-5-veracrypt",
       "type": "topic",
-      "title": "Manage your website",
+      "title": "Use Veracrypt",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
@@ -145,14 +156,14 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt",
+      "slug": "tool-9-tor-browser",
       "type": "topic",
-      "title": "Use Veracrypt",
+      "title": "Tor Browser",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -197,17 +208,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser",
-      "type": "topic",
-      "title": "Tor Browser",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     
@@ -399,6 +399,28 @@
     }
   ,
     {
+      "slug": "practice-6-manage-website_0-get-started",
+      "type": "unit",
+      "title": "Get started",
+      "parentTitle": "Manage your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-manage-website_1-down-site",
+      "type": "unit",
+      "title": "Down website",
+      "parentTitle": "Manage your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
       "title": "Getting Started with the Open Mentoring App",
@@ -520,25 +542,25 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website_0-get-started",
+      "slug": "tool-5-veracrypt_0-get-started",
       "type": "unit",
-      "title": "Get started",
-      "parentTitle": "Manage your website",
+      "title": "Use Veracrypt",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
-      "slug": "practice-6-manage-website_1-down-site",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "Down website",
-      "parentTitle": "Manage your website",
+      "title": "Create a standard encrypted volume",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
@@ -641,25 +663,25 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-get-started",
+      "slug": "tool-9-tor-browser_0-getting-started",
       "type": "unit",
-      "title": "Use Veracrypt",
-      "parentTitle": "Use Veracrypt",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-standard-volume",
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
       "type": "unit",
-      "title": "Create a standard encrypted volume",
-      "parentTitle": "Use Veracrypt",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -891,28 +913,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ]  
 }

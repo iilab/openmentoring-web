@@ -225,22 +225,6 @@ Not only is chronic stress harmful for the body physically and mentally, it can 
 
 
 
-## Identifying trauma
-
-# Trauma stress is common
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
-<br>
-# Recognise symptoms
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-# Normal reaction to abnormal situation
-Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
-<br>
-# How you respond
-Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-
-
-
 ## Dealing with chronic stress
 
 # Stress management
@@ -277,6 +261,22 @@ Sharing a problem with others may help you find a solution and will make you fee
 Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
 <br>
 # Think positive!
+
+
+
+## Identifying trauma
+
+# Trauma stress is common
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+<br>
+# Recognise symptoms
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+# Normal reaction to abnormal situation
+Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
+<br>
+# How you respond
+Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 
 
 
@@ -376,6 +376,19 @@ Keep an eye out for changes in your personal attitude (depression, frustration, 
 
 
 
+## Identifying post-traumatic stress
+
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+
+
+
 ## Effects of post-traumatic stress
 
 # Symptoms vary widely
@@ -410,19 +423,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 - drug misuse or alcohol misuse
 - headaches, dizziness, chest pains and stomach aches
 - PTSD sometimes leads to work-related problems and the breakdown of relationships.
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 

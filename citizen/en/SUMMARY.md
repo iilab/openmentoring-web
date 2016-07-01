@@ -42,6 +42,12 @@
   
   * [Chatting securely](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
+* [Manage your website](topics/practice-6-manage-website/index.md)
+  
+  * [Get started](topics/practice-6-manage-website/0-get-started/index.md)
+  
+  * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
+  
 * [Use Open Mentoring](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
@@ -74,11 +80,11 @@
   
   * [Create a new entry](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Manage your website](topics/practice-6-manage-website/index.md)
+* [Use Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Get started](topics/practice-6-manage-website/0-get-started/index.md)
+  * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
   
-  * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
+  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -104,11 +110,11 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [Use Veracrypt](topics/tool-5-veracrypt/index.md)
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
   
-  * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
-  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -159,10 +165,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   

@@ -234,6 +234,12 @@ Signal will confirm the export has completed by displaying "Success!" You will f
 
 
 
+## Use Signal for encrypted messaging
+
+Learn to use Signal for encrypted messaging.
+
+
+
 ## Learn how to
 
 - [Send and receive messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
@@ -243,12 +249,6 @@ Signal will confirm the export has completed by displaying "Success!" You will f
 - [Verify identities](en/topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
 - [Read and scan fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
 - [Export your messages](en/topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
-
-
-
-## Use Signal for encrypted messaging
-
-Learn to use Signal for encrypted messaging.
 
 
 

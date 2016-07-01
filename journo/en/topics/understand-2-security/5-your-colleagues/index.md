@@ -6,11 +6,6 @@ The security of your colleagues is part of your own security.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn about
 
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
@@ -29,6 +24,11 @@ talking about sercurity - impact things can have with yoru coleague rather than 
 
 talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Learn
