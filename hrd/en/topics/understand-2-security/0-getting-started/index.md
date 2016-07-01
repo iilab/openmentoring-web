@@ -17,6 +17,20 @@ Key takeaways from this topic include lessons on the following:
 
 
 
+## Scenario
+
+
+
+Scenario text...
+
+    Putting the reader in the situation where they're facing a problem.
+    Proposing an aim or aspiration. Motivate a way to adress the problem.
+    What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
+    What are the risks?
+
+
+
+
 ## Choosing the right lesson
 
 To minimise potential risks, it is important to always prepare a security assessment. Learn how to do so in the Your Security lesson.
@@ -33,20 +47,6 @@ What kind of information you should share, and how to talk about security issues
 
 - [Your mission](en/topics/understand-2-security/3-your-mission-hrd/1-intro.md)
 - [Your story](en/topics/understand-2-security/3-your-story-journo/1-intro.md)
-
-
-
-## Scenario
-
-
-
-Scenario text...
-
-    Putting the reader in the situation where they're facing a problem.
-    Proposing an aim or aspiration. Motivate a way to adress the problem.
-    What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
-    What are the risks?
-
 
 
 

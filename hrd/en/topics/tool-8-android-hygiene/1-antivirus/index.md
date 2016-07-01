@@ -1,14 +1,14 @@
 # Understanding Threats
-## Anti-virus software
-
-Anti-virus software is a valuable tool against non-targeted but still dangerous malware.
-
-
-
 ## Learn about
 
 - [Recommended anti-virus software](en/topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Using anti-virus software](en/topics/practice-2-planning/1-threats/3-2-learn.md)
+
+
+
+## Anti-virus software
+
+Anti-virus software is a valuable tool against non-targeted but still dangerous malware.
 
 
 
@@ -49,9 +49,6 @@ When you run anti-virus software, ensure that it is up to date.
 
 We recommend using anti-virus software because it is a valuable tool against non-targeted but still dangerous malware.
 
-
-
-## Test
 
 
 

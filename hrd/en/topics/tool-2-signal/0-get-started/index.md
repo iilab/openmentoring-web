@@ -140,8 +140,6 @@ After a set period of time, if you have not looked at any messages, Signal will 
 
 
 
-## Enable encrypted storage
-
 1. Tap on  in the top right of your screen to bring up the menu and select .
 <br>
 2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
@@ -161,7 +159,6 @@ After a set period of time, if you have not looked at any messages, Signal will 
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 > Signal timeout settings
-
 
 
 ## Next

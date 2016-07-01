@@ -85,8 +85,6 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
 </quiz>
 
 
-## Next
-
 ---
 - (en/topics/understand-2-security/2-your-well-being/3-3-learn.md): Dealing with a traumatic event
 - (en/topics/understand-2-security/2-your-well-being/3-6-learn.md): Post-traumatic stress
@@ -95,6 +93,5 @@ To learn about what traumatic stress is, how it affects you, and how to deal wit
 ---
 See also:
 * [Protection International: Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
-
 
 

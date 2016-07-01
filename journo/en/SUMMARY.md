@@ -48,15 +48,15 @@
   
   * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
   
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
+  
 * [Use Open Mentoring](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -156,9 +156,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

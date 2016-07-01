@@ -86,12 +86,6 @@
   
   * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
-* [Using Conversations](topics/tool-6-conversations/index.md)
-  
-  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
-  
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
@@ -99,6 +93,12 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+* [Using Conversations](topics/tool-6-conversations/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -142,14 +142,6 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [Understand Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
@@ -165,4 +157,12 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Understand Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   
