@@ -107,10 +107,7 @@ You input the code to verify that you are indeed the person trying to access the
 </quiz>
 
 
-## Next
-
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
 

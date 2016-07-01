@@ -24,6 +24,8 @@ Scenario text...
 
 
 
+## How-to
+
 To make a call
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
 <br>
@@ -42,6 +44,7 @@ Say one word to your friend and ask them to say the other world.
 This makes sure you are both who you say you are.
 
 ![11s.png](11s.png)
+
 
 
 ## Next

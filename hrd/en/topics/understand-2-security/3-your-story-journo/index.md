@@ -5,6 +5,11 @@ Learn the basics about security of your story
 
 
 
+## Learn about
+
+
+
+
 ## The spy who came in through the code
 
 >
@@ -95,11 +100,6 @@ Prepare a plan for how others can continue working on your story if something ha
 ---
 See also:
 - Internews: [SaferJourno](https://www.internews.org/saferjourno-toolkit-provides-digital-and-online-safety-resources-journalism-and-media-trainers)
-
-
-
-## Learn about
-
 
 
 

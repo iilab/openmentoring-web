@@ -58,7 +58,7 @@ On your Android device, download and install the app from the Google Play store 
 
 <br>
 # Alternate download
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+If you want to use Signal independently of Google Play Services, download [Libresignal](https://libraries.io/github/LibreSignal/LibreSignal) instead on [F-Droid](https://f-droid.org/) which allows all Signal functions except phone calls.
 <br>
 # Step 2: Review permissions
 Before the installation process begins, you will be asked to review the access that the app will have on your phone. Review this carefully.
@@ -79,8 +79,6 @@ Tap Open to run the app for the first time
 
 
 ## Registering with Signal
-
-> Put in note here about being able to register Signal without tying it to your phone if you use a disposable SIM card, or if you download it from f-droid..but then you can't make calls.
 
 # Step 1: Register your phone number
 Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
