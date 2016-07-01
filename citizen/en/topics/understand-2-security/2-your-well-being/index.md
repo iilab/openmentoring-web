@@ -426,12 +426,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
-## Introduction
-
-Learn about ensuring your short and long term well-being.
-
-
-
 ## Learn about
 
 # stress and security
@@ -444,6 +438,29 @@ Learn about ensuring your short and long term well-being.
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+
+
+
+## Introduction
+
+Learn about ensuring your short and long term well-being.
+
+
+
+## Next
+
+---
+- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
+- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
+- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
+- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
+- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
+---
+See also:
+- Security First: [Umbrella](https://secfirst.org/index.html)
+- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
+- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
+- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
 
 
 
@@ -463,22 +480,5 @@ Learn about ensuring your short and long term well-being.
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
----
-- (en/topics/understand-2-security/1-your-security/1-intro.md): Learn more about your security
-- (en/topics/understand-2-security/3-your-mission-hrd/1-intro.md): Learn about your mission as a Human Rights Defender
-- (en/topics/understand-2-security/3-your-story-journo/1-intro.md): Things to consider when writing your story
-- (en/topics/understand-2-security/4-your-sources-journo/1-intro.md): How to protect your sources
-- (en/topics/understand-2-security/5-your-colleagues/1-intro.md): How to protect your colleagues
----
-See also:
-- Security First: [Umbrella](https://secfirst.org/index.html)
-- De Becker, G. (1997). The Gift of Fear and Other Survival Signals that Protect us from Violence, New York: Dell Publishing.
-- Level-up: [Psychological underpinnings of security training](https://www.level-up.cc/resources-for-trainers/holistic/psychological-underpinnings-security-training)
-- [Integrated Security Manual](http://www.integratedsecuritymanual.org/)
-
 
 

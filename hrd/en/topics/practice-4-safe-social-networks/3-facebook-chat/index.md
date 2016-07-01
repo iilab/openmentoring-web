@@ -254,10 +254,7 @@ Jitsi lets you voice and video chat with more than one person. Note that with th
 
 
 
-## Next
-
  See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
-
 
 

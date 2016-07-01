@@ -45,10 +45,7 @@ Following the guidelines in the [Safer Communication](en/topics/understand-4-dig
 
 
 
-## Next
-
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
 
 

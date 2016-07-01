@@ -32,7 +32,7 @@
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-* [](topics/practice-4-safe-social-networks/index.md)
+* [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
   * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
   
