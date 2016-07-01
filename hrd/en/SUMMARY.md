@@ -2,7 +2,7 @@
 
 * [Deal with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [](topics/practice-1-emergencies/0-getting-started/index.md)
+  * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
   * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
@@ -22,9 +22,9 @@
   
   * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -86,12 +86,6 @@
   
   * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
-* [Using Conversations](topics/tool-6-conversations/index.md)
-  
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
-  
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
@@ -99,6 +93,12 @@
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+* [Using Conversations](topics/tool-6-conversations/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  
+  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   

@@ -2,9 +2,9 @@
 
 * [Deal with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [](topics/practice-1-emergencies/0-getting-started/index.md)
+  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   

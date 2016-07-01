@@ -10,6 +10,11 @@ Learn the basics of managing a website
 
 
 
+
+
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -26,11 +31,6 @@ Learn the basics of managing a website
         <answer>No</answer>
     </question>
 </quiz>
-
-
-
-
-
 
 
 ## Next

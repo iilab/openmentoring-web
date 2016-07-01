@@ -1,17 +1,20 @@
 # Your Well Being
-## Identifying Traumatic stress
+## Identifying chronic stress
 
-#
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+# Healthy levels of stress
+With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
 <br>
-#
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+# Chronic stress
+If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
 <br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
+# Chronic stress and burnout
+Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
 <br>
-Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+# A common problem
+Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
 <br>
-![](recap.png)
+# Hard to deal with problems
+Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
 
 
 
@@ -89,6 +92,24 @@ If you are suffering from vicarious traumatisation, counseling is recommended. I
 
 
 
+## Dealing with unfounded fears
+
+# Unfounded fears are normal
+Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
+<br>
+# Being aware of fears
+You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
+<br>
+# Checking your perception
+We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
+<br>
+# Become informed
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+# Reduce misinformation
+Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
+
+
+
 ## Dealing with post-traumatic stress
 
 # Improving naturally
@@ -107,24 +128,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
-
-
-
-## Dealing with unfounded fears
-
-# Unfounded fears are normal
-Stress, tiredness, fear, and experiencing previous trauma might inspire unfounded fears. Although this feeling is not desirable, it is natural - we all have unfounded fears at certain times.
-<br>
-# Being aware of fears
-You might feel the need for increased caution or be extremely suspicious of strangers, public figures, organisations, family, or friends. Being aware of this will help you find tools for checking your perception.
-<br>
-# Checking your perception
-We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
-<br>
-# Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
-# Reduce misinformation
-Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
 
 
@@ -206,22 +209,19 @@ Dissociation is a sign of serious traumatization.
 
 
 
-## Identifying chronic stress
+## Identifying Traumatic stress
 
-# Healthy levels of stress
-With healthy levels of stress, symptoms are generally mild and temporary - people return to functioning when the stress factor is removed.
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Chronic stress
-If exposure to stress is excessive or long-term however, symptoms can persist and multiply, resulting in chronic or cumulative stress.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Chronic stress and burnout
-Chronic stress builds slowly and may be hard to notice in yourself or others. If not properly managed, chronic stress can lead to burnout.
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# A common problem
-Chronic stress occurs regularly among journalists and human rights defenders, yet often goes unrecognised or unreported.
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Hard to deal with problems
-Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
+![](recap.png)
 
 
 
@@ -342,6 +342,19 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 
 
+## Identifying post-traumatic stress
+
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+
+
+
 ## Dealing with traumatic
 
 # Use your own strategy
@@ -373,19 +386,6 @@ Adapt the following suggestions to take account of what is possible after the cr
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 

@@ -18,39 +18,6 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
 
 
 
-## Signal basics
-
-# Messaging app
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
-<br>
-# Encrypted content
-Using Signal will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
-<br>
-# Contacts visible
-Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
-<br>
-# Think about the risks
-In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-<br>
-# Installation guide
-Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
-<br>
-# Requirements
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
-<br>
-# Android versions
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
-<br>
-# Communicate with
-When you use Signal you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
-
-
 ## Installing Signal in 3 steps
 
 # Step 1. Download Signal
@@ -79,34 +46,6 @@ If you do not agree with the permissions allowed, press the back button and the 
 <br>
 # Step 3. Run Signal
 Tap Open to run the app for the first time
-
-
-
-## Registering with Signal
-
-# Step 1: Register your phone number
-Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
->Registration screen
-
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
->Confirming number
-
-<br>
-# Step 2: Confirm registration
-Signal will send you an SMS message to confirm registration.
-<br>
-Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
-<Br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
-Registration completing
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
-Voice verification screens
 
 
 
@@ -140,6 +79,34 @@ After a set period of time, if you have not looked at any messages, Signal will 
 
 
 
+## Registering with Signal
+
+# Step 1: Register your phone number
+Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
+>Registration screen
+
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
+>Confirming number
+
+<br>
+# Step 2: Confirm registration
+Signal will send you an SMS message to confirm registration.
+<br>
+Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
+<Br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
+Registration completing
+<br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
+Voice verification screens
+
+
+
 ## Enable encrypted storage
 
 1. Tap on  in the top right of your screen to bring up the menu and select .
@@ -164,12 +131,42 @@ After a set period of time, if you have not looked at any messages, Signal will 
 
 
 
-## Next
+## Signal basics
+
+# Messaging app
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+<br>
+# Encrypted content
+Using Signal will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
+<br>
+# Contacts visible
+Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+<br>
+# Think about the risks
+In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+<br>
+# Installation guide
+Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
+<br>
+# Requirements
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+<br>
+# Android versions
+In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+<br>
+# Communicate with
+When you use Signal you can communicate with users using the following programs:
+ - Android: surespot, ChatSecure, Zom
+ - iOS: surespot, ChatSecure
+ - Microsoft Windows: Jitsi, Pidgin
+ - Mac OS: Jitsi, Adium
+ - Linux: Jitsi, Pidgin
+
+
 
 ---
 - (en/topics/tool-2-signal/1-messaging/1-intro.md): Send encrypted messages to other Signal users via SMS or the internet (MMS).
 - (en/topics/tool-2-signal/2-voice/1-intro.md): Make encrypted voice calls to other Signal users.
 - (en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md):  Know how to securely communicate 
-
 
 

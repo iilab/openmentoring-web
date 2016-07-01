@@ -2,9 +2,9 @@
 
 * [Deal with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
-  * [](topics/practice-1-emergencies/0-getting-started/index.md)
+  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
@@ -50,9 +50,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -100,16 +100,6 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
-  
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
   * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
@@ -118,9 +108,9 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
@@ -134,13 +124,13 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
@@ -152,17 +142,27 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
   
