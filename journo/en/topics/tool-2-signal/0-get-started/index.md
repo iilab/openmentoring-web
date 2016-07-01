@@ -1,4 +1,10 @@
 # Get Started with Signal
+## Get started with Signal
+
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+
+
+
 ## Learn how to
 
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
@@ -9,12 +15,6 @@
  - [Set up encrypted storage](en/topics/tool-2-signal/0-getting-started/4-4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
-
-
-
-## Get started with Signal
-
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
 
@@ -110,6 +110,30 @@ Voice verification screens
 
 
 
+## Enable encrypted storage
+
+1. Tap on  in the top right of your screen to bring up the menu and select .
+<br>
+2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
+<br>
+3. When prompted enter a passphrase that will be used to protect the messages stored on your phone and tap .
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
+> Passphrase options
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
+> Setting a password
+
+<br>
+4. Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
+<br>
+5. Tap Timeout interval and in the next screen enter after what time you want Signal to lock if unused and tap .
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
+> Signal timeout settings
+
+
+
 ## Configure Signal
 
 # Importing Messages
@@ -137,30 +161,6 @@ Signal also allows you to store all your messages in an encrypted container prot
 <br>
 # Automatic locking
 After a set period of time, if you have not looked at any messages, Signal will automatically lock and you will have to enter your passphrase the next time you want to read your messages.
-
-
-
-## Enable encrypted storage
-
-1. Tap on  in the top right of your screen to bring up the menu and select .
-<br>
-2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
-<br>
-3. When prompted enter a passphrase that will be used to protect the messages stored on your phone and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
-> Passphrase options
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
-> Setting a password
-
-<br>
-4. Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
-<br>
-5. Tap Timeout interval and in the next screen enter after what time you want Signal to lock if unused and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
-> Signal timeout settings
 
 
 

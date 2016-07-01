@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:45:58.189Z",
+  "updatedAt": "2016-07-01T16:30:25.054Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Use Open Mentoring",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content", "protect:content,identity", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -156,17 +156,6 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works",
-      "type": "topic",
-      "title": "How does it work?",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-9-tor-browser",
       "type": "topic",
       "title": "Tor Browser",
@@ -175,6 +164,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-1-how-it-works",
+      "type": "topic",
+      "title": "How does it work?",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
     }
   ,
     {
@@ -223,29 +223,7 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Get Started",
-      "parentTitle": "Deal with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_1-seek-help",
-      "type": "unit",
-      "title": "Seek Remote Help",
-      "parentTitle": "Deal with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
       "title": "Seek Remote Help",
       "parentTitle": "Deal with Emergencies",
@@ -259,6 +237,17 @@
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Hijacked Account",
+      "parentTitle": "Deal with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -300,17 +289,6 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
-      "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Deal with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-2-plan_0-getting-started",
       "type": "unit",
       "title": "Get Started",
@@ -333,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_4-emergency-plan",
+      "slug": "practice-2-plan_2-assess-risk",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Assess security risks",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -344,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_2-assess-risk",
+      "slug": "practice-2-plan_4-emergency-plan",
       "type": "unit",
-      "title": "Assess security risks",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -399,9 +377,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_3-facebook-chat",
+      "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
       "type": "unit",
-      "title": "Chatting securely",
+      "title": "Control access to your personal details",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -410,9 +388,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
+      "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "Control access to your personal details",
+      "title": "Chatting securely",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -459,7 +437,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Use Open Mentoring",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content","protect:content,identity","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -586,7 +564,7 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_0-getting-started",
+      "slug": "tool-6-conversations_0-get-started",
       "type": "unit",
       "title": "Getting Started with Signal",
       "parentTitle": "Using Conversations",
@@ -685,6 +663,28 @@
     }
   ,
     {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -740,28 +740,6 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -806,9 +784,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_5-your-colleagues",
+      "slug": "understand-2-security_4-your-sources-journo",
       "type": "unit",
-      "title": "Your colleagues",
+      "title": "Your Sources",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -817,9 +795,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_4-your-sources-journo",
+      "slug": "understand-2-security_5-your-colleagues",
       "type": "unit",
-      "title": "Your Sources",
+      "title": "Your colleagues",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],

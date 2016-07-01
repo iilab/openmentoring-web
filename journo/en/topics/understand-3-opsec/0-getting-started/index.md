@@ -12,14 +12,14 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Introduction text...
 
 
-## Learn
-
-Learning text...
-
-
 ## Scenario
 
 Scenario text...
+
+
+## Learn
+
+Learning text...
 
 
 ## Test

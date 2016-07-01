@@ -4,17 +4,13 @@
   
   * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
   
-  * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [Seek Remote Help](topics/practice-1-emergencies/1-seek-help/index.md)
-  
-  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
@@ -26,9 +22,9 @@
   
   * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
   
-  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
+  
+  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -52,31 +48,31 @@
   
   * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
   
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
+  
 * [Use Open Mentoring](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
-  
 * [Using Signal](topics/tool-2-signal/index.md)
   
   * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
   
-  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
-  
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
+  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
   
 * [Use Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Get Started with Enigmail](topics/tool-3-enigmail/0-get-started/index.md)
   
-  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
-  
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+  
+  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
 * [Use KeepassX](topics/tool-4-keepassx/index.md)
   
@@ -92,7 +88,7 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
   
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   

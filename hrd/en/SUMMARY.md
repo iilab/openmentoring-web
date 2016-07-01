@@ -4,11 +4,7 @@
   
   * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
   
-  * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [Seek Remote Help](topics/practice-1-emergencies/1-seek-help/index.md)
-  
-  * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
@@ -92,7 +88,7 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
+  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
   
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
   

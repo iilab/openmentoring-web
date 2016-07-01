@@ -12,12 +12,20 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
+## A suspicious email...
+
+While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
+<br>
+It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
+
+
+
 ## Verify if the problem is real
 
 # Assess the situation
 You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.
 <br>
-# Where is the information is from?
+# Where is the information from?
 Make sure you verify where the information is coming from. Was it via email? Did you see an error message on a website? Has someone told you about the problem?
 <br>
 # Do you trust the source?
@@ -52,14 +60,6 @@ Is your website down? Has it been defaced?
 
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
-
-
-
-## A suspicious email...
-
-While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
-<br>
-It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
 
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:46:00.831Z",
+  "updatedAt": "2016-07-01T16:30:28.160Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -223,29 +223,7 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Get Started",
-      "parentTitle": "Deal with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_1-seek-help",
-      "type": "unit",
-      "title": "Seek Remote Help",
-      "parentTitle": "Deal with Emergencies",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
       "title": "Seek Remote Help",
       "parentTitle": "Deal with Emergencies",
@@ -586,7 +564,7 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_0-getting-started",
+      "slug": "tool-6-conversations_0-get-started",
       "type": "unit",
       "title": "Getting Started with Signal",
       "parentTitle": "Using Conversations",

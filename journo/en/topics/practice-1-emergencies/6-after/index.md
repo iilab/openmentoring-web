@@ -14,6 +14,14 @@ Steps to take after an emergency has taken place.
 
 
 
+## Re-evaluating emergency plans
+
+Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
+<br>
+Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
+
+
+
 ## Revising emergency plans
 
 # What worked and what didn't?
@@ -56,14 +64,6 @@ Traumatic stress is a normal reaction to an abnormal situation. It's very possib
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the [Your Well-Being](en/topics/understand-2-security/2-your-well-being/index.html) unit presented elsewhere in this tool.
 <br>
 > Stress after trauma is a normal reaction to an abnormal situation.
-
-
-
-## Re-evaluating emergency plans
-
-Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
-<br>
-Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
 
 
 
