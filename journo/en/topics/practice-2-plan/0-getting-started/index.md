@@ -19,19 +19,6 @@ If she doesn't, she knows that she exposes herself to unnecessary and avoidable 
 
 
 
-## Next
-
----
-- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
-- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
-- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
----
-To learn more about dealing with emergencies, see also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
-
-
-
 ## Choose the right lesson
 
 
@@ -47,6 +34,19 @@ Want to see how possible events can result in harm, and know the right measures 
 
 Not sure how to turn risk assessment and threat model into real action? Check out the Emergency Plan lesson:
 * [Emergency Plan](en/topics/practice-2-planning/4-emergency-plan/1-1-intro.md)
+
+
+
+## Next
+
+---
+- en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
+- en/topics/understand-3-opsec/0-getting-started: Find out about what operational security or opsec means
+- en/topics/understand-4-digisec/0-getting-started: Learn more about important concepts of digital security
+---
+To learn more about dealing with emergencies, see also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
 
 
 

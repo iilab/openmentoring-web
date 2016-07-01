@@ -1,4 +1,4 @@
-# Creating a standard encrypted volume
+# Create a standard encrypted volume
 ## Create a standard encrypted volume
 
 Learn how to create a standard volume using Veracrypt
@@ -20,7 +20,7 @@ He needs to be careful to share the app and its content in ways that doesn't all
 
 
 
-## Creating a standard encrypted volume
+## Create a standard encrypted volume
 
 # Step 1. Open Veracrypt
 Launch VeraCrypt to open the main application window

@@ -66,29 +66,29 @@
   
   * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
+* [Use Enigmail](topics/tool-3-enigmail/index.md)
   
-  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
+  * [Get Started with Enigmail](topics/tool-3-enigmail/0-get-started/index.md)
   
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
+* [Use KeepassX](topics/tool-4-keepassx/index.md)
   
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
+  * [Using KeePassX](topics/tool-4-keepassx/0-get-started/index.md)
   
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  * [Create a new entry](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
+* [Use Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
   
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:31:27.529Z",
+  "updatedAt": "2016-07-01T15:45:14.260Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -92,7 +92,7 @@
     {
       "slug": "tool-3-enigmail",
       "type": "topic",
-      "title": "Using Enigmail",
+      "title": "Use Enigmail",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -103,7 +103,7 @@
     {
       "slug": "tool-4-keepassx",
       "type": "topic",
-      "title": "Using KeepassX",
+      "title": "Use KeepassX",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -114,7 +114,7 @@
     {
       "slug": "tool-5-veracrypt",
       "type": "topic",
-      "title": "Veracrypt",
+      "title": "Use Veracrypt",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -178,17 +178,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec",
-      "type": "topic",
-      "title": "Understand Operational Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security",
       "type": "topic",
       "title": "Understand Security",
@@ -197,6 +186,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec",
+      "type": "topic",
+      "title": "Understand Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -489,7 +489,7 @@
     {
       "slug": "tool-2-signal_1-messaging",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "Use Signal messaging",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","protect:content"],
@@ -509,10 +509,10 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_0-getting-started",
+      "slug": "tool-3-enigmail_0-get-started",
       "type": "unit",
-      "title": "Getting Started with Enigmail",
-      "parentTitle": "Using Enigmail",
+      "title": "Get Started with Enigmail",
+      "parentTitle": "Use Enigmail",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -523,7 +523,7 @@
       "slug": "tool-3-enigmail_1-new-key",
       "type": "unit",
       "title": "Generate a new key pair using Enigmail",
-      "parentTitle": "Using Enigmail",
+      "parentTitle": "Use Enigmail",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -534,7 +534,7 @@
       "slug": "tool-3-enigmail_2-encrypt-decrypt",
       "type": "unit",
       "title": "Encrypt and decrypt messages using Enigmail",
-      "parentTitle": "Using Enigmail",
+      "parentTitle": "Use Enigmail",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -542,10 +542,10 @@
     }
   ,
     {
-      "slug": "tool-4-keepassx_0-getting-started",
+      "slug": "tool-4-keepassx_0-get-started",
       "type": "unit",
       "title": "Using KeePassX",
-      "parentTitle": "Using KeepassX",
+      "parentTitle": "Use KeepassX",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -555,8 +555,8 @@
     {
       "slug": "tool-4-keepassx_2-create-new-entry",
       "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using KeepassX",
+      "title": "Create a new entry",
+      "parentTitle": "Use KeepassX",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -564,10 +564,10 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-getting-started",
+      "slug": "tool-5-veracrypt_0-get-started",
       "type": "unit",
-      "title": "Using Veracrypt",
-      "parentTitle": "Veracrypt",
+      "title": "Use Veracrypt",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -577,8 +577,8 @@
     {
       "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "Creating a standard encrypted volume",
-      "parentTitle": "Veracrypt",
+      "title": "Create a standard encrypted volume",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -762,42 +762,20 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understand Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understand Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understand Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -828,9 +806,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
+      "slug": "understand-2-security_4-your-sources-journo",
       "type": "unit",
-      "title": "Your Security",
+      "title": "Your Sources",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -850,14 +828,36 @@
     }
   ,
     {
-      "slug": "understand-2-security_4-your-sources-journo",
+      "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
-      "title": "Your Sources",
-      "parentTitle": "Understand Security",
+      "title": "Getting Started",
+      "parentTitle": "Understand Operational Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understand Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understand Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {

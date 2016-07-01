@@ -66,29 +66,29 @@
   
   * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
   
-  * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
+  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Using Enigmail](topics/tool-3-enigmail/index.md)
+* [Use Enigmail](topics/tool-3-enigmail/index.md)
   
-  * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
+  * [Get Started with Enigmail](topics/tool-3-enigmail/0-get-started/index.md)
   
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
+* [Use KeepassX](topics/tool-4-keepassx/index.md)
   
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
+  * [Using KeePassX](topics/tool-4-keepassx/0-get-started/index.md)
   
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  * [Create a new entry](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
+* [Use Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
   
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -132,6 +132,20 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
 * [Understand Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
@@ -139,20 +153,6 @@
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
-  
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   

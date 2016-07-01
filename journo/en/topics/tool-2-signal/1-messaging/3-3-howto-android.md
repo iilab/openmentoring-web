@@ -1,4 +1,4 @@
-## Messaging groups
+## Message groups
 
 # Basics
 Signal also allows you to message multiple people at once.

@@ -1,11 +1,8 @@
 # Down website
-## Hosting problem
+## Legal problem
 
-# Not loading at all?
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-# Look up status
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+# Copyright
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 
@@ -64,10 +61,13 @@ Make sure your billing information is up to date and that there is no outstandin
 
 
 
-## Legal problem
+## Hosting problem
 
-# Copyright
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+# Not loading at all?
+If your website is not loading at all, the company that hosts your website may be having problems.
+<br>
+# Look up status
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 

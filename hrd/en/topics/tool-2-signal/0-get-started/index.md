@@ -1,5 +1,5 @@
 # Get Started with Signal
-## Getting started with Signal
+## Get started with Signal
 
 Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
@@ -51,7 +51,7 @@ When you use Signal you can communicate with users using the following programs:
 
 
 
-## Installing Signal in 3 steps
+## Install Signal in 3 steps
 
 # Step 1. Download Signal
 On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
@@ -82,7 +82,7 @@ Tap Open to run the app for the first time
 
 
 
-## Registering with Signal
+## Register Signal
 
 # Step 1: Register your phone number
 Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)

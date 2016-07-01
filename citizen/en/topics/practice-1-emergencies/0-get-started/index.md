@@ -1,10 +1,4 @@
 # Get Started
-## Get started
-
-Learn how to recognise and deal with the most common types of digital threats.
-
-
-
 ## Learn how to
 
 - [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
@@ -12,11 +6,9 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
-## A suspicious email...
+## Get started
 
-While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
-<br>
-It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
+Learn how to recognise and deal with the most common types of digital threats.
 
 
 
@@ -60,6 +52,14 @@ Is your website down? Has it been defaced?
 
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
+
+
+
+## A suspicious email...
+
+While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
+<br>
+It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
 
 
