@@ -120,8 +120,6 @@ Learn why your website might be down.
 
 
 
-## Test
-
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -136,7 +134,6 @@ Learn why your website might be down.
         <answer>No</answer>
     </question>
 </quiz>
-
 
 ## Next
 

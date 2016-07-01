@@ -49,6 +49,19 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 
 
 
+## Next
+
+---
+- en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
+-/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
+-/en/topics/practice-6-managing-website/1-down-site/1-1-intro.md: Reasons your website might be down
+---
+See also:
+- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -65,18 +78,5 @@ The image will briefly spin and then display You've switched to a new Tor Identi
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
----
-- en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
--/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
--/en/topics/practice-6-managing-website/1-down-site/1-1-intro.md: Reasons your website might be down
----
-See also:
-- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
-- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
-
 
 

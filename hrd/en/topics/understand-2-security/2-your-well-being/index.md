@@ -1,6 +1,4 @@
 # Your Well Being
-## Identifying Traumatic stress
-
 #
 Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
@@ -12,7 +10,6 @@ Any event which is very distressing and outside of the realm of normal human exp
 Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
 ![](recap.png)
-
 
 
 ## Learn

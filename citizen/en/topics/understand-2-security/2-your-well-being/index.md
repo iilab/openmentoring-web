@@ -17,28 +17,6 @@ Traumatic stress usually produces a very intense response, including fear and/or
 
 ## Learn
 
-# Basics
-Every person has a level of challenge or threat that stimulates them to a point of maximum productivity and well-being.
-<br>
-# Benefits of stress
-If there is not enough stimulation and challenge in our lives, we feel bored and become unproductive, even depressed.
-<br>
-# Too much is overwhelming
-If there is too much challenge or threat, we start to become overwhelmed.
-<br>
-# A natural response
-When we feel overwhelmed by the challenges in our work and home lives, or when we have been working too hard, for too long and without enough rest, our bodies naturally start to behave differently.
-<br>
-# Rest is important
-Stress and fatigue can result in us identifying and responding to threats in the wrong way. If you are exhausted, burnt out or depressed, you are unlikely to be as secure or effective as you would be if you were healthier or better rested.
-<br>
-# Self care is empowering
-Being sensitive towards ourselves and handling our emotional and physical vulnerabilities with care may contribute to our security as much as it might prove a source of inspiration and power.
-
-
-
-## Learn
-
 # Dealing with trauma
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress.
 <br>
@@ -225,6 +203,28 @@ Not only is chronic stress harmful for the body physically and mentally, it can 
 
 
 
+## Learn
+
+# Basics
+Every person has a level of challenge or threat that stimulates them to a point of maximum productivity and well-being.
+<br>
+# Benefits of stress
+If there is not enough stimulation and challenge in our lives, we feel bored and become unproductive, even depressed.
+<br>
+# Too much is overwhelming
+If there is too much challenge or threat, we start to become overwhelmed.
+<br>
+# A natural response
+When we feel overwhelmed by the challenges in our work and home lives, or when we have been working too hard, for too long and without enough rest, our bodies naturally start to behave differently.
+<br>
+# Rest is important
+Stress and fatigue can result in us identifying and responding to threats in the wrong way. If you are exhausted, burnt out or depressed, you are unlikely to be as secure or effective as you would be if you were healthier or better rested.
+<br>
+# Self care is empowering
+Being sensitive towards ourselves and handling our emotional and physical vulnerabilities with care may contribute to our security as much as it might prove a source of inspiration and power.
+
+
+
 ## Dealing with chronic stress
 
 # Stress management
@@ -277,6 +277,53 @@ Any event which is very distressing and outside of the realm of normal human exp
 <br>
 # How you respond
 Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
+
+
+
+## Dealing with traumatic
+
+# Use your own strategy
+Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
+<br>
+# Possible strategies
+Adapt the following suggestions to take account of what is possible after the crisis.
+<br>
+# Use positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+# Use positive coping strategies
+- Discuss problems with someone you trust.
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+# Avoid negative coping strategies
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+- Don’t work all the time without any rest or relation
+<br>
+# Avoid negative coping strategies
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+# Weeks and months after
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+
+
+
+## Identifying post-traumatic stress
+
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 
@@ -342,53 +389,6 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 
 
-## Dealing with traumatic
-
-# Use your own strategy
-Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
-<br>
-# Possible strategies
-Adapt the following suggestions to take account of what is possible after the crisis.
-<br>
-# Use positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-# Use positive coping strategies
-- Discuss problems with someone you trust.
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-# Avoid negative coping strategies
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-- Don’t work all the time without any rest or relation
-<br>
-# Avoid negative coping strategies
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-# Weeks and months after
-Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
-
-
-
 ## Effects of post-traumatic stress
 
 # Symptoms vary widely
@@ -426,12 +426,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
-## Introduction
-
-Learn about ensuring your short and long term well-being.
-
-
-
 ## Learn about
 
 # stress and security
@@ -444,6 +438,12 @@ Learn about ensuring your short and long term well-being.
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+
+
+
+## Introduction
+
+Learn about ensuring your short and long term well-being.
 
 
 
