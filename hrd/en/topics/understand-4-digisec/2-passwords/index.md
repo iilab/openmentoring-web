@@ -14,11 +14,6 @@ Learn about how to create strong and secure passwords
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Password basics
 
 # Protecting your information
@@ -109,8 +104,13 @@ You input the code to verify that you are indeed the person trying to access the
 
 ## Next
 
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
+---
+- en/topics/understand-3-opsec/0-getting-started/1-1-intro.md: Digital security basics
+- en/topics/understand-2-security/0-getting-started/1-1-intro.md: Understand security basics
+-
+---
+See also:
+- Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/en/module/creating-strong-passwords)
+
 
 

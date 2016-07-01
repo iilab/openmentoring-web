@@ -31,6 +31,22 @@ talking about that it's courageous to bring this subject up and when other peopl
 Scenario text...
 
 
+## Learn
+
+# Weakest link
+As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
+<br>
+# Security for all
+When developing a security plan with your colleagues, be sure to include people in all roles of your organisation.
+<br>
+# Positions to include
+For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
+<br>
+# See also
+- opsec - information compartmentalisation.
+
+
+
 ## Information compartmentalisation
 
 # Information security
@@ -122,22 +138,6 @@ When you or other people bring it up, it is important not to take this as a weak
 <br>
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
-
-
-
-## Learn
-
-# Weakest link
-As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
-<br>
-# Security for all
-When developing a security plan with your colleagues, be sure to include people in all roles of your organisation.
-<br>
-# Positions to include
-For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
-<br>
-# See also
-- opsec - information compartmentalisation.
 
 
 

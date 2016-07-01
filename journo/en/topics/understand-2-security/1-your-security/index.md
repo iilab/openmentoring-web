@@ -26,6 +26,8 @@ Brenda needs to create a security assessment. If she doesn't get input from her 
 
 
 
+## Learn
+
 > security - make it more about what are the components that would go into your security - maybe kind of a getting started. your security is physical safety (what people would think of), emphasise this,but also security of information….your sources, your well being is important (give a concrete example here - if you are depressed or shocked you won’t be able to continue your job. it’s part of your security think about your well being and those of moths.
 
 > explain in your security and well being are more important than story - that this is true and will allow you to continue doing your work.
@@ -127,6 +129,9 @@ The assessment should include:
  ![](recap.png)
 
 
+
+## Learn
+
 > Step 2
 # Address communications infrastructure
 
@@ -139,6 +144,7 @@ Is a generator or a car battery with a DC adaptor needed to power one’s comput
 Basic needs such as nourishment and medical care must be addressed as well. Are food and water readily available? Is a hospital, clinic, or physician available? Is a medical kit needed, and what should it include? This is helpful for knowing what kinds of items you should bring along with you.
 <br>
 ![](recap.png)
+
 
 
 ## Learn

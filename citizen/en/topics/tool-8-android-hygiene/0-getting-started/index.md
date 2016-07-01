@@ -38,16 +38,6 @@ You can specify a value which suits you, depending on how regularly you are will
 
 
 
-## Network settings
-
-# Turn off Wi-Fi and Bluetooth by default.
-Ensure that Tethering and Portable Hotspots, under Wireless and Network Settings, are switched off when not in use. *Settings -> Wireless & Networks -> More -> Tethering & Mobile hotspot*.
-<br>
-# Manually switch off Near Field Communication
-If your device supports Near Field Communication (NFC), this will be switched on by default, and so must be switched off manually.
-
-
-
 ## Device encryption
 
 # Turn on
@@ -57,6 +47,16 @@ If your device uses Android version 4.0 or newer, you should turn on device encr
 Before you can utilise device encryption, however, you will be required to set a screen lock password.
 <br>
 **Note:** Before starting the encryption process, ensure the phone is fully charged and plugged into a power source.
+
+
+
+## Network settings
+
+# Turn off Wi-Fi and Bluetooth by default.
+Ensure that Tethering and Portable Hotspots, under Wireless and Network Settings, are switched off when not in use. *Settings -> Wireless & Networks -> More -> Tethering & Mobile hotspot*.
+<br>
+# Manually switch off Near Field Communication
+If your device supports Near Field Communication (NFC), this will be switched on by default, and so must be switched off manually.
 
 
 
@@ -91,6 +91,8 @@ Apps you have installed: Open the Play store app, from the side menu select My A
 
 
 
+## Next
+
 ---
 - en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Using the Signal app for secure messaging
 - en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learn to communicate securely
@@ -98,5 +100,6 @@ Apps you have installed: Open the Play store app, from the side menu select My A
 ---
 See also:
 - Tactical Technology Collective: [Basic Android Security Setup Guide](https://securityinabox.org/en/eco-rights-africa/basic-setup/android)
+
 
 

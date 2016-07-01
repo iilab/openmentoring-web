@@ -5,6 +5,12 @@ Learn the basics of using mobile phones security.
 
 
 
+## Learn about
+
+- [Basics of communicating securely on smart phones](en/topics/practice-3-safe-phones/0-getting-started/3-learn.md)
+
+
+
 ## Scenario
 
 Scenario text...
@@ -29,12 +35,6 @@ RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but bo
 <br>
 # Secure Android messaging apps:
 Orbot by The Guardian Project and the Tor Project allows you to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. For more information, refer to the [Orbot lesson](en/topics/tool-10-orbot/0-getting-started/1-1-intro.md)
-
-
-
-## Learn about
-
-- [Basics of communicating securely on smart phones](en/topics/practice-3-safe-phones/0-getting-started/3-learn.md)
 
 
 

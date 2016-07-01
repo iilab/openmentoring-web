@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T14:31:36.030Z",
+  "updatedAt": "2016-07-01T14:42:24.949Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,9 +62,20 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:identity", "protect:content", "protect:content", "protect:content,identity"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-10-orbot",
+      "type": "topic",
+      "title": "Orbot",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
     }
   ,
     {
@@ -131,17 +142,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-10-orbot",
-      "type": "topic",
-      "title": "Orbot",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
     }
   ,
     {
@@ -234,9 +234,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Devices Seized",
+      "title": "",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -245,9 +245,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_2-account-hijacked",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "",
+      "title": "Devices Seized",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -333,23 +333,23 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_1-instant-messaging",
-      "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-3-safe-phones_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_1-instant-messaging",
+      "type": "unit",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -437,9 +437,20 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content","protect:content,identity"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-10-orbot_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Orbot",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
     }
   ,
     {
@@ -454,23 +465,23 @@
     }
   ,
     {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","protect:content","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-2-signal_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -553,23 +564,23 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_1-messaging",
-      "type": "unit",
-      "title": "How to use messaging?",
-      "parentTitle": "Using Conversations",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-6-conversations_0-getting-started",
       "type": "unit",
       "title": "Getting Started with Signal",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-6-conversations_1-messaging",
+      "type": "unit",
+      "title": "How to use messaging?",
+      "parentTitle": "Using Conversations",
+      "locale": "en",
+      "categories": ["platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
     }
@@ -608,14 +619,14 @@
     }
   ,
     {
-      "slug": "tool-10-orbot_0-getting-started",
+      "slug": "tool-8-android-hygiene_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
-      "parentTitle": "Orbot",
+      "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
     }
   ,
     {
@@ -641,17 +652,6 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-8-android-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
@@ -663,9 +663,9 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "slug": "tool-9-tor-browser_0-getting-started",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
+      "title": "Getting Started",
       "parentTitle": "Tor Browser",
       "locale": "en",
       "categories": [],
@@ -674,9 +674,9 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser_0-getting-started",
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "How to prevent your traffic from being watched",
       "parentTitle": "Tor Browser",
       "locale": "en",
       "categories": [],
@@ -718,9 +718,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_4-internet",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -729,9 +729,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -817,9 +817,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_2-organisational-security",
+      "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
-      "title": "Organisational Security",
+      "title": "Establishing Trust",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
@@ -828,9 +828,9 @@
     }
   ,
     {
-      "slug": "understand-3-opsec_1-establishing-trust",
+      "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
-      "title": "Establishing Trust",
+      "title": "Organisational Security",
       "parentTitle": "Understanding Operational Security",
       "locale": "en",
       "categories": [],
