@@ -12,12 +12,6 @@ Learn how to create new KeePassX entries.
 
 
 
-## Scenario
-
-Scenario text...
-
-
-
 ## Create a new entry
 
 # Step 1. Select New Entry

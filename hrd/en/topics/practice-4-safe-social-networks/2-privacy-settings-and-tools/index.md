@@ -69,11 +69,6 @@ Click Edit on the first two options and ensure that only Friends can search for 
 
 
 
-## Test you social networking knowledge!
-
-
-
-
 ## Next
 
 ---
@@ -83,6 +78,8 @@ Click Edit on the first two options and ensure that only Friends can search for 
 See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
 - [Zen and the art of making Tech Work for you](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
+
+
 
 
 

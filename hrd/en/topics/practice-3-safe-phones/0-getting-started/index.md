@@ -1,13 +1,13 @@
 # Getting Started
-## Safe phones
-
-Learn the basics of using mobile phones security.
-
-
-
 ## Learn about
 
 - [Basics of communicating securely on smart phones](en/topics/practice-3-safe-phones/0-getting-started/3-learn.md)
+
+
+
+## Safe phones
+
+Learn the basics of using mobile phones security.
 
 
 
@@ -56,10 +56,7 @@ Orbot by The Guardian Project and the Tor Project allows you to access the web, 
 </quiz>
 
 
-## Next
-
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
 

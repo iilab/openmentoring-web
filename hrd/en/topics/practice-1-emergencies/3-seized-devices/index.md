@@ -6,15 +6,6 @@ Learn what to do if your digital devices are taken.
 
 
 
-## Learn how to
-
-- [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
-- [Identify content and documents on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
-- [Identify contacts and linked accounts](en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)
-- [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
-
-
-
 ## A missing laptop...
 
 Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
@@ -156,6 +147,15 @@ Are there signs that the device has been physically tampered with? This will hel
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Learn how to
+
+- [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
+- [Identify content and documents on the missing device](en/topics/practice-1-emergencies/3-seized-devices/3-4-learn.md)
+- [Identify contacts and linked accounts](en/topics/practice-1-emergencies/3-seized-devices/3-5-learn.md)
+- [Deal with a returned device](en/topics/practice-1-emergencies/3-seized-devices/3-6-learn.md)
+
 
 
 ## Next

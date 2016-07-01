@@ -5,20 +5,20 @@ Learn how to use social networks more safely.
 
 
 
+## Publicising a march...
+
+Brenda and Isaac are going to a march and want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
+<br>
+They plan to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+
+
+
 ## Learn how to
 
 - [Social networking basics](en/topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
 - [Who can access your social networking data?](en/topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
 - [Who owns your social networking data](en/topics/practice-4-safe-social-networks/0-getting-started/3-3-learn.md))
 - [Choosing the right social networking lesson](en/topics/practice-4-safe-social-networks/0-getting-started/3-4-learn.md)
-
-
-
-## Publicising a march...
-
-Brenda and Isaac are going to a march and want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest could be traced.
-<br>
-They plan to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 

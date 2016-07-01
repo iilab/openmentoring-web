@@ -1,13 +1,13 @@
 # Using KeePassX
-## Getting started with KeePassX
-
-Learn how to use KeePassX for securely managing passwords for multiple accounts.
-
-
-
 ## Learn about how
 
  - [KeePassX can manage passphrases for multiple accounts](en/topics/tool-4-keepassx/0-getting-started/3-learn.md)
+
+
+
+## Getting started with KeePassX
+
+Learn how to use KeePassX for securely managing passwords for multiple accounts.
 
 
 
@@ -24,8 +24,6 @@ Refer to [the guide](https://securityinabox.org/en/guide/keepassx/os-x) Tactical
 
 
 
-## Next
-
 ---
 - (en/topics/understand-4-digisec/2-passwords/1-1-intro.md): Learn how to create strong passphrases
 - (en/topics/understand-2-security/1-your-security/1-1-intro.md): Understanding your security
@@ -33,6 +31,5 @@ Refer to [the guide](https://securityinabox.org/en/guide/keepassx/os-x) Tactical
 ---
 See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/guide/keepassx/os-x)
-
 
 

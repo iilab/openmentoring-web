@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T12:04:39.685Z",
+  "updatedAt": "2016-07-01T13:26:38.864Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -145,17 +145,6 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser",
-      "type": "topic",
-      "title": "Tor Browser",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-8-android-hygiene",
       "type": "topic",
       "title": "Android Hygiene",
@@ -164,6 +153,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser",
+      "type": "topic",
+      "title": "Tor Browser",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -178,17 +178,6 @@
     }
   ,
     {
-      "slug": "understand-3-opsec",
-      "type": "topic",
-      "title": "Understanding Operational Security",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security",
       "type": "topic",
       "title": "Understand Security",
@@ -197,6 +186,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec",
+      "type": "topic",
+      "title": "Understanding Operational Security",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -212,9 +212,9 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Getting Started",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -300,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_1-threats",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Understanding Threats",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_1-threats",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Assessing Security Risks",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_2-voice",
+      "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
-      "title": "How to have voice calls?",
+      "title": "How to use messaging?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -586,9 +586,9 @@
     }
   ,
     {
-      "slug": "tool-6-conversations_1-messaging",
+      "slug": "tool-6-conversations_2-voice",
       "type": "unit",
-      "title": "How to use messaging?",
+      "title": "How to have voice calls?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],
@@ -627,28 +627,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-7-computer-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
-      "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Tor Browser",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -693,6 +671,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ,
     {
@@ -748,39 +748,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-1-how-it-works/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_1-establishing-trust",
-      "type": "unit",
-      "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-3-opsec_2-organisational-security",
-      "type": "unit",
-      "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {
@@ -847,6 +814,39 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_1-establishing-trust",
+      "type": "unit",
+      "title": "Establishing Trust",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-3-opsec_2-organisational-security",
+      "type": "unit",
+      "title": "Organisational Security",
+      "parentTitle": "Understanding Operational Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
     }
   ,
     {

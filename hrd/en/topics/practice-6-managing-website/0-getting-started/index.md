@@ -5,12 +5,12 @@ Learn the basics of managing a website
 
 
 
+
+
+
+
+
 ## Learn how to
-
-
-
-
-
 
 
 
@@ -33,10 +33,7 @@ Learn the basics of managing a website
 </quiz>
 
 
-## Next
-
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
-
 

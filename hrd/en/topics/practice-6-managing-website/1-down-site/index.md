@@ -44,16 +44,6 @@ If you have determined that none of these are at fault, you may be suffering fro
 
 
 
-## Network problem
-
-# Unavailable website
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
-<br>
-# Disturbed account
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
-
-
 ## Billing problem
 
 # Outstanding balance
@@ -61,13 +51,13 @@ Make sure your billing information is up to date and that there is no outstandin
 
 
 
-## Hosting problem
+## Network problem
 
-# Not loading at all?
-If your website is not loading at all, the company that hosts your website may be having problems.
+# Unavailable website
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
 <br>
-# Look up status
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+# Disturbed account
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
 
@@ -81,13 +71,13 @@ Also try using Tor or Psiphon to access your site. If this helps, you have a blo
 
 
 
-## Account hijacking
+## Hosting problem
 
-# Defacement problems
-Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
+# Not loading at all?
+If your website is not loading at all, the company that hosts your website may be having problems.
 <br>
-# Fix the problem
-See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
+# Look up status
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 
@@ -104,6 +94,16 @@ Sending your webmaster a screenshot, the link of the page you are having problem
 <br>
 # Helpful questions
 Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+
+
+
+## Account hijacking
+
+# Defacement problems
+Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
+<br>
+# Fix the problem
+See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
 
 
@@ -138,8 +138,6 @@ Learn why your website might be down.
 </quiz>
 
 
-## Next
-
 ---
 - en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md: What to do if your account has been hijacked
 - en/topics/practice-1-emergencies/1-seeking-help/1-1-intro.md: Seeking help safely after an emergency
@@ -147,6 +145,5 @@ Learn why your website might be down.
 ---
 See also:
 - Electronic Frontier Foundation: Security Self Defense
-
 
 
