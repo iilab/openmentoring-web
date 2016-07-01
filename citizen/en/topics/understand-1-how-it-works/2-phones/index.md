@@ -9,11 +9,6 @@ Introduction text...
 Scenario text...
 
 
-## Learn
-
-Learning text...
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -30,6 +25,11 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Learn
+
+Learning text...
 
 
 ## Next
