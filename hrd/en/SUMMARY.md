@@ -42,11 +42,11 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-* [Managing your website](topics/practice-6-managing-website/index.md)
+* [Manage your website](topics/practice-6-manage-website/index.md)
   
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  * [Getting Started](topics/practice-6-manage-website/0-getting-started/index.md)
   
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
+  * [Getting Started](topics/practice-6-manage-website/1-down-site/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   

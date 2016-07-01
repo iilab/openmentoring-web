@@ -11,8 +11,6 @@ Learn to connect to the Tor network to browse safely or circumvent internet cens
 
 
 
-## Connect to the Tor network
-
 # For the first time
 The first time Tor Browser starts, you'll get a window that allows you to modify some settings if necessary. You might have to come back and change some configuration settings, but go ahead and try to connect to the Tor network by clicking the Connect button.
 
@@ -46,7 +44,6 @@ Turning the security slider to a high setting disables these features. This will
 Unfortunately, turning off these features can make some websites unusable. The default low setting is fine for everyday privacy protection, but you can set it to high if you are worried about sophisticated attackers, or if you don't mind if some websites do not display correctly.
 
 ![](013e.png)
-
 
 
 ## Test

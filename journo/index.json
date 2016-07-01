@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T14:59:16.271Z",
+  "updatedAt": "2016-07-01T15:01:47.184Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -46,14 +46,14 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website",
+      "slug": "practice-6-manage-website",
       "type": "topic",
-      "title": "Managing your website",
+      "title": "Manage your website",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
@@ -212,9 +212,9 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "",
+      "title": "Seek Remote Help",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
-      "title": "Seek Remote Help",
+      "title": "",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -399,25 +399,25 @@
     }
   ,
     {
-      "slug": "practice-6-managing-website_0-getting-started",
+      "slug": "practice-6-manage-website_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
-      "parentTitle": "Managing your website",
+      "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
-      "slug": "practice-6-managing-website_1-down-site",
+      "slug": "practice-6-manage-website_1-down-site",
       "type": "unit",
       "title": "Getting Started",
-      "parentTitle": "Managing your website",
+      "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-managing-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {

@@ -5,11 +5,6 @@ Learn the basics of managing a website
 
 
 
-
-
-
-
-
 ## Learn how to
 
 
@@ -31,6 +26,11 @@ Learn the basics of managing a website
         <answer>No</answer>
     </question>
 </quiz>
+
+
+
+
+
 
 
 ## Next
