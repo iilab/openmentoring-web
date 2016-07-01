@@ -12,6 +12,14 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
+## A suspicious email...
+
+While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
+<br>
+It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
+
+
+
 ## Verify if the problem is real
 
 # Assess the situation
@@ -23,8 +31,11 @@ Make sure you verify where the information is coming from. Was it via email? Did
 # Do you trust the source?
 Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
 <br>
+> Remember to verify where the information is coming from!
 
 
+
+## Choose the right lesson
 
 If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
 * Choose the [Seeking Help](topics/practice-1-emergencies/1-seeking-help) lesson
@@ -43,20 +54,14 @@ Have you opened an attachment that you think may have been malicious? Does your 
 
 <br>
 Is your website down? Has it been defaced?
-* Choose the [DDOS Attack](topics/practice-1-emergencies/ddos.md) lesson.
+* Choose the [Website under attack](topics/practice-1-emergencies/ddos.md) lesson.
 
 <br>
-* Have you just gotten through an emergency? Not sure what to do when the dust settles? The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson explains how to prepare so you are ready for the next time.
+Have you just gotten through an emergency? Not sure what to do when the dust settles? Make sure to know how to prepare so you are ready for the next time.
+* The [after the emergency is past](topics/practice-1-emergencies/after.md) lesson
 
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
-
-
-## A suspicious email...
-
-While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
-<br>
-It seems that the email is related to her social media account. She needs to act quickly before the problem gets worse.
 
 
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T16:30:31.633Z",
+  "updatedAt": "2016-07-01T17:09:00.299Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -46,14 +46,14 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website",
+      "slug": "tool-1-open-mentoring",
       "type": "topic",
-      "title": "Manage your website",
+      "title": "Use Open Mentoring",
       "parentTitle": "",
       "locale": "en",
-      "categories": [],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
@@ -65,17 +65,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring",
-      "type": "topic",
-      "title": "Use Open Mentoring",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
   ,
     {
@@ -112,14 +101,14 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt",
+      "slug": "practice-6-manage-website",
       "type": "topic",
-      "title": "Use Veracrypt",
+      "title": "Manage your website",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
@@ -156,14 +145,14 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser",
+      "slug": "tool-5-veracrypt",
       "type": "topic",
-      "title": "Tor Browser",
+      "title": "Use Veracrypt",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
@@ -210,6 +199,17 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
+    {
+      "slug": "tool-9-tor-browser",
+      "type": "topic",
+      "title": "Tor Browser",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
     
     {
       "slug": "practice-1-emergencies_0-get-started",
@@ -245,9 +245,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_4-malware",
+      "slug": "practice-1-emergencies_3-seized-devices",
       "type": "unit",
-      "title": "Malware",
+      "title": "Devices Seized",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -256,9 +256,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-1-emergencies_4-malware",
       "type": "unit",
-      "title": "Devices Seized",
+      "title": "Malware",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -311,9 +311,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_4-emergency-plan",
+      "slug": "practice-2-plan_2-assess-risk",
       "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
+      "title": "Assess security risks",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -322,9 +322,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_2-assess-risk",
+      "slug": "practice-2-plan_4-emergency-plan",
       "type": "unit",
-      "title": "Assess security risks",
+      "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -399,39 +399,6 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website_0-get-started",
-      "type": "unit",
-      "title": "Get started",
-      "parentTitle": "Manage your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-manage-website_1-down-site",
-      "type": "unit",
-      "title": "Down website",
-      "parentTitle": "Manage your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-10-orbot_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Orbot",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
       "title": "Getting Started with the Open Mentoring App",
@@ -454,23 +421,23 @@
     }
   ,
     {
+      "slug": "tool-10-orbot_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Orbot",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-10-orbot/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-2-signal_0-get-started",
       "type": "unit",
       "title": "Get Started with Signal",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-2-signal_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using Signal",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -487,6 +454,17 @@
     }
   ,
     {
+      "slug": "tool-2-signal_2-voice",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using Signal",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-3-enigmail_0-get-started",
       "type": "unit",
       "title": "Get Started with Enigmail",
@@ -498,9 +476,9 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_2-encrypt-decrypt",
+      "slug": "tool-3-enigmail_1-new-key",
       "type": "unit",
-      "title": "Encrypt and decrypt messages using Enigmail",
+      "title": "Generate a new key pair using Enigmail",
       "parentTitle": "Use Enigmail",
       "locale": "en",
       "categories": [],
@@ -509,9 +487,9 @@
     }
   ,
     {
-      "slug": "tool-3-enigmail_1-new-key",
+      "slug": "tool-3-enigmail_2-encrypt-decrypt",
       "type": "unit",
-      "title": "Generate a new key pair using Enigmail",
+      "title": "Encrypt and decrypt messages using Enigmail",
       "parentTitle": "Use Enigmail",
       "locale": "en",
       "categories": [],
@@ -542,25 +520,25 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-get-started",
+      "slug": "practice-6-manage-website_0-get-started",
       "type": "unit",
-      "title": "Use Veracrypt",
-      "parentTitle": "Use Veracrypt",
+      "title": "Get started",
+      "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-standard-volume",
+      "slug": "practice-6-manage-website_1-down-site",
       "type": "unit",
-      "title": "Create a standard encrypted volume",
-      "parentTitle": "Use Veracrypt",
+      "title": "Down website",
+      "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
@@ -663,25 +641,25 @@
     }
   ,
     {
-      "slug": "tool-9-tor-browser_0-getting-started",
+      "slug": "tool-5-veracrypt_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Tor Browser",
+      "title": "Use Veracrypt",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
-      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "How to prevent your traffic from being watched",
-      "parentTitle": "Tor Browser",
+      "title": "Create a standard encrypted volume",
+      "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-5-veracrypt/index.json.gz"
     }
   ,
     {
@@ -913,6 +891,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-9-tor-browser_1-connect-to-tor",
+      "type": "unit",
+      "title": "How to prevent your traffic from being watched",
+      "parentTitle": "Tor Browser",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-9-tor-browser/index.json.gz"
     }
   ]  
 }

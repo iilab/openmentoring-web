@@ -27,6 +27,22 @@ Verify that the file you want to send is in the compose window and press to send
 
 
 
+## Send and Receive messages
+
+# You and your contact need Signal installed
+To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
+<br>
+# Sending via SMS
+Signal can send messages as SMS using your mobile phone company to relay the message. With this option, even if your recipient is using Signal and the SMS is encrypted, your mobile phone company will know that you are sending a (encrypted) message to this particular recipient.
+<br>
+# Sending via the Internet
+If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server.
+<br>
+# Protecting your privacy
+In this instance, your mobile phone company will not know who you are sending your messages to.
+
+
+
 ## Message Individuals
 
 # Step 1: Open Signal
@@ -87,22 +103,6 @@ A icon in your message indicates that it has been delivered.
 **Note:** this only appears by default when messages are sent via Internet; to see them when sending SMS you need to enable SMS delivery report in settings.
 <br>
 **Note:** The messages you receive from your contact will always be grey. If they have a icon, they were received encrypted. If there is no icon **the message was received insecurely.**
-
-
-
-## Send and Receive messages
-
-# You and your contact need Signal installed
-To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
-<br>
-# Sending via SMS
-Signal can send messages as SMS using your mobile phone company to relay the message. With this option, even if your recipient is using Signal and the SMS is encrypted, your mobile phone company will know that you are sending a (encrypted) message to this particular recipient.
-<br>
-# Sending via the Internet
-If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server.
-<br>
-# Protecting your privacy
-In this instance, your mobile phone company will not know who you are sending your messages to.
 
 
 
@@ -234,12 +234,6 @@ Signal will confirm the export has completed by displaying "Success!" You will f
 
 
 
-## Use Signal for encrypted messaging
-
-Learn to use Signal for encrypted messaging.
-
-
-
 ## Learn how to
 
 - [Send and receive messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
@@ -249,6 +243,12 @@ Learn to use Signal for encrypted messaging.
 - [Verify identities](en/topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
 - [Read and scan fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
 - [Export your messages](en/topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
+
+
+
+## Use Signal for encrypted messaging
+
+Learn to use Signal for encrypted messaging.
 
 
 

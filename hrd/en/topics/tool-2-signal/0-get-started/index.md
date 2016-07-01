@@ -1,10 +1,4 @@
 # Get Started with Signal
-## Get started with Signal
-
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
-
-
-
 ## Learn how to
 
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
@@ -15,6 +9,12 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
  - [Set up encrypted storage](en/topics/tool-2-signal/0-getting-started/4-4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+
+
+
+## Get started with Signal
+
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
 

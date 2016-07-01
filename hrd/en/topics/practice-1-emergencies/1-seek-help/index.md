@@ -40,8 +40,6 @@ Sending unencrypted communication is like sending a postcard, anyone who has acc
 
 
 
-## Encrypted channels
-
 # Secret postcard
 Sending encrypted communication is like placing the postcard inside a locked box, which only you and those you trust know the combination to and are able to open and read the message.
 <br>
@@ -62,7 +60,6 @@ To learn more about communicating safely on a computer, refer to the [Secure com
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
 <br>
 > Use encrypted channels when possible
-
 
 
 ## Dealing with insecure channels

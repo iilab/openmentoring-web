@@ -1,11 +1,4 @@
 # Getting started with computer hygiene
-## Getting Started
-
-
-Learn to implement common computer hygiene practices.
-
-
-
 ## Takeaways
 
 
@@ -42,5 +35,9 @@ Not sure how to turn risk assessment and threat model into real action? Check ou
  * [A topic to study next](en/topics/_topic/_unit/index.md)
  * [Another topic](en/topics/_topic/_unit/index.md)
  * ...
+
+
+
+Learn to implement common computer hygiene practices.
 
 

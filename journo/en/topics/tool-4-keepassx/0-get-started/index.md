@@ -11,6 +11,18 @@ Learn how to use KeePassX for securely managing passwords for multiple accounts.
 
 
 
+## Next
+
+---
+- (en/topics/understand-4-digisec/2-passwords/1-1-intro.md): Learn how to create strong passphrases
+- (en/topics/understand-2-security/1-your-security/1-1-intro.md): Understanding your security
+- (en/topics/understand-4-digisec/0-getting-started/1-1-intro.md): Digital security basics
+---
+See also:
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/guide/keepassx/os-x)
+
+
+
 ## Use KeepassX
 
 # What is KeepassX
@@ -21,18 +33,6 @@ To enhance convenience, you can synchronise your password database - for example
 <br>wa
 # Setting up KeePassX
 Refer to [the guide](https://securityinabox.org/en/guide/keepassx/os-x) Tactical Technology Collective has created for assistance in downloading, installing, and using KeePassX.
-
-
-
-## Next
-
----
-- (en/topics/understand-4-digisec/2-passwords/1-1-intro.md): Learn how to create strong passphrases
-- (en/topics/understand-2-security/1-your-security/1-1-intro.md): Understanding your security
-- (en/topics/understand-4-digisec/0-getting-started/1-1-intro.md): Digital security basics
----
-See also:
-- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/guide/keepassx/os-x)
 
 
 

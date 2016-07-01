@@ -13,6 +13,14 @@ Understand security issues for your sources
 
 
 
+## Scenario
+
+Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
+<br>
+He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
+
+
+
 ## Why it&#39;s important to protect your sources
 
 Protecting sources is a cornerstone of journalism. This is especially important when covering topics such as violent crime, national security, and armed conflict, in which sources could be put at legal or physical risk.
@@ -41,11 +49,10 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
 
 
 
-## Scenario
+## Next steps
 
-Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
-<br>
-He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
+# See also:
+Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
 
 
 
@@ -65,12 +72,5 @@ He needs some techniques on how to protect the identity of his sources. If he do
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next steps
-
-# See also:
-Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
 
 
