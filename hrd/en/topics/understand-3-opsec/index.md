@@ -1,4 +1,4 @@
-# Understanding Operational Security
+# Understand Operational Security
 
 
 

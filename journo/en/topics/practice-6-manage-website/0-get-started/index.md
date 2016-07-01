@@ -1,12 +1,17 @@
-# Getting Started
-## Getting started
-
-Learn the basics of managing a website
-
-
-
+# Get started
 ## Learn how to
 
+
+
+
+
+
+
+
+
+## Get started
+
+Learn the basics of managing a website
 
 
 
@@ -26,11 +31,6 @@ Learn the basics of managing a website
         <answer>No</answer>
     </question>
 </quiz>
-
-
-
-
-
 
 
 ## Next

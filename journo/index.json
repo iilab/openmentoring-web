@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:24:04.237Z",
+  "updatedAt": "2016-07-01T15:30:13.588Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content", "protect:content,identity", "protect:identity", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -98,17 +98,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-4-keepassx",
-      "type": "topic",
-      "title": "Using KeepassX",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ,
     {
@@ -191,7 +180,7 @@
     {
       "slug": "understand-3-opsec",
       "type": "topic",
-      "title": "Understanding Operational Security",
+      "title": "Understand Operational Security",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
@@ -208,6 +197,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx",
+      "type": "topic",
+      "title": "Using KeepassX",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ,
     
@@ -366,17 +366,6 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-3-safe-phones_1-instant-messaging",
       "type": "unit",
       "title": "Instant Messaging on Smart Phones",
@@ -390,7 +379,7 @@
     {
       "slug": "practice-4-safe-social-networks_0-get-started",
       "type": "unit",
-      "title": "Get started with Social Networks",
+      "title": "Get started with social networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -412,7 +401,7 @@
     {
       "slug": "practice-4-safe-social-networks_2-privacy-settings-and-tools",
       "type": "unit",
-      "title": "How to control access to your personal details?",
+      "title": "Control access to your personal details",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -423,7 +412,7 @@
     {
       "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
-      "title": "How to chat securely?",
+      "title": "Chatting securely",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -432,9 +421,9 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website_0-getting-started",
+      "slug": "practice-6-manage-website_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get started",
       "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
@@ -445,7 +434,7 @@
     {
       "slug": "practice-6-manage-website_1-down-site",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Down website",
       "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
@@ -470,7 +459,7 @@
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content","protect:content,identity","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -489,7 +478,7 @@
     {
       "slug": "tool-2-signal_0-getting-started",
       "type": "unit",
-      "title": "Getting Started with Signal",
+      "title": "Get Started with Signal",
       "parentTitle": "Using Signal",
       "locale": "en",
       "categories": [],
@@ -550,28 +539,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-3-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-4-keepassx_0-getting-started",
-      "type": "unit",
-      "title": "Using KeePassX",
-      "parentTitle": "Using KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-4-keepassx_2-create-new-entry",
-      "type": "unit",
-      "title": "How to have voice calls?",
-      "parentTitle": "Using KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ,
     {
@@ -842,7 +809,7 @@
       "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
-      "parentTitle": "Understanding Operational Security",
+      "parentTitle": "Understand Operational Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -853,7 +820,7 @@
       "slug": "understand-3-opsec_1-establishing-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Operational Security",
+      "parentTitle": "Understand Operational Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -864,7 +831,7 @@
       "slug": "understand-3-opsec_2-organisational-security",
       "type": "unit",
       "title": "Organisational Security",
-      "parentTitle": "Understanding Operational Security",
+      "parentTitle": "Understand Operational Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -946,6 +913,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx_2-create-new-entry",
+      "type": "unit",
+      "title": "How to have voice calls?",
+      "parentTitle": "Using KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-4-keepassx_0-getting-started",
+      "type": "unit",
+      "title": "Using KeePassX",
+      "parentTitle": "Using KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-4-keepassx/index.json.gz"
     }
   ]  
 }

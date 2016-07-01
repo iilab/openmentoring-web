@@ -34,25 +34,23 @@
   
   * [Getting Started](topics/practice-3-safe-phones/0-get-started/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
-  
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [Get started with Social Networks](topics/practice-4-safe-social-networks/0-get-started/index.md)
+  * [Get started with social networks](topics/practice-4-safe-social-networks/0-get-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
+  * [Control access to your personal details](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  * [Chatting securely](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
 * [Manage your website](topics/practice-6-manage-website/index.md)
   
-  * [Getting Started](topics/practice-6-manage-website/0-getting-started/index.md)
+  * [Get started](topics/practice-6-manage-website/0-get-started/index.md)
   
-  * [Getting Started](topics/practice-6-manage-website/1-down-site/index.md)
+  * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -66,7 +64,7 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [Get Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
@@ -79,12 +77,6 @@
   * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
-  
-* [Using KeepassX](topics/tool-4-keepassx/index.md)
-  
-  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
-  
-  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
 * [Veracrypt](topics/tool-5-veracrypt/index.md)
   
@@ -148,7 +140,7 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+* [Understand Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
@@ -171,4 +163,10 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Using KeepassX](topics/tool-4-keepassx/index.md)
+  
+  * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
+  * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   

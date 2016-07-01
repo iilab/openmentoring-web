@@ -1,4 +1,4 @@
-# Get started with Social Networks
+# Get started with social networks
 ## Safe social networks
 
 Learn how to use social networks more safely.
@@ -48,6 +48,19 @@ Before you use any social networking site it is important to understand how they
 
 
 
+## Who owns your data?
+
+# Private businesses
+Social networking sites are owned by private businesses who make their money by collecting data about people and selling that data on, particularly to third party advertisers.
+<br>
+# Rules of site owners
+When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site.
+<br>
+# Privacy settings
+Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. This means that you are giving all your data over to the owners and trusting them with it.
+
+
+
 ## Choose the right lesson
 
 Not sure where to start on controlling which people can see who you are connected to on social media?
@@ -63,24 +76,6 @@ Using social media but don't want your conversations to be read by the site owne
 
 
 
-## Who owns your data?
-
-# Private businesses
-Social networking sites are owned by private businesses who make their money by collecting data about people and selling that data on, particularly to third party advertisers.
-<br>
-# Rules of site owners
-When you enter a social networking site, you are leaving the freedoms of the internet behind and are entering a network that is governed and ruled by the owners of the site.
-<br>
-# Privacy settings
-Privacy settings are only meant to protect you from other members of the social network, but they do not shield your data from the owners of the service. This means that you are giving all your data over to the owners and trusting them with it.
-
-
-
-## Test you social networking knowledge!
-
-
-
-
 ## Next
 
 ---
@@ -90,6 +85,11 @@ Privacy settings are only meant to protect you from other members of the social 
 See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
 - [Zen and the art of making Tech Work for you](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
+
+
+
+## Test you social networking knowledge!
+
 
 
 

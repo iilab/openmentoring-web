@@ -1,10 +1,4 @@
 # Encrypt and decrypt messages using Enigmail
-## Getting started with Enigmail
-
-Learn to encrypt and decrypt messages using Enigmail
-
-
-
 ## Learn how to
 
  - [Encrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
@@ -47,6 +41,12 @@ Using PGP/MIME ensures that all email text, attached files and their names are e
 ## Installing and setting up Enigmail
 
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
+
+
+
+## Getting started with Enigmail
+
+Learn to encrypt and decrypt messages using Enigmail
 
 
 

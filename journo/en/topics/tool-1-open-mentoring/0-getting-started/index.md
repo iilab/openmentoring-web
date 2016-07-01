@@ -7,11 +7,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-## Introduction
-
-Introduction text...
-
-
 ## Scenario
 
 
@@ -48,17 +43,19 @@ Then you need to share the content
  * ...
 
 
-## Share
+## Introduction
 
-
-
-
-## Share
-
-
+Introduction text...
 
 
 ## Share
+
+
+
+
+## Share
+
+
 
 
 

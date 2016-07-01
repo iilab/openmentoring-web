@@ -17,11 +17,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Scenario text...
 
 
-## Next
+## Learn
 
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
+Learning text...
 
 
 ## Test
@@ -42,8 +40,10 @@ Scenario text...
 </quiz>
 
 
-## Learn
+## Next
 
-Learning text...
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 

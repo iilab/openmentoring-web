@@ -21,21 +21,6 @@ She needs to know if she still has access to the account, and if not, who she ca
 
 
 
-## Confirm if your account has been hijacked
-
-# Review account history
-For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
-<br>
-# Unfamiliar location
-Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
-<br>
-# Are you using Tor?
-Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
-<br>
-> Review our account activity
-
-
-
 ## Get back control of your account
 
 # Use a different computer
@@ -54,6 +39,21 @@ Now time to confirm if your suspicions are founded? The next instructions will h
 Until you better understand the situation we recommend you stop using this account for sharing sensitive information.
 <br>
 > Change your password
+
+
+
+## Confirm if your account has been hijacked
+
+# Review account history
+For some platforms (e.g. Facebook, Gmail), it is possible to review connection history and account activity. This will let you know if your account has been accessed by someone else.
+<br>
+# Unfamiliar location
+Check to see if your account was accessed at a time when you were not online or if your account was accessed from an unfamiliar location or IP address.
+<br>
+# Are you using Tor?
+Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
+<br>
+> Review our account activity
 
 
 

@@ -1,4 +1,4 @@
-# How to chat securely?
+# Chatting securely
 ## Communicate securely on Facebook
 
 Learn to encrypt your Facebook voice calls and instant messages.

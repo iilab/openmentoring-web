@@ -24,35 +24,37 @@
   
   * [Get Started](topics/practice-2-plan/0-getting-started/index.md)
   
-  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
-  
   * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
   
   * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
   
-* [Safe Phones](topics/practice-3-safe-phones/index.md)
+  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-get-started/index.md)
+* [Safe Phones](topics/practice-3-safe-phones/index.md)
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
   
-  * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
+  * [Getting Started](topics/practice-3-safe-phones/0-get-started/index.md)
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [Get started with Social Networks](topics/practice-4-safe-social-networks/0-get-started/index.md)
+  * [Get started with social networks](topics/practice-4-safe-social-networks/0-get-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  * [Chatting securely](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-  * [How to control access to your personal details?](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
+  * [Control access to your personal details](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
 * [Manage your website](topics/practice-6-manage-website/index.md)
   
-  * [Getting Started](topics/practice-6-manage-website/0-getting-started/index.md)
+  * [Get started](topics/practice-6-manage-website/0-get-started/index.md)
   
-  * [Getting Started](topics/practice-6-manage-website/1-down-site/index.md)
+  * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
+  
+* [Orbot](topics/tool-10-orbot/index.md)
+  
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
@@ -60,13 +62,9 @@
   
   * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
-  
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [Getting Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [Get Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
   
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
@@ -134,27 +132,27 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
-* [Understand Security](topics/understand-2-security/index.md)
-  
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
-  
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
-  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
-  
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
-  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
-  
-* [Understanding Operational Security](topics/understand-3-opsec/index.md)
+* [Understand Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
   
   * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
   
   * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
+* [Understand Security](topics/understand-2-security/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
+  
+  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  
+  * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
@@ -164,11 +162,11 @@
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   
