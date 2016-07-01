@@ -1,14 +1,14 @@
 # Getting Started
+## Getting started with Orbot
+
+Learn to use Orbot, the Android-platform app created by the Guardian Project, designed to increase the anonymity of your activities on the Internet.
+
+
+
 ## Learn about
 
 - [Installing and configuring Orbot](en/topics/tool-10-orbot/0-getting-started/3-1-learn.md)
 - [Use Orbot to remain anonymous online](en/topics/tool-10-orbot/0-getting-started/3-2-learn.md)
-
-
-
-## Getting started with Orbot
-
-Learn to use Orbot, the Android-platform app created by the Guardian Project, designed to increase the anonymity of your activities on the Internet.
 
 
 
@@ -67,6 +67,8 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 </quiz>
 
 
+## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -75,5 +77,6 @@ The image will briefly spin and then display You've switched to a new Tor Identi
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

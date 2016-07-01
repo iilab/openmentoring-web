@@ -5,13 +5,6 @@ Learn the basics of digital security in order to start using your devices more s
 
 
 
-## Learn about
-
-- [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
-- [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
-
-
-
 ## Seven Steps to Digital security
 
 # 1. Knowledge is Power
@@ -88,6 +81,13 @@ To learn about why secure communication is important and tools you should use to
 
 
 
+## Learn about
+
+- [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
+- [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -107,8 +107,6 @@ To learn about why secure communication is important and tools you should use to
 
 
 
-## Next
-
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with security
 - en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md: Using KeepassX to manage passwords security
@@ -119,6 +117,5 @@ See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
 - Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
 - Frontline Defenders: [Digital Security & Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
-
 
 
