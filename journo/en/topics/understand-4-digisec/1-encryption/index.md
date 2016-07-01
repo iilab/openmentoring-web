@@ -55,7 +55,7 @@ Private and public keys come in matched pairs, like the halves of a rock that ha
 ## Security certificates
 
 # Encryption with HTTPS
-The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org).
+The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names (like www.google.com, www.amazon.com, or ssd.eff.org).
 <br>
 # Verifying websites
 Certificates are one way of trying to determine if you know the right public key for a person or website, so that you can communicate securely with them.
@@ -103,6 +103,7 @@ But it's not perfect, because if the keys are copied or stolen someone else woul
         <answer>No</answer>
     </question>
 </quiz>
+
 
 
 ## Next

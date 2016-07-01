@@ -1,16 +1,16 @@
 # Getting started with computer hygiene
+## Getting Started
+
+Learn to use common computer hygiene practices.
+
+
+
 ## Learn how to
 
 - [Protect your computer against malware](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-1-learn.md)
 - [Keeping your software up to date](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-2-learn.md)
 - [Use open source software](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-3-learn.md)
 - [Keep backups of information](en/topics/tool-7-computer-hygiene/1-computer-hygiene/3-4-learn.md)
-
-
-
-## Getting Started
-
-Learn to use common computer hygiene practices.
 
 
 
@@ -24,25 +24,6 @@ Malware is the general name for any malicious and undesirable software that atta
 <br>
 # See also
 To learn how to protect yourself from malware, refer to the [Malware](en/topics/practice-1-emergencies/4-malware/1-1-intro.md) and [anti-virus](en/topics/tool-7-computer-hygiene/2-antivirus/1-1-intro.md) lessons.
-
-
-
-## Open source software
-
-# Updating software is constantly
-For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
-<br>
-# Open source software is often free
-Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
-<br>
-# Secure open source alternatives
-Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
-<br>
-# Updated regularly
-Independent developers are also constantly developing digital security tools to add to FOSS software.
-<br>
-# Recommended free and open source software
-For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
 
@@ -68,6 +49,25 @@ Alternatively, through the process above you can set Windows Update to inform yo
 <br>
 # Download when ready
 This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
+
+
+
+## Open source software
+
+# Updating software is constantly
+For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
+<br>
+# Open source software is often free
+Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
+<br>
+# Secure open source alternatives
+Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
+<br>
+# Updated regularly
+Independent developers are also constantly developing digital security tools to add to FOSS software.
+<br>
+# Recommended free and open source software
+For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
 
 
 

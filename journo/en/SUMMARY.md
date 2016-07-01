@@ -2,7 +2,11 @@
 
 * [Deal with Emergencies](topics/practice-1-emergencies/index.md)
   
+  * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
+  
   * [Get Started](topics/practice-1-emergencies/0-getting-started/index.md)
+  
+  * [Seek Remote Help](topics/practice-1-emergencies/1-seek-help/index.md)
   
   * [Seek Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
   
@@ -16,17 +20,19 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-* [Planning and Preparing](topics/practice-2-planning/index.md)
+* [Plan and Prepare](topics/practice-2-plan/index.md)
   
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  * [Get Started](topics/practice-2-plan/0-getting-started/index.md)
   
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
   
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
+  
+  * [Getting Started](topics/practice-3-safe-phones/0-get-started/index.md)
   
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
@@ -34,7 +40,7 @@
   
 * [Safe Social Networks](topics/practice-4-safe-social-networks/index.md)
   
-  * [Getting started with Social Networks](topics/practice-4-safe-social-networks/0-getting-started/index.md)
+  * [Get started with Social Networks](topics/practice-4-safe-social-networks/0-get-started/index.md)
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   

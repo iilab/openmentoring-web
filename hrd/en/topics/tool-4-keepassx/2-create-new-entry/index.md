@@ -1,4 +1,10 @@
 # How to have voice calls?
+## Create new KeePassX entries
+
+Learn how to create new KeePassX entries.
+
+
+
 ## Learn how to
 
 - [Create a new entry in your database](en/topics/tool-4-keepassx/2-create-new-entry/3-1-howto.md)
@@ -59,12 +65,6 @@ Note: Remember that making changes to a KeePassX entry only updates that entry i
 <br>
 # Update relevant account information
 Therefore, you will need to make any relevant updates to your account information, as well as new KeePassX database backups and copies seperately after editing your entry here.
-
-
-
-## Create new KeePassX entries
-
-Learn how to create new KeePassX entries.
 
 
 

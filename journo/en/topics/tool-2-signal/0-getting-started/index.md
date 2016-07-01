@@ -1,10 +1,4 @@
 # Getting Started with Signal
-## Getting started with Signal
-
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
-
-
-
 ## Learn how to
 
  - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
@@ -15,6 +9,12 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
  - [Set up encrypted storage](en/topics/tool-2-signal/0-getting-started/4-4-howto-install.md)
  - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
  - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+
+
+
+## Getting started with Signal
+
+Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
 
 
 
@@ -51,6 +51,34 @@ When you use Signal you can communicate with users using the following programs:
 
 
 
+## Registering with Signal
+
+# Step 1: Register your phone number
+Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
+>Registration screen
+
+<br>
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
+>Confirming number
+
+<br>
+# Step 2: Confirm registration
+Signal will send you an SMS message to confirm registration.
+<br>
+Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
+<Br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
+Registration completing
+<br>
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
+Voice verification screens
+
+
+
 ## Installing Signal in 3 steps
 
 # Step 1. Download Signal
@@ -79,34 +107,6 @@ If you do not agree with the permissions allowed, press the back button and the 
 <br>
 # Step 3. Run Signal
 Tap Open to run the app for the first time
-
-
-
-## Registering with Signal
-
-# Step 1: Register your phone number
-Begin the registration process by entering your phone number including country code and press ![](https://securityinabox.org/sbox/screen/textsecure-en-1/005.png)
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/008.png)
->Registration screen
-
-<br>
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/009.png)
->Confirming number
-
-<br>
-# Step 2: Confirm registration
-Signal will send you an SMS message to confirm registration.
-<br>
-Note: If for some reason you do not receive the SMS you will be given the option to receive an automated phone call where you will hear a 6-digit code, this code once entered will complete the registration.
-<Br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/010.png)
-Registration completing
-<br>
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/011.png)
-Voice verification screens
 
 
 

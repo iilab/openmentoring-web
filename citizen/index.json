@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:07:09.153Z",
+  "updatedAt": "2016-07-01T15:24:09.778Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -13,14 +13,14 @@
     }
   ,
     {
-      "slug": "practice-2-planning",
+      "slug": "practice-2-plan",
       "type": "topic",
-      "title": "Planning and Preparing",
+      "title": "Plan and Prepare",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
@@ -43,17 +43,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-manage-website",
-      "type": "topic",
-      "title": "Manage your website",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     {
@@ -145,6 +134,17 @@
     }
   ,
     {
+      "slug": "tool-8-android-hygiene",
+      "type": "topic",
+      "title": "Android Hygiene",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-9-tor-browser",
       "type": "topic",
       "title": "Tor Browser",
@@ -200,21 +200,43 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene",
+      "slug": "practice-6-manage-website",
       "type": "topic",
-      "title": "Android Hygiene",
+      "title": "Manage your website",
       "parentTitle": "",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ,
     
     {
+      "slug": "practice-1-emergencies_0-get-started",
+      "type": "unit",
+      "title": "Get Started",
+      "parentTitle": "Deal with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
       "title": "Get Started",
+      "parentTitle": "Deal with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_1-seek-help",
+      "type": "unit",
+      "title": "Seek Remote Help",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -289,47 +311,58 @@
     }
   ,
     {
-      "slug": "practice-2-planning_0-getting-started",
+      "slug": "practice-2-plan_0-getting-started",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
+      "title": "Get Started",
+      "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
-      "slug": "practice-2-planning_1-threats",
+      "slug": "practice-2-plan_1-threats",
       "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
+      "title": "Understand Threats",
+      "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-plan_2-assess-risk",
       "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
+      "title": "Assess security risks",
+      "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
-      "slug": "practice-2-planning_4-emergency-plan",
+      "slug": "practice-2-plan_4-emergency-plan",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
+      "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-get-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -355,9 +388,9 @@
     }
   ,
     {
-      "slug": "practice-4-safe-social-networks_0-getting-started",
+      "slug": "practice-4-safe-social-networks_0-get-started",
       "type": "unit",
-      "title": "Getting started with Social Networks",
+      "title": "Get started with Social Networks",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -399,31 +432,9 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website_0-getting-started",
+      "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Manage your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-manage-website_1-down-site",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Manage your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-1-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -432,9 +443,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
+      "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -619,6 +630,50 @@
     }
   ,
     {
+      "slug": "tool-8-android-hygiene_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-8-android-hygiene_1-antivirus",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-8-android-hygiene_3-windows-hygiene",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-9-tor-browser_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -641,9 +696,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_1-computers",
+      "slug": "understand-1-how-it-works_0-getting-started",
       "type": "unit",
-      "title": "Computers",
+      "title": "Getting Started",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -652,9 +707,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_0-getting-started",
+      "slug": "understand-1-how-it-works_1-computers",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Computers",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -718,6 +773,17 @@
     }
   ,
     {
+      "slug": "understand-2-security_2-your-well-being",
+      "type": "unit",
+      "title": "Your Well Being",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
       "title": "Your Story",
@@ -743,17 +809,6 @@
       "slug": "understand-2-security_5-your-colleagues",
       "type": "unit",
       "title": "Your colleagues",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-2-security_2-your-well-being",
-      "type": "unit",
-      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -795,6 +850,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
       "title": "Encryption",
@@ -820,17 +886,6 @@
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -872,47 +927,25 @@
     }
   ,
     {
-      "slug": "tool-8-android-hygiene_1-antivirus",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-8-android-hygiene_3-windows-hygiene",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-8-android-hygiene_4-linux-hygiene",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-8-android-hygiene_0-getting-started",
+      "slug": "practice-6-manage-website_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
-      "parentTitle": "Android Hygiene",
+      "parentTitle": "Manage your website",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-manage-website_1-down-site",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Manage your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
     }
   ]  
 }

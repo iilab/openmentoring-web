@@ -1,12 +1,12 @@
 # Computers
-## Scenario
-
-Scenario text...
-
-
 ## Introduction
 
 Introduction text...
+
+
+## Scenario
+
+Scenario text...
 
 
 ## Learn

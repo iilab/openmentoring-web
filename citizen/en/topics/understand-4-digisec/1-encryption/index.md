@@ -14,6 +14,25 @@ Learn the basics of encryption and how it can help protect you and your network.
 
 
 
+## Private and public keys
+
+# Keys
+One of the most important concepts to understand in encryption is a key.
+<br>
+# Private keys
+Common types of encryption include a private key, which is kept secret on your computer and lets you read messages that are intended only for you.
+<br>
+# Key signatures
+A private key also lets you place unforgeable digital signatures on messages you send to other people.
+<br>
+# Public keys
+A public key is a file that you can give to others or publish that allows people to communicate with you in secret, and check signatures from you.
+<br>
+# Matching keys
+Private and public keys come in matched pairs, like the halves of a rock that has been split into two perfectly matching pieces, but they are not the same.
+
+
+
 ## What is encryption
 
 # Basics
@@ -36,7 +55,7 @@ Under some circumstances, encryption can be fairly automatic and simple. But the
 ## Security certificates
 
 # Encryption with HTTPS
-The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names—(like www.google.com, www.amazon.com, or ssd.eff.org).
+The Web browser on your computer can make encrypted connections to sites using HTTPS. When they do that, they examine certificates to check the public keys of domain names (like www.google.com, www.amazon.com, or ssd.eff.org).
 <br>
 # Verifying websites
 Certificates are one way of trying to determine if you know the right public key for a person or website, so that you can communicate securely with them.
@@ -55,25 +74,6 @@ This means you should never click past a certificate warning if it relates to a 
 
 
 
-## Private and public keys
-
-# Keys
-One of the most important concepts to understand in encryption is a key.
-<br>
-# Private keys
-Common types of encryption include a private key, which is kept secret on your computer and lets you read messages that are intended only for you.
-<br>
-# Key signatures
-A private key also lets you place unforgeable digital signatures on messages you send to other people.
-<br>
-# Public keys
-A public key is a file that you can give to others or publish that allows people to communicate with you in secret, and check signatures from you.
-<br>
-# Matching keys
-Private and public keys come in matched pairs, like the halves of a rock that has been split into two perfectly matching pieces, but they are not the same.
-
-
-
 ## Key fingerprints
 
 # Verifying identity
@@ -84,18 +84,6 @@ If you check that someone's key fingerprint is correct, that gives you a higher 
 <br>
 # Fingerprints aren't perfect verifier
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
-
-
-
-## Next
-
----
-- en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
-- en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing
-- en/topics/practice-4-safe-social-networks/3-facebook-chat/1-1-intro.md: Chatting securely on social networks
----
-See also:
-- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
 
 
 
@@ -115,5 +103,18 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+
+## Next
+
+---
+- en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md: Learning about secure communications
+- en/topics/tool-3-enigmail/0-getting-started/1-1-intro.md: Using Enigmail for encrypted emailing
+- en/topics/practice-4-safe-social-networks/3-facebook-chat/1-1-intro.md: Chatting securely on social networks
+---
+See also:
+- Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/module/what-encryption)
+
 
 

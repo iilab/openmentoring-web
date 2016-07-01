@@ -342,6 +342,19 @@ It may take weeks for some of these feelings and symptoms to pass. Remember that
 
 
 
+## Identifying post-traumatic stress
+
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
+
+
+
 ## Dealing with traumatic
 
 # Use your own strategy
@@ -373,19 +386,6 @@ Adapt the following suggestions to take account of what is possible after the cr
 <br>
 # Weeks and months after
 Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 
