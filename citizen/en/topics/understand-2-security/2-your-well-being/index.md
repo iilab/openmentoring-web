@@ -426,6 +426,12 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
+## Introduction
+
+Learn about ensuring your short and long term well-being.
+
+
+
 ## Learn about
 
 # stress and security
@@ -438,12 +444,6 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
 - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
 - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
-
-
-
-## Introduction
-
-Learn about ensuring your short and long term well-being.
 
 
 

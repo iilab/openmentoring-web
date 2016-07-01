@@ -67,6 +67,8 @@ Unfortunately, turning off these features can make some websites unusable. The d
 </quiz>
 
 
+## Next
+
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with your Security
 -/en/topics/understand-4-digisec/0-getting-started/1-1-intro.md: Getting started with Digital Security
@@ -75,5 +77,6 @@ Unfortunately, turning off these features can make some websites unusable. The d
 See also:
 - Electronic Frontier Foundation: [Security Self-Defence](https://ssd.eff.org/en/)
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/en/)
+
 
 

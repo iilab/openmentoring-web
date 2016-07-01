@@ -1,12 +1,12 @@
 # Getting Started
-## Learn how to
-
-
-
-
 ## Getting started
 
 Learn the basics of managing a website
+
+
+
+## Learn how to
+
 
 
 
