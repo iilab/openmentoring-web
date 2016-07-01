@@ -15,11 +15,6 @@ Know what measures to take to understand risks faced as a journalist.
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Understand risk
 
 Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
@@ -168,4 +163,6 @@ See also:
  * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
 
 
+
+Scenario text...
 

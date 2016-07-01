@@ -1,29 +1,36 @@
 # How to use messaging?
-## Sending files
+## Messaging groups
 
 # Basics
-Signal allows you to send images, video and audio files to your contact.
+Signal also allows you to message multiple people at once.
 <br>
-# Step 1: Start a conversation
-Start a conversation with the person you want to send the file to.
+**Note:** If at least one of the people you are messaging does not use Signal, the messages will be sent as an MMS and not encrypted.
 <br>
-# Step 2:
-Tap the top right of your screen to bring up the menu and select "Add attachment"
+# Step 1: Create new group
+Tap on the top right of your screen to bring up the menu and select "New group"
 <br>
-![10s.png](10s.png)
-> File type selection
+# Step 2: Name your group
+Enter a name for your chat group and tap "+" to add your contacts.
+<br>
+# Step 3: Add contacts
+Tap the box to the right of each contacts name to add them to the group and press the check mark
+<br>
+![7s.png](7s.png)
+> Contact selection
 
-# Step 3: Select the type of file
-Choose from the list the type of file that you want to send - Picture / Video / Audio
 <br>
-![11s.png](11s.png)
-> Image sent to contact
+![8s.png](8s.png)
+> Group Creation
 
-# Step 4: Select the file
-Select the file you want to send.
 <br>
-# Step 5: Verify the file
-Verify that the file you want to send is in the compose window and press to send.
+# Step 4: Complete group creation
+Tap the checkmark to complete the creation of the group and be brought back to the Signal main screen.
+<br>
+# Step 5: Start messaging
+Tap on the group you have created and begin messaging the group.
+<br>
+![9s.png](9s.png)
+> Group conversation
 
 
 
@@ -106,38 +113,31 @@ A icon in your message indicates that it has been delivered.
 
 
 
-## Messaging groups
+## Sending files
 
 # Basics
-Signal also allows you to message multiple people at once.
+Signal allows you to send images, video and audio files to your contact.
 <br>
-**Note:** If at least one of the people you are messaging does not use Signal, the messages will be sent as an MMS and not encrypted.
+# Step 1: Start a conversation
+Start a conversation with the person you want to send the file to.
 <br>
-# Step 1: Create new group
-Tap on the top right of your screen to bring up the menu and select "New group"
+# Step 2:
+Tap the top right of your screen to bring up the menu and select "Add attachment"
 <br>
-# Step 2: Name your group
-Enter a name for your chat group and tap "+" to add your contacts.
-<br>
-# Step 3: Add contacts
-Tap the box to the right of each contacts name to add them to the group and press the check mark
-<br>
-![7s.png](7s.png)
-> Contact selection
+![10s.png](10s.png)
+> File type selection
 
+# Step 3: Select the type of file
+Choose from the list the type of file that you want to send - Picture / Video / Audio
 <br>
-![8s.png](8s.png)
-> Group Creation
+![11s.png](11s.png)
+> Image sent to contact
 
+# Step 4: Select the file
+Select the file you want to send.
 <br>
-# Step 4: Complete group creation
-Tap the checkmark to complete the creation of the group and be brought back to the Signal main screen.
-<br>
-# Step 5: Start messaging
-Tap on the group you have created and begin messaging the group.
-<br>
-![9s.png](9s.png)
-> Group conversation
+# Step 5: Verify the file
+Verify that the file you want to send is in the compose window and press to send.
 
 
 
