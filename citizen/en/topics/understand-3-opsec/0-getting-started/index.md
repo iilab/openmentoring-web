@@ -1,4 +1,9 @@
 # Getting Started
+## Introduction
+
+Introduction text...
+
+
 ## Key takeaways
 
 ## A New Post
@@ -7,14 +12,14 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-## Introduction
-
-Introduction text...
-
-
 ## Scenario
 
 Scenario text...
+
+
+## Learn
+
+Learning text...
 
 
 ## Test
@@ -33,11 +38,6 @@ Scenario text...
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Learn
-
-Learning text...
 
 
 ## Next

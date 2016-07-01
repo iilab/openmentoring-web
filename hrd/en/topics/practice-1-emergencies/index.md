@@ -1,6 +1,6 @@
-# Dealing with Emergencies
+# Deal with Emergencies
 
-![](banner.png)
+
 
 
 Recognise and deal with digital threats.
