@@ -1,4 +1,10 @@
 # How to have voice calls?
+## How to make calls?
+
+Learn how to make and take a call using Signal
+
+
+
 ## Learn how to
 
 - [Make a call](en/topics/tool-2-signal/2-voice/3-1-howto-android-content.md)
@@ -30,12 +36,6 @@ When you get a signal call, you'll see on your screen "SIGNAL CALL"
 When you answer you'll see two words. Say one word to your friend and ask them to say the other world. This makes sure you are both who you say you are.
 <br>
 ![](signal-and-en-v02-022.png)
-
-
-
-## How to make calls?
-
-Learn how to make and take a call using Signal
 
 
 

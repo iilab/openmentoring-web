@@ -1,18 +1,18 @@
 # Your Security
+## Introduction
+
+![](recap.png)
+
+Learn about your security and protecting yourself. 
+
+
+
 ## Learn how to
 
 * [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
 * [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
 * [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-
-
-
-## Introduction
-
-![](recap.png)
-
-Learn about your security and protecting yourself. 
 
 
 
@@ -132,21 +132,6 @@ The assessment should include:
 
 ## Learn
 
-> Step 3
-# Consult diverse sources
-
-Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
-<br>
-Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
-<br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
-<br>
-![](recap.png)
-
-
-
-## Learn
-
 > Step 2
 # Address communications infrastructure
 
@@ -161,6 +146,23 @@ Basic needs such as nourishment and medical care must be addressed as well. Are 
 ![](recap.png)
 
 
+
+## Learn
+
+> Step 3
+# Consult diverse sources
+
+Consult diverse sources including journalists with experience in the location or topic, diplomatic advisories, reports on press freedom and human rights, and academic research.
+<br>
+Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
+<br>
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+<br>
+![](recap.png)
+
+
+
+## Test
 
 <quiz name="Gitbook Quiz">
     <question multiple>
@@ -178,6 +180,10 @@ Basic needs such as nourishment and medical care must be addressed as well. Are 
 </quiz>
 
 
+## Next
+
+
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+
 
 

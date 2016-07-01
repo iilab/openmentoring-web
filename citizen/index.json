@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:30:19.586Z",
+  "updatedAt": "2016-07-01T15:31:33.289Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -59,7 +59,7 @@
     {
       "slug": "tool-1-open-mentoring",
       "type": "topic",
-      "title": "Using the Open Mentoring App",
+      "title": "Use Open Mentoring",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
@@ -446,7 +446,7 @@
       "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
       "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
+      "parentTitle": "Use Open Mentoring",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -457,7 +457,7 @@
       "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
       "title": "How to share the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
+      "parentTitle": "Use Open Mentoring",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -476,7 +476,7 @@
     }
   ,
     {
-      "slug": "tool-2-signal_0-getting-started",
+      "slug": "tool-2-signal_0-get-started",
       "type": "unit",
       "title": "Get Started with Signal",
       "parentTitle": "Using Signal",

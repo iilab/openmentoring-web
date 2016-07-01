@@ -15,14 +15,6 @@ Recover from having your website from being attacked or defaced.
 
 
 
-## A down website
-![](scenario1.svg,scenario2.svg)
-Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
-<br>
-Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
-
-
-
 ## What is a DDOS attack?
 
 # Silencing your voice
@@ -136,6 +128,14 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 <br>
 > Restore your original website 
+
+
+
+## A down website
+![](scenario1.svg,scenario2.svg)
+Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
+<br>
+Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
 
 
 

@@ -1,10 +1,4 @@
 # Getting Started
-## Getting Started
-
-Learn how to recognise and deal with the most common types of security concerns.
-
-
-
 ## Learn how to
 
 Key takeaways from this topic include lessons on the following:
@@ -28,6 +22,12 @@ Scenario text...
     What's the first/important obstacle to address the problem. (needs diagnostic, needs learning, needs tool,...)
     What are the risks?
 
+
+
+
+## Getting Started
+
+Learn how to recognise and deal with the most common types of security concerns.
 
 
 

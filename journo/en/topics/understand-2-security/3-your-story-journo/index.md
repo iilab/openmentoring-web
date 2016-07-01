@@ -5,11 +5,6 @@ Learn the basics about security of your story
 
 
 
-## Learn about
-
-
-
-
 ## The spy who came in through the code
 
 >
@@ -69,6 +64,11 @@ If you research your stories online, you may be leaving a record of your activit
 Refer to the [Tor Browser lesson](en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md) to learn how to conduct internet research safely.
 <br>
 Prepare a plan for how others can continue working on your story if something happens to you. Refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) section to learn how to do so.
+
+
+
+## Learn about
+
 
 
 

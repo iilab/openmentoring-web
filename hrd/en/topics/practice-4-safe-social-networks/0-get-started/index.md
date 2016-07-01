@@ -76,6 +76,11 @@ Using social media but don't want your conversations to be read by the site owne
 
 
 
+## Test you social networking knowledge!
+
+
+
+
 ## Next
 
 ---
@@ -85,11 +90,6 @@ Using social media but don't want your conversations to be read by the site owne
 See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org)
 - [Zen and the art of making Tech Work for you](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
-
-
-
-## Test you social networking knowledge!
-
 
 
 

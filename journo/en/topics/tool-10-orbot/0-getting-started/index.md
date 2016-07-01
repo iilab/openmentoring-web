@@ -12,6 +12,12 @@ Learn to use Orbot, the Android-platform app created by the Guardian Project, de
 
 
 
+## Installing and configuring Orbot
+
+To learn how to install and configure Orbot, refer to the [detailed guide put together](https://securityinabox.org/en/women-hrds/orbot/android) by the Tactical Technology Collective.
+
+
+
 ## Use Orbot to remain anonymous online
 
 # Step 1: Start Orbot
@@ -40,12 +46,6 @@ If at any stage you want to appear to come from a new location, you can get a ne
 # Recieve confirmation
 The image will briefly spin and then display You've switched to a new Tor Identity.
 ![orbot-and-022.png](orbot-and-022.png)
-
-
-
-## Installing and configuring Orbot
-
-To learn how to install and configure Orbot, refer to the [detailed guide put together](https://securityinabox.org/en/women-hrds/orbot/android) by the Tactical Technology Collective.
 
 
 

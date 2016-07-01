@@ -15,11 +15,11 @@ Learn to instant message securely on a smart phone.
 
 
 
-## Scenario
+## Learn how to
 
-Mansour and Magda are human rights defenders from Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest in attending the event could be traced.
-<br>
-They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 
@@ -39,16 +39,11 @@ They plan to use Twitter during the march to give updates on the progress of the
 
 
 
-## Learn how to
+## Scenario
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
-
-## Test you social networking knowledge!
-
+Mansour and Magda are human rights defenders from Africa. They are organising a march, to take place in the middle of a large city. They want to use Facebook to publicise the event. They are worried that the authorities could be tipped off and that anyone who shows an interest in attending the event could be traced.
+<br>
+They plan to use Twitter during the march to give updates on the progress of the march. But what if the police could monitor the tweets, and deploy squads to intercept marchers? Mansour and Magda plan how to share photos and videos of the march without revealing people's identities, because they worry that participants could face persecution.
 
 
 
@@ -358,6 +353,11 @@ This makes sure you are both who you say you are.
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
 
+
+
+
+
+## Test you social networking knowledge!
 
 
 

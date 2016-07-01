@@ -120,6 +120,8 @@ Learn why your website might be down.
 
 
 
+## Test
+
 <quiz name="Gitbook Quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
@@ -135,6 +137,9 @@ Learn why your website might be down.
     </question>
 </quiz>
 
+
+## Next
+
 ---
 - en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md: What to do if your account has been hijacked
 - en/topics/practice-1-emergencies/1-seeking-help/1-1-intro.md: Seeking help safely after an emergency
@@ -142,5 +147,6 @@ Learn why your website might be down.
 ---
 See also:
 - Electronic Frontier Foundation: Security Self Defense
+
 
 

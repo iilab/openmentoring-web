@@ -1,18 +1,11 @@
 # Down website
-## Legal problem
+## Hosting problem
 
-# Copyright
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
-
-
-
-## Poor site performance
-
-# Slow site?
-Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+# Not loading at all?
+If your website is not loading at all, the company that hosts your website may be having problems.
 <br>
-# Don't panic!
-This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
+# Look up status
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 
@@ -35,6 +28,16 @@ Do you have the log in details for the domain name service? If not, finding thes
 <br>
 # 6. Who else knows details?
 Who else knows or may have access to these account details?
+
+
+
+## Poor site performance
+
+# Slow site?
+Does your site load slowly or only sometimes? Your site may be overwhelmed by the number and speed of requests for pages it is receiving – this is a performance problem.
+<br>
+# Don't panic!
+This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
 
 
 
@@ -61,13 +64,10 @@ Make sure your billing information is up to date and that there is no outstandin
 
 
 
-## Hosting problem
+## Legal problem
 
-# Not loading at all?
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-# Look up status
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+# Copyright
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 

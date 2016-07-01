@@ -1,4 +1,4 @@
-# Using the Open Mentoring App
+# Use Open Mentoring
 
 
 

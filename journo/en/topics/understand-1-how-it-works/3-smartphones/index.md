@@ -1,17 +1,12 @@
 # Smart Phones
-## Scenario
-
-Scenario text...
-
-
 ## Introduction
 
 Introduction text...
 
 
-## Learn
+## Scenario
 
-Learning text...
+Scenario text...
 
 
 ## Test
@@ -30,6 +25,11 @@ Learning text...
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Learn
+
+Learning text...
 
 
 ## Next

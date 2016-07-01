@@ -128,6 +128,8 @@ When you are initiating contact with third parties you might want to create a ne
 </quiz>
 
 
+## Next
+
 ---
 - en/topics/practice-1-emergencies/0-getting-started: Find out about other types of emergencies
 - en/topics/understand-2-security/0-getting-started: Dig deeper on various aspects of security
@@ -138,5 +140,6 @@ When you are initiating contact with third parties you might want to create a ne
 See also:
  * RiseUp [Communications Security](https://help.riseup.net/en/security)
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
+
 
 

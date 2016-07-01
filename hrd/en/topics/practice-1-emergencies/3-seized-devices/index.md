@@ -1,4 +1,11 @@
 # Devices Seized
+## Seized devices
+
+
+Learn what to do if your digital devices are taken.
+
+
+
 ## Learn how to
 
 - [Assess the situation](en/topics/practice-1-emergencies/3-seized-devices/3-1-learn.md)
@@ -13,13 +20,6 @@
 Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
 <br>
 She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
-
-
-
-## Seized devices
-
-
-Learn what to do if your digital devices are taken.
 
 
 

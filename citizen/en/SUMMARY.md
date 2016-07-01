@@ -52,7 +52,7 @@
   
   * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+* [Use Open Mentoring](topics/tool-1-open-mentoring/index.md)
   
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
   
@@ -64,7 +64,7 @@
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
-  * [Get Started with Signal](topics/tool-2-signal/0-getting-started/index.md)
+  * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
   
   * [How to use messaging?](topics/tool-2-signal/1-messaging/index.md)
   
