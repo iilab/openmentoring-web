@@ -1,4 +1,10 @@
 # Assessing Security Risks
+## Introduction
+
+Know what measures to take to understand risks faced as a journalist.
+
+
+
 ## Learn how to
 
 - [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
@@ -9,15 +15,19 @@
 
 
 
-## Introduction
-
-Know what measures to take to understand risks faced as a journalist.
-
-
-
 ## Scenario
 
 Scenario text...
+
+
+## Understand risk
+
+Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
+<br>
+Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
+<br>
+The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
+
 
 
 ## Actor mapping
@@ -55,16 +65,6 @@ An example may be your Internet Service Provider (ISP) or companies such as Face
 An ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails.
 <br>
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
-
-
-
-## Understand risk
-
-Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
-<br>
-Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
-<br>
-The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
 
 
 
@@ -136,21 +136,6 @@ Once you have prioritised the risks to yourself and your work, you can then star
 
 
 
-## Next
-
----
-- (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
-- (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan
----
-See also:
- * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
- * Protection International: [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
- * Front Line Defenders: [Workbook on Security for Human Rights Defenders](https://frontlinedefenders.org/en/resource-publication/protection-handbook-human-rights-defenders)
- * Front Line Defenders, Kvinna till Kvinna and Urgent Action Fund: [Insiste, Resiste, Persiste, Existe - Women Human Rights Defenders Security Strategies](http://www.frontlinedefenders.org/files/en/Insiste%20Resiste%20Persiste%20Existe.pdf)
- * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -167,5 +152,20 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+---
+- (en/topics/practice-2-planning/1-threats/1-intro.md): What are threats
+- (en/topics/practice-2-planning/4-emergency-plan/1-intro.md): How to make an emergency Plan
+---
+See also:
+ * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+ * Protection International: [Protection Manual for Human Rights Defenders](https://protectioninternational.org/publications-protection-manual-for-human-rights-defenders/)
+ * Front Line Defenders: [Workbook on Security for Human Rights Defenders](https://frontlinedefenders.org/en/resource-publication/protection-handbook-human-rights-defenders)
+ * Front Line Defenders, Kvinna till Kvinna and Urgent Action Fund: [Insiste, Resiste, Persiste, Existe - Women Human Rights Defenders Security Strategies](http://www.frontlinedefenders.org/files/en/Insiste%20Resiste%20Persiste%20Existe.pdf)
+ * Kvinna till Kvinna: [Integrated Security Manual](http://integratedsecuritymanual.org/)
+
 
 

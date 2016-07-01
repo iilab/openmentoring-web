@@ -27,6 +27,22 @@ Verify that the file you want to send is in the compose window and press to send
 
 
 
+## Sending and Receiving messages
+
+# You and your contact need Signal installed
+To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
+<br>
+# Sending via SMS
+Signal can send messages as SMS using your mobile phone company to relay the message. With this option, even if your recipient is using Signal and the SMS is encrypted, your mobile phone company will know that you are sending a (encrypted) message to this particular recipient.
+<br>
+# Sending via the Internet
+If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server.
+<br>
+# Protecting your privacy
+In this instance, your mobile phone company will not know who you are sending your messages to.
+
+
+
 ## Messaging Individuals
 
 # Step 1: Open Signal
@@ -90,22 +106,6 @@ A icon in your message indicates that it has been delivered.
 
 
 
-## Sending and Receiving messages
-
-# You and your contact need Signal installed
-To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
-<br>
-# Sending via SMS
-Signal can send messages as SMS using your mobile phone company to relay the message. With this option, even if your recipient is using Signal and the SMS is encrypted, your mobile phone company will know that you are sending a (encrypted) message to this particular recipient.
-<br>
-# Sending via the Internet
-If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server.
-<br>
-# Protecting your privacy
-In this instance, your mobile phone company will not know who you are sending your messages to.
-
-
-
 ## Messaging groups
 
 # Basics
@@ -164,33 +164,6 @@ Verify that you both have the same fingerprints for each other, either in person
 
 
 
-## Exporting your messages
-
-**Note:** While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
-<br>
-# Step 1:
-Tap on the top right of the main Signal screen to bring up the menu and select "Import/Export"
-<br>
-# Step 2: Select
- The next screen will open on the import options, tap "Export"
-<br>
-# Step 3:
-On the export screen tap "Export plaintext backup"
-<br>
-![17s.png](17s.png)
-> Signal export
-
-# Step 4:
-Confirm that you want to export the unencrypted messages to the storage on your phone by tapping "Export"
-<br>
-# Step 5:
-Signal will confirm the export has completed by displaying "Success!" You will find a file called Textsecure.xml on your phone's storage that contains your unencrypted messages.
-<br>
-![18s.png](18s.png)
-> Export confirmation screens
-
-
-
 ## Scanning fingerprints
 
 **Note:** To verify fingerprints by scanning you need to have Barcode Scanner installed on your phone. If it is not available on your phone at the time of scanning Signal will download and install the app for you.
@@ -231,6 +204,33 @@ Once the QR code has been successfully scanned Signal will check that the identi
 # Step 8: Repeat to verify yours
 Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
 <br>
+
+
+
+## Exporting your messages
+
+**Note:** While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
+<br>
+# Step 1:
+Tap on the top right of the main Signal screen to bring up the menu and select "Import/Export"
+<br>
+# Step 2: Select
+ The next screen will open on the import options, tap "Export"
+<br>
+# Step 3:
+On the export screen tap "Export plaintext backup"
+<br>
+![17s.png](17s.png)
+> Signal export
+
+# Step 4:
+Confirm that you want to export the unencrypted messages to the storage on your phone by tapping "Export"
+<br>
+# Step 5:
+Signal will confirm the export has completed by displaying "Success!" You will find a file called Textsecure.xml on your phone's storage that contains your unencrypted messages.
+<br>
+![18s.png](18s.png)
+> Export confirmation screens
 
 
 

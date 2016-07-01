@@ -5,19 +5,19 @@ Steps to take if you suspect your online accounts are hijacked.
 
 
 
-## A suspicious email...
-![](scenario1.svg,scenario2.svg)
-Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
-<br>
-She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
-
-
-
 ## Learn how to
 
 - [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
 - [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
 - [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+
+
+
+## A suspicious email...
+![](scenario1.svg,scenario2.svg)
+Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
+<br>
+She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
 
 
 
@@ -42,19 +42,6 @@ Until you better understand the situation we recommend you stop using this accou
 
 
 
-## Other places to check for suspicious activity
-
-# Step 1: Email forwarding
-Check for suspicious addresses which your email might be automatically forwarding your emails to.
-<br>
-# Step 2: Password recovery
-Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
-<br>
-# Step 3: Other account permissions
-Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
-
-
-
 ## Confirm if your account has been hijacked
 
 # Review account history
@@ -67,6 +54,19 @@ Check to see if your account was accessed at a time when you were not online or 
 Be mindful that if you are using the Tor browser or a VPN service, it is possible that the location or IP address may differ from the location you have accessed the platform.
 <br>
 > Review our account activity
+
+
+
+## Other places to check for suspicious activity
+
+# Step 1: Email forwarding
+Check for suspicious addresses which your email might be automatically forwarding your emails to.
+<br>
+# Step 2: Password recovery
+Also check email addresses or phone numbers listed when you're resetting your password (this might be called password recovery settings).
+<br>
+# Step 3: Other account permissions
+Also look at the settings for the synchronisation to your phone, permissions to applications or other account permissions.
 
 
 

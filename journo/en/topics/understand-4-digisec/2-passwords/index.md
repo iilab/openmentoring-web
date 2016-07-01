@@ -14,6 +14,11 @@ Learn about how to create strong and secure passwords
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Password basics
 
 # Protecting your information
@@ -64,16 +69,6 @@ Of course, any pattern model becomes ineffective as soon as it is written or sug
 
 
 
-## Two-factor authentication
-
-# What is it?
-Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
-<br>
-# Input your code
-You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
-
-
-
 ## Test your password strength
 
 # How secure if your password?
@@ -84,9 +79,14 @@ But caution: after you enter your password into this public site, it might not b
 
 
 
-## Scenario
+## Two-factor authentication
 
-Scenario text...
+# What is it?
+Take advantage of online services that offer two-factor authentication. These programs require not only a password, but also, say, a code sent to you in a text message.
+<br>
+# Input your code
+You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
+
 
 
 ## Test

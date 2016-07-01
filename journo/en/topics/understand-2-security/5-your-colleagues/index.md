@@ -31,6 +31,22 @@ talking about that it's courageous to bring this subject up and when other peopl
 Scenario text...
 
 
+## Learn
+
+# Weakest link
+As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
+<br>
+# Security for all
+When developing a security plan with your colleagues, be sure to include people in all roles of your organisation.
+<br>
+# Positions to include
+For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
+<br>
+# See also
+- opsec - information compartmentalisation.
+
+
+
 ## Information compartmentalisation
 
 # Information security
@@ -49,6 +65,25 @@ Whether you share much or little information with your colleagues, it is importa
 Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 > sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
+
+
+
+## Learn
+
+# "Be careful with each other..."
+The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
+<br>
+# Productivity and security
+Trusting your team is important both your organisations productivity and overall security. Building  trust  within  a  team  is  not  a  trivial  task - it  involves  investment  and  taking risks.
+<br>
+# Trying new tactics
+Trust allows for trying new organisational security tactics, especially if you could not be, or were not involved in making decisions about it before.
+<br>
+# Sharing mistakes
+It also creates an atmosphere of openness where you feel more comfortable sharing your security incidents, information you feel is important, and also your mistakes.
+<br>
+# Increased confidence
+Trust gives team members confidence to know whom to talk to about which aspects of security.
 
 
 
@@ -104,38 +139,6 @@ When you or other people bring it up, it is important not to take this as a weak
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
-
-
-## Learn
-
-# "Be careful with each other..."
-The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
-<br>
-# Productivity and security
-Trusting your team is important both your organisations productivity and overall security. Building  trust  within  a  team  is  not  a  trivial  task - it  involves  investment  and  taking risks.
-<br>
-# Trying new tactics
-Trust allows for trying new organisational security tactics, especially if you could not be, or were not involved in making decisions about it before.
-<br>
-# Sharing mistakes
-It also creates an atmosphere of openness where you feel more comfortable sharing your security incidents, information you feel is important, and also your mistakes.
-<br>
-# Increased confidence
-Trust gives team members confidence to know whom to talk to about which aspects of security.
-
-
-
-# Weakest link
-As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
-<br>
-# Security for all
-When developing a security plan with your colleagues, be sure to include people in all roles of your organisation.
-<br>
-# Positions to include
-For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
-<br>
-# See also
-- opsec - information compartmentalisation.
 
 
 ## Test

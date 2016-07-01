@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T12:02:28.182Z",
+  "updatedAt": "2016-07-01T12:04:43.229Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -62,7 +62,7 @@
       "title": "Using the Open Mentoring App",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content", "protect:content,identity", "protect:identity", "protect:content", "protect:content,identity", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -84,7 +84,7 @@
       "title": "Using Signal",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -212,9 +212,9 @@
   ,
     
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_0-getting-started",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "Getting Started",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -289,17 +289,6 @@
     }
   ,
     {
-      "slug": "practice-2-planning_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-2-planning_1-threats",
       "type": "unit",
       "title": "Understanding Threats",
@@ -311,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-2-planning_2-assess-risk",
+      "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
-      "title": "Assessing Security Risks",
+      "title": "Getting Started",
       "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
@@ -333,14 +322,14 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-getting-started",
+      "slug": "practice-2-planning_2-assess-risk",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -350,6 +339,17 @@
       "parentTitle": "Safe Phones",
       "locale": "en",
       "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
@@ -421,23 +421,23 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Using the Open Mentoring App",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
       "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-1-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Using the Open Mentoring App",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:identity","protect:content","protect:content,identity","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-1-open-mentoring/index.json.gz"
     }
@@ -481,7 +481,7 @@
       "title": "How to have voice calls?",
       "parentTitle": "Using Signal",
       "locale": "en",
-      "categories": ["platform:android","protect:content"],
+      "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-2-signal/index.json.gz"
     }
@@ -641,6 +641,17 @@
     }
   ,
     {
+      "slug": "tool-8-android-hygiene_4-linux-hygiene",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Android Hygiene",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-8-android-hygiene_1-antivirus",
       "type": "unit",
       "title": "Understanding Threats",
@@ -653,17 +664,6 @@
   ,
     {
       "slug": "tool-8-android-hygiene_3-windows-hygiene",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Android Hygiene",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-8-android-hygiene/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-8-android-hygiene_4-linux-hygiene",
       "type": "unit",
       "title": "Preparing for emergencies with your contacts",
       "parentTitle": "Android Hygiene",
@@ -729,9 +729,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -740,9 +740,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_4-internet",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -773,9 +773,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_2-your-well-being",
+      "slug": "understand-2-security_3-your-story-journo",
       "type": "unit",
-      "title": "Your Well Being",
+      "title": "Your Story",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -784,9 +784,9 @@
     }
   ,
     {
-      "slug": "understand-2-security_3-your-story-journo",
+      "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
-      "title": "Your Story",
+      "title": "Your Well Being",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -872,17 +872,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_2-passwords",
-      "type": "unit",
-      "title": "Passwords",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_3-metadata",
       "type": "unit",
       "title": "Metadata",
@@ -894,9 +883,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_2-passwords",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Passwords",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -908,6 +897,17 @@
       "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
       "title": "Protecting Identity",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_4-secure-communications",
+      "type": "unit",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

@@ -60,6 +60,22 @@ Do your accounts have saved passwords or automatically log in when you turn your
 
 
 
+## Contacts and linked accounts
+
+# Who is at risk?
+
+Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
+<br>
+# Removing linked accounts
+What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
+<br>
+# Hidden stories of metadata
+Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
+<br>
+> Remove accounts that were linked to your device
+
+
+
 ## If your device is still missing
 
 > Step 1
@@ -83,22 +99,6 @@ Turn on 2-factor authentication for all accounts that were accessible by this de
 If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
 <br>
 > Change your passwords 
-
-
-
-## Contacts and linked accounts
-
-# Who is at risk?
-
-Make an inventory of *who was mentioned* in the documents on your missing device. Was your address book encrypted? This will help you learn what contacts or networks may be at risk.
-<br>
-# Removing linked accounts
-What accounts does your device have access to? Examples include email, social media, and messaging services that the device can access. Was your device used for secondary authentication? This will help you determine which accounts you need to change account settings for.
-<br>
-# Hidden stories of metadata
-Even if you use encryption tools for email or chat, the [metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md) of who and when you were communicating exposed. [Securely Communicate](en/topics/understand-4-digisec/4-secure-communications) with your networks to let them know.
-<br>
-> Remove accounts that were linked to your device
 
 
 
@@ -140,17 +140,6 @@ Are there signs that the device has been physically tampered with? This will hel
 
 
 
-## Next
-
-* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
-* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
-<br>
-See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -167,5 +156,16 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+* [Has your account been hijacked?](topics/practice-1-emergencies/2-account-hijacked) (Are you locked out of your account? Seeing unusual activity?)
+* [Does your computer have malware?](topics/practice-1-emergencies/4-malware.md) (Is your computer acting suspicious?)
+<br>
+See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Electronic Frontier Foundations: [Surveillance Self Defense Guide](https://ssd.eff.org/en)
+
 
 

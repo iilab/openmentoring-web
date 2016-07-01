@@ -70,6 +70,12 @@ Turning off Wireless and GPS location reduces the risk of location tracking, sav
 
 
 
+## Caller identity
+
+If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
+
+
+
 ## Software updates
 
 # Update regularly
@@ -82,12 +88,6 @@ The phone operating system: go to: *settings -> About phone -> updates -> check 
 Apps you have installed: Open the Play store app, from the side menu select My Apps.
 <br>
 **Note:** When updating your phones software it is important to do it from a trusted location such as your internet connection at home instead of somewhere like an internet cafe or coffee shop.
-
-
-
-## Caller identity
-
-If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
 
 
 

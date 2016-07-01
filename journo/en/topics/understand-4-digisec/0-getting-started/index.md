@@ -1,14 +1,14 @@
 # Getting Started
+## Getting started with digital security
+
+Learn the basics of digital security in order to start using your devices more safely.
+
+
+
 ## Learn about
 
 - [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
 - [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
-
-
-
-## Getting started with digital security
-
-Learn the basics of digital security in order to start using your devices more safely.
 
 
 
@@ -94,21 +94,6 @@ To learn about why secure communication is important and tools you should use to
 
 
 
-## Next
-
----
-- en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with security
-- en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md: Using KeepassX to manage passwords security
-- en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Learn to use Signal, the encrypted messaging app
-- en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md: Learn to use Tor, the anonymous browser for avoiding surveillance and getting around censorship
----
-See also:
-- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
-- Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
-- Frontline Defenders: [Digital Security & Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -125,6 +110,21 @@ See also:
         <answer>No</answer>
     </question>
 </quiz>
+
+
+
+## Next
+
+---
+- en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with security
+- en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md: Using KeepassX to manage passwords security
+- en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Learn to use Signal, the encrypted messaging app
+- en/topics/tool-9-tor-browser/0-getting-started/1-1-intro.md: Learn to use Tor, the anonymous browser for avoiding surveillance and getting around censorship
+---
+See also:
+- Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
+- Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
+- Frontline Defenders: [Digital Security & Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
 
 
 

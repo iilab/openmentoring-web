@@ -47,11 +47,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-## Test you social networking knowledge!
-
-
-
-
 ## How-to
 
 This how to will go through the following steps 
@@ -370,5 +365,7 @@ This makes sure you are both who you say you are.
  * [What information about me are my contacts passing on to other people?](safe-social-networks-what-is-shared)
  * [Will my contacts mind if I share information about them with other people?](safe-social-networks-consent)
  * [Do I trust everyone with whom I'm connected?](safe-social-networks-establishing-trust)
+
+
 
 
