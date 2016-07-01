@@ -71,6 +71,16 @@ Visit the website of your hosting company and look for a 'status' blog. Alternat
 
 
 
+## Censorship problem
+
+# Similar sites down?
+Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
+<br>
+# Circumvent it!
+Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
+
+
+
 ## Software problem
 
 # Error messages?
@@ -95,13 +105,6 @@ Are you seeing a website that is not yours? Are you receiving a warning from you
 # Fix the problem
 See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
-
-
-# Similar sites down?
-Can you visit other sites with similar content to your site? Try visiting websites related to yours or covering similar issues.
-<br>
-# Circumvent it!
-Also try using Tor or Psiphon to access your site. If this helps, you have a blocking problem – you are still online for other parts of the world, but are being censored in your own country.
 
 
 ## Reasons your site may be down

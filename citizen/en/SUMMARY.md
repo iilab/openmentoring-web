@@ -58,14 +58,6 @@
   
   * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
-  
-  * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
-  
-  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
-  
 * [Use Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Get Started with Enigmail](topics/tool-3-enigmail/0-get-started/index.md)
@@ -80,6 +72,14 @@
   
   * [Create a new entry](topics/tool-4-keepassx/2-create-new-entry/index.md)
   
+* [Using Signal](topics/tool-2-signal/index.md)
+  
+  * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
+  
+  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  
 * [Use Veracrypt](topics/tool-5-veracrypt/index.md)
   
   * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
@@ -88,9 +88,9 @@
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
-  
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+  
+  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
@@ -106,9 +106,9 @@
   
   * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
   
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
   
@@ -132,11 +132,11 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   

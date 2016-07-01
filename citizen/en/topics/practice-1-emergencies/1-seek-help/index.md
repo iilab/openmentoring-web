@@ -94,8 +94,6 @@ When you are initiating contact with third parties you might want to create a ne
 
 
 
-## Organisations you may reach out to
-
 # Dealing with digital emergencies:
 - Digital Security Helpline (Access Now): help@accessnow.org
 <br>
@@ -113,7 +111,6 @@ When you are initiating contact with third parties you might want to create a ne
 - Digital Defenders Partnership: ddp@hivos.org
 - Internews: info@internews.org
 - Electronic Frontier Foundation: info@eff.org
-
 
 
 ## Test

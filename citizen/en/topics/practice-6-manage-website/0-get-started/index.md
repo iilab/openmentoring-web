@@ -1,10 +1,4 @@
 # Get started
-## Get started
-
-Learn the basics of managing a website
-
-
-
 ## Learn how to
 
 
@@ -12,6 +6,12 @@ Learn the basics of managing a website
 
 
 
+
+
+
+## Get started
+
+Learn the basics of managing a website
 
 
 
