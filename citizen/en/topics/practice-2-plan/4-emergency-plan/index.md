@@ -13,13 +13,6 @@ Learn to develop an emergency plan as a journalist.
 
 
 
-## Scenario
-
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
-
-
 
 
 > This section needs to be bulked up significantly
@@ -57,6 +50,13 @@ For more informanation on developing a security and emergency plan, refer to Pro
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Scenario
+
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 
 ## Next

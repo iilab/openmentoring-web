@@ -1,10 +1,4 @@
 # Get Started with Enigmail
-## Get started with Enigmail
-
-Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
-
-
-
 ## Learn about
 
  - [What the Enigmail extension is and how you can use it to protect your email communication](en/topics/tool-3-enigmail/0-getting-started/3-1-learn.md)
@@ -43,6 +37,12 @@ If you have a correspondent's public key, you can verify the digital signatures 
 ## Installing and setting up Enigmail
 
 Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/windows) Tactical Technology Collective has put together for help setting up and starting to use Enigmail.
+
+
+
+## Get started with Enigmail
+
+Learn how to install and use Enigmail, a free and open source Thunderbird add-on that lets you protect the privacy of your email communication.
 
 
 

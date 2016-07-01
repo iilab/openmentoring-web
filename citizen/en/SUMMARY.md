@@ -86,9 +86,9 @@
   
 * [Use Veracrypt](topics/tool-5-veracrypt/index.md)
   
-  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
   * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
+  
+  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   

@@ -1,4 +1,10 @@
 # Hijacked Account
+## Seeking help
+
+Steps to take if you suspect your online accounts are hijacked.
+
+
+
 ## Learn how to
 
 - [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
@@ -12,12 +18,6 @@
 Brenda receives an email from her service provider alerting her that her social media account password has recently changed. She suspects her social media account has been hijacked.
 <br>
 She needs to know if she still has access to the account, and if not, who she can reach out to for help. Brenda is worried that if she doesn't regain control, her social media account will be used to hurt her reputation.
-
-
-
-## Seeking help
-
-Steps to take if you suspect your online accounts are hijacked.
 
 
 

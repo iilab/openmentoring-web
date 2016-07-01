@@ -1,14 +1,14 @@
 # Getting Started
-## Getting started with Orbot
-
-Learn to use Orbot, the Android-platform app created by the Guardian Project, designed to increase the anonymity of your activities on the Internet.
-
-
-
 ## Learn about
 
 - [Installing and configuring Orbot](en/topics/tool-10-orbot/0-getting-started/3-1-learn.md)
 - [Use Orbot to remain anonymous online](en/topics/tool-10-orbot/0-getting-started/3-2-learn.md)
+
+
+
+## Getting started with Orbot
+
+Learn to use Orbot, the Android-platform app created by the Guardian Project, designed to increase the anonymity of your activities on the Internet.
 
 
 

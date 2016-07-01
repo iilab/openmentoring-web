@@ -5,14 +5,6 @@ Learn how to install and use Conversations, a free and open source encrypted mes
 
 
 
-## Learn how to
-
- - [Start using Conversations](en/topics/tool-6-conversations/0-getting-started/3-learn.md)
- - [Install Conversations on your smart phone and encrypting messages](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md)
- - [Send encrypted messages to other Conversations users](en/topics/tool-6-conversations/1-messaging/1-1-intro.md)
-
-
-
 ## Conversations basics
 
 # Messaging App
@@ -35,6 +27,14 @@ In it's current form, Conversations requires Android 4.0 and up.
 <br>
 # Communicate with
  Conversations is compatible all XMPP clients.
+
+
+
+## Learn how to
+
+ - [Start using Conversations](en/topics/tool-6-conversations/0-getting-started/3-learn.md)
+ - [Install Conversations on your smart phone and encrypting messages](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md)
+ - [Send encrypted messages to other Conversations users](en/topics/tool-6-conversations/1-messaging/1-1-intro.md)
 
 
 

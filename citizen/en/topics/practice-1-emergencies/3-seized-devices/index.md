@@ -15,6 +15,14 @@ Learn what to do if your digital devices are taken.
 
 
 
+## A missing laptop...
+
+Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
+<br>
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
+
+
+
 ## Assess the situation
 
 
@@ -68,32 +76,6 @@ Even if you use encryption tools for email or chat, the [metadata](en/topics/und
 
 
 
-## If your device is still missing
-
-> Step 1
-# Remove authorization
-
-When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
-<br>
-> Step 2
-# Change passwords
-
-Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
-<br>
-> Step 3
-# Turn on 2-factor authentication
-
-Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
-<br>
-> Step 4
-# Erase data from device
-
-If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
-<br>
-> Change your passwords 
-
-
-
 ## If you get the device back
 
 
@@ -132,11 +114,29 @@ Are there signs that the device has been physically tampered with? This will hel
 
 
 
-## A missing laptop...
+## If your device is still missing
 
-Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
+> Step 1
+# Remove authorization
+
+When your device has access to accounts (email, social media or web account) remove the authorization for this device for all accounts. This can be done by going to your accounts online and changing the account permissions.
 <br>
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
+> Step 2
+# Change passwords
+
+Change the passwords for all accounts that are accessible by this device. To learn more about doing this, refer to the [Account Hijacked](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) and the [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md) lessons.
+<br>
+> Step 3
+# Turn on 2-factor authentication
+
+Turn on 2-factor authentication for all accounts that were accessible by this device. Please note that not all accounts support 2-factor authentication.
+<br>
+> Step 4
+# Erase data from device
+
+If you have a tool installed on your lost devices that allows you to erase the data and the history of your device, use it.
+<br>
+> Change your passwords 
 
 
 

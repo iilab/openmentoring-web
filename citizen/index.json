@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T15:45:19.283Z",
+  "updatedAt": "2016-07-01T15:46:03.398Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -564,9 +564,9 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_1-standard-volume",
+      "slug": "tool-5-veracrypt_0-get-started",
       "type": "unit",
-      "title": "Create a standard encrypted volume",
+      "title": "Use Veracrypt",
       "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],
@@ -575,9 +575,9 @@
     }
   ,
     {
-      "slug": "tool-5-veracrypt_0-get-started",
+      "slug": "tool-5-veracrypt_1-standard-volume",
       "type": "unit",
-      "title": "Use Veracrypt",
+      "title": "Create a standard encrypted volume",
       "parentTitle": "Use Veracrypt",
       "locale": "en",
       "categories": [],

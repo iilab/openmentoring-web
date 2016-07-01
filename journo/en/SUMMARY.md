@@ -12,13 +12,13 @@
   
   * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
   
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
-  
   * [Malware](topics/practice-1-emergencies/4-malware/index.md)
   
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
 * [Plan and Prepare](topics/practice-2-plan/index.md)
   
@@ -26,9 +26,9 @@
   
   * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
   
-  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
+  
+  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -42,9 +42,9 @@
   
   * [How to control access to your personal details?](topics/practice-4-safe-social-networks/1-access-personal-details/index.md)
   
-  * [Control access to your personal details](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
-  
   * [Chatting securely](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
+  
+  * [Control access to your personal details](topics/practice-4-safe-social-networks/2-privacy-settings-and-tools/index.md)
   
 * [Manage your website](topics/practice-6-manage-website/index.md)
   
@@ -114,12 +114,6 @@
   
   * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
-  
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
-  
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
-  
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
   * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
@@ -132,6 +126,12 @@
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
+* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  
+  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  
 * [Understand Security](topics/understand-2-security/index.md)
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
@@ -142,9 +142,9 @@
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
-  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
-  
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
 * [Understand Operational Security](topics/understand-3-opsec/index.md)
   
