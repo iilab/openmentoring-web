@@ -1,6 +1,10 @@
-## Key takeaways
+## Learn how to
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ - Send and receive messages
+ - Message individuals
+ - Message groups
+ - Identity verification
+ - Read fingerprints
+ - Scan fingerprints
+ - Export your messages
 

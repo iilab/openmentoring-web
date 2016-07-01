@@ -98,9 +98,9 @@
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
-  
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  
+  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
   
 * [Android Hygiene](topics/tool-8-android-hygiene/index.md)
   
@@ -124,9 +124,9 @@
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
   * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   

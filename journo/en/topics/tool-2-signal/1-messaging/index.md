@@ -1,9 +1,12 @@
 # How to use messaging?
 ## Using Signal for encrypted messaging
 
-This section will provide an overview of how to use the app Signal for encrypted messaging.
-<br>
-Key takeaways from this section include learning how to do the following:
+Learn to use Signal for encrypted messaging.
+
+
+
+## Learn how to
+
  - Send and receive messages
  - Message individuals
  - Message groups
@@ -11,14 +14,6 @@ Key takeaways from this section include learning how to do the following:
  - Read fingerprints
  - Scan fingerprints
  - Export your messages
-
-
-
-## Key takeaways
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 
