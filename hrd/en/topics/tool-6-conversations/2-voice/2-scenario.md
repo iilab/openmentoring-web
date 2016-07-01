@@ -1,4 +1,0 @@
-## Scenario
-
-Scenario text...
-

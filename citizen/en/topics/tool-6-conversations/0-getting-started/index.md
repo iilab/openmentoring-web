@@ -1,66 +1,49 @@
 # Getting Started with Signal
-## Getting started with Signal
+## Getting started with Conversations
 
-Learn how to install and use Signal, a free and open source encrypted messaging app for Android and iPhone.
+Learn how to install and use Conversations, a free and open source encrypted messaging app for Android.
 
 
 
 ## Learn how to
 
- - [Start using Signal](en/topics/tool-2-signal/0-getting-started/3-learn.md)
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Send encrypted messages to other Signal users via SMS or the internet (MMS).](en/topics/tool-2-signal/1-messaging/1-intro.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+ - [Start using Conversations](en/topics/tool-6-conversations/0-getting-started/3-learn.md)
+ - [Install Conversations on your smart phone and encrypting messages](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md)
+ - [Send encrypted messages to other Conversations users](en/topics/tool-6-conversations/1-messaging/1-1-intro.md)
 
 
 
-## Scenario
+## Conversations basics
 
-Mansour is an investigative journalist who wants to share the app with his source Magda who has a sensitive story about government corruption. She wants to enable Magda to communicate safely and share documents.
+# Messaging App
+Conversations is an open source chat client that encrypts messages using a Jabber/XMPP client. It can also be used for group chats.
 <br>
-He needs to be careful to share the app and its content in ways that doesn't allow to link them together to protect Magda as a source.
-
-
-
-## Learn
-
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+# Encrypted content
+Using Conversations will prevent anyone from being able to read the content of your messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
 <br>
-Before starting to use Signal, you must download it from [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) and install the application.
+# Think about the risks
+In some countries, an encryption app such as Conversations may attract attention, be illegal or subject to legal constraints.
 <br>
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+# Installation guide
+Before starting to use Signal, you must download it. Review [the installation guide](en/topics/tool-6-conversations/0-getting-started/4-1-howto-install.md) to learn how to do so.
 <br>
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+# Requirements
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at https://conversations.im/
 <br>
-This means that When you use Signal, you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
-
-
-Things You Should Know About This Tool Before You Start
- - Using this app will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
- - Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
- - In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
-
-
-
-## How-to
-
-Install Signal by following the following 3 steps:
-
-# Step 1. Download Signal
-
-On your Android device, download and install the app from the Google Play store by tapping ![](https://securityinabox.org/sbox/screen/textsecure-en-1/001.png)
+# Android versions
+In it's current form, Conversations requires Android 4.0 and up.
 <br>
+# Communicate with
+ Conversations is compatible all XMPP clients.
 
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/002.png)
->Signal on the Google Play Store
 
+
+## Installing Conversations
+
+# Step 1. Download Conversations
+On your Android device, download and install the app from the Google Play store.
 <br>
-Alternatively download libresignal on [F-Droid](https://libraries.io/github/LibreSignal/LibreSignal) which allows all Signal functions except phone calls.
+Alternatively download Conversations from [Github](https://github.com/siacs/Conversations)
 <br>
 # Step 2: Review permissions
 
@@ -70,11 +53,8 @@ Once your are happy with the permissions allowed, press and the installation wil
 <br>
 If you do not agree with the permissions allowed, press the back button and the installation will be cancelled.
 
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/004.png)
->Permissions required
-
 <br>
-# Step 3. Run Signal
+# Step 3. Run Conversations
 Tap Open to run the app for the first time
 
 

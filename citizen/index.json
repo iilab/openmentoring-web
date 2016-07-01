@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-01T13:29:51.179Z",
+  "updatedAt": "2016-07-01T14:24:19.217Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -128,7 +128,7 @@
       "title": "Using Conversations",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
     }
@@ -578,17 +578,6 @@
       "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
-      "parentTitle": "Using Conversations",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-6-conversations_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],

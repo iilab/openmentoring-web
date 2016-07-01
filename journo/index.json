@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-07-01T13:29:44.416Z",
+  "updatedAt": "2016-07-01T14:24:14.235Z",
   "items": [
-    {
-      "slug": "practice-2-planning",
-      "type": "topic",
-      "title": "Planning and Preparing",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-1-emergencies",
       "type": "topic",
@@ -21,6 +10,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning",
+      "type": "topic",
+      "title": "Planning and Preparing",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -128,7 +128,7 @@
       "title": "Using Conversations",
       "parentTitle": "",
       "locale": "en",
-      "categories": [ "platform:android", "platform:android", "protect:content", "protect:content"],
+      "categories": [ "platform:android", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
     }
@@ -212,53 +212,9 @@
   ,
     
     {
-      "slug": "practice-2-planning_0-getting-started",
+      "slug": "practice-1-emergencies_1-seeking-help",
       "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_1-threats",
-      "type": "unit",
-      "title": "Understanding Threats",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_2-assess-risk",
-      "type": "unit",
-      "title": "Assessing Security Risks",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-planning_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Planning and Preparing",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-1-emergencies_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
+      "title": "Seeking Remote Help",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -267,9 +223,20 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seeking-help",
+      "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
-      "title": "Seeking Remote Help",
+      "title": "",
+      "parentTitle": "Dealing with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
       "parentTitle": "Dealing with Emergencies",
       "locale": "en",
       "categories": [],
@@ -322,14 +289,47 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_2-account-hijacked",
+      "slug": "practice-2-planning_0-getting-started",
       "type": "unit",
-      "title": "",
-      "parentTitle": "Dealing with Emergencies",
+      "title": "Getting Started",
+      "parentTitle": "Planning and Preparing",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_1-threats",
+      "type": "unit",
+      "title": "Understanding Threats",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_2-assess-risk",
+      "type": "unit",
+      "title": "Assessing Security Risks",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-planning_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Planning and Preparing",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-planning/index.json.gz"
     }
   ,
     {
@@ -421,9 +421,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_1-sharing",
+      "slug": "tool-1-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -432,9 +432,9 @@
     }
   ,
     {
-      "slug": "tool-1-open-mentoring_0-getting-started",
+      "slug": "tool-1-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Using the Open Mentoring App",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -578,17 +578,6 @@
       "slug": "tool-6-conversations_1-messaging",
       "type": "unit",
       "title": "How to use messaging?",
-      "parentTitle": "Using Conversations",
-      "locale": "en",
-      "categories": ["platform:android","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-6-conversations/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-6-conversations_2-voice",
-      "type": "unit",
-      "title": "How to have voice calls?",
       "parentTitle": "Using Conversations",
       "locale": "en",
       "categories": ["platform:android","protect:content"],

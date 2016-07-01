@@ -1,4 +1,21 @@
 # Getting Started
+## Getting Started
+
+Learn the basics about securing your Android device
+
+
+
+## Takeaways
+
+- [Restrict access to your phone](en/topics/tool-8-android-hygiene/0-getting-started/3-1-learn.md)
+- [Encrypt your device](en/topics/tool-8-android-hygiene/0-getting-started/3-2-learn.md)
+- [Adjust network settings](en/topics/tool-8-android-hygiene/0-getting-started/3-3-learn.md)
+- [Turn off location tracking](en/topics/tool-8-android-hygiene/0-getting-started/3-4-learn.md)
+- [Turn on caller-ID](en/topics/tool-8-android-hygiene/0-getting-started/3-5-learn.md)
+- [Update your operating system and software](en/topics/tool-8-android-hygiene/0-getting-started/3-6-learn.md)
+
+
+
 ## Access to your phone
 
 # Enable Lock SIM card
@@ -43,6 +60,16 @@ If your device supports Near Field Communication (NFC), this will be switched on
 
 
 
+## Location settings
+
+# Turn off Wireless and GPS location
+Switch off Wireless and GPS location (under Location Services) and mobile data (this can be found under *Settings -> Personal -> Location*). Only turn on location settings if you need them.
+<br>
+# Importance of turning off
+Turning off Wireless and GPS location reduces the risk of location tracking, saves battery power, and reduces unwanted data streams initiated by applications running in the background or remotely by your mobile carrier.
+
+
+
 ## Caller identity
 
 If you want to hide your caller-ID, go to *Phone Dialler -> settings -> Additional Settings -> Caller ID -> hide number*.
@@ -64,32 +91,7 @@ Apps you have installed: Open the Play store app, from the side menu select My A
 
 
 
-## Location settings
-
-# Turn off Wireless and GPS location
-Switch off Wireless and GPS location (under Location Services) and mobile data (this can be found under *Settings -> Personal -> Location*). Only turn on location settings if you need them.
-<br>
-# Importance of turning off
-Turning off Wireless and GPS location reduces the risk of location tracking, saves battery power, and reduces unwanted data streams initiated by applications running in the background or remotely by your mobile carrier.
-
-
-
-## Takeaways
-
-- [Restrict access to your phone](en/topics/tool-8-android-hygiene/0-getting-started/3-1-learn.md)
-- [Encrypt your device](en/topics/tool-8-android-hygiene/0-getting-started/3-2-learn.md)
-- [Adjust network settings](en/topics/tool-8-android-hygiene/0-getting-started/3-3-learn.md)
-- [Turn off location tracking](en/topics/tool-8-android-hygiene/0-getting-started/3-4-learn.md)
-- [Turn on caller-ID](en/topics/tool-8-android-hygiene/0-getting-started/3-5-learn.md)
-- [Update your operating system and software](en/topics/tool-8-android-hygiene/0-getting-started/3-6-learn.md)
-
-
-
-## Getting Started
-
-Learn the basics about securing your Android device
-
-
+## Next
 
 ---
 - en/topics/tool-2-signal/0-getting-started/1-1-intro.md: Using the Signal app for secure messaging
@@ -98,5 +100,6 @@ Learn the basics about securing your Android device
 ---
 See also:
 - Tactical Technology Collective: [Basic Android Security Setup Guide](https://securityinabox.org/en/eco-rights-africa/basic-setup/android)
+
 
 

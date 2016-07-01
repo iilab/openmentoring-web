@@ -116,6 +116,18 @@ When you are initiating contact with third parties you might want to create a ne
 
 
 
+## Test
+
+<quiz name="">
+    <question>
+        <p>Landlines are not encrypted but mobile phones are</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
+    </question>
+</quiz>
+
+
 ## Next
 
 ---
@@ -130,13 +142,4 @@ See also:
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 
 
-
-<quiz name="">
-    <question>
-        <p>Landlines are not encrypted but mobile phones are</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-        <explanation> Mobile and landline phone communication is not encrypted and can be listened to by governments, law enforcement agencies, or other parties with the necessary technical equipment.</explanation>
-    </question>
-</quiz>
 

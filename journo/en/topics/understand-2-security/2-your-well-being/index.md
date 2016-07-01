@@ -1,40 +1,17 @@
 # Your Well Being
-## Dealing with chronic stress
+## Identifying Traumatic stress
 
-# Stress management
-Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
+#
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
 <br>
-# Take care of yourself
-It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+#
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
 <br>
-# Learn about stress.
-Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
 <br>
-# Know yourself
-Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 <br>
-# Eat well and exercise
-Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
-<br>
-# Get rest and relaxation
-Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
-<br>
-# Practice belief systems
-Maintain spiritual health consistent with your personal beliefs.
-<br>
-# Maintain a sense of humour
-Try to have contact with others outside of the work environment to maintain perspective
-<br>
-# Be informed
-Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
-<br>
-# Talk to others
-Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
-<br>
-# Change a stressful environment as much as possible
-Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
-<br>
-# Think positive!
+![](recap.png)
 
 
 
@@ -229,38 +206,6 @@ Dissociation is a sign of serious traumatization.
 
 
 
-## Identifying Traumatic stress
-
-#
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
-<br>
-#
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-Any event which is very distressing and outside of the realm of normal human experience can result in traumatic stress. Such a response is a normal reaction to an abnormal situation.
-<br>
-Traumatic stress usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-<br>
-![](recap.png)
-
-
-
-## Identifying trauma
-
-# Trauma stress is common
-Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
-<br>
-# Recognise symptoms
-It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
-<br>
-# Normal reaction to abnormal situation
-Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
-<br>
-# How you respond
-Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
-
-
-
 ## Identifying chronic stress
 
 # Healthy levels of stress
@@ -277,6 +222,61 @@ Chronic stress occurs regularly among journalists and human rights defenders, ye
 <br>
 # Hard to deal with problems
 Not only is chronic stress harmful for the body physically and mentally, it can also can make it hard to deal with daily problems.
+
+
+
+## Dealing with chronic stress
+
+# Stress management
+Stress management is an individual process. There is no one best set of techniques. For stress management to be effective, it must be include techniques that work best for each person.
+<br>
+# Take care of yourself
+It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
+<br>
+# Learn about stress.
+Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+<br>
+# Know yourself
+Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+<br>
+# Eat well and exercise
+Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
+<br>
+# Get rest and relaxation
+Get adequate, regular sleep. Maintain your normal routines for relaxation, such as hobbies, reading, etc.
+<br>
+# Practice belief systems
+Maintain spiritual health consistent with your personal beliefs.
+<br>
+# Maintain a sense of humour
+Try to have contact with others outside of the work environment to maintain perspective
+<br>
+# Be informed
+Knowledge of the work situation and environment provides an effective way of checking rumours and immediately addressing concerns.
+<br>
+# Talk to others
+Sharing a problem with others may help you find a solution and will make you feel less isolated. If unable to talk to others about your feelings, keep a journal or diary or write letters.
+<br>
+# Change a stressful environment as much as possible
+Refuse to see yourself as a helpless victim of circumstance. When faced with a difficult situation, identify the problem, think of alternative, evaluate the alternatives, and finally select and implement the best alternative.
+<br>
+# Think positive!
+
+
+
+## Identifying trauma
+
+# Trauma stress is common
+Journalists and human rights defenders do difficult and challenging work, and see a good deal of human misery. We may even be fearful for our lives at times.
+<br>
+# Recognise symptoms
+It is therefore important to know how to react following a traumatic event, and how to recognise the symptoms of traumatic stress.
+<br>
+# Normal reaction to abnormal situation
+Any event which is very distressing and outside of the realm of normal human experience can result in trauma. Such a response is a normal reaction to an abnormal situation.
+<br>
+# How you respond
+Trauma usually produces a very intense response, including fear and/or helplessness, which may overwhelm the individual’s coping mechanisms.
 
 
 

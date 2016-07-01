@@ -1,20 +1,12 @@
 # Summary
 
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
-  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
-  
   * [Seeking Remote Help](topics/practice-1-emergencies/1-seeking-help/index.md)
+  
+  * [](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
   
   * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
@@ -24,7 +16,15 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
-  * [](topics/practice-1-emergencies/2-account-hijacked/index.md)
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -50,9 +50,9 @@
   
 * [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
-  
   * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
   
 * [Orbot](topics/tool-10-orbot/index.md)
   
@@ -91,8 +91,6 @@
   * [Getting Started with Signal](topics/tool-6-conversations/0-getting-started/index.md)
   
   * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
-  
-  * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   

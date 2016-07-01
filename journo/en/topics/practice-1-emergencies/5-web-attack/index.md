@@ -1,4 +1,11 @@
 # Website under attack
+## Malware
+
+
+Recover from having your website from being attacked or defaced.
+
+
+
 ## Learn how to
 
 - [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
@@ -129,13 +136,6 @@ Move to a DDoS Mitigation service or secure hosting provider. Deflect.ca can sup
 Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detect and prevent such attacks.
 <br>
 > Restore your original website 
-
-
-
-## Malware
-
-
-Recover from having your website from being attacked or defaced.
 
 
 
