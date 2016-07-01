@@ -280,53 +280,6 @@ Trauma usually produces a very intense response, including fear and/or helplessn
 
 
 
-## Dealing with traumatic
-
-# Use your own strategy
-Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
-<br>
-# Possible strategies
-Adapt the following suggestions to take account of what is possible after the crisis.
-<br>
-# Use positive coping strategies
-- Get enough rest
-- Eat as regularly as possible and drink water
-- Talk and spend time with family and friends.
-<br>
-# Use positive coping strategies
-- Discuss problems with someone you trust.
-- Do activities that help you relax (walk, sing, pray, play with children).
-- Do physical exercise
-- Find safe ways to help others in the crisis and get involved in community activities.
-<br>
-# Avoid negative coping strategies
-- Don’t take drugs, smoke or drink alcohol
-- Don’t sleep all day
-- Don’t work all the time without any rest or relation
-<br>
-# Avoid negative coping strategies
-- Don't isolate yourself from friends and loved ones.
-- Don’t neglect basic personal hygiene
-- Don’t be violent
-<br>
-# Weeks and months after
-Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
-
-
-
-## Identifying post-traumatic stress
-
-# PTSD is common
-Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
-<br>
-# Factors that increase PTSD
-Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
-<br>
-# When PTSD occurs
-In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
-
-
-
 ## Effects of trauma
 
 # Immediate numbness
@@ -386,6 +339,53 @@ Strong feelings affect your physical health. In the weeks after a trauma, you ma
 <br>
 # Physical
 It may take weeks for some of these feelings and symptoms to pass. Remember that these are normal reactions to extreme circumstances. They are not signs that you are weak or sick.
+
+
+
+## Dealing with traumatic
+
+# Use your own strategy
+Everyone has natural ways of coping. Use your own positive coping strategies to feel stronger and regain a sense of control.
+<br>
+# Possible strategies
+Adapt the following suggestions to take account of what is possible after the crisis.
+<br>
+# Use positive coping strategies
+- Get enough rest
+- Eat as regularly as possible and drink water
+- Talk and spend time with family and friends.
+<br>
+# Use positive coping strategies
+- Discuss problems with someone you trust.
+- Do activities that help you relax (walk, sing, pray, play with children).
+- Do physical exercise
+- Find safe ways to help others in the crisis and get involved in community activities.
+<br>
+# Avoid negative coping strategies
+- Don’t take drugs, smoke or drink alcohol
+- Don’t sleep all day
+- Don’t work all the time without any rest or relation
+<br>
+# Avoid negative coping strategies
+- Don't isolate yourself from friends and loved ones.
+- Don’t neglect basic personal hygiene
+- Don’t be violent
+<br>
+# Weeks and months after
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+
+
+
+## Identifying post-traumatic stress
+
+# PTSD is common
+Post-Traumatic Stress Disorder (PTSD) develops in about 1 in 3 people who experience severe trauma.
+<br>
+# Factors that increase PTSD
+Certain factors can make you more susceptible to developing PTSD after a traumatic event. These include if you or your family have had depression or anxiety in the past, or if you don’t receive much support from family or friends.
+<br>
+# When PTSD occurs
+In most cases, PTSD develops during the first month after a traumatic event. However, in a minority of cases, there may be a delay of months or even years before symptoms start to appear.
 
 
 

@@ -1,4 +1,10 @@
 # Passwords
+## Getting started with passwords
+
+Learn about how to create strong and secure passwords
+
+
+
 ## Learn how to
 
 - [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
@@ -11,12 +17,6 @@
 ## Scenario
 
 Scenario text...
-
-
-## Getting started with passwords
-
-Learn about how to create strong and secure passwords
-
 
 
 ## Password basics

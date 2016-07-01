@@ -1,15 +1,5 @@
 # Summary
 
-* [Planning and Preparing](topics/practice-2-planning/index.md)
-  
-  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
-  
-  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
-  
 * [Dealing with Emergencies](topics/practice-1-emergencies/index.md)
   
   * [Getting Started](topics/practice-1-emergencies/0-getting-started/index.md)
@@ -26,17 +16,21 @@
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
   
+* [Planning and Preparing](topics/practice-2-planning/index.md)
+  
+  * [Getting Started](topics/practice-2-planning/0-getting-started/index.md)
+  
+  * [Understanding Threats](topics/practice-2-planning/1-threats/index.md)
+  
+  * [Assessing Security Risks](topics/practice-2-planning/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-planning/4-emergency-plan/index.md)
+  
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
   * [Getting Started](topics/practice-3-safe-phones/0-getting-started/index.md)
   
   * [Instant Messaging on Smart Phones](topics/practice-3-safe-phones/1-instant-messaging/index.md)
-  
-* [Managing your website](topics/practice-6-managing-website/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
-  
-  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   
 * [](topics/practice-4-safe-social-networks/index.md)
   
@@ -48,11 +42,9 @@
   
   * [How to chat securely?](topics/practice-4-safe-social-networks/3-facebook-chat/index.md)
   
-* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+* [Orbot](topics/tool-10-orbot/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
-  
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
   
 * [Using Signal](topics/tool-2-signal/index.md)
   
@@ -62,10 +54,6 @@
   
   * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
   
-* [Orbot](topics/tool-10-orbot/index.md)
-  
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
-  
 * [Using Enigmail](topics/tool-3-enigmail/index.md)
   
   * [Getting Started with Enigmail](topics/tool-3-enigmail/0-getting-started/index.md)
@@ -74,17 +62,17 @@
   
   * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
   
-* [Veracrypt](topics/tool-5-veracrypt/index.md)
-  
-  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
-  
-  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
-  
 * [Using KeepassX](topics/tool-4-keepassx/index.md)
   
   * [Using KeePassX](topics/tool-4-keepassx/0-getting-started/index.md)
   
   * [How to have voice calls?](topics/tool-4-keepassx/2-create-new-entry/index.md)
+  
+* [Veracrypt](topics/tool-5-veracrypt/index.md)
+  
+  * [Using Veracrypt](topics/tool-5-veracrypt/0-getting-started/index.md)
+  
+  * [Creating a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
   
 * [Using Conversations](topics/tool-6-conversations/index.md)
   
@@ -94,16 +82,6 @@
   
   * [How to have voice calls?](topics/tool-6-conversations/2-voice/index.md)
   
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
-  
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
-  
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
-  
 * [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
   
   * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
@@ -112,11 +90,33 @@
   
   * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
   
+* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  
+  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  
 * [Tor Browser](topics/tool-9-tor-browser/index.md)
+  
+  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
   
   * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
   
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+* [How does it work?](topics/understand-1-how-it-works/index.md)
+  
+  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  
+  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
+  
+  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
+  
+  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -132,18 +132,6 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
-* [How does it work?](topics/understand-1-how-it-works/index.md)
-  
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
-  
-  * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
-  
-  * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
-  
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
-  * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
-  
 * [Understanding Operational Security](topics/understand-3-opsec/index.md)
   
   * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
@@ -154,17 +142,29 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
-  * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
-  
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
+  
+* [Using the Open Mentoring App](topics/tool-1-open-mentoring/index.md)
+  
+  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  
+  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  
+* [Managing your website](topics/practice-6-managing-website/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/0-getting-started/index.md)
+  
+  * [Getting Started](topics/practice-6-managing-website/1-down-site/index.md)
   

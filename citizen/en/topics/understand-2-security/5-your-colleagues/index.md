@@ -1,4 +1,11 @@
 # Your colleagues
+## Your colleagues
+
+
+The security of your colleagues is part of your own security.
+
+
+
 ## Learn about
 
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
@@ -131,13 +138,6 @@ When you or other people bring it up, it is important not to take this as a weak
 <br>
 # See also
 To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
-
-
-
-## Your colleagues
-
-
-The security of your colleagues is part of your own security.
 
 
 
