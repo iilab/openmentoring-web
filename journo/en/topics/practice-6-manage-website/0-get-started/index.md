@@ -15,13 +15,6 @@ Learn the basics of managing a website
 
 
 
-## Next
-
- * [A topic to study next](en/topics/_topic/_unit/index.md)
- * [Another topic](en/topics/_topic/_unit/index.md)
- * ...
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -38,5 +31,12 @@ Learn the basics of managing a website
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+ * [A topic to study next](en/topics/_topic/_unit/index.md)
+ * [Another topic](en/topics/_topic/_unit/index.md)
+ * ...
 
 

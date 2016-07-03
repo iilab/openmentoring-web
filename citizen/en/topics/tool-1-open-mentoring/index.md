@@ -1,7 +1,0 @@
-# Use Open Mentoring
-
-
-
-
-
-

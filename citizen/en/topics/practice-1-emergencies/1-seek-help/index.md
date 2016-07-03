@@ -7,7 +7,7 @@ Establish secure communications when reaching out for help.
 
 ## Learn how to
 
-- [Identify which communication channels are not encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [Identify unencrypted channels](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
 - [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
 - [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
@@ -40,6 +40,19 @@ Sending unencrypted communication is like sending a postcard, anyone who has acc
 
 
 
+## Dealing with insecure channels
+
+# Reaching out for help
+Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
+<br>
+# Be careful using insecure channels
+In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
+<br>
+# Use alternate devices
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+
+
+
 ## Encrypted channels
 
 # Secret postcard
@@ -62,19 +75,6 @@ To learn more about communicating safely on a computer, refer to the [Secure com
 To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
 <br>
 > Use encrypted channels when possible
-
-
-
-## Dealing with insecure channels
-
-# Reaching out for help
-Start with the most secure form of communication you can manage and the person you reach out to may be able to help you establish a line of communications that is more secure, if necessary.
-<br>
-# Be careful using insecure channels
-In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
-<br>
-# Use alternate devices
-If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 
 
 

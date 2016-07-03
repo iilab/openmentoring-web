@@ -48,73 +48,73 @@
   
   * [Down website](topics/practice-6-manage-website/1-down-site/index.md)
   
-* [Use Open Mentoring](topics/tool-1-open-mentoring/index.md)
+* [Learn with Open Mentoring](topics/tool-01-open-mentoring/index.md)
   
-  * [Getting Started with the Open Mentoring App](topics/tool-1-open-mentoring/0-getting-started/index.md)
+  * [Getting Started with the Open Mentoring App](topics/tool-01-open-mentoring/0-getting-started/index.md)
   
-  * [How to share the Open Mentoring App](topics/tool-1-open-mentoring/1-sharing/index.md)
+  * [How to share the Open Mentoring App](topics/tool-01-open-mentoring/1-sharing/index.md)
   
-* [Orbot](topics/tool-10-orbot/index.md)
+* [Communicate with Signal](topics/tool-11-signal/index.md)
   
-  * [Getting Started](topics/tool-10-orbot/0-getting-started/index.md)
+  * [Get Started with Signal](topics/tool-11-signal/0-get-started/index.md)
   
-* [Using Signal](topics/tool-2-signal/index.md)
+  * [Use Signal messaging](topics/tool-11-signal/1-messaging/index.md)
   
-  * [Get Started with Signal](topics/tool-2-signal/0-get-started/index.md)
+  * [How to have voice calls?](topics/tool-11-signal/2-voice/index.md)
   
-  * [Use Signal messaging](topics/tool-2-signal/1-messaging/index.md)
+* [Communicate with Conversations](topics/tool-12-conversations/index.md)
   
-  * [How to have voice calls?](topics/tool-2-signal/2-voice/index.md)
+  * [Getting Started with Signal](topics/tool-12-conversations/0-get-started/index.md)
   
-* [Use Enigmail](topics/tool-3-enigmail/index.md)
+  * [How to use messaging?](topics/tool-12-conversations/1-messaging/index.md)
   
-  * [Get Started with Enigmail](topics/tool-3-enigmail/0-get-started/index.md)
+* [Browse Privately with Orbot](topics/tool-21-orbot/index.md)
   
-  * [Generate a new key pair using Enigmail](topics/tool-3-enigmail/1-new-key/index.md)
+  * [Getting Started](topics/tool-21-orbot/0-getting-started/index.md)
   
-  * [Encrypt and decrypt messages using Enigmail](topics/tool-3-enigmail/2-encrypt-decrypt/index.md)
+* [Browse Privately with Tor Browser](topics/tool-22-tor-browser/index.md)
   
-* [Use KeepassX](topics/tool-4-keepassx/index.md)
+  * [Getting Started](topics/tool-22-tor-browser/0-getting-started/index.md)
   
-  * [Using KeePassX](topics/tool-4-keepassx/0-get-started/index.md)
+  * [How to prevent your traffic from being watched](topics/tool-22-tor-browser/1-connect-to-tor/index.md)
   
-  * [Create a new entry](topics/tool-4-keepassx/2-create-new-entry/index.md)
+* [Manage your Passwords with KeepassX](topics/tool-31-keepassx/index.md)
   
-* [Use Veracrypt](topics/tool-5-veracrypt/index.md)
+  * [Using KeePassX](topics/tool-31-keepassx/0-get-started/index.md)
   
-  * [Use Veracrypt](topics/tool-5-veracrypt/0-get-started/index.md)
+  * [Create a new entry](topics/tool-31-keepassx/2-create-new-entry/index.md)
   
-  * [Create a standard encrypted volume](topics/tool-5-veracrypt/1-standard-volume/index.md)
+* [Use Veracrypt](topics/tool-41-veracrypt/index.md)
   
-* [Computer Hygiene](topics/tool-7-computer-hygiene/index.md)
+  * [Use Veracrypt](topics/tool-41-veracrypt/0-get-started/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/0-getting-started/index.md)
+  * [Create a standard encrypted volume](topics/tool-41-veracrypt/1-standard-volume/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-7-computer-hygiene/1-computer-hygiene/index.md)
+* [Encrypt Emails with Enigmail](topics/tool-51-enigmail/index.md)
   
-  * [Understanding Threats](topics/tool-7-computer-hygiene/2-antivirus/index.md)
+  * [Get Started with Enigmail](topics/tool-51-enigmail/0-get-started/index.md)
   
-* [Using Conversations](topics/tool-6-conversations/index.md)
+  * [Generate a new key pair using Enigmail](topics/tool-51-enigmail/1-new-key/index.md)
   
-  * [Getting Started with Signal](topics/tool-6-conversations/0-get-started/index.md)
+  * [Encrypt and decrypt messages using Enigmail](topics/tool-51-enigmail/2-encrypt-decrypt/index.md)
   
-  * [How to use messaging?](topics/tool-6-conversations/1-messaging/index.md)
+* [Computer Hygiene](topics/tool-91-computer-hygiene/index.md)
   
-* [Android Hygiene](topics/tool-8-android-hygiene/index.md)
+  * [Getting started with computer hygiene](topics/tool-91-computer-hygiene/0-getting-started/index.md)
   
-  * [Getting Started](topics/tool-8-android-hygiene/0-getting-started/index.md)
+  * [Getting started with computer hygiene](topics/tool-91-computer-hygiene/1-computer-hygiene/index.md)
   
-  * [Understanding Threats](topics/tool-8-android-hygiene/1-antivirus/index.md)
+  * [Understanding Threats](topics/tool-91-computer-hygiene/2-antivirus/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/3-windows-hygiene/index.md)
+* [Android Hygiene](topics/tool-92-android-hygiene/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/tool-8-android-hygiene/4-linux-hygiene/index.md)
+  * [Getting Started](topics/tool-92-android-hygiene/0-getting-started/index.md)
   
-* [Tor Browser](topics/tool-9-tor-browser/index.md)
+  * [Understanding Threats](topics/tool-92-android-hygiene/1-antivirus/index.md)
   
-  * [Getting Started](topics/tool-9-tor-browser/0-getting-started/index.md)
+  * [Preparing for emergencies with your contacts](topics/tool-92-android-hygiene/3-windows-hygiene/index.md)
   
-  * [How to prevent your traffic from being watched](topics/tool-9-tor-browser/1-connect-to-tor/index.md)
+  * [Preparing for emergencies with your contacts](topics/tool-92-android-hygiene/4-linux-hygiene/index.md)
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
@@ -142,6 +142,14 @@
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
+* [Understand Operational Security](topics/understand-3-opsec/index.md)
+  
+  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
+  
+  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
+  
+  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
+  
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
   * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
@@ -157,12 +165,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-* [Understand Operational Security](topics/understand-3-opsec/index.md)
-  
-  * [Getting Started](topics/understand-3-opsec/0-getting-started/index.md)
-  
-  * [Establishing Trust](topics/understand-3-opsec/1-establishing-trust/index.md)
-  
-  * [Organisational Security](topics/understand-3-opsec/2-organisational-security/index.md)
   

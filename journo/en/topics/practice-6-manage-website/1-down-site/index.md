@@ -28,12 +28,6 @@ Who else knows or may have access to these account details?
 
 
 
-## None of these?
-
-If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
-
-
-
 ## Poor site performance
 
 # Slow site?
@@ -41,6 +35,12 @@ Does your site load slowly or only sometimes? Your site may be overwhelmed by th
 <br>
 # Don't panic!
 This could be ‘good’ if your site has become more popular and simply needs some improvements to respond to more readers. Check your site analytics for a long-term pattern in growth.
+
+
+
+## None of these?
+
+If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
 
 
 
