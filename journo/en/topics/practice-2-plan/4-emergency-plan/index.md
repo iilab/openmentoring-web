@@ -1,15 +1,8 @@
 # Preparing for emergencies with your contacts
-## Introduction
+## Emergency plans
 
 Learn to develop an emergency plan as a journalist.
 
-
-
-## Scenario
-
-Jenny is about to start on a new assignment investigating government abuses of power.
-<br>
-Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 
 ## Learn about
@@ -18,6 +11,13 @@ Though she is confident that the research process into her story will be unevent
 - Who to share your emergency plan with
 - When to carry out your emergency plan
 
+
+
+## Scenario
+
+Jenny is about to start on a new assignment investigating government abuses of power.
+<br>
+Though she is confident that the research process into her story will be uneventful, she knows the importance of establishing an emergency plan with her editors. 
 
 
 

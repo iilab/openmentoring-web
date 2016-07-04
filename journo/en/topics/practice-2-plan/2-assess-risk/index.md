@@ -20,16 +20,6 @@ Know what measures to take to understand risks faced as a journalist.
 Scenario text...
 
 
-## Understand risk
-
-Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
-<br>
-Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
-<br>
-The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
-
-
-
 ## Actor mapping
 
 In order to understand the risks we face and be able to effectively react, first we should know where they come from; that is to say, **who** is behind them, and **why**.
@@ -68,29 +58,13 @@ Due to the large amount of information they collect about your activities, they 
 
 
 
-## Map threats, capacities, and vulnerabilities
+## Understand risk
 
-
-It may be helpful for you to map them out on a matrix, like this:
-
-| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
-| ------- | ---- | ----------------------- | ------------------ | --------------------------- |
-|         |      |                         |                    |                             |
-|         |      |                         |                    |                             |
-
-
+Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
 <br>
-
-**An example for an Investigative Journalist might look like this:**
-
-|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
-| --------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
-| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |
-| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                 |
-|                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
-
-This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+Perhaps without realising, we take decisions based on risk analyses every day. You may choose not to walk home through a particular neighbourhood you consider dangerous, or to lock your office doors when you leave in the evening, to deter thieves.
+<br>
+The idea of this lesson is to learn to understand risk as it applies to our activities as journalists and as private people.
 
 
 
@@ -114,6 +88,32 @@ Capacities refer to abilities and resources which improve our security. The high
 An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
 <br>
 It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
+
+
+
+## Map threats, capacities, and vulnerabilities
+
+
+It may be helpful for you to map them out on a matrix, like this:
+
+| Threats | Who? | Digital Vulnerabilities | Digital Capacities | Digital Capacities Required |
+| ------- | ---- | ----------------------- | ------------------ | --------------------------- |
+|         |      |                         |                    |                             |
+|         |      |                         |                    |                             |
+
+
+<br>
+
+**An example for an Investigative Journalist might look like this:**
+
+|                 Threats                 |                           Who?                          |                                               Digital Vulnerabilities                                               |                    Digital Capacities                   |                                                                     Digital Capacities Required                                                                      |
+| --------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Office raid, confiscation, legal action | Police, judiciary                                       | Sensitive files are not protected, Computers have unregistered copies of windows, LGBT material in browsing history | Backups are regular and kept outside the office         | Hiding sensitive information Using Free Software Deleting information securely                                                                                       |
+| Digital Surveillance of network traffic | Police/Government officials, untrusted IT administrator | plain text or unencrypted communications                                                                            | Encryption of all communications                        | Only access https websites, utilize anonymizing browsing software (Tor), use encrypted communications (Signal, PGP email, etc), encrypt or obfuscate sensitive files |
+| Burglary                                | Local delinquents                                       | Old locks on the office doors, organisation smartphones are not kept in a safe place                                | Smartphones have SIM lock and no social networking apps | Smartphone encryption, and a safe place to keep them                                                                                                                 |
+|                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
+
+This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
 
 
 

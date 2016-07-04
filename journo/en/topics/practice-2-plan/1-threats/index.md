@@ -5,16 +5,16 @@ Learn about identifying and dealing with threats
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn about
 
 - [What are threats?](topics/practice-2-planning/1-threats/3-1-learn.md)
 - [Conducting a threat assessment](topics/practice-2-planning/1-threats/3-2-learn.md)
 
+
+
+## Scenario
+
+Scenario text...
 
 
 ## What are threats?
@@ -106,7 +106,10 @@ If you want to keep your house and possessions safe, here are a few questions yo
 Once you have asked yourself these questions, you are in a position to assess what measures to take. If your possessions are valuable, but the risk of a break-in is low, then you probably won’t want to invest too much money in a lock. On the other hand, if the risk is high, you’ll want to get the best locks on the market, and perhaps even add a security system.
 
 
+## Next
+
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
+
 
 

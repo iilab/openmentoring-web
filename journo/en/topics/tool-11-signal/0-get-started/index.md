@@ -18,6 +18,39 @@ Learn how to install and use Signal, a free and open source encrypted messaging 
 
 
 
+## Signal basics
+
+# Messaging app
+Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+<br>
+# Encrypted content
+Using Signal will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
+<br>
+# Contacts visible
+Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+<br>
+# Think about the risks
+In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+<br>
+# Installation guide
+Before starting to use Signal, you must download it. Review [the installation guide](topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
+<br>
+# Requirements
+To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+<br>
+# Android versions
+In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
+<br>
+# Communicate with
+When you use Signal you can communicate with users using the following programs:
+ - Android: surespot, ChatSecure, Zom
+ - iOS: surespot, ChatSecure
+ - Microsoft Windows: Jitsi, Pidgin
+ - Mac OS: Jitsi, Adium
+ - Linux: Jitsi, Pidgin
+
+
+
 ## Install Signal in 3 steps
 
 # Step 1. Download Signal
@@ -77,30 +110,6 @@ Voice verification screens
 
 
 
-## Enable encrypted storage
-
-1. Tap on  in the top right of your screen to bring up the menu and select .
-<br>
-2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
-<br>
-3. When prompted enter a passphrase that will be used to protect the messages stored on your phone and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
-> Passphrase options
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
-> Setting a password
-
-<br>
-4. Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
-<br>
-5. Tap Timeout interval and in the next screen enter after what time you want Signal to lock if unused and tap .
-
-![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
-> Signal timeout settings
-
-
-
 ## Configure Signal
 
 # Importing Messages
@@ -131,36 +140,27 @@ After a set period of time, if you have not looked at any messages, Signal will 
 
 
 
-## Signal basics
+## Enable encrypted storage
 
-# Messaging app
-Signal sends text messages (SMS), messages via the internet (MMS) and internet voice calls (VOIP).
+1. Tap on  in the top right of your screen to bring up the menu and select .
 <br>
-# Encrypted content
-Using Signal will prevent anyone from being able to read the content of your text messages, but will not hide that you are sending messages, nor will it hide that your recipient is receiving messages.
+2. Scroll down to the PASSPHRASE section and uncheck Disable Password.
 <br>
-# Contacts visible
-Signal will only hide who the messages are being sent to if they are sent via the internet, but not when being sent by SMS
+3. When prompted enter a passphrase that will be used to protect the messages stored on your phone and tap .
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/018.png)
+> Passphrase options
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/019.png)
+> Setting a password
+
 <br>
-# Think about the risks
-In some countries, an encryption app such as Signal may attract attention, be illegal or subject to legal constraints.
+4. Check the box next to Timeout passphrase to have Signal lock after a period of inactivity (See Fig 9 above).
 <br>
-# Installation guide
-Before starting to use Signal, you must download it. Review [the installation guide](topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
-<br>
-# Requirements
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
-<br>
-# Android versions
-In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
-<br>
-# Communicate with
-When you use Signal you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
+5. Tap Timeout interval and in the next screen enter after what time you want Signal to lock if unused and tap .
+
+![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
+> Signal timeout settings
 
 
 

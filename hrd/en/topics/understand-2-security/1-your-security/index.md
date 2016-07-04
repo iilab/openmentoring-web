@@ -16,16 +16,6 @@ Learn about your security and protecting yourself.
 
 
 
-## Scenario
-
-![](scenario.png)
-Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
-<br>
-![](scenario.png)
-Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
-
-
-
 ## Learn
 
 > security - make it more about what are the components that would go into your security - maybe kind of a getting started. your security is physical safety (what people would think of), emphasise this,but also security of information….your sources, your well being is important (give a concrete example here - if you are depressed or shocked you won’t be able to continue your job. it’s part of your security think about your well being and those of moths.
@@ -162,6 +152,16 @@ An independent journalist working without a relationship with a news organizatio
 
 
 
+## Scenario
+
+![](scenario.png)
+Brenda is writing a story about gold mining and needs to conduct some interviews. Before scheduling appointments, she needs to find out if it is safe to do so.
+<br>
+![](scenario.png)
+Brenda needs to create a security assessment. If she doesn't get input from her editors and colleagues, she's worried she won't be best prepared.
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -180,10 +180,7 @@ An independent journalist working without a relationship with a news organizatio
 </quiz>
 
 
-## Next
-
 
 For more information on conducting a risk assessment, refer to the [Planning and Preparing](topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
-
 
 

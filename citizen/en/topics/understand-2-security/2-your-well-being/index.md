@@ -89,8 +89,6 @@ If you are suffering from vicarious traumatisation, counseling is recommended. I
 
 
 
-## Dealing with post-traumatic stress
-
 # Improving naturally
 It is normal to experience upsetting and confusing thoughts after a traumatic event, but in most people these will improve naturally over a few weeks.
 <br>
@@ -107,7 +105,6 @@ PTSD can be successfully treated, even when it develops many years after a traum
 - Watchful waiting — waiting to see whether the symptoms improve without treatment
 - Psychological treatment — such as psychotherapy or trauma-focused cognitive behavioural therapy (CPT)
 - Antidepressant medication
-
 
 
 ## Dealing with unfounded fears

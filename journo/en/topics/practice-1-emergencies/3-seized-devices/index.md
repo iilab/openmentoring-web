@@ -15,14 +15,6 @@ Learn what to do if your digital devices are taken.
 
 
 
-## A missing laptop...
-
-Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
-<br>
-She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
-
-
-
 ## Assess the situation
 
 
@@ -137,6 +129,14 @@ Why would they want access to it? This will help you know whether the informatio
 Are there signs that the device has been physically tampered with? This will help you know whether [malware](topics/practice-1-emergencies/4-malware/1-1-intro.md) might have been installed on the device and whether or not you should us it again.
 <br>
 > Beware of malware!
+
+
+
+## A missing laptop...
+
+Brenda returns to her office, only to find her laptop missing. She worries that her laptop contains information that could put her sources at risk.
+<br>
+She needs to know what was on the device before it went missing and what security protections were in place. Brenda worries that if she doesn't have a clear view of the damage done, she will not be able to start recovering.
 
 
 

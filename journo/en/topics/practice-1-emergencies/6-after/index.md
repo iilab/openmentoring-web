@@ -1,4 +1,11 @@
 # After an Emergency
+## After an emergency
+
+
+Steps to take after an emergency has taken place.
+
+
+
 ## Learn how to
 
 - [Re-evaluate your emergency and security plans](topics/practice-1-emergencies/6-after/3-learn.md)
@@ -7,18 +14,23 @@
 
 
 
-## After an emergency
-
-
-Steps to take after an emergency has taken place.
-
-
-
 ## Re-evaluating emergency plans
 
 Isaac and Brenda had their office raided. They are in need of emergency funding to get their website running and new devices, and don't know who to ask.
 <br>
 Brenda suggests they re-evaluate their emergency and security procedures. If they don't, she fears they might have the same problems again.
+
+
+
+## Emergency funding
+
+# Reach out for help
+Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
+<br>
+# Funding organisations
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+<br>
+> Funding can improve organisational security practices
 
 
 
@@ -34,18 +46,6 @@ When necessary, this is a good time to try to improve your organisational proced
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 <br>
 > Improve the way you protect your files and sensitive information
-
-
-
-## Emergency funding
-
-# Reach out for help
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-<br>
-# Funding organisations
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-<br>
-> Funding can improve organisational security practices
 
 
 

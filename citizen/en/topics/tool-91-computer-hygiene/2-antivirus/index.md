@@ -5,6 +5,13 @@ Anti-virus software is a valuable tool against non-targeted but still dangerous 
 
 
 
+## Learn about
+
+- [Recommended anti-virus software](topics/practice-2-planning/1-threats/3-1-learn.md)
+- [Using anti-virus software](topics/practice-2-planning/1-threats/3-2-learn.md)
+
+
+
 ## Recommended anti-virus software
 
 <br>
@@ -33,22 +40,12 @@ Following the guidelines in the [Safer Communication](topics/understand-4-digise
 
 
 
-## Learn about
-
-- [Recommended anti-virus software](topics/practice-2-planning/1-threats/3-1-learn.md)
-- [Using anti-virus software](topics/practice-2-planning/1-threats/3-2-learn.md)
-
-
-
 ## Test
 
 
 
 
-## Next
-
 See also:
 * Electronic Frontier Foundation: [Surveillance Self-Defense](https://ssd.eff.org/en/module/introduction-threat-modeling)
-
 
 
