@@ -1,4 +1,4 @@
-## Seven Steps to Digital security
+## Seven steps to Digital security
 
 # 1. Knowledge is Power
 Good security decisions can't be made without good information. Your security tradeoffs are only as good as the information you have about the value of your assets, the severity of the threats from different adversaries to those assets, and the risk of those attacks actually happening.

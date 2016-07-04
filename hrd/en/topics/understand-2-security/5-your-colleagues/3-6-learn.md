@@ -11,8 +11,7 @@ You might face opposition from those who feel talking about security takes away 
 <br>
 # Putting on a brave face
 Your colleagues might even put on a brave face and pretending these risks do not exist. It's also possible you might feel this way yourself.
-
-
+<br>
 # Tips to bringing up security with your colleagues
 - incorporating into meetings
 - find pragmatic path to bringing it up. converting a culture of good risk planning - this is good for everyone.

@@ -1,6 +1,5 @@
 ## Recommended anti-virus software
 
-<br>
 - Microsoft Safety Scanner (Windows)
 - F-Secure
 - Kaspersky
