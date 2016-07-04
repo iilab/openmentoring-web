@@ -9,10 +9,10 @@ Learn about your security and protecting yourself.
 
 ## Learn how to
 
-* [Create a security assessment for your journalism work](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Identify known hazards](en/topics/understand-2-security/1-your-security/3-1-learn.md)
-* [Address communications infrastructure](en/topics/understand-2-security/1-your-security/3-2-learn.md)
-* [Consult diverse sources](en/topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Create a security assessment for your journalism work](topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Identify known hazards](topics/understand-2-security/1-your-security/3-1-learn.md)
+* [Address communications infrastructure](topics/understand-2-security/1-your-security/3-2-learn.md)
+* [Consult diverse sources](topics/understand-2-security/1-your-security/3-1-learn.md)
 
 
 
@@ -44,13 +44,13 @@ Brenda needs to create a security assessment. If she doesn't get input from her 
   -
   -
  - well-being
-  - [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
-  - [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
-  - [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-2-learn.md)
-  - [Stress following trauma](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
-  - [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
-  - [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
-  - [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
+  - [Stress and security](topics/understand-2-security/2-your-well-being/3-0-learn.md)
+  - [Building your own emotional resilience](topics/understand-2-security/2-your-well-being/3-1-learn.md)
+  - [Stress that accumulates and leads to burnout](topics/understand-2-security/2-your-well-being/3-2-learn.md)
+  - [Stress following trauma](topics/understand-2-security/2-your-well-being/3-5-learn.md)
+  - [Post-traumatic stress syndrome](topics/understand-2-security/2-your-well-being/3-7-learn.md)
+  - [Dealing with unfounded fears](topics/understand-2-security/2-your-well-being/3-11-learn.md)
+  - [Get to grips with fear](topics/understand-2-security/2-your-well-being/3-12-learn.md)
 
  - your story
   - [keeping data safe] making sure your story can carry on, keeping your documents in safe places and having backups
@@ -156,7 +156,7 @@ Consult diverse sources including journalists with experience in the location or
 <br>
 Editors working with staffers or freelancers should have substantial input into the assessment, take the initiative in raising security questions, and receive a copy of the assessment.
 <br>
-An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](en/topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
+An independent journalist working without a relationship with a news organization must be especially rigorous in compiling a security assessment, consulting with peers,[researching the risks](topics/practice-2-planning/0-getting-started/1-intro.md), and arranging a contact network.
 <br>
 ![](recap.png)
 
@@ -183,7 +183,7 @@ An independent journalist working without a relationship with a news organizatio
 ## Next
 
 
-For more information on conducting a risk assessment, refer to the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
+For more information on conducting a risk assessment, refer to the [Planning and Preparing](topics/practice-2-planning/0-getting-started/1-intro.md) section of this guide.
 
 
 

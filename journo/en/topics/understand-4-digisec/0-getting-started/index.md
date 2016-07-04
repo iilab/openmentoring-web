@@ -1,14 +1,14 @@
 # Getting Started
+## Learn about
+
+- [Seven steps to digital security](topics/understand-4-digisec/0-getting-started/3-1-learn.md)
+- [Choosing the right digital security lesson](topics/understand-4-digisec/0-getting-started/3-2-learn.md)
+
+
+
 ## Getting started with digital security
 
 Learn the basics of digital security in order to start using your devices more safely.
-
-
-
-## Learn about
-
-- [Seven steps to digital security](en/topics/understand-4-digisec/0-getting-started/3-1-learn.md)
-- [Choosing the right digital security lesson](en/topics/understand-4-digisec/0-getting-started/3-2-learn.md)
 
 
 
@@ -75,16 +75,16 @@ Keep checking respected sites advice will be updated to reflect changes in our u
 ## Choosing the right lesson
 
 To learn the basics of encryption and how it can help protect you and your network, choose the Encryption lesson:
-- [Encryption](en/topics/understand-4-digisec/1-encryption/1-intro.md)
+- [Encryption](topics/understand-4-digisec/1-encryption/1-intro.md)
 <br>
 To understand why strong passwords are important and how to create strong passwords, choose the Passwords lesson:
-- [Passwords](en/topics/understand-4-digisec/2-passwords/1-intro.md)
+- [Passwords](topics/understand-4-digisec/2-passwords/1-intro.md)
 <br>
 To understand what metadata is and how it can leave you and your network vulnerable, choose the Metadata lesson:
-- [Metadata](en/topics/understand-4-digisec/3-metadata/1-intro.md)
+- [Metadata](topics/understand-4-digisec/3-metadata/1-intro.md)
 <br>
 To learn about why secure communication is important and tools you should use to communicate safely, choose the Secure communications lesson:
-- [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-intro.md)
+- [Secure communications](topics/understand-4-digisec/4-secure-communications/1-intro.md)
 
 
 
@@ -107,8 +107,6 @@ To learn about why secure communication is important and tools you should use to
 
 
 
-## Next
-
 ---
 - en/topics/understand-2-security/0-getting-started/1-1-intro.md: Getting started with security
 - en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md: Using KeepassX to manage passwords security
@@ -119,6 +117,5 @@ See also:
 - Tactical Technology Collective: [Security in a Box](https://securityinabox.org/)
 - Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
 - Frontline Defenders: [Digital Security & Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
-
 
 

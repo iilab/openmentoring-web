@@ -242,13 +242,13 @@ Learn to use Signal for encrypted messaging.
 
 ## Learn how to
 
-- [Send and receive messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
-- [Message Individuals](en/topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
-- [Message Groups](en/topics/tool-2-signal/1-messaging/index.html#-3-messaging-groups)
-- [Send files](en/topics/tool-2-signal/1-messaging/index.html#-4-sending-files)
-- [Verify identities](en/topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
-- [Read and scan fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
-- [Export your messages](en/topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
+- [Send and receive messages](topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
+- [Message Individuals](topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
+- [Message Groups](topics/tool-2-signal/1-messaging/index.html#-3-messaging-groups)
+- [Send files](topics/tool-2-signal/1-messaging/index.html#-4-sending-files)
+- [Verify identities](topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
+- [Read and scan fingerprints](topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
+- [Export your messages](topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
 
 
 
@@ -260,8 +260,8 @@ Learn to use Signal for encrypted messaging.
 ## Next
 
 If you found this useful, you might be interested in reading the following units:
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+ - [Install Signal on your smart phone and encrypting messages](topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Make encrypted voice calls to other Signal users.](topics/tool-2-signal/2-voice/1-intro.md)
 
 
 

@@ -8,18 +8,10 @@ Recover from having your website from being attacked or defaced.
 
 ## Learn how to
 
-- [Identify a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-1-learn.md)
-- [Know if your website is down or defaced for another reason](en/topics/practice-1-emergencies/5-ddos/3-2-learn.md)
-- [Deal with a DDOS attack](en/topics/practice-1-emergencies/5-ddos/3-4-learn.md)
-- [Deal with website defacement](en/topics/practice-1-emergencies/5-ddos/3-5-learn.md)
-
-
-
-## A down website
-![](scenario1.svg,scenario2.svg)
-Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
-<br>
-Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
+- [Identify a DDOS attack](topics/practice-1-emergencies/5-ddos/3-1-learn.md)
+- [Know if your website is down or defaced for another reason](topics/practice-1-emergencies/5-ddos/3-2-learn.md)
+- [Deal with a DDOS attack](topics/practice-1-emergencies/5-ddos/3-4-learn.md)
+- [Deal with website defacement](topics/practice-1-emergencies/5-ddos/3-5-learn.md)
 
 
 
@@ -47,7 +39,7 @@ To start, it is important to know that there are many reasons why your website c
 Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, make sure to root out potential problems by speaking with someone in charge of your website.
 <br>
 # Fixing it yourself
-If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](en/topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
+If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
 <br>
 > Fixing your website yourself can be difficult
 
@@ -99,7 +91,7 @@ To prevent this, it is very important to keep payments for your domain name in o
 > Step 2
 # Regain control of your website
 
-If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) lesson for help.
+If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) lesson for help.
 <br>
 > Step 3
 # Make a backup of the defaced website
@@ -139,6 +131,23 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
 
 
 
+## A down website
+![](scenario1.svg,scenario2.svg)
+Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
+<br>
+Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
+
+
+
+## Next
+
+ See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
+* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -155,14 +164,5 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
- See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
-* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
-
 
 

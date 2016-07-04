@@ -7,8 +7,8 @@ Learn to encrypt and decrypt messages using Enigmail
 
 ## Learn how to
 
- - [Encrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
- - [Decrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-2-learn.md)
+ - [Encrypt a message](topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
+ - [Decrypt a message](topics/tool-3-enigmail/2-encrypt-decrypt/3-2-learn.md)
 
 
 
@@ -40,7 +40,7 @@ If you are attaching any file to your message, you may need to select the option
 **Note:** When you encrypt each attachment separately, the names of the attached files are not encrypted and are being send in clear text! This may result in leaking sensitive information!
 <br>
 
-Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](en/topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers
+Using PGP/MIME ensures that all email text, attached files and their names are encrypted and hidden. Refer to the [metadata](topics/understand-4-digisec/3-metadata/1-1-intro.md) lesson to learn more about these dangers
 
 
 

@@ -7,7 +7,7 @@ Learn how to create a standard volume using Veracrypt
 
 ## Learn how to
 
-- [Create a standard encrypted volume using VeraCrypt](en/topics/tool-5-veracrypt/1-standard-volume/3-howto-standard.md)
+- [Create a standard encrypted volume using VeraCrypt](topics/tool-5-veracrypt/1-standard-volume/3-howto-standard.md)
 
 
 
@@ -94,7 +94,7 @@ For a DVD backup, it should be 4.5 GB or less. If you intend to upload the conta
 Type the size of the volume you would like to create. Make sure you select the correct value for KB (kilobytes), MB (megabytes), GB (gigabytes) or TB (terabytes).
 <br>
 # Step 12. Choose a passphrase
-Click [Next] to choose a passphrase and refer to the [password lesson](en/topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so safely
+Click [Next] to choose a passphrase and refer to the [password lesson](topics/understand-4-digisec/2-passwords/1-1-intro.md) to learn how to do so safely
 ![09.png](09.png)
 <br>
 # Step 13. Enter your new passphrase

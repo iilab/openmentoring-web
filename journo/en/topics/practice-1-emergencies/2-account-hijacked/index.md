@@ -7,9 +7,9 @@ Steps to take if you suspect your online accounts are hijacked.
 
 ## Learn how to
 
-- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
-- [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Get back control of your account](topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Confirm if your account has been hijacked](topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
+- [Deal with being locked out of your account](topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 
 
 
@@ -57,6 +57,24 @@ Be mindful that if you are using the Tor browser or a VPN service, it is possibl
 
 
 
+## Deal with being locked out of your account
+
+# Password reset
+If you cannot log into your account, use the password reset or recovery link.
+<br>
+# Changing your password
+Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
+<br>
+# Contact your provider
+If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
+<br>
+# Helpful organisations
+There are a [number of organisations](topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
+<br>
+>   
+
+
+
 ## Other places to check for suspicious activity
 
 # Step 1: Email forwarding
@@ -70,22 +88,22 @@ Also look at the settings for the synchronisation to your phone, permissions to 
 
 
 
-## Deal with being locked out of your account
+## Test
 
-# Password reset
-If you cannot log into your account, use the password reset or recovery link.
-<br>
-# Changing your password
-Some providers will send a link to change your password to your recovery email address, while other platforms reset it to your last password.
-<br>
-# Contact your provider
-If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
-<br>
-# Helpful organisations
-There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
-<br>
->   
-
+<quiz name="Gitbook Quiz">
+    <question multiple>
+        <p>What is gitbook used for?</p>
+        <answer correct>To read books</answer>
+        <answer>To book hotel named git</answer>
+        <answer correct>To write and publish beautiful books</answer>
+        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
+    </question>
+    <question>
+        <p>Is it quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>No</answer>
+    </question>
+</quiz>
 
 
 ## Next
@@ -102,19 +120,4 @@ To learn more about dealing with emergencies, see also:
  * Guardian Project [How to on Mobile Security](https://guardianproject.info/howto/)
 
 
-
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-</quiz>
 

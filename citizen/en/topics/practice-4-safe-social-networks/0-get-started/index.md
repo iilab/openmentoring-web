@@ -7,10 +7,10 @@ Learn how to use social networks more safely.
 
 ## Learn how to
 
-- [Social networking basics](en/topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
-- [Who can access your social networking data?](en/topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
-- [Who owns your social networking data](en/topics/practice-4-safe-social-networks/0-getting-started/3-3-learn.md))
-- [Choosing the right social networking lesson](en/topics/practice-4-safe-social-networks/0-getting-started/3-4-learn.md)
+- [Social networking basics](topics/practice-4-safe-social-networks/0-getting-started/3-1-learn.md)
+- [Who can access your social networking data?](topics/practice-4-safe-social-networks/0-getting-started/3-2-learn.md)
+- [Who owns your social networking data](topics/practice-4-safe-social-networks/0-getting-started/3-3-learn.md))
+- [Choosing the right social networking lesson](topics/practice-4-safe-social-networks/0-getting-started/3-4-learn.md)
 
 
 
@@ -64,15 +64,15 @@ Privacy settings are only meant to protect you from other members of the social 
 ## Choose the right lesson
 
 Not sure where to start on controlling which people can see who you are connected to on social media?
-* Choose the [Controlling access to friends & contacts](en/topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson
+* Choose the [Controlling access to friends & contacts](topics/practice-4-safe-social-networks/1-access-friends-contacts/1-intro.md) lesson
 
 <br>
 Don't know the right questions to ask to protect your personal details?
-* Choose the [Controlling access to your personal details](en/topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
+* Choose the [Controlling access to your personal details](topics/practice-4-safe-social-networks/2-access-personal-details/1-intro.md)
 
 <br>
 Using social media but don't want your conversations to be read by the site owners or others?
-* Choose the [Learning to chat securely](en/topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
+* Choose the [Learning to chat securely](topics/practice-4-safe-social-networks/3-facebook-chat/1-intro.md)
 
 
 

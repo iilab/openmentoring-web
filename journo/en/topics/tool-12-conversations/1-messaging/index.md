@@ -35,14 +35,14 @@ He needs to be careful to share the app and its content in ways that doesn't all
 
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
-- [Sending and Receiving messages](en/topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
-- [Messaging Individuals](en/topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
-- [Messaging Groups](en/topics/tool-2-signal/1-messaging/index.html#-3-messaging-groups)
-- [Sending files](en/topics/tool-2-signal/1-messaging/index.html#-4-sending-files)
-- [Identity verification](en/topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
-- [Reading fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
-- [Scanning fingerprints](en/topics/tool-2-signal/1-messaging/index.html#-7-scanning-fingerprints)
-- [Export your messages](en/topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
+- [Sending and Receiving messages](topics/tool-2-signal/1-messaging/index.html#-1-sending-and-receiving-messages)
+- [Messaging Individuals](topics/tool-2-signal/1-messaging/index.html#-2-messaging-individuals)
+- [Messaging Groups](topics/tool-2-signal/1-messaging/index.html#-3-messaging-groups)
+- [Sending files](topics/tool-2-signal/1-messaging/index.html#-4-sending-files)
+- [Identity verification](topics/tool-2-signal/1-messaging/index.html#-5-identity-verification)
+- [Reading fingerprints](topics/tool-2-signal/1-messaging/index.html#-6-reading-fingerprints)
+- [Scanning fingerprints](topics/tool-2-signal/1-messaging/index.html#-7-scanning-fingerprints)
+- [Export your messages](topics/tool-2-signal/1-messaging/index.html#-8-export-your-messages)
 
 
 ##  **[1] Sending and Receiving messages**
@@ -220,8 +220,8 @@ Figure 16 & 17: Signal Export and Export confirmation screens
 ## Next
 
 If you found this useful, you might be interested in reading the following units:
- - [Install Signal on your smart phone and encrypting messages](en/topics/tool-2-signal/0-getting-started/4-howto-install.md)
- - [Make encrypted voice calls to other Signal users.](en/topics/tool-2-signal/2-voice/1-intro.md)
+ - [Install Signal on your smart phone and encrypting messages](topics/tool-2-signal/0-getting-started/4-howto-install.md)
+ - [Make encrypted voice calls to other Signal users.](topics/tool-2-signal/2-voice/1-intro.md)
 
 
 

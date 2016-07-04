@@ -7,9 +7,9 @@ Learn about using secure communications.
 
 ## Learn about
 
-- [Wecure communication basics](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
-- [What to do if you believe your communication channels have been compromised?](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
-- [Using secure communications tools](en/topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
+- [Wecure communication basics](topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
+- [What to do if you believe your communication channels have been compromised?](topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
+- [Using secure communications tools](topics/understand-4-digisec/4-secure-communications/3-1-learn.md)
 
 
 
@@ -79,10 +79,10 @@ PGP (PC and Mac) allows you to set up end-to-end encryption for your email. Tact
 Tor Browser Bundle can be used to increase your security and privacy while visiting websites by bouncing your communications around a distributed network of relays run by volunteers all around the world.
 <br>
 # Using the Tor Bundle
-For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](en/topics/practice-5-internet-anonymity/index.html) lesson.
+For detailed instructions on using the Tor Browser Bundle, refer to the [Using the Internet Anonymously](topics/practice-5-internet-anonymity/index.html) lesson.
 <br>
 # Using a smartphone
-For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
+For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
 
 
 

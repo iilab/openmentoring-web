@@ -1,9 +1,16 @@
 # Your colleagues
+## Your colleagues
+
+
+The security of your colleagues is part of your own security.
+
+
+
 ## Learn about
 
-- [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
-- [Sharing of information with your teams](en/topics/understand-2-security/5-your-colleagues/3-2-learn.md)
-- [Talking about security with your team](en/topics/understand-2-security/5-your-colleagues/3-3-learn.md)
+- [Security within your teams](topics/understand-2-security/5-your-colleagues/3-1-learn.md)
+- [Sharing of information with your teams](topics/understand-2-security/5-your-colleagues/3-2-learn.md)
+- [Talking about security with your team](topics/understand-2-security/5-your-colleagues/3-3-learn.md)
 
 
 
@@ -22,13 +29,6 @@ talking about that it's courageous to bring this subject up and when other peopl
 ## Scenario
 
 Scenario text...
-
-
-## Your colleagues
-
-
-The security of your colleagues is part of your own security.
-
 
 
 ## Learn
@@ -62,7 +62,7 @@ On the other hand, sharing information only on a 'need to know' basis means you 
 Whether you share much or little information with your colleagues, it is important that all information shared is done so securely.
 <br>
 # See also
-Refer to the [Secure Communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
+Refer to the [Secure Communications](topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
 > sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
 
@@ -137,7 +137,7 @@ Your colleagues might even put on a brave face and pretending these risks do not
 When you or other people bring it up, it is important not to take this as a weakness or a worry, but as an opportunity to develop and make sure everyone is on the same page.
 <br>
 # See also
-To learn how to develop security with your colleagues, refer to the [Operational Security](en/topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](en/topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
+To learn how to develop security with your colleagues, refer to the [Operational Security](topics/understand-3-opsec/0-getting-started/1-1-intro.md) and the [Planning and Preparing](topics/practice-2-planning/0-getting-started/1-1-intro.md) lessons.
 
 
 

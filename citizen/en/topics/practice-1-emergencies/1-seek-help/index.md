@@ -7,12 +7,12 @@ Establish secure communications when reaching out for help.
 
 ## Learn how to
 
-- [Identify unencrypted channels](en/topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
-- [Identify which channels are encrypted](en/topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
+- [Identify unencrypted channels](topics/practice-1-emergencies/1-seeking-help/3-1-learn.md)
+- [Identify which channels are encrypted](topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 <br>
-- [Seek remote help](en/topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
-- [Establish trust when reaching out](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Contact organisations for help](en/topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
+- [Seek remote help](topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
+- [Establish trust when reaching out](topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
+- [Contact organisations for help](topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
 
 
 
@@ -58,8 +58,8 @@ If an end-to-end encrypted tool is not available, use tools that encrypt message
 This, in turn, is better than using unencrypted communications (such as your phone or text messages). Do the best that you can with the resources and skills available.
 <br>
 # Communicating safely
-To learn more about communicating safely on a computer, refer to the [Secure communications](en/topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
-To learn more about communicating safely on a smartphone, refer to the [Safe Phones](en/topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
+To learn more about communicating safely on a computer, refer to the [Secure communications](topics/understand-4-digisec/4-secure-communications/1-1-intro.md) lesson.
+To learn more about communicating safely on a smartphone, refer to the [Safe Phones](topics/practice-3-safe-phones/0-getting-started/1-intro.md) lesson.
 <br>
 > Use encrypted channels when possible
 
@@ -74,7 +74,7 @@ Start with the most secure form of communication you can manage and the person y
 In many cases, it is better to reach out for help insecurely than not to reach out for help at all. You might want to share only limited information or use code words when you know that the channel is insecure.
 <br>
 # Use alternate devices
-If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](en/topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
+If you believe that you cannot trust your computer or device you might want to find an alternate trustworthy device. You might also want to go to the [Malware](topics/practice-1-emergencies/4-malware/1-intro.md) lesson.
 
 
 

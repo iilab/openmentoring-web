@@ -7,11 +7,11 @@ Know what measures to take to understand risks faced as a journalist.
 
 ## Learn how to
 
-- [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
-- [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
-- [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
-- [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
-- [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
+- [Understand risk](topics/practice-2-planning/2-assess-risk/3-1-learn.md)
+- [Make an actor map](topics/practice-2-planning/2-assess-risk/3-3-learn.md)
+- [Understand threats, capacities, and vulnerabilities](topics/practice-2-planning/2-assess-risk/3-4-learn.md)
+- [Map out threats, capacities, and vulnerabilities](topics/practice-2-planning/2-assess-risk/3-5-learn.md)
+- [Measure the probability and impact of a risk occurring](topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
 
@@ -54,7 +54,7 @@ Supporting forces are our friends and allies, who try to support our project in 
 <br>
 As part of this 'actor mapping' exercise, you should also consider the actors who are on your side, whether local, regional or international: these could include friends, community members, police, other organisations, embassies and so on.
 <br>
-It will be important for you to spread your [digital security practices](en/topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
+It will be important for you to spread your [digital security practices](topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
 <br>
 
 # 3. Unknown forces

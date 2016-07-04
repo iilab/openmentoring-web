@@ -7,7 +7,7 @@ Learn how to create a new PGP key using Enigmail.
 
 ## Learn how to
 
- - [Generate a new key pair and revocation certificate](en/topics/tool-3-enigmail/1-new-key/3-1-learn.md)
+ - [Generate a new key pair and revocation certificate](topics/tool-3-enigmail/1-new-key/3-1-learn.md)
 
 
 
@@ -45,7 +45,7 @@ Note: The first time you attempt to create a key for an email account, the No Op
 Select I want to create a new key pair for signing and encrypting my email.
 <br>
 # Step 8. Create a strong Password
-Type a strong passphrase into both the Password fields. Refer to the [Passwords](en/topics/understand-4-digisec/2-passwords/1-1-intro.md) lesson to learn how to do so.
+Type a strong passphrase into both the Password fields. Refer to the [Passwords](topics/understand-4-digisec/2-passwords/1-1-intro.md) lesson to learn how to do so.
 ![thunderbird_65](thunderbird_65.png)
 <br>
 # Step 9. Activate the summary screen

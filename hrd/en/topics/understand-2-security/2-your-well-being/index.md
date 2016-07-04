@@ -73,7 +73,7 @@ During this period, it is important to examine and redesign the work situation t
 Vicarious traumatisation refers to traumatic stress arising from exposure to the frightening experiences of others.
 <br>
 # Symptoms of vicarious trauma
-In most cases, vicarious traumatisation shares the features of the [traumatic stress reaction](en/topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
+In most cases, vicarious traumatisation shares the features of the [traumatic stress reaction](topics/understand-2-security/2-your-well-being/3-4-learn.md) relating to the stories that they have heard or the work they do.
 <br>
 # Loss of faith in others
 In some cases, vicarious traumatisation takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless.
@@ -122,7 +122,7 @@ You might feel the need for increased caution or be extremely suspicious of stra
 We can do this through further research or through speaking with people we trust. We can also take steps to check our perceptions by speaking as a group or with our trusted allies, colleagues and friends.
 <br>
 # Become informed
-For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](en/topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](en/topics/understand-1-how-it-works/2-phones/1-intro.md) works.
+For example, fears of surveillance could be clarified by taking the time to learn or review the basics of how [internet](topics/understand-1-how-it-works/4-internet/1-intro.md) and [mobile communication](topics/understand-1-how-it-works/2-phones/1-intro.md) works.
 # Reduce misinformation
 Doing so can reduce our anxiety or unfounded fears which may arise from misinformation, myths and mysteries associated with digital technology and electronic surveillance.
 
@@ -234,10 +234,10 @@ Stress management is an individual process. There is no one best set of techniqu
 It is important to recognise that is it is impossible to take care of others if you do not take care of yourself.
 <br>
 # Learn about stress.
-Be aware of the [signs and symptoms](en/topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
+Be aware of the [signs and symptoms](topics/understand-2-security/2-your-well-being/3-2-learn.md) of stress.
 <br>
 # Know yourself
-Learn to [observe your feelings](en/topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
+Learn to [observe your feelings](topics/understand-2-security/2-your-well-being/3-3-learn.md) and attitudes before trying to control your behaviour.
 <br>
 # Eat well and exercise
 Establish a regular exercise program and stick to it. Beneficial exercise includes deep breathing and muscle relaxation exercises. Keep a healthy diet and eat regularly.
@@ -372,7 +372,7 @@ Adapt the following suggestions to take account of what is possible after the cr
 - Don’t be violent
 <br>
 # Weeks and months after
-Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](en/topics/understand-2-security/2-your-well-being/3-7-learn.md).
+Keep an eye out for changes in your personal attitude (depression, frustration, etc.) as these may be signs of longer-term [post-traumatic stress disorder (PTSD)](topics/understand-2-security/2-your-well-being/3-7-learn.md).
 
 
 
@@ -435,15 +435,15 @@ Learn about ensuring your short and long term well-being.
 ## Learn about
 
 # stress and security
-- [Stress and security](en/topics/understand-2-security/2-your-well-being/3-0-learn.md)
-- [Building your own emotional resilience](en/topics/understand-2-security/2-your-well-being/3-1-learn.md)
-- [Stress that accumulates and leads to burnout](en/topics/understand-2-security/2-your-well-being/3-2-learn.md)
+- [Stress and security](topics/understand-2-security/2-your-well-being/3-0-learn.md)
+- [Building your own emotional resilience](topics/understand-2-security/2-your-well-being/3-1-learn.md)
+- [Stress that accumulates and leads to burnout](topics/understand-2-security/2-your-well-being/3-2-learn.md)
 
 # dealing with shocking events
-- [Stress following trauma](en/topics/understand-2-security/2-your-well-being/3-5-learn.md)
-- [Post-traumatic stress syndrome](en/topics/understand-2-security/2-your-well-being/3-7-learn.md)
-- [Get to grips with fear](en/topics/understand-2-security/2-your-well-being/3-12-learn.md)
-- [Dealing with unfounded fears](en/topics/understand-2-security/2-your-well-being/3-11-learn.md)
+- [Stress following trauma](topics/understand-2-security/2-your-well-being/3-5-learn.md)
+- [Post-traumatic stress syndrome](topics/understand-2-security/2-your-well-being/3-7-learn.md)
+- [Get to grips with fear](topics/understand-2-security/2-your-well-being/3-12-learn.md)
+- [Dealing with unfounded fears](topics/understand-2-security/2-your-well-being/3-11-learn.md)
 
 
 

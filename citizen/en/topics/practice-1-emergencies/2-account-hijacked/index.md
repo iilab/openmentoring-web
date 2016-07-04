@@ -7,9 +7,9 @@ Steps to take if you suspect your online accounts are hijacked.
 
 ## Learn how to
 
-- [Get back control of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
-- [Confirm if your account has been hijacked](en/topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
-- [Deal with being locked out of your account](en/topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
+- [Get back control of your account](topics/practice-1-emergencies/2-account-hijacked/3-1-learn.md)
+- [Confirm if your account has been hijacked](topics/practice-1-emergencies/2-account-hijacked/3-2-learn.md)
+- [Deal with being locked out of your account](topics/practice-1-emergencies/2-account-hijacked/3-4-learn.md)
 
 
 
@@ -82,7 +82,7 @@ Some providers will send a link to change your password to your recovery email a
 If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
 # Helpful organisations
-There are a [number of organisations](en/topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
+There are a [number of organisations](topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) who can help you with this process.
 <br>
 >   
 

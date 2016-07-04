@@ -7,12 +7,7 @@ Learn to control access to your personal details on Facebook.
 
 ## Learn how to
 
-- [Control access to personal information on your Facebook profile](en/topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
-
-
-
-
-
+- [Control access to personal information on your Facebook profile](topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
 
 
 
@@ -66,6 +61,11 @@ The default settings make it as easy as possible for individuals to find you thi
 # Step 8. Control who can look you up
 Click Edit on the first two options and ensure that only Friends can search for you by your e-mail address and phone number. For the third option, click Edit and uncheck the box which says Let other search engines link to your timeline.
 ![facebook-all-25.png](facebook-all-25.png)
+
+
+
+
+
 
 
 

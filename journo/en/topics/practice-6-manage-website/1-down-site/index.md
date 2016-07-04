@@ -40,7 +40,14 @@ This could be ‘good’ if your site has become more popular and simply needs s
 
 ## None of these?
 
-If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](en/topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
+If you have determined that none of these are at fault, you may be suffering from a denial of service attack. Refer to the [DDoS lesson](topics/practice-1-emergencies/5-ddos/1-1-intro.md) to learn more. 
+
+
+
+## Billing problem
+
+# Outstanding balance
+Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 
@@ -51,13 +58,6 @@ To see whether your web host is working but your website is unavailable, visit h
 <br>
 # Disturbed account
 If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
-
-
-## Billing problem
-
-# Outstanding balance
-Make sure your billing information is up to date and that there is no outstanding balance on your hosting services or your domain name to ensure your website is not taken down for billing problems.
 
 
 
@@ -93,7 +93,7 @@ Think about any recent changes you or your team may have made and contact your w
 Sending your webmaster a screenshot, the link of the page you are having problems with and any error messages you see will help them figure out what might be causing the problem.
 <br>
 # Helpful questions
-Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+Here are some [helpful questions](topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
 
 
 
@@ -103,7 +103,7 @@ Here are some [helpful questions](en/topics/practice-1-emergencies/5-ddos/3-13-l
 Are you seeing a website that is not yours? Are you receiving a warning from your browser about malware on your own site? This could be a defacement problem.
 <br>
 # Fix the problem
-See [website defacement](en/topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](en/topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
+See [website defacement](topics/practice-1-emergencies/5-ddos/3-14-learn) for next steps. You will need to work with your web hosting provider and review the [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) section.
 
 
 
@@ -116,7 +116,7 @@ Learn why your website might be down.
 ## Learn about
 
 [Questions for your webmaster]((en/topics/understand-1-how-it-works/5-down-site/3-1-learn.md))
-[Possible reasons your website might be down](en/topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
+[Possible reasons your website might be down](topics/understand-1-how-it-works/5-down-site/3-3-learn.md)
 
 
 

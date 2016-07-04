@@ -7,10 +7,10 @@ Learn about how to create strong and secure passwords
 
 ## Learn how to
 
-- [Understand password basics](en/topics/understand-4-digisec/2-passwords/3-1-learn.md)
-- [Create a strong password](en/topics/understand-4-digisec/2-passwords/3-2-learn.md)
-- [Test the strength of your password](en/topics/understand-4-digisec/2-passwords/3-3-learn.md)
-- [Use two factor authentication](en/topics/understand-4-digisec/2-passwords/3-5-learn.md)
+- [Understand password basics](topics/understand-4-digisec/2-passwords/3-1-learn.md)
+- [Create a strong password](topics/understand-4-digisec/2-passwords/3-2-learn.md)
+- [Test the strength of your password](topics/understand-4-digisec/2-passwords/3-3-learn.md)
+- [Use two factor authentication](topics/understand-4-digisec/2-passwords/3-5-learn.md)
 
 
 
@@ -33,7 +33,7 @@ You can use the most advanced security tools, but if your password is week, or i
 ## Choosing a strong password
 
 # Use a password manager
-A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](en/topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
+A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
 <br>
 # Make it long:
 The longer a password is, the longer it takes to guess it. Use more than ten characters or ideally a long phrase or sentence. Short passwords of any kind, even totally random ones, are not strong enough for use with encryption today.

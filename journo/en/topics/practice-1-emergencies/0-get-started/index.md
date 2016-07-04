@@ -5,6 +5,14 @@ Learn how to recognise and deal with the most common types of digital threats.
 
 
 
+## Learn how to
+
+- [Verify the problem](topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
+- [Choose the right lesson for your problem](topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
+- Or swipe to continue...
+
+
+
 ## A suspicious email...
 
 While working on a new story Brenda receives an email about suspicious activity on her account. She wants to find out if this is a real threat.
@@ -13,10 +21,18 @@ It seems that the email is related to her social media account. She needs to act
 
 
 
-## Learn how to
+## Verify if the problem is real
 
-- [Verify the problem](en/topics/practice-1-emergencies/0-getting-started/3-1-learn.md)
-- [Choose the right lesson for your problem](en/topics/practice-1-emergencies/0-getting-started/3-2-learn.md)
+# Assess the situation
+You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.
+<br>
+# Where is the information from?
+Make sure you verify where the information is coming from. Was it via email? Did you see an error message on a website? Has someone told you about the problem?
+<br>
+# Do you trust the source?
+Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
+<br>
+> Remember to verify where the information is coming from!
 
 
 
@@ -52,21 +68,6 @@ Have you just gotten through an emergency? Not sure what to do when the dust set
 
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
-
-
-
-## Verify if the problem is real
-
-# Assess the situation
-You might want to seek help, but assessing the situation first can help you fix the problem on your own or be more prepared when you reach out for help.
-<br>
-# Where is the information from?
-Make sure you verify where the information is coming from. Was it via email? Did you see an error message on a website? Has someone told you about the problem?
-<br>
-# Do you trust the source?
-Verify that the information is coming from a source you trust: do you recognise the email address, or the website address? Fake emails could be sent to mislead you into giving information about your accounts.
-<br>
-> Remember to verify where the information is coming from!
 
 
 

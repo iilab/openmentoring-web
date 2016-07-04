@@ -7,11 +7,11 @@ Know what measures to take to understand risks faced as a journalist.
 
 ## Learn how to
 
-- [Understand risk](en/topics/practice-2-planning/2-assess-risk/3-1-learn.md)
-- [Make an actor map](en/topics/practice-2-planning/2-assess-risk/3-3-learn.md)
-- [Understand threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-4-learn.md)
-- [Map out threats, capacities, and vulnerabilities](en/topics/practice-2-planning/2-assess-risk/3-5-learn.md)
-- [Measure the probability and impact of a risk occurring](en/topics/practice-2-planning/2-assess-risk/3-6-learn.md)
+- [Understand risk](topics/practice-2-planning/2-assess-risk/3-1-learn.md)
+- [Make an actor map](topics/practice-2-planning/2-assess-risk/3-3-learn.md)
+- [Understand threats, capacities, and vulnerabilities](topics/practice-2-planning/2-assess-risk/3-4-learn.md)
+- [Map out threats, capacities, and vulnerabilities](topics/practice-2-planning/2-assess-risk/3-5-learn.md)
+- [Measure the probability and impact of a risk occurring](topics/practice-2-planning/2-assess-risk/3-6-learn.md)
 
 
 
@@ -54,7 +54,7 @@ Supporting forces are our friends and allies, who try to support our project in 
 <br>
 As part of this 'actor mapping' exercise, you should also consider the actors who are on your side, whether local, regional or international: these could include friends, community members, police, other organisations, embassies and so on.
 <br>
-It will be important for you to spread your [digital security practices](en/topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
+It will be important for you to spread your [digital security practices](topics/understand-4-digisec/0-getting-started/1-intro.md) among your allies.
 <br>
 
 # 3. Unknown forces
@@ -65,29 +65,6 @@ An example may be your Internet Service Provider (ISP) or companies such as Face
 An ISP, social network or e-mail provider could be legally pressured by a government to hand over information such as your browsing history, chat logs or emails.
 <br>
 Due to the large amount of information they collect about your activities, they may also be targets for malicious hackers who want to access that information about you.
-
-
-
-## Understand threats, capacities, and vulnerabilities
-
-Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
-<br>
-# Threats
-Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
-<br>
-An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
-<br>
-# Vulnerabilities
-Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
-<br>
-An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
-<br>
-# Capacities
-Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
-<br>
-An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
-<br>
-It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
 
@@ -114,6 +91,29 @@ It may be helpful for you to map them out on a matrix, like this:
 |                                         |                                                         |                                                                                                                     |                                                         |                                                                                                                                                                      |
 
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
+
+
+
+## Understand threats, capacities, and vulnerabilities
+
+Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
+<br>
+# Threats
+Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
+<br>
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+<br>
+# Vulnerabilities
+Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
+<br>
+An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
+<br>
+# Capacities
+Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
+<br>
+An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+<br>
+It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
 
 
 
