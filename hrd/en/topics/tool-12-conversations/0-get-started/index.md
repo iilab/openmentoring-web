@@ -1,15 +1,15 @@
 # Getting Started with Signal
+## Getting started with Conversations
+
+Learn how to install and use Conversations, a free and open source encrypted messaging app for Android.
+
+
+
 ## Learn how to
 
  - [Start using Conversations](topics/tool-6-conversations/0-getting-started/3-learn.md)
  - [Install Conversations on your smart phone and encrypting messages](topics/tool-6-conversations/0-getting-started/4-1-howto-install.md)
  - [Send encrypted messages to other Conversations users](topics/tool-6-conversations/1-messaging/1-1-intro.md)
-
-
-
-## Getting started with Conversations
-
-Learn how to install and use Conversations, a free and open source encrypted messaging app for Android.
 
 
 

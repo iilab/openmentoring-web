@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-07-04T00:50:07.292Z",
+  "updatedAt": "2016-07-04T09:31:55.016Z",
   "items": [
-    {
-      "slug": "practice-2-plan",
-      "type": "topic",
-      "title": "Plan and Prepare",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-1-emergencies",
       "type": "topic",
@@ -21,6 +10,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan",
+      "type": "topic",
+      "title": "Plan and Prepare",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
@@ -101,17 +101,6 @@
     }
   ,
     {
-      "slug": "tool-31-keepassx",
-      "type": "topic",
-      "title": "Manage your Passwords with KeepassX",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-22-tor-browser",
       "type": "topic",
       "title": "Browse Privately with Tor Browser",
@@ -120,6 +109,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-22-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-31-keepassx",
+      "type": "topic",
+      "title": "Manage your Passwords with KeepassX",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
     }
   ,
     {
@@ -212,50 +212,6 @@
   ,
     
     {
-      "slug": "practice-2-plan_0-getting-started",
-      "type": "unit",
-      "title": "Get Started",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_1-threats",
-      "type": "unit",
-      "title": "Understand Threats",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_2-assess-risk",
-      "type": "unit",
-      "title": "Assess security risks",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_0-get-started",
       "type": "unit",
       "title": "Get Started",
@@ -330,6 +286,50 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_0-getting-started",
+      "type": "unit",
+      "title": "Get Started",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_1-threats",
+      "type": "unit",
+      "title": "Understand Threats",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_2-assess-risk",
+      "type": "unit",
+      "title": "Assess security risks",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
@@ -509,28 +509,6 @@
     }
   ,
     {
-      "slug": "tool-31-keepassx_0-get-started",
-      "type": "unit",
-      "title": "Using KeePassX",
-      "parentTitle": "Manage your Passwords with KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-31-keepassx_2-create-new-entry",
-      "type": "unit",
-      "title": "Create a new entry",
-      "parentTitle": "Manage your Passwords with KeepassX",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-22-tor-browser_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -550,6 +528,28 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-22-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-31-keepassx_0-get-started",
+      "type": "unit",
+      "title": "Using KeePassX",
+      "parentTitle": "Manage your Passwords with KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-31-keepassx_2-create-new-entry",
+      "type": "unit",
+      "title": "Create a new entry",
+      "parentTitle": "Manage your Passwords with KeepassX",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-31-keepassx/index.json.gz"
     }
   ,
     {
@@ -751,17 +751,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
@@ -806,6 +795,17 @@
     }
   ,
     {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-3-opsec_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -836,17 +836,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-3-opsec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
     {
@@ -883,9 +872,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -894,9 +883,20 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_0-getting-started",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-4-digisec_5-protect-identity",
+      "type": "unit",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

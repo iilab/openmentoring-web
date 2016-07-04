@@ -38,6 +38,13 @@ Orbot by The Guardian Project and the Tor Project allows you to access the web, 
 
 
 
+## Next
+
+ * [A topic to study next](topics/_topic/_unit/index.md)
+ * [Another topic](topics/_topic/_unit/index.md)
+ * ...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -54,12 +61,5 @@ Orbot by The Guardian Project and the Tor Project allows you to access the web, 
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
- * [A topic to study next](topics/_topic/_unit/index.md)
- * [Another topic](topics/_topic/_unit/index.md)
- * ...
 
 

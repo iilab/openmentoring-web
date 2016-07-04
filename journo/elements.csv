@@ -1,28 +1,28 @@
 Label,Type,Description,Image
 
 
-Plan and Prepare: Get Started,Plan and Prepare,,http://dummyimage.com/100.png/ffffd9&text=+
+Deal with Emergencies: Get Started,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Plan and Prepare: Understand Threats,Plan and Prepare,,http://dummyimage.com/100.png/ffffd9&text=+
+Deal with Emergencies: Seek Remote Help,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Plan and Prepare: Assess security risks,Plan and Prepare,,http://dummyimage.com/100.png/ffffd9&text=+
+Deal with Emergencies: Hijacked Account,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Plan and Prepare: Preparing for emergencies with your contacts,Plan and Prepare,,http://dummyimage.com/100.png/ffffd9&text=+
+Deal with Emergencies: Devices Seized,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
+
+Deal with Emergencies: Malware,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
+
+Deal with Emergencies: Website under attack,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
+
+Deal with Emergencies: After an Emergency,Deal with Emergencies,,http://dummyimage.com/100.png/ffffd9&text=+
 
 
-Deal with Emergencies: Get Started,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
+Plan and Prepare: Get Started,Plan and Prepare,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Deal with Emergencies: Seek Remote Help,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
+Plan and Prepare: Understand Threats,Plan and Prepare,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Deal with Emergencies: Hijacked Account,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
+Plan and Prepare: Assess security risks,Plan and Prepare,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Deal with Emergencies: Devices Seized,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
-
-Deal with Emergencies: Malware,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
-
-Deal with Emergencies: Website under attack,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
-
-Deal with Emergencies: After an Emergency,Deal with Emergencies,,http://dummyimage.com/100.png/edf8b1&text=+
+Plan and Prepare: Preparing for emergencies with your contacts,Plan and Prepare,,http://dummyimage.com/100.png/edf8b1&text=+
 
 
 Safe Phones: Getting Started,Safe Phones,,http://dummyimage.com/100.png/c7e9b4&text=+
@@ -64,14 +64,14 @@ Communicate with Conversations: How to use messaging?,Communicate with Conversat
 Browse Privately with Orbot: Getting Started,Browse Privately with Orbot,,http://dummyimage.com/100.png/ffffd9&text=+
 
 
-Manage your Passwords with KeepassX: Using KeePassX,Manage your Passwords with KeepassX,,http://dummyimage.com/100.png/edf8b1&text=+
+Browse Privately with Tor Browser: Getting Started,Browse Privately with Tor Browser,,http://dummyimage.com/100.png/edf8b1&text=+
 
-Manage your Passwords with KeepassX: Create a new entry,Manage your Passwords with KeepassX,,http://dummyimage.com/100.png/edf8b1&text=+
+Browse Privately with Tor Browser: How to prevent your traffic from being watched,Browse Privately with Tor Browser,,http://dummyimage.com/100.png/edf8b1&text=+
 
 
-Browse Privately with Tor Browser: Getting Started,Browse Privately with Tor Browser,,http://dummyimage.com/100.png/c7e9b4&text=+
+Manage your Passwords with KeepassX: Using KeePassX,Manage your Passwords with KeepassX,,http://dummyimage.com/100.png/c7e9b4&text=+
 
-Browse Privately with Tor Browser: How to prevent your traffic from being watched,Browse Privately with Tor Browser,,http://dummyimage.com/100.png/c7e9b4&text=+
+Manage your Passwords with KeepassX: Create a new entry,Manage your Passwords with KeepassX,,http://dummyimage.com/100.png/c7e9b4&text=+
 
 
 Use Veracrypt: Use Veracrypt,Use Veracrypt,,http://dummyimage.com/100.png/7fcdbb&text=+
@@ -115,8 +115,6 @@ How does it work?: Internet,How does it work?,,http://dummyimage.com/100.png/0c2
 
 Understand Security: Getting Started,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
 
-Understand Security: Your Security,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
-
 Understand Security: Your Well Being,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
 
 Understand Security: Your Story,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
@@ -124,6 +122,8 @@ Understand Security: Your Story,Understand Security,,http://dummyimage.com/100.p
 Understand Security: Your Sources,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
 
 Understand Security: Your colleagues,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
+
+Understand Security: Your Security,Understand Security,,http://dummyimage.com/100.png/ffffd9&text=+
 
 
 Understand Operational Security: Getting Started,Understand Operational Security,,http://dummyimage.com/100.png/edf8b1&text=+
@@ -133,16 +133,16 @@ Understand Operational Security: Establishing Trust,Understand Operational Secur
 Understand Operational Security: Organisational Security,Understand Operational Security,,http://dummyimage.com/100.png/edf8b1&text=+
 
 
-Understanding Digital Security: Getting Started,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
 Understanding Digital Security: Encryption,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
 Understanding Digital Security: Passwords,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
 Understanding Digital Security: Metadata,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
-Understanding Digital Security: Protecting Identity,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
-
 Understanding Digital Security: Secure Communications,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
+
+Understanding Digital Security: Getting Started,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
+
+Understanding Digital Security: Protecting Identity,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+
 
 Understanding Digital Security: Establishing Trust,Understanding Digital Security,,http://dummyimage.com/100.png/c7e9b4&text=+

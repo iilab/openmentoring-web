@@ -108,9 +108,9 @@
   
 * [Android Hygiene](topics/tool-92-android-hygiene/index.md)
   
-  * [Getting Started](topics/tool-92-android-hygiene/0-getting-started/index.md)
-  
   * [Understanding Threats](topics/tool-92-android-hygiene/1-antivirus/index.md)
+  
+  * [Getting Started](topics/tool-92-android-hygiene/0-getting-started/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-92-android-hygiene/3-windows-hygiene/index.md)
   

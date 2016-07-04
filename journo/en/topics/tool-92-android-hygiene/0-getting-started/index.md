@@ -1,4 +1,10 @@
 # Getting Started
+## Getting Started
+
+Learn the basics about securing your Android device
+
+
+
 ## Takeaways
 
 - [Restrict access to your phone](topics/tool-8-android-hygiene/0-getting-started/3-1-learn.md)
@@ -7,12 +13,6 @@
 - [Turn off location tracking](topics/tool-8-android-hygiene/0-getting-started/3-4-learn.md)
 - [Turn on caller-ID](topics/tool-8-android-hygiene/0-getting-started/3-5-learn.md)
 - [Update your operating system and software](topics/tool-8-android-hygiene/0-getting-started/3-6-learn.md)
-
-
-
-## Getting Started
-
-Learn the basics about securing your Android device
 
 
 

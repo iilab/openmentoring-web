@@ -15,6 +15,11 @@ Know what measures to take to understand risks faced as a journalist.
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Understand risk
 
 Risk refers to possible events, however uncertain, that result in harm. Understanding risks can know the right measures to take in order to be more secure.
@@ -63,28 +68,7 @@ Due to the large amount of information they collect about your activities, they 
 
 
 
-## Understand threats, capacities, and vulnerabilities
-
-Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
-<br>
-# Threats
-Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
-<br>
-An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
-<br>
-# Vulnerabilities
-Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
-<br>
-An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
-<br>
-# Capacities
-Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
-<br>
-An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
-<br>
-It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
-
-
+## Map threats, capacities, and vulnerabilities
 
 
 It may be helpful for you to map them out on a matrix, like this:
@@ -109,6 +93,30 @@ It may be helpful for you to map them out on a matrix, like this:
 This example is merely for demonstrative purposes and may have nothing in common with your own situation,. It only focuses on digital security vulnerabilities and capacities, which should only be one part of your risk analysis.
 
 
+
+## Understand threats, capacities, and vulnerabilities
+
+Think of your risk as an interplay of the threats you face, your vulnerabilities, and the capacities you have.
+<br>
+# Threats
+Threats refer to a declaration or indication of an intention to inflict harm. The higher the threats, the higher your risk.
+<br>
+An example of a threat may be someone breaking into your email account and exposing your contacts, or using your emails as evidence against you.
+<br>
+# Vulnerabilities
+Vulnerabilities refer to any factor which makes it more likely for harm to materialise or result in greater damage. The more vulnerabilities you have, the higher your risk.
+<br>
+An example of a vulnerability may be having a very short, simple and easy to break password, like '123456'.
+<br>
+# Capacities
+Capacities refer to abilities and resources which improve our security. The higher your capacities, the LOWER your risk.
+<br>
+An example might be knowing how to create and store long, complex and varied passwords, thus making it very difficult for people to break into your email account.
+<br>
+It's worth noting that capacities and vulnerabilities are often "two sides of the same coin".
+
+
+
 ## Learn
 
 
@@ -126,11 +134,6 @@ In these cases it can be useful to think of the different threats in terms of th
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
 
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Test

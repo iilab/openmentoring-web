@@ -15,6 +15,14 @@ Recover from having your website from being attacked or defaced.
 
 
 
+## A down website
+![](scenario1.svg,scenario2.svg)
+Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
+<br>
+Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
+
+
+
 ## What is a DDOS attack?
 
 # Silencing your voice
@@ -131,23 +139,6 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
 
 
 
-## A down website
-![](scenario1.svg,scenario2.svg)
-Brenda publishes a story about corruption on her organisation's website. Hours later, the website is down and she worries it is being attacked to silence her.
-<br>
-Before she can be sure the site is under attack, Brenda needs to rule out other possible causes for the down website. If it is being attacked, she needs to know how to fix it.
-
-
-
-## Next
-
- See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
-* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
-
-
-
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -164,5 +155,14 @@ Before she can be sure the site is under attack, Brenda needs to rule out other 
         <answer>No</answer>
     </question>
 </quiz>
+
+
+## Next
+
+ See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
+* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
+
 
 

@@ -38,21 +38,6 @@ A DDOS attack is when an attacker uses thousands of machines and possibly automa
 
 
 
-## Rule out other reasons
-![](recap2.svg)
-# Programming or technical problems
-To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
-<br>
-# Speak with an expert
-Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, make sure to root out potential problems by speaking with someone in charge of your website.
-<br>
-# Fixing it yourself
-If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
-<br>
-> Fixing your website yourself can be difficult
-
-
-
 ## Getting your site back up
 ![](recap3.svg)
 > Step 1
@@ -83,6 +68,21 @@ If you are doing this yourself [refer to the guide Electronic Frontier Foundatio
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 <br>
 > DDoS mitigation services protect your website from being overloaded
+
+
+
+## Rule out other reasons
+![](recap2.svg)
+# Programming or technical problems
+To start, it is important to know that there are many reasons why your website can be down. Most often this is due to programming errors or technical problems at the company that hosts the site.
+<br>
+# Speak with an expert
+Sometimes, other things like legal challenges can cause a host to turn a site off as well. Before you conclude you are the victim of a DDOS attack, make sure to root out potential problems by speaking with someone in charge of your website.
+<br>
+# Fixing it yourself
+If you don't have someone in charge of your website, read the lesson on [other reasons your site may be down](topics/understand-1-how-it-works/5-down-site/1-1-intro.md).
+<br>
+> Fixing your website yourself can be difficult
 
 
 
@@ -139,6 +139,15 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
 
 
 
+## Next
+
+ See also:
+* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
+* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
+* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -155,14 +164,5 @@ Secure hosting providers such as VirtualRoad/Qurium go to great lengths to detec
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next
-
- See also:
-* Digital Defenders Partnership: [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/)
-* Jon Camfield: [My Website is Down](https://github.com/joncamfield/MyWebsiteIsDown)
-* Access Now: [Defending users at risk from DDoS attacks: An evolving challenge](https://www.accessnow.org/defending-users-at-risk-from-ddos-attacks-an-evolving-challenge/)
-
 
 

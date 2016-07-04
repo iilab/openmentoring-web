@@ -1,14 +1,14 @@
 # How to control access to your personal details?
-## Controlling access to your personal details
-
-Learn to control access to your personal details on social networking sites.
-
-
-
 ## Learn how to
 
 - [Be careful in posting personal information to social networking sites](topics/practice-4-safe-social-networks/2-access-personal-details/3-learn.md)
 - [Control access to personal information on your Facebook profile](topics/practice-4-safe-social-networks/2-access-personal-details/4-howto.md)
+
+
+
+## Controlling access to your personal details
+
+Learn to control access to your personal details on social networking sites.
 
 
 
@@ -69,11 +69,6 @@ Clicking on this icon will bring up a menu where you can change this setting:
 
 
 
-## Test you social networking knowledge!
-
-
-
-
 ## Next
 
 ---
@@ -82,6 +77,11 @@ Clicking on this icon will bring up a menu where you can change this setting:
 ---
 See also:
 - Tactical Technology Collective: [Security in a Box](https://www.securityinabox.org/)
+
+
+
+## Test you social networking knowledge!
+
 
 
 

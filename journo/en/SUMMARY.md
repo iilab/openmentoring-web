@@ -1,15 +1,5 @@
 # Summary
 
-* [Plan and Prepare](topics/practice-2-plan/index.md)
-  
-  * [Get Started](topics/practice-2-plan/0-getting-started/index.md)
-  
-  * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
-  
-  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
-  
-  * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
-  
 * [Deal with Emergencies](topics/practice-1-emergencies/index.md)
   
   * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
@@ -25,6 +15,16 @@
   * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
   
   * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
+* [Plan and Prepare](topics/practice-2-plan/index.md)
+  
+  * [Get Started](topics/practice-2-plan/0-getting-started/index.md)
+  
+  * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
+  
+  * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -72,17 +72,17 @@
   
   * [Getting Started](topics/tool-21-orbot/0-getting-started/index.md)
   
-* [Manage your Passwords with KeepassX](topics/tool-31-keepassx/index.md)
-  
-  * [Using KeePassX](topics/tool-31-keepassx/0-get-started/index.md)
-  
-  * [Create a new entry](topics/tool-31-keepassx/2-create-new-entry/index.md)
-  
 * [Browse Privately with Tor Browser](topics/tool-22-tor-browser/index.md)
   
   * [Getting Started](topics/tool-22-tor-browser/0-getting-started/index.md)
   
   * [How to prevent your traffic from being watched](topics/tool-22-tor-browser/1-connect-to-tor/index.md)
+  
+* [Manage your Passwords with KeepassX](topics/tool-31-keepassx/index.md)
+  
+  * [Using KeePassX](topics/tool-31-keepassx/0-get-started/index.md)
+  
+  * [Create a new entry](topics/tool-31-keepassx/2-create-new-entry/index.md)
   
 * [Use Veracrypt](topics/tool-41-veracrypt/index.md)
   
@@ -132,8 +132,6 @@
   
   * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
   
-  * [Your Security](topics/understand-2-security/1-your-security/index.md)
-  
   * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
@@ -141,6 +139,8 @@
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
+  
+  * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
 * [Understand Operational Security](topics/understand-3-opsec/index.md)
   
@@ -152,17 +152,17 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
-  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
-  
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
+  
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
+  * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

@@ -1,17 +1,14 @@
 # Instant Messaging on Smart Phones
-## Learn
-
-> rewrite this section
-
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
-<br>
-Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
+## Test you social networking knowledge!
 
 
 
-## Instant messaging on phones
 
-Learn to instant message securely on a smart phone.
+## Learn how to
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
 
@@ -39,16 +36,19 @@ They plan to use Twitter during the march to give updates on the progress of the
 
 
 
-## Learn how to
+## Instant messaging on phones
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Learn to instant message securely on a smart phone.
 
 
 
-## Test you social networking knowledge!
+## Learn
 
+> rewrite this section
+
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the privacy and security issues that they raise.
+<br>
+Anyone needs to be vigilant about their use of social networking sites and need to be careful about the information they reveal about themselves **and** about the people they work with.
 
 
 
