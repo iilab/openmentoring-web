@@ -11,7 +11,7 @@ Learn to identity threats and risks you may face as a journalist or human rights
 
 
 
-## Scenario
+## Starting a new project
 
 Brenda is planning a new project and needs to complete a threat and risk assessment. Before she can, she needs to know the difference between risks and threats and also how to identify them.
 <br>
@@ -20,7 +20,6 @@ If she doesn't, she knows that she exposes herself to unnecessary and avoidable 
 
 
 ## Choose the right lesson
-
 
 This section aims to providing preliminary support for identifying threats and assessing risk you might face as a journalist or human rights defender. This section is by no means all encompassing; threat and risk assessment are complex and very context dependent.
 <br>
