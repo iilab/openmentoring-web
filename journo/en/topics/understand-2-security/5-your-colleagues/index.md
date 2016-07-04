@@ -26,11 +26,6 @@ talking about that it's courageous to bring this subject up and when other peopl
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn
 
 # Weakest link

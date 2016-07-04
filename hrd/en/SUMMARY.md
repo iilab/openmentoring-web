@@ -100,7 +100,7 @@
   
 * [Computer Hygiene](topics/tool-91-computer-hygiene/index.md)
   
-  * [Getting started with computer hygiene](topics/tool-91-computer-hygiene/0-getting-started/index.md)
+  * [Getting started with computer hygiene](topics/tool-91-computer-hygiene/0-get-started/index.md)
   
   * [Getting started with computer hygiene](topics/tool-91-computer-hygiene/1-computer-hygiene/index.md)
   
@@ -108,7 +108,7 @@
   
 * [Android Hygiene](topics/tool-92-android-hygiene/index.md)
   
-  * [Getting Started](topics/tool-92-android-hygiene/0-getting-started/index.md)
+  * [Getting Started](topics/tool-92-android-hygiene/0-get-started/index.md)
   
   * [Understanding Threats](topics/tool-92-android-hygiene/1-antivirus/index.md)
   
@@ -118,7 +118,7 @@
   
 * [How does it work?](topics/understand-1-how-it-works/index.md)
   
-  * [Getting Started](topics/understand-1-how-it-works/0-getting-started/index.md)
+  * [Getting Started](topics/understand-1-how-it-works/0-get-started/index.md)
   
   * [Computers](topics/understand-1-how-it-works/1-computers/index.md)
   
@@ -130,7 +130,7 @@
   
 * [Understand Security](topics/understand-2-security/index.md)
   
-  * [Getting Started](topics/understand-2-security/0-getting-started/index.md)
+  * [Getting Started](topics/understand-2-security/0-get-started/index.md)
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
@@ -152,7 +152,7 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  * [Getting Started](topics/understand-4-digisec/0-get-started/index.md)
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
@@ -160,9 +160,9 @@
   
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
   
-  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
-  
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
+  
+  * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
   

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-04T11:22:37.167Z",
+  "updatedAt": "2016-07-04T12:03:46.170Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -608,7 +608,7 @@
     }
   ,
     {
-      "slug": "tool-91-computer-hygiene_0-getting-started",
+      "slug": "tool-91-computer-hygiene_0-get-started",
       "type": "unit",
       "title": "Getting started with computer hygiene",
       "parentTitle": "Computer Hygiene",
@@ -641,7 +641,7 @@
     }
   ,
     {
-      "slug": "tool-92-android-hygiene_0-getting-started",
+      "slug": "tool-92-android-hygiene_0-get-started",
       "type": "unit",
       "title": "Getting Started",
       "parentTitle": "Android Hygiene",
@@ -685,7 +685,7 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_0-getting-started",
+      "slug": "understand-1-how-it-works_0-get-started",
       "type": "unit",
       "title": "Getting Started",
       "parentTitle": "How does it work?",
@@ -740,7 +740,7 @@
     }
   ,
     {
-      "slug": "understand-2-security_0-getting-started",
+      "slug": "understand-2-security_0-get-started",
       "type": "unit",
       "title": "Getting Started",
       "parentTitle": "Understand Security",
@@ -839,7 +839,7 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_0-getting-started",
+      "slug": "understand-4-digisec_0-get-started",
       "type": "unit",
       "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",

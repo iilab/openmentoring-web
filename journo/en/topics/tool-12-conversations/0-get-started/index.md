@@ -89,8 +89,6 @@ Voice verification screens
 
 
 
-## Configure Signal
-
 # Importing Messages
 
 Signal can securely store your SMS messages, so it is recommended that you import the messages from your current SMS app.
@@ -137,7 +135,6 @@ To enable encrypted storage, take the following 5 steps:
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 > Signal timeout settings
-
 
 
 ## Next
