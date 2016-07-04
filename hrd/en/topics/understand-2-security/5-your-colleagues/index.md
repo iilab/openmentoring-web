@@ -1,11 +1,4 @@
 # Your colleagues
-## Your colleagues
-
-
-The security of your colleagues is part of your own security.
-
-
-
 ## Learn about
 
 - [Security within your teams](en/topics/understand-2-security/5-your-colleagues/3-1-learn.md)
@@ -29,6 +22,13 @@ talking about that it's courageous to bring this subject up and when other peopl
 ## Scenario
 
 Scenario text...
+
+
+## Your colleagues
+
+
+The security of your colleagues is part of your own security.
+
 
 
 ## Learn

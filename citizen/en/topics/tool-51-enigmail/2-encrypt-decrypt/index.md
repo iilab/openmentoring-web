@@ -1,4 +1,10 @@
 # Encrypt and decrypt messages using Enigmail
+## Get started with Enigmail
+
+Learn to encrypt and decrypt messages using Enigmail
+
+
+
 ## Learn how to
 
  - [Encrypt a message](en/topics/tool-3-enigmail/2-encrypt-decrypt/3-1-learn.md)
@@ -52,8 +58,5 @@ Refer to the [detailed guide](https://securityinabox.org/en/guide/thunderbird/wi
 ---
 Tactical Technology Collective: [Thunderbirg, Enigmail, and OpenPGP for Windows](https://securityinabox.org/en/guide/thunderbird/windows)
 
-
-
-Learn to encrypt and decrypt messages using Enigmail
 
 

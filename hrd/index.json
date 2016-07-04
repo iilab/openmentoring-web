@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-03T23:34:48.586Z",
+  "updatedAt": "2016-07-04T00:40:03.373Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -70,7 +70,7 @@
     {
       "slug": "tool-11-signal",
       "type": "topic",
-      "title": "Communicate with Signal",
+      "title": "Calls",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
@@ -445,8 +445,8 @@
     {
       "slug": "tool-11-signal_0-get-started",
       "type": "unit",
-      "title": "Get Started with Signal",
-      "parentTitle": "Communicate with Signal",
+      "title": "Get Started",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -456,8 +456,8 @@
     {
       "slug": "tool-11-signal_1-messaging",
       "type": "unit",
-      "title": "Use Signal messaging",
-      "parentTitle": "Communicate with Signal",
+      "title": "Messaging",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -468,7 +468,7 @@
       "slug": "tool-11-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Communicate with Signal",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",

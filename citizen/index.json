@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2016-07-03T23:34:51.699Z",
+  "updatedAt": "2016-07-04T00:40:06.649Z",
   "items": [
-    {
-      "slug": "practice-2-plan",
-      "type": "topic",
-      "title": "Plan and Prepare",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
     {
       "slug": "practice-1-emergencies",
       "type": "topic",
@@ -21,6 +10,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan",
+      "type": "topic",
+      "title": "Plan and Prepare",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
@@ -70,7 +70,7 @@
     {
       "slug": "tool-11-signal",
       "type": "topic",
-      "title": "Communicate with Signal",
+      "title": "Calls",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
@@ -212,50 +212,6 @@
   ,
     
     {
-      "slug": "practice-2-plan_0-getting-started",
-      "type": "unit",
-      "title": "Get Started",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_1-threats",
-      "type": "unit",
-      "title": "Understand Threats",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_2-assess-risk",
-      "type": "unit",
-      "title": "Assess security risks",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-2-plan_4-emergency-plan",
-      "type": "unit",
-      "title": "Preparing for emergencies with your contacts",
-      "parentTitle": "Plan and Prepare",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-1-emergencies_0-get-started",
       "type": "unit",
       "title": "Get Started",
@@ -281,6 +237,17 @@
       "slug": "practice-1-emergencies_2-account-hijacked",
       "type": "unit",
       "title": "Hijacked Account",
+      "parentTitle": "Deal with Emergencies",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-1-emergencies_3-seized-devices",
+      "type": "unit",
+      "title": "Devices Seized",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -322,14 +289,47 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_3-seized-devices",
+      "slug": "practice-2-plan_0-getting-started",
       "type": "unit",
-      "title": "Devices Seized",
-      "parentTitle": "Deal with Emergencies",
+      "title": "Get Started",
+      "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-1-emergencies/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_1-threats",
+      "type": "unit",
+      "title": "Understand Threats",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_2-assess-risk",
+      "type": "unit",
+      "title": "Assess security risks",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-2-plan_4-emergency-plan",
+      "type": "unit",
+      "title": "Preparing for emergencies with your contacts",
+      "parentTitle": "Plan and Prepare",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-2-plan/index.json.gz"
     }
   ,
     {
@@ -445,8 +445,8 @@
     {
       "slug": "tool-11-signal_0-get-started",
       "type": "unit",
-      "title": "Get Started with Signal",
-      "parentTitle": "Communicate with Signal",
+      "title": "Get Started",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -456,8 +456,8 @@
     {
       "slug": "tool-11-signal_1-messaging",
       "type": "unit",
-      "title": "Use Signal messaging",
-      "parentTitle": "Communicate with Signal",
+      "title": "Messaging",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -468,7 +468,7 @@
       "slug": "tool-11-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Communicate with Signal",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -718,9 +718,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_4-internet",
+      "slug": "understand-1-how-it-works_3-smartphones",
       "type": "unit",
-      "title": "Internet",
+      "title": "Smart Phones",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -729,9 +729,9 @@
     }
   ,
     {
-      "slug": "understand-1-how-it-works_3-smartphones",
+      "slug": "understand-1-how-it-works_4-internet",
       "type": "unit",
-      "title": "Smart Phones",
+      "title": "Internet",
       "parentTitle": "How does it work?",
       "locale": "en",
       "categories": [],
@@ -839,6 +839,17 @@
     }
   ,
     {
+      "slug": "understand-4-digisec_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Understanding Digital Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-4-digisec_1-encryption",
       "type": "unit",
       "title": "Encryption",
@@ -897,17 +908,6 @@
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
-      "slug": "understand-4-digisec_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

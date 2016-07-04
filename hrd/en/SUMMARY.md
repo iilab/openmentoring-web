@@ -54,11 +54,11 @@
   
   * [How to share the Open Mentoring App](topics/tool-01-open-mentoring/1-sharing/index.md)
   
-* [Communicate with Signal](topics/tool-11-signal/index.md)
+* [Calls](topics/tool-11-signal/index.md)
   
-  * [Get Started with Signal](topics/tool-11-signal/0-get-started/index.md)
+  * [Get Started](topics/tool-11-signal/0-get-started/index.md)
   
-  * [Use Signal messaging](topics/tool-11-signal/1-messaging/index.md)
+  * [Messaging](topics/tool-11-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-11-signal/2-voice/index.md)
   

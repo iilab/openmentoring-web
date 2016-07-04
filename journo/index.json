@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-03T23:34:45.512Z",
+  "updatedAt": "2016-07-04T00:40:00.490Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -24,17 +24,6 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones",
-      "type": "topic",
-      "title": "Safe Phones",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks",
       "type": "topic",
       "title": "Safe Social Networks",
@@ -46,14 +35,47 @@
     }
   ,
     {
+      "slug": "practice-6-manage-website",
+      "type": "topic",
+      "title": "Manage your website",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-11-signal",
       "type": "topic",
-      "title": "Communicate with Signal",
+      "title": "Calls",
       "parentTitle": "",
       "locale": "en",
       "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-11-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-01-open-mentoring",
+      "type": "topic",
+      "title": "Learn with Open Mentoring",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones",
+      "type": "topic",
+      "title": "Safe Phones",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo", "platform:android", "platform:android", "platform:android", "protect:content", "protect:content", "protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -68,17 +90,6 @@
     }
   ,
     {
-      "slug": "tool-21-orbot",
-      "type": "topic",
-      "title": "Browse Privately with Orbot",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-21-orbot/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-22-tor-browser",
       "type": "topic",
       "title": "Browse Privately with Tor Browser",
@@ -87,6 +98,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-22-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-21-orbot",
+      "type": "topic",
+      "title": "Browse Privately with Orbot",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-21-orbot/index.json.gz"
     }
   ,
     {
@@ -109,17 +131,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-41-veracrypt/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-51-enigmail",
-      "type": "topic",
-      "title": "Encrypt Emails with Enigmail",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
     }
   ,
     {
@@ -167,6 +178,17 @@
     }
   ,
     {
+      "slug": "tool-51-enigmail",
+      "type": "topic",
+      "title": "Encrypt Emails with Enigmail",
+      "parentTitle": "",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
+    }
+  ,
+    {
       "slug": "understand-3-opsec",
       "type": "topic",
       "title": "Understand Operational Security",
@@ -188,33 +210,11 @@
       "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ,
-    {
-      "slug": "practice-6-manage-website",
-      "type": "topic",
-      "title": "Manage your website",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-01-open-mentoring",
-      "type": "topic",
-      "title": "Learn with Open Mentoring",
-      "parentTitle": "",
-      "locale": "en",
-      "categories": [ "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "platform:android", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content", "protect:content,identity", "protect:content", "protect:identity", "protect:content,identity", "protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
-    }
-  ,
     
     {
-      "slug": "practice-1-emergencies_0-get-started",
+      "slug": "practice-1-emergencies_1-seek-help",
       "type": "unit",
-      "title": "Get Started",
+      "title": "Seek Remote Help",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -223,9 +223,9 @@
     }
   ,
     {
-      "slug": "practice-1-emergencies_1-seek-help",
+      "slug": "practice-1-emergencies_0-get-started",
       "type": "unit",
-      "title": "Seek Remote Help",
+      "title": "Get Started",
       "parentTitle": "Deal with Emergencies",
       "locale": "en",
       "categories": [],
@@ -289,9 +289,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_0-getting-started",
+      "slug": "practice-2-plan_1-threats",
       "type": "unit",
-      "title": "Get Started",
+      "title": "Understand Threats",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -300,9 +300,9 @@
     }
   ,
     {
-      "slug": "practice-2-plan_1-threats",
+      "slug": "practice-2-plan_0-getting-started",
       "type": "unit",
-      "title": "Understand Threats",
+      "title": "Get Started",
       "parentTitle": "Plan and Prepare",
       "locale": "en",
       "categories": [],
@@ -333,42 +333,9 @@
     }
   ,
     {
-      "slug": "practice-3-safe-phones_0-get-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-3-safe-phones_1-instant-messaging",
-      "type": "unit",
-      "title": "Instant Messaging on Smart Phones",
-      "parentTitle": "Safe Phones",
-      "locale": "en",
-      "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
-    }
-  ,
-    {
       "slug": "practice-4-safe-social-networks_0-get-started",
       "type": "unit",
       "title": "Get started with social networks",
-      "parentTitle": "Safe Social Networks",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-4-safe-social-networks_1-access-personal-details",
-      "type": "unit",
-      "title": "How to control access to your personal details?",
       "parentTitle": "Safe Social Networks",
       "locale": "en",
       "categories": [],
@@ -388,6 +355,17 @@
     }
   ,
     {
+      "slug": "practice-4-safe-social-networks_1-access-personal-details",
+      "type": "unit",
+      "title": "How to control access to your personal details?",
+      "parentTitle": "Safe Social Networks",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-4-safe-social-networks/index.json.gz"
+    }
+  ,
+    {
       "slug": "practice-4-safe-social-networks_3-facebook-chat",
       "type": "unit",
       "title": "Chatting securely",
@@ -399,10 +377,32 @@
     }
   ,
     {
+      "slug": "practice-6-manage-website_0-get-started",
+      "type": "unit",
+      "title": "Get started",
+      "parentTitle": "Manage your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-6-manage-website_1-down-site",
+      "type": "unit",
+      "title": "Down website",
+      "parentTitle": "Manage your website",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
+    }
+  ,
+    {
       "slug": "tool-11-signal_0-get-started",
       "type": "unit",
-      "title": "Get Started with Signal",
-      "parentTitle": "Communicate with Signal",
+      "title": "Get Started",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -412,8 +412,8 @@
     {
       "slug": "tool-11-signal_1-messaging",
       "type": "unit",
-      "title": "Use Signal messaging",
-      "parentTitle": "Communicate with Signal",
+      "title": "Messaging",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","platform:android","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
@@ -424,11 +424,55 @@
       "slug": "tool-11-signal_2-voice",
       "type": "unit",
       "title": "How to have voice calls?",
-      "parentTitle": "Communicate with Signal",
+      "parentTitle": "Calls",
       "locale": "en",
       "categories": ["platform:android","platform:android","protect:content","protect:content"],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-11-signal/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-01-open-mentoring_1-sharing",
+      "type": "unit",
+      "title": "How to share the Open Mentoring App",
+      "parentTitle": "Learn with Open Mentoring",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-01-open-mentoring_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started with the Open Mentoring App",
+      "parentTitle": "Learn with Open Mentoring",
+      "locale": "en",
+      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_0-get-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
+    }
+  ,
+    {
+      "slug": "practice-3-safe-phones_1-instant-messaging",
+      "type": "unit",
+      "title": "Instant Messaging on Smart Phones",
+      "parentTitle": "Safe Phones",
+      "locale": "en",
+      "categories": [ "profile:hrd", "profile:journo","platform:android","platform:android","platform:android","protect:content","protect:content","protect:content"],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/practice-3-safe-phones/index.json.gz"
     }
   ,
     {
@@ -454,17 +498,6 @@
     }
   ,
     {
-      "slug": "tool-21-orbot_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started",
-      "parentTitle": "Browse Privately with Orbot",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-21-orbot/index.json.gz"
-    }
-  ,
-    {
       "slug": "tool-22-tor-browser_0-getting-started",
       "type": "unit",
       "title": "Getting Started",
@@ -484,6 +517,17 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-22-tor-browser/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-21-orbot_0-getting-started",
+      "type": "unit",
+      "title": "Getting Started",
+      "parentTitle": "Browse Privately with Orbot",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-21-orbot/index.json.gz"
     }
   ,
     {
@@ -528,39 +572,6 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/tool-41-veracrypt/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-51-enigmail_0-get-started",
-      "type": "unit",
-      "title": "Get Started with Enigmail",
-      "parentTitle": "Encrypt Emails with Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-51-enigmail_1-new-key",
-      "type": "unit",
-      "title": "Generate a new key pair using Enigmail",
-      "parentTitle": "Encrypt Emails with Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-51-enigmail_2-encrypt-decrypt",
-      "type": "unit",
-      "title": "Encrypt and decrypt messages using Enigmail",
-      "parentTitle": "Encrypt Emails with Enigmail",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
     }
   ,
     {
@@ -707,17 +718,6 @@
     }
   ,
     {
-      "slug": "understand-2-security_1-your-security",
-      "type": "unit",
-      "title": "Your Security",
-      "parentTitle": "Understand Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-2-security_2-your-well-being",
       "type": "unit",
       "title": "Your Well Being",
@@ -759,6 +759,50 @@
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
       "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "understand-2-security_1-your-security",
+      "type": "unit",
+      "title": "Your Security",
+      "parentTitle": "Understand Security",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-2-security/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-51-enigmail_0-get-started",
+      "type": "unit",
+      "title": "Get Started with Enigmail",
+      "parentTitle": "Encrypt Emails with Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-51-enigmail_1-new-key",
+      "type": "unit",
+      "title": "Generate a new key pair using Enigmail",
+      "parentTitle": "Encrypt Emails with Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
+    }
+  ,
+    {
+      "slug": "tool-51-enigmail_2-encrypt-decrypt",
+      "type": "unit",
+      "title": "Encrypt and decrypt messages using Enigmail",
+      "parentTitle": "Encrypt Emails with Enigmail",
+      "locale": "en",
+      "categories": [],
+      "updatedAt": "2015-11-26T00:00:00.000Z",
+      "downloadUrl": "http://openmentoring.io/en/topics/tool-51-enigmail/index.json.gz"
     }
   ,
     {
@@ -850,17 +894,6 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
-      "type": "unit",
-      "title": "Protecting Identity",
-      "parentTitle": "Understanding Digital Security",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
-    }
-  ,
-    {
       "slug": "understand-4-digisec_6-trust",
       "type": "unit",
       "title": "Establishing Trust",
@@ -872,47 +905,14 @@
     }
   ,
     {
-      "slug": "practice-6-manage-website_0-get-started",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Get started",
-      "parentTitle": "Manage your website",
+      "title": "Protecting Identity",
+      "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
       "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "practice-6-manage-website_1-down-site",
-      "type": "unit",
-      "title": "Down website",
-      "parentTitle": "Manage your website",
-      "locale": "en",
-      "categories": [],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/practice-6-manage-website/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-01-open-mentoring_0-getting-started",
-      "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
-      "parentTitle": "Learn with Open Mentoring",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
-    }
-  ,
-    {
-      "slug": "tool-01-open-mentoring_1-sharing",
-      "type": "unit",
-      "title": "How to share the Open Mentoring App",
-      "parentTitle": "Learn with Open Mentoring",
-      "locale": "en",
-      "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
-      "updatedAt": "2015-11-26T00:00:00.000Z",
-      "downloadUrl": "http://openmentoring.io/en/topics/tool-01-open-mentoring/index.json.gz"
+      "downloadUrl": "http://openmentoring.io/en/topics/understand-4-digisec/index.json.gz"
     }
   ]  
 }

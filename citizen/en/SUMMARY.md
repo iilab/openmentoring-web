@@ -1,5 +1,21 @@
 # Summary
 
+* [Deal with Emergencies](topics/practice-1-emergencies/index.md)
+  
+  * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
+  
+  * [Seek Remote Help](topics/practice-1-emergencies/1-seek-help/index.md)
+  
+  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
+  
+  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
+  
+  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
+  
+  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
+  
+  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
+  
 * [Plan and Prepare](topics/practice-2-plan/index.md)
   
   * [Get Started](topics/practice-2-plan/0-getting-started/index.md)
@@ -9,22 +25,6 @@
   * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
   
   * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
-  
-* [Deal with Emergencies](topics/practice-1-emergencies/index.md)
-  
-  * [Get Started](topics/practice-1-emergencies/0-get-started/index.md)
-  
-  * [Seek Remote Help](topics/practice-1-emergencies/1-seek-help/index.md)
-  
-  * [Hijacked Account](topics/practice-1-emergencies/2-account-hijacked/index.md)
-  
-  * [Malware](topics/practice-1-emergencies/4-malware/index.md)
-  
-  * [Website under attack](topics/practice-1-emergencies/5-web-attack/index.md)
-  
-  * [After an Emergency](topics/practice-1-emergencies/6-after/index.md)
-  
-  * [Devices Seized](topics/practice-1-emergencies/3-seized-devices/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -54,11 +54,11 @@
   
   * [How to share the Open Mentoring App](topics/tool-01-open-mentoring/1-sharing/index.md)
   
-* [Communicate with Signal](topics/tool-11-signal/index.md)
+* [Calls](topics/tool-11-signal/index.md)
   
-  * [Get Started with Signal](topics/tool-11-signal/0-get-started/index.md)
+  * [Get Started](topics/tool-11-signal/0-get-started/index.md)
   
-  * [Use Signal messaging](topics/tool-11-signal/1-messaging/index.md)
+  * [Messaging](topics/tool-11-signal/1-messaging/index.md)
   
   * [How to have voice calls?](topics/tool-11-signal/2-voice/index.md)
   
@@ -124,9 +124,9 @@
   
   * [Phones](topics/understand-1-how-it-works/2-phones/index.md)
   
-  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
-  
   * [Smart Phones](topics/understand-1-how-it-works/3-smartphones/index.md)
+  
+  * [Internet](topics/understand-1-how-it-works/4-internet/index.md)
   
 * [Understand Security](topics/understand-2-security/index.md)
   
@@ -152,6 +152,8 @@
   
 * [Understanding Digital Security](topics/understand-4-digisec/index.md)
   
+  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
+  
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
   * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
@@ -163,6 +165,4 @@
   * [Protecting Identity](topics/understand-4-digisec/5-protect-identity/index.md)
   
   * [Establishing Trust](topics/understand-4-digisec/6-trust/index.md)
-  
-  * [Getting Started](topics/understand-4-digisec/0-getting-started/index.md)
   

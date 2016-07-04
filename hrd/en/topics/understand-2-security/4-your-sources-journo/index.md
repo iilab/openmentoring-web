@@ -1,10 +1,4 @@
 # Your Sources
-## Your sources
-
-Understand security issues for your sources
-
-
-
 ## Learn about
 
 - [Why is it important to protect your sources](en/topics/understand-2-security/4-your-sources-journo/3-1-learn.md)
@@ -18,6 +12,12 @@ Understand security issues for your sources
 Isaac has a new source for a story he is writing. He knows it's important to protect the identity of his source, both for his and his source's safety, but he is unsure of how to do so.
 <br>
 He needs some techniques on how to protect the identity of his sources. If he doesn't learn how, he's worried the identity of his new source will be revealed.
+
+
+
+## Your sources
+
+Understand security issues for your sources
 
 
 
