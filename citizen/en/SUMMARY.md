@@ -22,9 +22,9 @@
   
   * [Understand Threats](topics/practice-2-plan/1-threats/index.md)
   
-  * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
-  
   * [Assess security risks](topics/practice-2-plan/2-assess-risk/index.md)
+  
+  * [Preparing for emergencies with your contacts](topics/practice-2-plan/4-emergency-plan/index.md)
   
 * [Safe Phones](topics/practice-3-safe-phones/index.md)
   
@@ -58,9 +58,9 @@
   
   * [Get Started](topics/tool-11-signal/0-get-started/index.md)
   
-  * [How to have voice calls?](topics/tool-11-signal/2-voice/index.md)
-  
   * [Messaging](topics/tool-11-signal/1-messaging/index.md)
+  
+  * [How to have voice calls?](topics/tool-11-signal/2-voice/index.md)
   
 * [Communicate with Conversations](topics/tool-12-conversations/index.md)
   

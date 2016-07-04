@@ -12,14 +12,14 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
-## Learn
-
-Learning text...
-
-
 ## Scenario
 
 Scenario text...
+
+
+## Learn
+
+Learning text...
 
 
 ## Test
@@ -40,7 +40,10 @@ Scenario text...
 </quiz>
 
 
+## Next
+
  * [A topic to study next](topics/_topic/_unit/index.md)
  * [Another topic](topics/_topic/_unit/index.md)
  * ...
+
 

@@ -22,18 +22,6 @@ Brenda suggests they re-evaluate their emergency and security procedures. If the
 
 
 
-## Emergency funding
-
-# Reach out for help
-Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
-<br>
-# Funding organisations
-If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
-<br>
-> Funding can improve organisational security practices
-
-
-
 ## Revising emergency plans
 
 # What worked and what didn't?
@@ -46,6 +34,18 @@ When necessary, this is a good time to try to improve your organisational proced
 Think about the best way to either respond or not to potential emergencies in all stages of an event or activity (e.g. in terms of preparation, implementation, and after an activity has ended).
 <br>
 > Improve the way you protect your files and sensitive information
+
+
+
+## Emergency funding
+
+# Reach out for help
+Some organisations offer funding to individuals or groups who have encountered an emergency as a result of their journalism or human rights work.
+<br>
+# Funding organisations
+If you are in need of emergency funding, consider reaching out to [Frontline Defenders](https://www.frontlinedefenders.org/en), [Digital Defenders Partnership](https://www.digitaldefenders.org/), [Reporters without Borders](https://rsf.org/en), the [Open Technology Fund](https://www.opentech.fund/), or [Pen International](www.pen-international.org/).
+<br>
+> Funding can improve organisational security practices
 
 
 
