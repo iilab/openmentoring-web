@@ -1,6 +1,5 @@
 # Getting started with computer hygiene
-## Getting Started
-
+## Get Started
 
 Learn to implement common computer hygiene practices.
 

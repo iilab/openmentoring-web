@@ -1,7 +1,6 @@
 # Your colleagues
 ## Your colleagues
 
-
 The security of your colleagues is part of your own security.
 
 
@@ -14,19 +13,7 @@ The security of your colleagues is part of your own security.
 
 
 
-give out some examples of team configurations, it can be that you are working by yourself, you have people in the field, people in the newsroom, your editor....
-
-sharing of info/collaboration: generally it's important to think about what you share and what has been shared. on the one end sometimes you want your colelagues to continue investigation so giving them enough of information so they can access ... also a way of dealing with infiltration
-
-
-talking about sercurity - impact things can have with yoru coleague rather than putting on a brave face/pretending thse risks dont' exist. this promotes a culture of carelessness.
-
-
-talking about that it's courageous to bring this subject up and when other people bring it up to not take it as a worry or a weakness but as an opportunity to develop and make sure everyone is on same page.
-
-
-
-## Learn
+## Team configurations
 
 # Weakest link
 As the old adage goes, "A chain is only as strong as it's weakest link." Your security is dependent on the security of your colleagues.
@@ -36,9 +23,6 @@ When developing a security plan with your colleagues, be sure to include people 
 <br>
 # Positions to include
 For journalists, this means developing information and operational security strategies for everyone from a stringer to a driver, from a journalist to an editor.
-<br>
-# See also
-- opsec - information compartmentalisation.
 
 
 
@@ -59,11 +43,9 @@ Whether you share much or little information with your colleagues, it is importa
 # See also
 Refer to the [Secure Communications](topics/understand-4-digisec/4-secure-communications/1-1-intro.md) and [Operational Security](topics/understand-3-opsec/0-getting-started/1-1-intro.md) lessons to learn how to do do so.
 
-> sharing information with teams - missing bits - point to lesson on setting up a practice (7) section on setting up safe istant messaging. - in priority - create a place holder here and point towards it.
 
 
-
-## Learn
+## Importance of trust
 
 # "Be careful with each other..."
 The old activist motto "Be careful with each other, so that we can be dangerous together” has a lot to do with trust.
@@ -82,7 +64,7 @@ Trust gives team members confidence to know whom to talk to about which aspects 
 
 
 
-## Learn
+## Building trust within a team
 
 # Increasing trust in a team
 There are several ways we can work on increasing trust within a team:
@@ -120,8 +102,7 @@ You might face opposition from those who feel talking about security takes away 
 <br>
 # Putting on a brave face
 Your colleagues might even put on a brave face and pretending these risks do not exist. It's also possible you might feel this way yourself.
-
-
+<br>
 # Tips to bringing up security with your colleagues
 - incorporating into meetings
 - find pragmatic path to bringing it up. converting a culture of good risk planning - this is good for everyone.

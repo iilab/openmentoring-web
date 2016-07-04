@@ -1,5 +1,5 @@
-# Getting started with computer hygiene
-## Getting Started
+# Get started with computer hygiene
+## Get started
 
 Learn to use common computer hygiene practices.
 
@@ -14,7 +14,7 @@ Learn to use common computer hygiene practices.
 
 
 
-## Protecting your computer against malware
+## Protect your computer against malware
 
 # Importance of protection
 You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
@@ -27,7 +27,32 @@ To learn how to protect yourself from malware, refer to the [Malware](topics/pra
 
 
 
-## Open source software
+## Keep your software up to date
+
+# Limit software weakness and vulnerabilities
+Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
+<br>
+# Update your operating system
+Always keep your operating system (Windows, Linux, Mac OS, etc) updated by downloading the latest updates from the respective websites.
+<br>
+# Sign up for security update alerts
+Application software (Word, Excel, LibreOffice), either bought or open source, should also be kept up to date. Set your software to send you alerts about security updates, if such an option is available, so that you can get them as soon as they are released.
+<br>
+# Automatic updating
+Most software on Windows will either update automatically or alert you to available updates, and point you to where you can download them. Windows operating system is set to auto-update by default.
+<br>
+# Turn auto-updating on
+If your settings are not set to auto-update (mobile-based GSM data providers often advise you to turn off automatic Windows updates to conserve your data bundles) you can turn this function on by going to your computer’s Start menu, selecting All Programs and clicking Windows Update.
+<br>
+# Inform you of updates
+Alternatively, through the process above you can set Windows Update to inform you of available updates and let you decide whether to download them or not.
+<br>
+# Download when ready
+This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
+
+
+
+## Use open source software
 
 # Updating software is constantly
 For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
@@ -46,7 +71,7 @@ For a list of recommended free and open software, [refer to the list](https://se
 
 
 
-## Keeping backups of information
+## Keep backups of information
 
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.
@@ -77,31 +102,6 @@ You can also store your backups on remote servers via the internet – on what i
 <br>
 # Recommended remote backup services
 Consider secure services like [Tresorit](https://tresorit.com) and [SpiderOak](https://spideroak.com/), which are both quite secure and reliable.
-
-
-
-## Keeping your software up to date
-
-# Limit software weakness and vulnerabilities
-Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
-<br>
-# Update your operating system
-Always keep your operating system (Windows, Linux, Mac OS, etc) updated by downloading the latest updates from the respective websites.
-<br>
-# Sign up for security update alerts
-Application software (Word, Excel, LibreOffice), either bought or open source, should also be kept up to date. Set your software to send you alerts about security updates, if such an option is available, so that you can get them as soon as they are released.
-<br>
-# Automatic updating
-Most software on Windows will either update automatically or alert you to available updates, and point you to where you can download them. Windows operating system is set to auto-update by default.
-<br>
-# Turn auto-updating on
-If your settings are not set to auto-update (mobile-based GSM data providers often advise you to turn off automatic Windows updates to conserve your data bundles) you can turn this function on by going to your computer’s Start menu, selecting All Programs and clicking Windows Update.
-<br>
-# Inform you of updates
-Alternatively, through the process above you can set Windows Update to inform you of available updates and let you decide whether to download them or not.
-<br>
-# Download when ready
-This way, you can download and install all your updates when you are in a place with a good and affordable internet connection (e.g. your office)
 
 
 

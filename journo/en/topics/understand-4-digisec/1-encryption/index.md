@@ -1,5 +1,5 @@
 # Encryption
-## Getting started with encryption
+## Get started
 
 Learn the basics of encryption and how it can help protect you and your network.
 
@@ -52,19 +52,6 @@ Private and public keys come in matched pairs, like the halves of a rock that ha
 
 
 
-## Key fingerprints
-
-# Verifying identity
-"Key fingerprints," are strings of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928" that allow you to uniquely and securely check that someone on the Internet is using the right private key.
-<br>
-# Checking fingerprints
-If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
-<br>
-# Fingerprints aren't perfect verifier
-But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
-
-
-
 ## Security certificates
 
 # Encryption with HTTPS
@@ -84,6 +71,19 @@ Occasionally, however, it is because a hacker, thief, police agency, or spy agen
 <br>
 # Be careful with sensitive information
 This means you should never click past a certificate warning if it relates to a site where you have an account, or are reading any sensitive information.
+
+
+
+## Key fingerprints
+
+# Verifying identity
+"Key fingerprints," are strings of characters like "342e 2309 bd20 0912 ff10 6c63 2192 1928" that allow you to uniquely and securely check that someone on the Internet is using the right private key.
+<br>
+# Checking fingerprints
+If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
+<br>
+# Fingerprints aren't perfect verifier
+But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
 
 
 

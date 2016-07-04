@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-04T12:03:40.833Z",
+  "updatedAt": "2016-07-04T12:06:44.591Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -421,9 +421,9 @@
     }
   ,
     {
-      "slug": "tool-01-open-mentoring_1-sharing",
+      "slug": "tool-01-open-mentoring_0-getting-started",
       "type": "unit",
-      "title": "How to share the Open Mentoring App",
+      "title": "Getting Started with the Open Mentoring App",
       "parentTitle": "Learn with Open Mentoring",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -432,9 +432,9 @@
     }
   ,
     {
-      "slug": "tool-01-open-mentoring_0-getting-started",
+      "slug": "tool-01-open-mentoring_1-sharing",
       "type": "unit",
-      "title": "Getting Started with the Open Mentoring App",
+      "title": "How to share the Open Mentoring App",
       "parentTitle": "Learn with Open Mentoring",
       "locale": "en",
       "categories": ["platform:android","platform:android","platform:android","protect:content,identity","protect:content","protect:identity","protect:content,identity","protect:content"],
@@ -621,7 +621,7 @@
     {
       "slug": "tool-91-computer-hygiene_1-computer-hygiene",
       "type": "unit",
-      "title": "Getting started with computer hygiene",
+      "title": "Get started with computer hygiene",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -632,7 +632,7 @@
     {
       "slug": "tool-91-computer-hygiene_2-antivirus",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Understand Threats",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -643,7 +643,7 @@
     {
       "slug": "tool-92-android-hygiene_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -742,7 +742,7 @@
     {
       "slug": "understand-2-security_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -841,7 +841,7 @@
     {
       "slug": "understand-4-digisec_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

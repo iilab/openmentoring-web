@@ -1,5 +1,5 @@
-# Getting started with computer hygiene
-## Getting Started
+# Get started with computer hygiene
+## Get started
 
 Learn to use common computer hygiene practices.
 
@@ -14,7 +14,7 @@ Learn to use common computer hygiene practices.
 
 
 
-## Protecting your computer against malware
+## Protect your computer against malware
 
 # Importance of protection
 You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.
@@ -27,26 +27,7 @@ To learn how to protect yourself from malware, refer to the [Malware](topics/pra
 
 
 
-## Open source software
-
-# Updating software is constantly
-For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
-<br>
-# Open source software is often free
-Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
-<br>
-# Secure open source alternatives
-Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
-<br>
-# Updated regularly
-Independent developers are also constantly developing digital security tools to add to FOSS software.
-<br>
-# Recommended free and open source software
-For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
-
-
-
-## Keeping your software up to date
+## Keep your software up to date
 
 # Limit software weakness and vulnerabilities
 Keeping your software up to date limits weaknesses in the software that can be exploited by malware.
@@ -71,7 +52,26 @@ This way, you can download and install all your updates when you are in a place 
 
 
 
-## Keeping backups of information
+## Use open source software
+
+# Updating software is constantly
+For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.
+<br>
+# Open source software is often free
+Consider switching to free and open source software (FOSS) such as the office suite LibreOffice, and an open source operating system such as GNU/Linux-based Ubuntu.
+<br>
+# Secure open source alternatives
+Also consider using Mozilla Thunderbird as your email client and Firefox as your internet browser. As well as being free, FOSS software is also relatively more secure, as there are millions of volunteers looking at the source code and any one of them can spot bugs and fix them much quicker than engineers of proprietary software can.
+<br>
+# Updated regularly
+Independent developers are also constantly developing digital security tools to add to FOSS software.
+<br>
+# Recommended free and open source software
+For a list of recommended free and open software, [refer to the list](https://securityinabox.org/en/eco-rights-africa/malware#392) Tactical Technology Collective has put together
+
+
+
+## Keep backups of information
 
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.

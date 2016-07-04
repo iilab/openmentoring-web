@@ -1,4 +1,4 @@
-## Open source software
+## Use open source software
 
 # Updating software is constantly
 For most small organisations, keeping your paid-for software up to date can be a challenge. Sometimes you have to buy new licences, or whole new software suites, which can be a drain on your budget.

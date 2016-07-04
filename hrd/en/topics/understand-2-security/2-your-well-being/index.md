@@ -426,7 +426,7 @@ This state of mind is known as hyper-arousal. Hyper-arousal often leads to irrit
 
 
 
-## Introduction
+## Your well-being
 
 Learn about ensuring your short and long term well-being.
 

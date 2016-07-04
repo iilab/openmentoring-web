@@ -1,4 +1,4 @@
-## Protecting your computer against malware
+## Protect your computer against malware
 
 # Importance of protection
 You will be better able to successfully use some of the more complex digital technologies and tactics if your computer is well protected from malware.

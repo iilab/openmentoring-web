@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2016-07-04T12:03:43.450Z",
+  "updatedAt": "2016-07-04T12:06:47.648Z",
   "items": [
     {
       "slug": "practice-1-emergencies",
@@ -621,7 +621,7 @@
     {
       "slug": "tool-91-computer-hygiene_1-computer-hygiene",
       "type": "unit",
-      "title": "Getting started with computer hygiene",
+      "title": "Get started with computer hygiene",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -632,7 +632,7 @@
     {
       "slug": "tool-91-computer-hygiene_2-antivirus",
       "type": "unit",
-      "title": "Understanding Threats",
+      "title": "Understand Threats",
       "parentTitle": "Computer Hygiene",
       "locale": "en",
       "categories": [],
@@ -643,7 +643,7 @@
     {
       "slug": "tool-92-android-hygiene_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Android Hygiene",
       "locale": "en",
       "categories": [],
@@ -742,7 +742,7 @@
     {
       "slug": "understand-2-security_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Understand Security",
       "locale": "en",
       "categories": [],
@@ -841,7 +841,7 @@
     {
       "slug": "understand-4-digisec_0-get-started",
       "type": "unit",
-      "title": "Getting Started",
+      "title": "Get Started",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -883,9 +883,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_5-protect-identity",
+      "slug": "understand-4-digisec_4-secure-communications",
       "type": "unit",
-      "title": "Protecting Identity",
+      "title": "Secure Communications",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],
@@ -894,9 +894,9 @@
     }
   ,
     {
-      "slug": "understand-4-digisec_4-secure-communications",
+      "slug": "understand-4-digisec_5-protect-identity",
       "type": "unit",
-      "title": "Secure Communications",
+      "title": "Protecting Identity",
       "parentTitle": "Understanding Digital Security",
       "locale": "en",
       "categories": [],

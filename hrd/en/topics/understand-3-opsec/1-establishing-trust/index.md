@@ -12,6 +12,11 @@ Learn about the importance of building trust with your teams and how to do it.
 
 
 
+## Scenario
+
+Scenario text...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -28,11 +33,6 @@ Learn about the importance of building trust with your teams and how to do it.
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Scenario
-
-Scenario text...
 
 
 ## Next

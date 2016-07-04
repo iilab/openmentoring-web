@@ -1,5 +1,5 @@
-# Getting Started
-## Getting started with digital security
+# Get Started
+## Get started
 
 Learn the basics of digital security in order to start using your devices more safely.
 
@@ -12,7 +12,7 @@ Learn the basics of digital security in order to start using your devices more s
 
 
 
-## Seven Steps to Digital security
+## Seven steps to Digital security
 
 # 1. Knowledge is Power
 Good security decisions can't be made without good information. Your security tradeoffs are only as good as the information you have about the value of your assets, the severity of the threats from different adversaries to those assets, and the risk of those attacks actually happening.
@@ -72,7 +72,7 @@ Keep checking respected sites advice will be updated to reflect changes in our u
 
 
 
-## Choosing the right lesson
+## Choose the right lesson
 
 To learn the basics of encryption and how it can help protect you and your network, choose the Encryption lesson:
 - [Encryption](topics/understand-4-digisec/1-encryption/1-intro.md)
