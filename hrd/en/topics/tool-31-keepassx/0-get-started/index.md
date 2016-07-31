@@ -5,12 +5,6 @@ Learn how to use KeePassX for securely managing passwords for multiple accounts.
 
 
 
-## Learn about how
-
- - [KeePassX can manage passphrases for multiple accounts](topics/tool-4-keepassx/0-getting-started/3-learn.md)
-
-
-
 ## Use KeepassX
 
 # What is KeepassX
@@ -21,6 +15,12 @@ To enhance convenience, you can synchronise your password database - for example
 <br>wa
 # Setting up KeePassX
 Refer to [the guide](https://securityinabox.org/en/guide/keepassx/os-x) Tactical Technology Collective has created for assistance in downloading, installing, and using KeePassX.
+
+
+
+## Learn about how
+
+ - [KeePassX can manage passphrases for multiple accounts](topics/tool-4-keepassx/0-getting-started/3-learn.md)
 
 
 

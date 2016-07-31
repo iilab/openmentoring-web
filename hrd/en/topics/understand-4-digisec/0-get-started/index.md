@@ -5,13 +5,6 @@ Learn the basics of digital security in order to start using your devices more s
 
 
 
-## Learn about
-
-- [Seven steps to digital security](topics/understand-4-digisec/0-getting-started/3-1-learn.md)
-- [Choosing the right digital security lesson](topics/understand-4-digisec/0-getting-started/3-2-learn.md)
-
-
-
 ## Seven steps to Digital security
 
 # 1. Knowledge is Power
@@ -120,5 +113,9 @@ See also:
 - Electronic Frontier Foundation: [Security Self-Defense](https://ssd.eff.org/)
 - Frontline Defenders: [Digital Security & Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
 
+
+
+- [Seven steps to digital security](topics/understand-4-digisec/0-getting-started/3-1-learn.md)
+- [Choosing the right digital security lesson](topics/understand-4-digisec/0-getting-started/3-2-learn.md)
 
 

@@ -5,11 +5,6 @@ How it works
 
 
 
-## Scenario
-
-Scenario text...
-
-
 ## Learn
 
 Learning text...
@@ -39,4 +34,6 @@ Learning text...
  * [Another topic](topics/_topic/_unit/index.md)
  * ...
 
+
+Scenario text...
 

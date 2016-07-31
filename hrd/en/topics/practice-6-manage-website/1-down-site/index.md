@@ -1,8 +1,11 @@
 # Down website
-## Legal problem
+## Hosting problem
 
-# Copyright
-If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
+# Not loading at all?
+If your website is not loading at all, the company that hosts your website may be having problems.
+<br>
+# Look up status
+Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
 
 
 
@@ -44,16 +47,6 @@ If you have determined that none of these are at fault, you may be suffering fro
 
 
 
-## Network problem
-
-# Unavailable website
-To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
-<br>
-# Disturbed account
-If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
-
-
-
 ## Billing problem
 
 # Outstanding balance
@@ -61,13 +54,10 @@ Make sure your billing information is up to date and that there is no outstandin
 
 
 
-## Hosting problem
+## Legal problem
 
-# Not loading at all?
-If your website is not loading at all, the company that hosts your website may be having problems.
-<br>
-# Look up status
-Visit the website of your hosting company and look for a 'status' blog. Alternatively, you can search on Twitter.com for other users with the same host who are having the same problem.
+# Copyright
+If your website is taken down due to a legal issue, the resources provided by [Electronic Frontier Foundation](https://ssd.eff.org/), while focused on US copyright laws, are a good place to learn more.
 
 
 
@@ -94,6 +84,16 @@ Sending your webmaster a screenshot, the link of the page you are having problem
 <br>
 # Helpful questions
 Here are some [helpful questions](topics/practice-1-emergencies/5-ddos/3-13-learn.md) to ask your webmaster.
+
+
+
+## Network problem
+
+# Unavailable website
+To see whether your web host is working but your website is unavailable, visit https://www.isup.me/.
+<br>
+# Disturbed account
+If your site is up but you cant see it, it might be a network problem. It could also be in indication that your account has been disabled.
 
 
 

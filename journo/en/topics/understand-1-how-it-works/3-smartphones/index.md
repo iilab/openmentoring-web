@@ -9,6 +9,11 @@ Introduction text...
 Scenario text...
 
 
+## Learn
+
+Learning text...
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -32,10 +37,5 @@ Scenario text...
  * [A topic to study next](topics/_topic/_unit/index.md)
  * [Another topic](topics/_topic/_unit/index.md)
  * ...
-
-
-## Learn
-
-Learning text...
 
 

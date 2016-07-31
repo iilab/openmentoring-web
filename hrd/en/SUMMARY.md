@@ -68,10 +68,6 @@
   
   * [How to use messaging?](topics/tool-12-conversations/1-messaging/index.md)
   
-* [Browse Privately with Orbot](topics/tool-21-orbot/index.md)
-  
-  * [Getting Started](topics/tool-21-orbot/0-getting-started/index.md)
-  
 * [Browse Privately with Tor Browser](topics/tool-22-tor-browser/index.md)
   
   * [Getting Started](topics/tool-22-tor-browser/0-getting-started/index.md)
@@ -106,13 +102,17 @@
   
   * [Understand Threats](topics/tool-91-computer-hygiene/2-antivirus/index.md)
   
+* [Browse Privately with Orbot](topics/tool-21-orbot/index.md)
+  
+  * [Getting Started](topics/tool-21-orbot/0-getting-started/index.md)
+  
 * [Android Hygiene](topics/tool-92-android-hygiene/index.md)
   
   * [Get Started](topics/tool-92-android-hygiene/0-get-started/index.md)
   
-  * [Understanding Threats](topics/tool-92-android-hygiene/1-antivirus/index.md)
-  
   * [Preparing for emergencies with your contacts](topics/tool-92-android-hygiene/3-windows-hygiene/index.md)
+  
+  * [Understanding Threats](topics/tool-92-android-hygiene/1-antivirus/index.md)
   
   * [Preparing for emergencies with your contacts](topics/tool-92-android-hygiene/4-linux-hygiene/index.md)
   
@@ -134,11 +134,11 @@
   
   * [Your Security](topics/understand-2-security/1-your-security/index.md)
   
-  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
-  
   * [Your Story](topics/understand-2-security/3-your-story-journo/index.md)
   
   * [Your Sources](topics/understand-2-security/4-your-sources-journo/index.md)
+  
+  * [Your Well Being](topics/understand-2-security/2-your-well-being/index.md)
   
   * [Your colleagues](topics/understand-2-security/5-your-colleagues/index.md)
   
@@ -156,9 +156,9 @@
   
   * [Encryption](topics/understand-4-digisec/1-encryption/index.md)
   
-  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
-  
   * [Metadata](topics/understand-4-digisec/3-metadata/index.md)
+  
+  * [Passwords](topics/understand-4-digisec/2-passwords/index.md)
   
   * [Secure Communications](topics/understand-4-digisec/4-secure-communications/index.md)
   

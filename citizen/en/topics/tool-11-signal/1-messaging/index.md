@@ -207,8 +207,6 @@ Once you have verified your contact's Signal identity, they should repeat the ab
 
 
 
-## Export your messages
-
 **Note:** While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
 <br>
 # Step 1:
@@ -231,7 +229,6 @@ Signal will confirm the export has completed by displaying "Success!" You will f
 <br>
 ![18s.png](18s.png)
 > Export confirmation screens
-
 
 
 ## Use Signal for encrypted messaging

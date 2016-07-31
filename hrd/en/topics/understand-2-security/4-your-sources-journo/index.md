@@ -49,6 +49,13 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
 
 
 
+## Next steps
+
+# See also:
+Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
+
+
+
 ## Test
 
 <quiz name="Gitbook Quiz">
@@ -65,12 +72,5 @@ Consider using simple code or pseudonyms to hide your source’s identity in wri
         <answer>No</answer>
     </question>
 </quiz>
-
-
-## Next steps
-
-# See also:
-Committee for the Protection of Journalists [Journalist Security Guide.](https://cpj.org/reports/2012/04/journalist-security-guide.php)
-
 
 
